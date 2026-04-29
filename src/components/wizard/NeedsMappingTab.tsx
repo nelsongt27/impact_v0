@@ -105,12 +105,21 @@ export function NeedsMappingTab({
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ surveys: pending }),
       });
-      const json = (await res.json()) as { ok?: boolean; note?: string };
+      const json = (await res.json()) as {
+        ok?: boolean;
+        note?: string;
+        normalize?: string;
+      };
       if (!res.ok) {
         throw new Error(`HTTP ${res.status}`);
       }
       setSaveStatus("saved");
       setSaveMessage(json.note ?? "Saved.");
+      // Reload after a brief delay so the user sees the success message,
+      // then the page picks up the freshly normalized data.
+      if (json.normalize === "ok") {
+        setTimeout(() => window.location.reload(), 1200);
+      }
     } catch (err) {
       setSaveStatus("error");
       setSaveMessage(err instanceof Error ? err.message : String(err));
@@ -121,6 +130,13 @@ export function NeedsMappingTab({
 
   return (
     <div className="space-y-4">
+      <div className="rounded-md border border-ink-100 bg-paper-2 px-4 py-3 font-mono text-[11px] leading-relaxed text-ink-500">
+        <span className="font-semibold text-ink-700">How to map:</span> pick an
+        existing client/program from the dropdown, or choose{" "}
+        <span className="font-semibold text-amber-700">+ Add new…</span> to
+        type a brand-new value. Save runs <code>normalize</code> automatically;
+        commit + push to deploy to production.
+      </div>
       <div className="flex flex-wrap items-center gap-3">
         <div className="flex items-center gap-1">
           <FilterChip
@@ -333,12 +349,15 @@ function EditableSelect({
       className="w-full min-w-[140px] rounded border border-ink-200 bg-white px-2 py-1 font-mono text-[11px] text-ink-900 outline-none focus:border-amber-400"
     >
       <option value="">{placeholder}</option>
+      <option value="__custom__" className="font-semibold text-amber-700">
+        + Add new…
+      </option>
+      <option disabled>──────────</option>
       {options.map((o) => (
         <option key={o} value={o}>
           {o}
         </option>
       ))}
-      <option value="__custom__">+ custom…</option>
     </select>
   );
 }

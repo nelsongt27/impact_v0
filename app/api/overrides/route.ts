@@ -74,9 +74,32 @@ export async function POST(req: Request): Promise<NextResponse> {
   };
   await writeFile(OVERRIDES_PATH, JSON.stringify(next, null, 2) + "\n");
 
+  // Re-run normalize so the dashboard reflects the new overrides without a
+  // manual step. Bun.spawn keeps the request fast — caller awaits exit.
+  let normalizeOk = false;
+  let normalizeError: string | null = null;
+  try {
+    const proc = Bun.spawn(["bun", "run", "normalize"], {
+      cwd: process.cwd(),
+      stdout: "pipe",
+      stderr: "pipe",
+    });
+    const exit = await proc.exited;
+    normalizeOk = exit === 0;
+    if (!normalizeOk) {
+      normalizeError = await new Response(proc.stderr).text();
+    }
+  } catch (err) {
+    normalizeError = err instanceof Error ? err.message : String(err);
+  }
+
   return NextResponse.json({
     ok: true,
     count: Object.keys(sanitised).length,
-    note: "Saved locally. Run `bun run normalize` then commit + push for the change to deploy.",
+    normalize: normalizeOk ? "ok" : "failed",
+    normalize_error: normalizeError,
+    note: normalizeOk
+      ? `Saved ${Object.keys(sanitised).length} override(s) and ran normalize. Reload to see updates. Commit + push to deploy.`
+      : `Saved overrides but normalize failed: ${normalizeError}. Run \`bun run normalize\` manually.`,
   });
 }
