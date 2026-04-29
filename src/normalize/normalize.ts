@@ -1,4 +1,5 @@
 import { mkdir, readFile, readdir, writeFile } from "node:fs/promises";
+import type { Dirent } from "node:fs";
 import { join } from "node:path";
 
 import {
@@ -98,7 +99,7 @@ async function processSurveyMonkey(): Promise<{
   const surveys: CanonicalSurvey[] = [];
   const responses: CanonicalResponse[] = [];
 
-  let months: Awaited<ReturnType<typeof readdir>>;
+  let months: Dirent[];
   try {
     months = await readdir(SM_ROOT, { withFileTypes: true });
   } catch {
