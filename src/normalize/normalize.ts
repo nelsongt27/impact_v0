@@ -13,10 +13,13 @@ import {
   normalizeSMSurvey,
   type SMFile,
 } from "./surveymonkey.ts";
+import { applyAllOverrides } from "./overrides.ts";
+import { buildChangelog } from "./changelog.ts";
 import type {
   CanonicalResponse,
   CanonicalSurvey,
   NormalizationStats,
+  OverridesFile,
   Source,
   UnmatchedReport,
 } from "./types.ts";
@@ -27,6 +30,7 @@ const TF_FORMS_DIR = join(ROOT, "data", "forms");
 const TF_RESPONSES_DIR = join(ROOT, "data", "responses");
 const SM_ROOT = join(ROOT, "2025_survey_monkey");
 const OUT_DIR = join(ROOT, "data", "normalized");
+const OVERRIDES_PATH = join(ROOT, "data", "overrides.json");
 
 async function ensureOutDir(): Promise<void> {
   await mkdir(OUT_DIR, { recursive: true });
@@ -94,7 +98,14 @@ async function processSurveyMonkey(): Promise<{
   const surveys: CanonicalSurvey[] = [];
   const responses: CanonicalResponse[] = [];
 
-  const months = await readdir(SM_ROOT, { withFileTypes: true });
+  let months: Awaited<ReturnType<typeof readdir>>;
+  try {
+    months = await readdir(SM_ROOT, { withFileTypes: true });
+  } catch {
+    // SM snapshot not present in this environment (e.g. CI runners without
+    // the raw backup folder) — skip silently.
+    return { surveys, responses };
+  }
   for (const m of months) {
     if (!m.isDirectory()) continue;
     const monthDir = join(SM_ROOT, m.name);
@@ -220,8 +231,29 @@ async function main(): Promise<void> {
   const sm = await processSurveyMonkey();
   console.log(`  ✓ ${sm.surveys.length} surveys, ${sm.responses.length} responses`);
 
-  const surveys = [...tf.surveys, ...sm.surveys];
+  const autoSurveys = [...tf.surveys, ...sm.surveys];
   const responses = [...tf.responses, ...sm.responses];
+
+  // Load manual overrides (committed file) and apply on top of auto-classified
+  // surveys. This is the manual-curation layer for unmapped or misclassified surveys.
+  const overrides = await loadJson<OverridesFile>(OVERRIDES_PATH);
+  const surveys = applyAllOverrides(autoSurveys, overrides);
+
+  // Compare against the previously-committed surveys.json snapshot to build
+  // the changelog (new forms, updated counts, unmapped) for the wizard.
+  const previousSurveys = (await loadJson<CanonicalSurvey[]>(
+    join(OUT_DIR, "surveys.json"),
+  )) ?? [];
+  const previousStats = await loadJson<NormalizationStats>(
+    join(OUT_DIR, "stats.json"),
+  );
+  const changelog = buildChangelog(
+    {
+      surveys: previousSurveys,
+      generated_at: previousStats?.generated_at ?? null,
+    },
+    surveys,
+  );
 
   const stats = buildStats(surveys, responses);
   const unmatched = buildUnmatched(surveys);
@@ -230,6 +262,10 @@ async function main(): Promise<void> {
   await writeFile(join(OUT_DIR, "responses.json"), JSON.stringify(responses, null, 2));
   await writeFile(join(OUT_DIR, "stats.json"), JSON.stringify(stats, null, 2));
   await writeFile(join(OUT_DIR, "unmatched.json"), JSON.stringify(unmatched, null, 2));
+  await writeFile(
+    join(OUT_DIR, "changelog.json"),
+    JSON.stringify(changelog, null, 2),
+  );
 
   const elapsed = ((Date.now() - startedAt) / 1000).toFixed(2);
   console.log("");

@@ -1,0 +1,730 @@
+{
+  "_backup_metadata": {
+    "backed_up_at": "2026-04-27T18:45:32.874385+00:00",
+    "survey_id": "523856133",
+    "title": "Registro Proceso de Coaching - Credicorp",
+    "nickname": "",
+    "date_created": null,
+    "date_modified": "2025-07-08T00:57:00",
+    "response_count_listing": 3,
+    "response_count_fetched": 3,
+    "summary_href": "https://api.surveymonkey.com/v3/surveys/523856133"
+  },
+  "details": {
+    "title": "Registro Proceso de Coaching - Credicorp",
+    "nickname": "",
+    "language": "en",
+    "folder_id": "2337750",
+    "category": "",
+    "question_count": 8,
+    "page_count": 2,
+    "response_count": 3,
+    "date_created": "2025-06-18T20:11:00",
+    "date_modified": "2025-07-08T00:57:00",
+    "id": "523856133",
+    "buttons_text": {
+      "next_button": "Next",
+      "prev_button": "Prev",
+      "done_button": "Done",
+      "exit_button": ""
+    },
+    "is_owner": true,
+    "owner": "54118456",
+    "footer": true,
+    "theme_id": "22541796",
+    "template_id": "1211",
+    "custom_variables": {},
+    "href": "https://api.surveymonkey.com/v3/surveys/523856133",
+    "analyze_url": "https://www.surveymonkey.com/analyze/hJZSWFFCFDAD6Dv2lTlSyh9cYveVFZWYoxoALmV2i6c_3D",
+    "edit_url": "https://www.surveymonkey.com/create/?sm=hJZSWFFCFDAD6Dv2lTlSyh9cYveVFZWYoxoALmV2i6c_3D",
+    "collect_url": "https://www.surveymonkey.com/collect/list?sm=hJZSWFFCFDAD6Dv2lTlSyh9cYveVFZWYoxoALmV2i6c_3D",
+    "summary_url": "https://www.surveymonkey.com/summary/hJZSWFFCFDAD6Dv2lTlSyh9cYveVFZWYoxoALmV2i6c_3D",
+    "preview": "https://www.surveymonkey.com/r/Preview/?sm=4XSs2xhHg_2B4s7OaE3IKAYPtV71K_2BUmq9X_2FVU89ubCFcIfVSH0kSY_2FCplueu9Qnrh",
+    "pages": [
+      {
+        "title": "Insights y notas de la sesión",
+        "description": "<div>Esta breve encuesta (toma solo 3 minutos completarlo) ayudará a los coaches a capturar los elementos clave de cada sesión de coaching, y apoya el compromiso de Axialent con la medición de impacto y la mejora continua de la experiencia del cliente.</div>\n<div><br></div>\n<div>Por favor, utiliza este formulario para registrar la efectividad de la sesión, el nivel de participación del coachee y las principales herramientas o conceptos trabajados. Tu aporte nos ayudará a identificar patrones, compartir mejores prácticas y fortalecer el proceso general de coaching.</div>\n<div><br></div>\n<div>Gracias por tu contribución para construir una experiencia de coaching coherente y de alto impacto para nuestros clientes.</div>",
+        "position": 1,
+        "question_count": 0,
+        "id": "67044631",
+        "href": "https://api.surveymonkey.com/v3/surveys/523856133/pages/67044631",
+        "questions": []
+      },
+      {
+        "title": "",
+        "description": "",
+        "position": 2,
+        "question_count": 8,
+        "id": "67044632",
+        "href": "https://api.surveymonkey.com/v3/surveys/523856133/pages/67044632",
+        "questions": [
+          {
+            "id": "250095989",
+            "position": 1,
+            "visible": true,
+            "family": "open_ended",
+            "subtype": "single",
+            "layout": null,
+            "sorting": null,
+            "required": null,
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Cliente y nombre del programa"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/523856133/pages/67044632/questions/250095989"
+          },
+          {
+            "id": "250095988",
+            "position": 2,
+            "visible": true,
+            "family": "demographic",
+            "subtype": "name",
+            "layout": null,
+            "sorting": null,
+            "required": null,
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Coachee"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/523856133/pages/67044632/questions/250095988",
+            "answers": {
+              "rows": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "Nombre",
+                  "type": "first_name",
+                  "required": false,
+                  "id": "1767177443"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "Apellido",
+                  "type": "last_name",
+                  "required": false,
+                  "id": "1767177444"
+                },
+                {
+                  "position": 3,
+                  "visible": false,
+                  "text": " ",
+                  "type": "middle_name",
+                  "required": false,
+                  "id": "1767177445"
+                },
+                {
+                  "position": 4,
+                  "visible": false,
+                  "text": " ",
+                  "type": "title",
+                  "required": false,
+                  "id": "1767177446"
+                },
+                {
+                  "position": 5,
+                  "visible": false,
+                  "text": " ",
+                  "type": "suffix",
+                  "required": false,
+                  "id": "1767177447"
+                }
+              ]
+            }
+          },
+          {
+            "id": "250095991",
+            "position": 3,
+            "visible": true,
+            "family": "open_ended",
+            "subtype": "essay",
+            "layout": null,
+            "sorting": null,
+            "required": null,
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "¿Cuáles fueron los principales desafíos sobre los que trabajaron en la sesión?"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/523856133/pages/67044632/questions/250095991"
+          },
+          {
+            "id": "250095984",
+            "position": 4,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "¿En qué medida se cumplieron los objetivos de la sesión?<br><em>Reflexiona sobre la claridad de los objetivos y la efectividad en la entrega de resultados.</em>"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/523856133/pages/67044632/questions/250095984",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "Completamente",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1767177420"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "En gran medida",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1767177421"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "Parcialmente",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1767177422"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "Poco",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1767177423"
+                },
+                {
+                  "position": 5,
+                  "visible": true,
+                  "text": "Para nada",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1767177424"
+                }
+              ]
+            }
+          },
+          {
+            "id": "250095985",
+            "position": 5,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "horiz",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "¿Cómo calificarías el nivel de <strong>conexión y empatía</strong> con el coachee? <em>Reflexiona sobre la confianza en la relación, la sensación de seguridad y la apertura durante la sesión.</em>"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/523856133/pages/67044632/questions/250095985",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "Muy alta",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1767177425"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "Alta",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1767177426"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "Moderada",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1767177427"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "Baja",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1767177428"
+                },
+                {
+                  "position": 5,
+                  "visible": true,
+                  "text": "Muy baja",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1767177429"
+                }
+              ]
+            }
+          },
+          {
+            "id": "250095986",
+            "position": 6,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "horiz",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "¿Cómo calificarías el nivel de <strong>compromiso y seguimiento</strong> del coachee? <em>Reflexiona sobre su energía, sentido de responsabilidad y aplicación de lo trabajado más allá de la sesión.</em>"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/523856133/pages/67044632/questions/250095986",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "Muy alto",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1767177434"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "Alto",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1767177435"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "Moderado",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1767177436"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "Bajo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1767177437"
+                },
+                {
+                  "position": 5,
+                  "visible": true,
+                  "text": "Muy bajo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1767177438"
+                }
+              ]
+            }
+          },
+          {
+            "id": "250095987",
+            "position": 7,
+            "visible": true,
+            "family": "open_ended",
+            "subtype": "essay",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "You can only select at most 4 answers (including other) to this question.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "¿Cuáles fueron las principales herramientas y conceptos aplicados en la sesión? Por favor señala todas las que consideres relavantes."
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/523856133/pages/67044632/questions/250095987"
+          },
+          {
+            "id": "250095990",
+            "position": 8,
+            "visible": true,
+            "family": "presentation",
+            "subtype": "descriptive_text",
+            "layout": null,
+            "sorting": null,
+            "required": null,
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Gracias por tu tiempo. Al completar este formulario, estás contribuyendo activamente a la estrategia de impacto en clientes de Axialent y ayudándonos a aprender de cada sesión."
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/523856133/pages/67044632/questions/250095990",
+            "display_options": {
+              "show_display_number": false
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "responses": [
+    {
+      "id": "118891513142",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "181.55.129.128",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "461209741",
+      "survey_id": "523856133",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=QQTSea6izMx7EBOTnEgirzxr8fUMzmfP3eL5sNNWDxEX9YmLcxArvAMwMfrN8MPF",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/hJZSWFFCFDAD6Dv2lTlSyh9cYveVFZWYoxoALmV2i6c_3D?respondent_id=118891513142",
+      "total_time": 32192,
+      "date_modified": "2025-06-19T19:19:33+00:00",
+      "date_created": "2025-06-19T10:23:01+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/523856133/responses/118891513142",
+      "pages": [
+        {
+          "id": "67044631",
+          "questions": []
+        },
+        {
+          "id": "67044632",
+          "questions": [
+            {
+              "id": "250095989",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Credicorp - coaching individual"
+                }
+              ]
+            },
+            {
+              "id": "250095988",
+              "answers": [
+                {
+                  "row_id": "1767177443",
+                  "tag_data": [],
+                  "text": "Michelle"
+                },
+                {
+                  "row_id": "1767177444",
+                  "tag_data": [],
+                  "text": "Labarthe"
+                }
+              ]
+            },
+            {
+              "id": "250095991",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Los resultados de su 360º: Feedback y conversaciones difíciles."
+                }
+              ]
+            },
+            {
+              "id": "250095984",
+              "answers": [
+                {
+                  "choice_id": "1767177420"
+                }
+              ]
+            },
+            {
+              "id": "250095985",
+              "answers": [
+                {
+                  "choice_id": "1767177425"
+                }
+              ]
+            },
+            {
+              "id": "250095986",
+              "answers": [
+                {
+                  "choice_id": "1767177434"
+                }
+              ]
+            },
+            {
+              "id": "250095987",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Victima-Protagonista"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "118894429598",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "181.55.129.128",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "461209741",
+      "survey_id": "523856133",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=C_2FKPnDVfbcDiiW9eEnDYgPcuchXqBJ_2Fa3tPtkOttFAs3QHcg8zYAQMfVpt_2BZDwe_2B",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/hJZSWFFCFDAD6Dv2lTlSyh9cYveVFZWYoxoALmV2i6c_3D?respondent_id=118894429598",
+      "total_time": 104,
+      "date_modified": "2025-06-23T22:08:01+00:00",
+      "date_created": "2025-06-23T22:06:16+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/523856133/responses/118894429598",
+      "pages": [
+        {
+          "id": "67044631",
+          "questions": []
+        },
+        {
+          "id": "67044632",
+          "questions": [
+            {
+              "id": "250095989",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Credicorp - Coaching Individual"
+                }
+              ]
+            },
+            {
+              "id": "250095988",
+              "answers": [
+                {
+                  "row_id": "1767177443",
+                  "tag_data": [],
+                  "text": "Michelle"
+                },
+                {
+                  "row_id": "1767177444",
+                  "tag_data": [],
+                  "text": "Labarthe"
+                }
+              ]
+            },
+            {
+              "id": "250095991",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Creencias limitantes.  Qué tan vulnerable me puedo hacer sin afectar mi imagen ejecutiva."
+                }
+              ]
+            },
+            {
+              "id": "250095984",
+              "answers": [
+                {
+                  "choice_id": "1767177420"
+                }
+              ]
+            },
+            {
+              "id": "250095985",
+              "answers": [
+                {
+                  "choice_id": "1767177425"
+                }
+              ]
+            },
+            {
+              "id": "250095986",
+              "answers": [
+                {
+                  "choice_id": "1767177434"
+                }
+              ]
+            },
+            {
+              "id": "250095987",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Modelos mentales y creencias limitantes.  Vulnerabilidad y herramientas de feedback."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "118904479881",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "181.55.129.128",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "461209741",
+      "survey_id": "523856133",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=k3zN2LZxXPmeQ_2BTsgOKyAp2xrnk38jT45Uz1ozVXTTFZOO0zpnA9VezpKAmmxJTa",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/hJZSWFFCFDAD6Dv2lTlSyh9cYveVFZWYoxoALmV2i6c_3D?respondent_id=118904479881",
+      "total_time": 97,
+      "date_modified": "2025-07-08T00:57:14+00:00",
+      "date_created": "2025-07-08T00:55:37+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/523856133/responses/118904479881",
+      "pages": [
+        {
+          "id": "67044631",
+          "questions": []
+        },
+        {
+          "id": "67044632",
+          "questions": [
+            {
+              "id": "250095989",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Credicorp - coaching individual"
+                }
+              ]
+            },
+            {
+              "id": "250095988",
+              "answers": [
+                {
+                  "row_id": "1767177443",
+                  "tag_data": [],
+                  "text": "Michelle"
+                },
+                {
+                  "row_id": "1767177444",
+                  "tag_data": [],
+                  "text": "Labarthe"
+                }
+              ]
+            },
+            {
+              "id": "250095991",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Su desafío de conectar con el equipo, crear lazos fuertes y generar un entorno de cercanía y confianza."
+                }
+              ]
+            },
+            {
+              "id": "250095984",
+              "answers": [
+                {
+                  "choice_id": "1767177420"
+                }
+              ]
+            },
+            {
+              "id": "250095985",
+              "answers": [
+                {
+                  "choice_id": "1767177425"
+                }
+              ]
+            },
+            {
+              "id": "250095986",
+              "answers": [
+                {
+                  "choice_id": "1767177434"
+                }
+              ]
+            },
+            {
+              "id": "250095987",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Vulnerabilidad\r\nValores\r\nEl éxito más allá del éxito\r\nEl iceberg del SER-HACER-TENER"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

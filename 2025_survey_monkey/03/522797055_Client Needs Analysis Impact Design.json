@@ -1,0 +1,250 @@
+{
+  "_backup_metadata": {
+    "backed_up_at": "2026-04-27T18:47:37.742966+00:00",
+    "survey_id": "522797055",
+    "title": "Client Needs Analysis & Impact Design",
+    "nickname": "",
+    "date_created": null,
+    "date_modified": "2025-03-31T19:11:00",
+    "response_count_listing": 0,
+    "response_count_fetched": 0,
+    "summary_href": "https://api.surveymonkey.com/v3/surveys/522797055"
+  },
+  "details": {
+    "title": "Client Needs Analysis & Impact Design",
+    "nickname": "",
+    "language": "en",
+    "folder_id": "2353099",
+    "category": "",
+    "question_count": 6,
+    "page_count": 2,
+    "response_count": 0,
+    "date_created": "2025-03-28T16:47:00",
+    "date_modified": "2025-03-31T19:11:00",
+    "id": "522797055",
+    "buttons_text": {
+      "next_button": "Next",
+      "prev_button": "Prev",
+      "done_button": "Done",
+      "exit_button": ""
+    },
+    "is_owner": true,
+    "owner": "54118456",
+    "footer": true,
+    "theme_id": "22544682",
+    "template_id": null,
+    "custom_variables": {},
+    "href": "https://api.surveymonkey.com/v3/surveys/522797055",
+    "analyze_url": "https://www.surveymonkey.com/analyze/OVbDly2K_2FSe_2BPqEh_2FLWszUQ8_2BZQTLyzmW9MrAMVL_2FDE_3D",
+    "edit_url": "https://www.surveymonkey.com/create/?sm=OVbDly2K_2FSe_2BPqEh_2FLWszUQ8_2BZQTLyzmW9MrAMVL_2FDE_3D",
+    "collect_url": "https://www.surveymonkey.com/collect/list?sm=OVbDly2K_2FSe_2BPqEh_2FLWszUQ8_2BZQTLyzmW9MrAMVL_2FDE_3D",
+    "summary_url": "https://www.surveymonkey.com/summary/OVbDly2K_2FSe_2BPqEh_2FLWszUQ8_2BZQTLyzmW9MrAMVL_2FDE_3D",
+    "preview": "https://www.surveymonkey.com/r/Preview/?sm=KGgMTNYliItidWtdVaktIuYLDwL32eGtetgTf16snX8NsBnuugRy_2BRFCvsXX9zHx",
+    "pages": [
+      {
+        "title": "Input Form",
+        "description": "<div>\n<div>This form will capture the outcomes of your initial conversation with the HR or business leader sponsoring the program. It is designed to structure key insights from the discussion and make them available for use in the broader Client Impact Measurement process.</div>\n<div></div>\n<div>Your responses to these five core questions will create a consistent foundation for measuring program effectiveness and aligning success criteria across engagements.</div>\n<div></div>\n<div><strong>This is not a diagnostic tool—it’s a way to document what matters most to the client and inform meaningful follow-up. </strong>This form simply ensures we <strong>capture the essentials in a structured, shareable way</strong>.</div>\n</div>",
+        "position": 1,
+        "question_count": 0,
+        "id": "64430999",
+        "href": "https://api.surveymonkey.com/v3/surveys/522797055/pages/64430999",
+        "questions": []
+      },
+      {
+        "title": "Needs Analysis Data",
+        "description": "",
+        "position": 2,
+        "question_count": 6,
+        "id": "64430303",
+        "href": "https://api.surveymonkey.com/v3/surveys/522797055/pages/64430303",
+        "questions": [
+          {
+            "id": "238926011",
+            "position": 1,
+            "visible": true,
+            "family": "open_ended",
+            "subtype": "essay",
+            "layout": {
+              "left_spacing": 0,
+              "top_spacing": 0,
+              "right_spacing": 0,
+              "bottom_spacing": 0,
+              "width_format": "percent",
+              "width": 100,
+              "col_width_format": null,
+              "col_width": null,
+              "position": "new_row",
+              "num_chars": 50,
+              "num_lines": 5
+            },
+            "sorting": null,
+            "required": null,
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "What<strong> leadership challenges or organizational needs</strong> led you to explore this program?"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/522797055/pages/64430303/questions/238926011"
+          },
+          {
+            "id": "238926097",
+            "position": 2,
+            "visible": true,
+            "family": "open_ended",
+            "subtype": "essay",
+            "layout": {
+              "left_spacing": 0,
+              "top_spacing": 0,
+              "right_spacing": 0,
+              "bottom_spacing": 0,
+              "width_format": "percent",
+              "width": 100,
+              "col_width_format": null,
+              "col_width": null,
+              "position": "new_row",
+              "num_chars": 50,
+              "num_lines": 5
+            },
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "What <strong>leadership behaviors, skills, or mindsets</strong> do you most want to see develop through this program?"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/522797055/pages/64430303/questions/238926097"
+          },
+          {
+            "id": "238926246",
+            "position": 3,
+            "visible": true,
+            "family": "open_ended",
+            "subtype": "essay",
+            "layout": {
+              "left_spacing": 0,
+              "top_spacing": 0,
+              "right_spacing": 0,
+              "bottom_spacing": 0,
+              "width_format": "percent",
+              "width": 100,
+              "col_width_format": null,
+              "col_width": null,
+              "position": "new_row",
+              "num_chars": 50,
+              "num_lines": 5
+            },
+            "sorting": null,
+            "required": null,
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "How do you see this program <strong>contributing</strong> to broader business priorities or strategic goals?"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/522797055/pages/64430303/questions/238926246"
+          },
+          {
+            "id": "238926327",
+            "position": 4,
+            "visible": true,
+            "family": "open_ended",
+            "subtype": "essay",
+            "layout": {
+              "left_spacing": 0,
+              "top_spacing": 0,
+              "right_spacing": 0,
+              "bottom_spacing": 0,
+              "width_format": "percent",
+              "width": 100,
+              "col_width_format": null,
+              "col_width": null,
+              "position": "new_row",
+              "num_chars": 50,
+              "num_lines": 5
+            },
+            "sorting": null,
+            "required": null,
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "What <strong>strengths and gaps</strong> do you currently observe in your leaders that this program should address?"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/522797055/pages/64430303/questions/238926327"
+          },
+          {
+            "id": "238926349",
+            "position": 5,
+            "visible": true,
+            "family": "open_ended",
+            "subtype": "essay",
+            "layout": {
+              "left_spacing": 0,
+              "top_spacing": 0,
+              "right_spacing": 0,
+              "bottom_spacing": 0,
+              "width_format": "percent",
+              "width": 100,
+              "col_width_format": null,
+              "col_width": null,
+              "position": "new_row",
+              "num_chars": 50,
+              "num_lines": 5
+            },
+            "sorting": null,
+            "required": null,
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "How will you measure the success of this program?"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/522797055/pages/64430303/questions/238926349"
+          },
+          {
+            "id": "238929554",
+            "position": 6,
+            "visible": true,
+            "family": "open_ended",
+            "subtype": "essay",
+            "layout": {
+              "left_spacing": 0,
+              "top_spacing": 0,
+              "right_spacing": 0,
+              "bottom_spacing": 0,
+              "width_format": "percent",
+              "width": 100,
+              "col_width_format": null,
+              "col_width": null,
+              "position": "new_row",
+              "num_chars": 50,
+              "num_lines": 5
+            },
+            "sorting": null,
+            "required": null,
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Additional comments or input that you wish to upload for future tracking"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/522797055/pages/64430303/questions/238929554"
+          }
+        ]
+      }
+    ]
+  },
+  "responses": []
+}

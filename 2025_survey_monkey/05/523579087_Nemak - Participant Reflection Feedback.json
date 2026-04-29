@@ -1,0 +1,487 @@
+{
+  "_backup_metadata": {
+    "backed_up_at": "2026-04-27T18:46:34.576945+00:00",
+    "survey_id": "523579087",
+    "title": "Nemak - Participant Reflection & Feedback",
+    "nickname": "",
+    "date_created": null,
+    "date_modified": "2025-05-27T16:04:00",
+    "response_count_listing": 0,
+    "response_count_fetched": 0,
+    "summary_href": "https://api.surveymonkey.com/v3/surveys/523579087"
+  },
+  "details": {
+    "title": "Nemak - Participant Reflection & Feedback",
+    "nickname": "",
+    "language": "en",
+    "folder_id": "2373940",
+    "category": "",
+    "question_count": 8,
+    "page_count": 2,
+    "response_count": 0,
+    "date_created": "2025-05-27T16:03:00",
+    "date_modified": "2025-05-27T16:04:00",
+    "id": "523579087",
+    "buttons_text": {
+      "next_button": "Next",
+      "prev_button": "Prev",
+      "done_button": "Done",
+      "exit_button": ""
+    },
+    "is_owner": true,
+    "owner": "54118456",
+    "footer": true,
+    "theme_id": "22541796",
+    "template_id": "1211",
+    "custom_variables": {},
+    "href": "https://api.surveymonkey.com/v3/surveys/523579087",
+    "analyze_url": "https://www.surveymonkey.com/analyze/Eydt8G1MuWQwfcIHw1VsGpoNLzJyF4mBIXjnxeY103g_3D",
+    "edit_url": "https://www.surveymonkey.com/create/?sm=Eydt8G1MuWQwfcIHw1VsGpoNLzJyF4mBIXjnxeY103g_3D",
+    "collect_url": "https://www.surveymonkey.com/collect/list?sm=Eydt8G1MuWQwfcIHw1VsGpoNLzJyF4mBIXjnxeY103g_3D",
+    "summary_url": "https://www.surveymonkey.com/summary/Eydt8G1MuWQwfcIHw1VsGpoNLzJyF4mBIXjnxeY103g_3D",
+    "preview": "https://www.surveymonkey.com/r/Preview/?sm=joGMjxDBi83wSZmVLSK_2FJCvA9F36OHToVyaX238pxHpCZeIc9ONQf395R4p2jxRx",
+    "pages": [
+      {
+        "title": "Thank You for Participating!",
+        "description": "<div>Congratulations on completing this chapter. We’d love to hear your reflections on your experience so far—what stood out, what supported your learning, and how we can continue to improve.</div>\n<div><br></div>\n<div>This short reflection <strong>will take less than 5 minutes</strong> and helps us ensure our sessions are impactful, relevant, and aligned with your goals.</div>\n<div><br></div>\n<div>Your honest feedback is essential. This is an opportunity to model authentic communication —your insights will help us shape and strengthen this learning journey together.</div>",
+        "position": 1,
+        "question_count": 0,
+        "id": "66347215",
+        "href": "https://api.surveymonkey.com/v3/surveys/523579087/pages/66347215",
+        "questions": []
+      },
+      {
+        "title": "",
+        "description": "",
+        "position": 2,
+        "question_count": 8,
+        "id": "66347216",
+        "href": "https://api.surveymonkey.com/v3/surveys/523579087/pages/66347216",
+        "questions": [
+          {
+            "id": "247055916",
+            "position": 1,
+            "visible": true,
+            "family": "presentation",
+            "subtype": "descriptive_text",
+            "layout": null,
+            "sorting": null,
+            "required": null,
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Based on your experience during this chapter, please rate the following statements."
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/523579087/pages/66347216/questions/247055916",
+            "display_options": {
+              "show_display_number": false
+            }
+          },
+          {
+            "id": "247055909",
+            "position": 2,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "This chapter is <strong>relevant</strong> to my current leadership challenges or aspirations."
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/523579087/pages/66347216/questions/247055909",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "Strongly agree",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1746690036"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "Agree",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1746690037"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "Somewhat agree",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1746690038"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "Disagree",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1746690039"
+                },
+                {
+                  "position": 5,
+                  "visible": true,
+                  "text": "Strongly disagree",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1746690040"
+                }
+              ]
+            }
+          },
+          {
+            "id": "247055910",
+            "position": 3,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "This chapter was <strong>engaging and supported my learning.</strong>"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/523579087/pages/66347216/questions/247055910",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "Strongly agree",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1746690041"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "Agree",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1746690042"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "Somewhat agree",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1746690043"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "Disagree",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1746690044"
+                },
+                {
+                  "position": 5,
+                  "visible": true,
+                  "text": "Strongly disagree",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1746690045"
+                }
+              ]
+            }
+          },
+          {
+            "id": "247055913",
+            "position": 4,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "The <strong>facilitator was effective</strong> in delivering the content and supporting your learning."
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/523579087/pages/66347216/questions/247055913",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "Strongly agree",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1746690057"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "Agree",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1746690058"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "Somewhat agree",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1746690059"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "Disagree",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1746690060"
+                },
+                {
+                  "position": 5,
+                  "visible": true,
+                  "text": "Strongly disagree",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1746690061"
+                },
+                {
+                  "position": 6,
+                  "visible": true,
+                  "text": "I did not attend",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1746690072"
+                }
+              ]
+            }
+          },
+          {
+            "id": "247055911",
+            "position": 5,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "I feel <strong>confident in my ability to apply</strong> what I learned to real workplace challenges."
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/523579087/pages/66347216/questions/247055911",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "Strongly agree",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1746690046"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "Agree",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1746690047"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "Somewhat agree",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1746690048"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "Disagree",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1746690049"
+                },
+                {
+                  "position": 5,
+                  "visible": true,
+                  "text": "Strongly disagree",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1746690050"
+                }
+              ]
+            }
+          },
+          {
+            "id": "247055915",
+            "position": 6,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "This experience is <strong>consistent with the values and culture</strong> we strive to embody in our everyday work."
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/523579087/pages/66347216/questions/247055915",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "Strongly agree",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1746690064"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "Agree",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1746690065"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "Somewhat agree",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1746690066"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "Disagree",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1746690067"
+                },
+                {
+                  "position": 5,
+                  "visible": true,
+                  "text": "Strongly disagree",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1746690068"
+                }
+              ]
+            }
+          },
+          {
+            "id": "247055914",
+            "position": 7,
+            "visible": true,
+            "family": "open_ended",
+            "subtype": "essay",
+            "layout": null,
+            "sorting": null,
+            "required": null,
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Which <strong>topics or tools</strong> have had the biggest impact on your thinking or leadership so far?"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/523579087/pages/66347216/questions/247055914"
+          },
+          {
+            "id": "247055912",
+            "position": 8,
+            "visible": true,
+            "family": "open_ended",
+            "subtype": "essay",
+            "layout": null,
+            "sorting": null,
+            "required": null,
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "What would <strong>improve your experience</strong> in the remaining sessions?"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/523579087/pages/66347216/questions/247055912"
+          }
+        ]
+      }
+    ]
+  },
+  "responses": []
+}

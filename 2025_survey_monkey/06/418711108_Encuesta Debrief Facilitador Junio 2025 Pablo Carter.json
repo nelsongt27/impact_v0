@@ -1,0 +1,549 @@
+{
+  "_backup_metadata": {
+    "backed_up_at": "2026-04-27T18:45:41.424556+00:00",
+    "survey_id": "418711108",
+    "title": "Encuesta Debrief Facilitador Junio 2025 (Pablo Carter)",
+    "nickname": "",
+    "date_created": null,
+    "date_modified": "2025-07-03T22:23:00",
+    "response_count_listing": 1,
+    "response_count_fetched": 1,
+    "summary_href": "https://api.surveymonkey.com/v3/surveys/418711108"
+  },
+  "details": {
+    "title": "Encuesta Debrief Facilitador Junio 2025 (Pablo Carter)",
+    "nickname": "",
+    "language": "en",
+    "folder_id": "2373852",
+    "category": "",
+    "question_count": 7,
+    "page_count": 2,
+    "response_count": 1,
+    "date_created": "2025-06-03T16:46:00",
+    "date_modified": "2025-07-03T22:23:00",
+    "id": "418711108",
+    "buttons_text": {
+      "next_button": "Next",
+      "prev_button": "Prev",
+      "done_button": "Done",
+      "exit_button": ""
+    },
+    "is_owner": true,
+    "owner": "54118456",
+    "footer": true,
+    "theme_id": "22541796",
+    "template_id": "1211",
+    "custom_variables": {},
+    "href": "https://api.surveymonkey.com/v3/surveys/418711108",
+    "analyze_url": "https://www.surveymonkey.com/analyze/pMPOfrV1Tt0s913OxziMDzQgPasuFPPMIvjuPsQeHp0_3D",
+    "edit_url": "https://www.surveymonkey.com/create/?sm=pMPOfrV1Tt0s913OxziMDzQgPasuFPPMIvjuPsQeHp0_3D",
+    "collect_url": "https://www.surveymonkey.com/collect/list?sm=pMPOfrV1Tt0s913OxziMDzQgPasuFPPMIvjuPsQeHp0_3D",
+    "summary_url": "https://www.surveymonkey.com/summary/pMPOfrV1Tt0s913OxziMDzQgPasuFPPMIvjuPsQeHp0_3D",
+    "preview": "https://www.surveymonkey.com/r/Preview/?sm=ggSj9EH8UBFI1acDlG7Ye_2Bbwq_2FS1Kk2f_2FWfRbPc1VnsBmImZtBqM7JgAUIcf6M08",
+    "pages": [
+      {
+        "title": "Thank you for responding!",
+        "description": "<div>Como facilitador, tu perspectiva es esencial para entender qué funcionó, qué se puede mejorar y qué es lo más importante para nuestros clientes.</div>\n<div><br></div>\n<div>Este formulario breve (menos de 5 minutos) recogerá tus ideas sobre la efectividad de la sesión, el nivel de participación y los aspectos logísticos de la entrega del programa. También nos ayuda a identificar las condiciones clave para el éxito y a fortalecer nuestro proceso de medición de impacto en todos los proyectos.</div>\n<div><br></div>\n<div>Tu aporte nos permite seguir aprendiendo y mejorando, tanto a nivel individual como en equipo.</div>\n<div><br></div>\n<div>Gracias por contribuir al compromiso de Axialent con resultados medibles y de alto impacto para nuestros clientes.</div>",
+        "position": 1,
+        "question_count": 0,
+        "id": "66657029",
+        "href": "https://api.surveymonkey.com/v3/surveys/418711108/pages/66657029",
+        "questions": []
+      },
+      {
+        "title": "",
+        "description": "",
+        "position": 2,
+        "question_count": 7,
+        "id": "66657030",
+        "href": "https://api.surveymonkey.com/v3/surveys/418711108/pages/66657030",
+        "questions": [
+          {
+            "id": "248308790",
+            "position": 1,
+            "visible": true,
+            "family": "open_ended",
+            "subtype": "single",
+            "layout": null,
+            "sorting": null,
+            "required": null,
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Por favor, indica el nombre del <strong>cliente y programa.</strong>"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/418711108/pages/66657030/questions/248308790"
+          },
+          {
+            "id": "248308786",
+            "position": 2,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "¿En qué medida la sesión cumplió con sus <strong>objetivos</strong>?"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/418711108/pages/66657030/questions/248308786",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "Nada - No cumplió con los objetivos",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1755989098"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "Poco - Cumplió con pocos objetivos",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1755989097"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "Algo - Cumplió con algunos objetivos",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1755989096"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "Bastante - Cumplió con la mayoría de los objetivos",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1755989095"
+                },
+                {
+                  "position": 5,
+                  "visible": true,
+                  "text": "Totalmente - Cumplió completamente con los objetivos",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1755989094"
+                }
+              ]
+            }
+          },
+          {
+            "id": "248308787",
+            "position": 3,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "¿Cuál fue el nivel de <strong>conexión</strong> en la sala? <em>Evalúa relacionamiento con los participantes, empatía, rapport, etc.</em>"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/418711108/pages/66657030/questions/248308787",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "Muy bajo – Hubo poca o ninguna conexión",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1755989099"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "Bajo – La conexión fue limitada y poco sostenida",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1755989100"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "Moderado – Hubo conexión en algunos momentos",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1755989101"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "Alto – Buena conexión sostenida durante gran parte de la sesión",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1755989102"
+                },
+                {
+                  "position": 5,
+                  "visible": true,
+                  "text": "Muy alto – Conexión fluida, empática y constante durante toda la sesión",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1755989103"
+                }
+              ]
+            }
+          },
+          {
+            "id": "248308791",
+            "position": 4,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "¿Cuál fue el nivel de <strong>compromiso</strong> de los participantes? <em>Evalúa participación, energía, cumplimiento de las tareas o pre-work, etc.</em>"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/418711108/pages/66657030/questions/248308791",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "Muy bajo – Participación mínima, sin energía ni cumplimiento de tareas",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1755989115"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "Bajo – Participación limitada y bajo cumplimiento",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1755989116"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "Moderado – Participación e involucramiento aceptables",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1755989117"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "Alto – Buena participación, energía y cumplimiento",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1755989118"
+                },
+                {
+                  "position": 5,
+                  "visible": true,
+                  "text": "Muy alto – Participación activa, con mucha energía y alto nivel de preparación",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1755989119"
+                }
+              ]
+            }
+          },
+          {
+            "id": "248308789",
+            "position": 5,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "¿Cómo calificarías tu efectividad como <strong>facilitador</strong>? <em>Evalúa tu capacidad de entregar los conceptos y manejar la sala</em>"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/418711108/pages/66657030/questions/248308789",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "Nada efectivo – No logré entregar los conceptos ni manejar la sala adecuadamente",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1755989112"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "Poco efectivo – Logré transmitir algunos conceptos, pero con dificultades en el manejo de la sala",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1755989111"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "Algo efectivo – Transmití los conceptos con cierta claridad y manejo aceptable del grupo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1755989110"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "Bastante efectivo – Fui claro en la entrega y manejé bien la dinámica de la sala",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1755989109"
+                },
+                {
+                  "position": 5,
+                  "visible": true,
+                  "text": "Muy efectivo – Entregué los conceptos con claridad y fluidez, y manejé la sala con alto nivel de efectividad",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1755989108"
+                }
+              ]
+            }
+          },
+          {
+            "id": "248308792",
+            "position": 6,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": null,
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "¿En qué medida el programa se desarrolló sin inconvenientes en términos de <strong>logística y coordinación</strong>? <em>Evalúa la coordinación efectiva, la entrega del pre-work, la programación, las comunicaciones, etc.</em>"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/418711108/pages/66657030/questions/248308792",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "Para nada – Hubo muchos problemas logísticos y de coordinación",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1755989126"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "Poco – Se presentaron varios inconvenientes logísticos o de comunicación",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1755989125"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "Algo – El desarrollo fue aceptable, con algunos puntos de mejora",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1755989124"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "En gran medida – La logística y coordinación funcionaron bien en general",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1755989123"
+                },
+                {
+                  "position": 5,
+                  "visible": true,
+                  "text": "Completamente – Todo se ejecutó de manera fluida y bien coordinada",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1755989122"
+                }
+              ]
+            }
+          },
+          {
+            "id": "248308788",
+            "position": 7,
+            "visible": true,
+            "family": "open_ended",
+            "subtype": "essay",
+            "layout": null,
+            "sorting": null,
+            "required": null,
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "¿Qué haría que este programa fuera más efectivo o de mayor impacto en una futura implementación?"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/418711108/pages/66657030/questions/248308788"
+          }
+        ]
+      }
+    ]
+  },
+  "responses": [
+    {
+      "id": "114892480251",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "189.240.62.166",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "436053643",
+      "survey_id": "418711108",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=Gm08maERgrFujXCxQH_2FRoOCb_2FjmL54aEdHt1ISlI7UUJ09WvE4OuvFvn8pn73rYI",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/pMPOfrV1Tt0s913OxziMDzQgPasuFPPMIvjuPsQeHp0_3D?respondent_id=114892480251",
+      "total_time": 138,
+      "date_modified": "2025-07-03T22:22:32+00:00",
+      "date_created": "2025-07-03T22:20:14+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/418711108/responses/114892480251",
+      "pages": [
+        {
+          "id": "66657029",
+          "questions": []
+        },
+        {
+          "id": "66657030",
+          "questions": [
+            {
+              "id": "248308790",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Aleatica Safety"
+                }
+              ]
+            },
+            {
+              "id": "248308786",
+              "answers": [
+                {
+                  "choice_id": "1755989094"
+                }
+              ]
+            },
+            {
+              "id": "248308787",
+              "answers": [
+                {
+                  "choice_id": "1755989103"
+                }
+              ]
+            },
+            {
+              "id": "248308791",
+              "answers": [
+                {
+                  "choice_id": "1755989119"
+                }
+              ]
+            },
+            {
+              "id": "248308789",
+              "answers": [
+                {
+                  "choice_id": "1755989108"
+                }
+              ]
+            },
+            {
+              "id": "248308792",
+              "answers": [
+                {
+                  "choice_id": "1755989122"
+                }
+              ]
+            },
+            {
+              "id": "248308788",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Si logramos hacer este mismo programa en Europa o en Supervía todos los aprendizajes de México y Sudamérica serán fundamentales "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

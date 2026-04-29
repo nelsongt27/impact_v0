@@ -93,6 +93,7 @@ export function normalizeTFSurvey(
     updated_at: index.last_updated_at ?? null,
     response_count: responseCount,
     question_count: questionCount,
+    override_applied: false,
   };
 }
 

@@ -1,0 +1,2468 @@
+{
+  "_backup_metadata": {
+    "backed_up_at": "2026-04-27T18:45:55.443009+00:00",
+    "survey_id": "418724377",
+    "title": "Lencioni (Electrolit Leadership Team)",
+    "nickname": "",
+    "date_created": null,
+    "date_modified": "2025-06-17T02:59:00",
+    "response_count_listing": 9,
+    "response_count_fetched": 9,
+    "summary_href": "https://api.surveymonkey.com/v3/surveys/418724377"
+  },
+  "details": {
+    "title": "Lencioni (Electrolit Leadership Team)",
+    "nickname": "",
+    "language": "en",
+    "folder_id": "2374242",
+    "category": "desempeño_del_empleado",
+    "question_count": 16,
+    "page_count": 1,
+    "response_count": 9,
+    "date_created": "2025-06-04T14:02:00",
+    "date_modified": "2025-06-17T02:59:00",
+    "id": "418724377",
+    "buttons_text": {
+      "next_button": "Next",
+      "prev_button": "Prev",
+      "done_button": "Done",
+      "exit_button": ""
+    },
+    "is_owner": true,
+    "owner": "54118456",
+    "footer": true,
+    "theme_id": "20396371",
+    "template_id": null,
+    "custom_variables": {},
+    "href": "https://api.surveymonkey.com/v3/surveys/418724377",
+    "analyze_url": "https://www.surveymonkey.com/analyze/hty3z9ZCfhNmwAUooE5gbZs38WxjFMl8OA6LbbH_2Fn90_3D",
+    "edit_url": "https://www.surveymonkey.com/create/?sm=hty3z9ZCfhNmwAUooE5gbZs38WxjFMl8OA6LbbH_2Fn90_3D",
+    "collect_url": "https://www.surveymonkey.com/collect/list?sm=hty3z9ZCfhNmwAUooE5gbZs38WxjFMl8OA6LbbH_2Fn90_3D",
+    "summary_url": "https://www.surveymonkey.com/summary/hty3z9ZCfhNmwAUooE5gbZs38WxjFMl8OA6LbbH_2Fn90_3D",
+    "preview": "https://www.surveymonkey.com/r/Preview/?sm=_2BrSPttdZlsxs6wfcK1FT7AdoT9UTK1c_2BE7q4YQBU4HRVgMw9q96UCOZE0KAhRaXm",
+    "pages": [
+      {
+        "title": "Bienvenidos!",
+        "description": "<div>El siguiente cuestionario, tomado del libro “Las cinco disfunciones de un equipo” de Patrick Lencioni, es una herramienta sencilla de diagnóstico, ayudará a evaluar la situación actual del equipo y, de esta forma, saber en qué aspectos enfocar la gestión como líder.<br><br>El objetivo de la encuesta es entender cómo están funcionando como equipo e identificar los comportamientos fundamentales que necesitan ser abordados para potenciarse.</div>",
+        "position": 1,
+        "question_count": 16,
+        "id": "66696237",
+        "href": "https://api.surveymonkey.com/v3/surveys/418724377/pages/66696237",
+        "questions": [
+          {
+            "id": "248459115",
+            "position": 1,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Los miembros del equipo discutimos los problemas apasionadamente y sin reservarnos nuestras opiniones:"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/418724377/pages/66696237/questions/248459115",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "4- Casi siempre",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1756978657"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "3- Frecuentemente",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1756978658"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "2- A veces",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1756978659"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "1- Casi nunca",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1756978661"
+                }
+              ]
+            }
+          },
+          {
+            "id": "248459116",
+            "position": 2,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Podemos hablar directamente y de manera constructiva acerca de los comportamientos inefectivos que percibimos, los propios y los de mis colegas:"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/418724377/pages/66696237/questions/248459116",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "4- Casi siempre",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1756978662"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "3- Frecuentemente",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1756978663"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "2- A veces",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1756978664"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "1- Casi nunca",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1756978666"
+                }
+              ]
+            }
+          },
+          {
+            "id": "248459117",
+            "position": 3,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Sabemos en qué están trabajando nuestros colegas y cómo todos y cada uno contribuimos al bien colectivo del equipo:"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/418724377/pages/66696237/questions/248459117",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "4- Casi siempre",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1756978667"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "3- Frecuentemente",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1756978668"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "2- A veces",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1756978669"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "1- Casi nunca",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1756978671"
+                }
+              ]
+            }
+          },
+          {
+            "id": "248459118",
+            "position": 4,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Los miembros del equipo nos disculpamos en el momento oportuno y con toda sinceridad cuando nos damos cuenta de que dijimos o hicimos algo inadecuado o posiblemente perjudicial para el equipo:"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/418724377/pages/66696237/questions/248459118",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "4- Casi siempre",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1756978672"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "3- Frecuentemente",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1756978673"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "2- A veces",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1756978674"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "1- Casi nunca",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1756978676"
+                }
+              ]
+            }
+          },
+          {
+            "id": "248459119",
+            "position": 5,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Todos estamos dispuestos a hacer algunos sacrificios (por ejemplo, presupuesto, posiciones, discusiones…) en nuestros departamentos o áreas especializadas cuando entendemos que son por el bien del equipo y de la organización:"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/418724377/pages/66696237/questions/248459119",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "4- Casi siempre",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1756978677"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "3- Frecuentemente",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1756978678"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "2- A veces",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1756978679"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "1- Casi nunca",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1756978681"
+                }
+              ]
+            }
+          },
+          {
+            "id": "248459120",
+            "position": 6,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Los miembros del equipo reconocemos abiertamente nuestras debilidades y errores:"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/418724377/pages/66696237/questions/248459120",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "4- Casi siempre",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1756978682"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "3- Frecuentemente",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1756978683"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "2- A veces",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1756978684"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "1- Casi nunca",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1756978686"
+                }
+              ]
+            }
+          },
+          {
+            "id": "248459121",
+            "position": 7,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Nuestras reuniones son apasionantes, nunca aburridas:"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/418724377/pages/66696237/questions/248459121",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "4- Casi siempre",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1756978687"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "3- Frecuentemente",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1756978688"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "2- A veces",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1756978689"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "1- Casi nunca",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1756978691"
+                }
+              ]
+            }
+          },
+          {
+            "id": "248459122",
+            "position": 8,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Salimos de nuestras reuniones confiados en que nuestros compañeros están por completo comprometidos con las decisiones que acordamos, aunque hubiera desacuerdos inicialmente:"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/418724377/pages/66696237/questions/248459122",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "4- Casi siempre",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1756978692"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "3- Frecuentemente",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1756978693"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "2- A veces",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1756978694"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "1- Casi nunca",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1756978696"
+                }
+              ]
+            }
+          },
+          {
+            "id": "248459123",
+            "position": 9,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Nos afecta de manera importante cuando no logramos las metas del equipo y de la empresa:"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/418724377/pages/66696237/questions/248459123",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "4- Casi siempre",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1756978697"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "3- Frecuentemente",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1756978698"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "2- A veces",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1756978699"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "1- Casi nunca",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1756978701"
+                }
+              ]
+            }
+          },
+          {
+            "id": "248459124",
+            "position": 10,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Durante nuestras reuniones, ponemos los asuntos más importantes y difíciles sobre la mesa para ser resueltos:"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/418724377/pages/66696237/questions/248459124",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "4- Casi siempre",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1756978702"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "3- Frecuentemente",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1756978703"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "2- A veces",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1756978704"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "1- Casi nunca",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1756978706"
+                }
+              ]
+            }
+          },
+          {
+            "id": "248459125",
+            "position": 11,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "A todos nos preocupa seriamente la perspectiva de defraudar a nuestros compañeros:"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/418724377/pages/66696237/questions/248459125",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "4- Casi siempre",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1756978707"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "3- Frecuentemente",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1756978708"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "2- A veces",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1756978709"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "1- Casi nunca",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1756978711"
+                }
+              ]
+            }
+          },
+          {
+            "id": "248459126",
+            "position": 12,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Los miembros del equipo conocemos algunos elementos de la vida personal de nuestros compañeros y nos sentimos cómodos conversando sobre ellos:"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/418724377/pages/66696237/questions/248459126",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "4- Casi siempre",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1756978712"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "3- Frecuentemente",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1756978713"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "2- A veces",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1756978714"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "1- Casi nunca",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1756978716"
+                }
+              ]
+            }
+          },
+          {
+            "id": "248459127",
+            "position": 13,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "En los foros que compartimos, terminamos nuestros debates con resoluciones claras y específicas y la decisión y los elementos para actuar:"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/418724377/pages/66696237/questions/248459127",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "4- Casi siempre",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1756978717"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "3- Frecuentemente",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1756978718"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "2- A veces",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1756978719"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "1- Casi nunca",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1756978721"
+                }
+              ]
+            }
+          },
+          {
+            "id": "248459128",
+            "position": 14,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Nos desafiamos constructivamente unos a otros acerca de nuestras opiniones y planteamientos:"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/418724377/pages/66696237/questions/248459128",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "4- Casi siempre",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1756978722"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "3- Frecuentemente",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1756978723"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "2- A veces",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1756978724"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "1- Casi nunca",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1756978726"
+                }
+              ]
+            }
+          },
+          {
+            "id": "248459129",
+            "position": 15,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Cuando nos reunimos, no mostramos tener prisa en destacar nuestras propias contribuciones, pero sí en reconocer las de los demás y las del equipo sin pérdida de tiempo:"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/418724377/pages/66696237/questions/248459129",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "4- Casi siempre",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1756978727"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "3- Frecuentemente",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1756978728"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "2- A veces",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1756978729"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "1- Casi nunca",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1756978731"
+                }
+              ]
+            }
+          },
+          {
+            "id": "248711664",
+            "position": 16,
+            "visible": true,
+            "family": "open_ended",
+            "subtype": "essay",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Ingrese por favor su nombre y apellido"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/418724377/pages/66696237/questions/248711664"
+          }
+        ]
+      }
+    ]
+  },
+  "responses": [
+    {
+      "id": "114876728853",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "436065493",
+      "survey_id": "418724377",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=DZW6eZa6lQz7cxBOwj3qEqiEy7GYi_2BJ0dHLNfgOtCWldaTGNvp4Ww_2Bk66PRqWv_2BE",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/hty3z9ZCfhNmwAUooE5gbZs38WxjFMl8OA6LbbH_2Fn90_3D?respondent_id=114876728853",
+      "total_time": 167,
+      "date_modified": "2025-06-09T23:01:30+00:00",
+      "date_created": "2025-06-09T22:58:43+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/418724377/responses/114876728853",
+      "pages": [
+        {
+          "id": "66696237",
+          "questions": [
+            {
+              "id": "248459115",
+              "answers": [
+                {
+                  "choice_id": "1756978661"
+                }
+              ]
+            },
+            {
+              "id": "248459116",
+              "answers": [
+                {
+                  "choice_id": "1756978666"
+                }
+              ]
+            },
+            {
+              "id": "248459117",
+              "answers": [
+                {
+                  "choice_id": "1756978669"
+                }
+              ]
+            },
+            {
+              "id": "248459118",
+              "answers": [
+                {
+                  "choice_id": "1756978674"
+                }
+              ]
+            },
+            {
+              "id": "248459119",
+              "answers": [
+                {
+                  "choice_id": "1756978678"
+                }
+              ]
+            },
+            {
+              "id": "248459120",
+              "answers": [
+                {
+                  "choice_id": "1756978683"
+                }
+              ]
+            },
+            {
+              "id": "248459121",
+              "answers": [
+                {
+                  "choice_id": "1756978691"
+                }
+              ]
+            },
+            {
+              "id": "248459122",
+              "answers": [
+                {
+                  "choice_id": "1756978693"
+                }
+              ]
+            },
+            {
+              "id": "248459123",
+              "answers": [
+                {
+                  "choice_id": "1756978697"
+                }
+              ]
+            },
+            {
+              "id": "248459124",
+              "answers": [
+                {
+                  "choice_id": "1756978704"
+                }
+              ]
+            },
+            {
+              "id": "248459125",
+              "answers": [
+                {
+                  "choice_id": "1756978708"
+                }
+              ]
+            },
+            {
+              "id": "248459126",
+              "answers": [
+                {
+                  "choice_id": "1756978716"
+                }
+              ]
+            },
+            {
+              "id": "248459127",
+              "answers": [
+                {
+                  "choice_id": "1756978721"
+                }
+              ]
+            },
+            {
+              "id": "248459128",
+              "answers": [
+                {
+                  "choice_id": "1756978724"
+                }
+              ]
+            },
+            {
+              "id": "248459129",
+              "answers": [
+                {
+                  "choice_id": "1756978729"
+                }
+              ]
+            },
+            {
+              "id": "248711664",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Paula R"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "114877398920",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "436065493",
+      "survey_id": "418724377",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=XuTuqLqxQsJN0vApXURQy5zB9uhGhBMuZUJvbTj4lvHej6_2BYqIzYHADNn_2FiOY9qU",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/hty3z9ZCfhNmwAUooE5gbZs38WxjFMl8OA6LbbH_2Fn90_3D?respondent_id=114877398920",
+      "total_time": 3345,
+      "date_modified": "2025-06-10T19:03:23+00:00",
+      "date_created": "2025-06-10T18:07:37+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/418724377/responses/114877398920",
+      "pages": [
+        {
+          "id": "66696237",
+          "questions": [
+            {
+              "id": "248459115",
+              "answers": [
+                {
+                  "choice_id": "1756978659"
+                }
+              ]
+            },
+            {
+              "id": "248459116",
+              "answers": [
+                {
+                  "choice_id": "1756978664"
+                }
+              ]
+            },
+            {
+              "id": "248459117",
+              "answers": [
+                {
+                  "choice_id": "1756978669"
+                }
+              ]
+            },
+            {
+              "id": "248459118",
+              "answers": [
+                {
+                  "choice_id": "1756978674"
+                }
+              ]
+            },
+            {
+              "id": "248459119",
+              "answers": [
+                {
+                  "choice_id": "1756978677"
+                }
+              ]
+            },
+            {
+              "id": "248459120",
+              "answers": [
+                {
+                  "choice_id": "1756978683"
+                }
+              ]
+            },
+            {
+              "id": "248459121",
+              "answers": [
+                {
+                  "choice_id": "1756978688"
+                }
+              ]
+            },
+            {
+              "id": "248459122",
+              "answers": [
+                {
+                  "choice_id": "1756978693"
+                }
+              ]
+            },
+            {
+              "id": "248459123",
+              "answers": [
+                {
+                  "choice_id": "1756978698"
+                }
+              ]
+            },
+            {
+              "id": "248459124",
+              "answers": [
+                {
+                  "choice_id": "1756978703"
+                }
+              ]
+            },
+            {
+              "id": "248459125",
+              "answers": [
+                {
+                  "choice_id": "1756978708"
+                }
+              ]
+            },
+            {
+              "id": "248459126",
+              "answers": [
+                {
+                  "choice_id": "1756978714"
+                }
+              ]
+            },
+            {
+              "id": "248459127",
+              "answers": [
+                {
+                  "choice_id": "1756978719"
+                }
+              ]
+            },
+            {
+              "id": "248459128",
+              "answers": [
+                {
+                  "choice_id": "1756978724"
+                }
+              ]
+            },
+            {
+              "id": "248459129",
+              "answers": [
+                {
+                  "choice_id": "1756978728"
+                }
+              ]
+            },
+            {
+              "id": "248711664",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "José Pérez López "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "114878809028",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "436065493",
+      "survey_id": "418724377",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=ZAGamXRgr_2B0VEBKbbD8G2j_2F_2BJML3h1WgHjwCgwpTSq6M_2BY0nYsnZF05nILS4UZ_2BO",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/hty3z9ZCfhNmwAUooE5gbZs38WxjFMl8OA6LbbH_2Fn90_3D?respondent_id=114878809028",
+      "total_time": 450,
+      "date_modified": "2025-06-12T15:33:08+00:00",
+      "date_created": "2025-06-12T15:25:38+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/418724377/responses/114878809028",
+      "pages": [
+        {
+          "id": "66696237",
+          "questions": [
+            {
+              "id": "248459115",
+              "answers": [
+                {
+                  "choice_id": "1756978659"
+                }
+              ]
+            },
+            {
+              "id": "248459116",
+              "answers": [
+                {
+                  "choice_id": "1756978664"
+                }
+              ]
+            },
+            {
+              "id": "248459117",
+              "answers": [
+                {
+                  "choice_id": "1756978669"
+                }
+              ]
+            },
+            {
+              "id": "248459118",
+              "answers": [
+                {
+                  "choice_id": "1756978674"
+                }
+              ]
+            },
+            {
+              "id": "248459119",
+              "answers": [
+                {
+                  "choice_id": "1756978678"
+                }
+              ]
+            },
+            {
+              "id": "248459120",
+              "answers": [
+                {
+                  "choice_id": "1756978684"
+                }
+              ]
+            },
+            {
+              "id": "248459121",
+              "answers": [
+                {
+                  "choice_id": "1756978689"
+                }
+              ]
+            },
+            {
+              "id": "248459122",
+              "answers": [
+                {
+                  "choice_id": "1756978694"
+                }
+              ]
+            },
+            {
+              "id": "248459123",
+              "answers": [
+                {
+                  "choice_id": "1756978698"
+                }
+              ]
+            },
+            {
+              "id": "248459124",
+              "answers": [
+                {
+                  "choice_id": "1756978704"
+                }
+              ]
+            },
+            {
+              "id": "248459125",
+              "answers": [
+                {
+                  "choice_id": "1756978709"
+                }
+              ]
+            },
+            {
+              "id": "248459126",
+              "answers": [
+                {
+                  "choice_id": "1756978714"
+                }
+              ]
+            },
+            {
+              "id": "248459127",
+              "answers": [
+                {
+                  "choice_id": "1756978719"
+                }
+              ]
+            },
+            {
+              "id": "248459128",
+              "answers": [
+                {
+                  "choice_id": "1756978723"
+                }
+              ]
+            },
+            {
+              "id": "248459129",
+              "answers": [
+                {
+                  "choice_id": "1756978729"
+                }
+              ]
+            },
+            {
+              "id": "248711664",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Javier González"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "114878953913",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "436065493",
+      "survey_id": "418724377",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=IOzxjtfuheGfnLXUYSWneMxiHOeHQsJPYiPhhdCe6lXOhv3NAcyTfohH_2FtMiygnG",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/hty3z9ZCfhNmwAUooE5gbZs38WxjFMl8OA6LbbH_2Fn90_3D?respondent_id=114878953913",
+      "total_time": 148,
+      "date_modified": "2025-06-12T18:30:03+00:00",
+      "date_created": "2025-06-12T18:27:35+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/418724377/responses/114878953913",
+      "pages": [
+        {
+          "id": "66696237",
+          "questions": [
+            {
+              "id": "248459115",
+              "answers": [
+                {
+                  "choice_id": "1756978661"
+                }
+              ]
+            },
+            {
+              "id": "248459116",
+              "answers": [
+                {
+                  "choice_id": "1756978664"
+                }
+              ]
+            },
+            {
+              "id": "248459117",
+              "answers": [
+                {
+                  "choice_id": "1756978671"
+                }
+              ]
+            },
+            {
+              "id": "248459118",
+              "answers": [
+                {
+                  "choice_id": "1756978672"
+                }
+              ]
+            },
+            {
+              "id": "248459119",
+              "answers": [
+                {
+                  "choice_id": "1756978678"
+                }
+              ]
+            },
+            {
+              "id": "248459120",
+              "answers": [
+                {
+                  "choice_id": "1756978683"
+                }
+              ]
+            },
+            {
+              "id": "248459121",
+              "answers": [
+                {
+                  "choice_id": "1756978689"
+                }
+              ]
+            },
+            {
+              "id": "248459122",
+              "answers": [
+                {
+                  "choice_id": "1756978694"
+                }
+              ]
+            },
+            {
+              "id": "248459123",
+              "answers": [
+                {
+                  "choice_id": "1756978697"
+                }
+              ]
+            },
+            {
+              "id": "248459124",
+              "answers": [
+                {
+                  "choice_id": "1756978704"
+                }
+              ]
+            },
+            {
+              "id": "248459125",
+              "answers": [
+                {
+                  "choice_id": "1756978707"
+                }
+              ]
+            },
+            {
+              "id": "248459126",
+              "answers": [
+                {
+                  "choice_id": "1756978714"
+                }
+              ]
+            },
+            {
+              "id": "248459127",
+              "answers": [
+                {
+                  "choice_id": "1756978719"
+                }
+              ]
+            },
+            {
+              "id": "248459128",
+              "answers": [
+                {
+                  "choice_id": "1756978723"
+                }
+              ]
+            },
+            {
+              "id": "248459129",
+              "answers": [
+                {
+                  "choice_id": "1756978728"
+                }
+              ]
+            },
+            {
+              "id": "248711664",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Luis Alfonso Torres Esquer"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "114879229362",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "436065493",
+      "survey_id": "418724377",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=XY2v8RWP7RXb2bT2taEwhuXTm_2BEoGfSOLt1uOC815kFEQ_2Br3kScz_2F228V3e2y8Nt",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/hty3z9ZCfhNmwAUooE5gbZs38WxjFMl8OA6LbbH_2Fn90_3D?respondent_id=114879229362",
+      "total_time": 102,
+      "date_modified": "2025-06-13T03:04:02+00:00",
+      "date_created": "2025-06-13T03:02:19+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/418724377/responses/114879229362",
+      "pages": [
+        {
+          "id": "66696237",
+          "questions": [
+            {
+              "id": "248459115",
+              "answers": [
+                {
+                  "choice_id": "1756978659"
+                }
+              ]
+            },
+            {
+              "id": "248459116",
+              "answers": [
+                {
+                  "choice_id": "1756978666"
+                }
+              ]
+            },
+            {
+              "id": "248459117",
+              "answers": [
+                {
+                  "choice_id": "1756978668"
+                }
+              ]
+            },
+            {
+              "id": "248459118",
+              "answers": [
+                {
+                  "choice_id": "1756978674"
+                }
+              ]
+            },
+            {
+              "id": "248459119",
+              "answers": [
+                {
+                  "choice_id": "1756978679"
+                }
+              ]
+            },
+            {
+              "id": "248459120",
+              "answers": [
+                {
+                  "choice_id": "1756978684"
+                }
+              ]
+            },
+            {
+              "id": "248459121",
+              "answers": [
+                {
+                  "choice_id": "1756978689"
+                }
+              ]
+            },
+            {
+              "id": "248459122",
+              "answers": [
+                {
+                  "choice_id": "1756978693"
+                }
+              ]
+            },
+            {
+              "id": "248459123",
+              "answers": [
+                {
+                  "choice_id": "1756978697"
+                }
+              ]
+            },
+            {
+              "id": "248459124",
+              "answers": [
+                {
+                  "choice_id": "1756978703"
+                }
+              ]
+            },
+            {
+              "id": "248459125",
+              "answers": [
+                {
+                  "choice_id": "1756978709"
+                }
+              ]
+            },
+            {
+              "id": "248459126",
+              "answers": [
+                {
+                  "choice_id": "1756978713"
+                }
+              ]
+            },
+            {
+              "id": "248459127",
+              "answers": [
+                {
+                  "choice_id": "1756978719"
+                }
+              ]
+            },
+            {
+              "id": "248459128",
+              "answers": [
+                {
+                  "choice_id": "1756978724"
+                }
+              ]
+            },
+            {
+              "id": "248459129",
+              "answers": [
+                {
+                  "choice_id": "1756978729"
+                }
+              ]
+            },
+            {
+              "id": "248711664",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Christian Patiño Webb"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "114879918924",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "436065493",
+      "survey_id": "418724377",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=_2FlD6Dy2mQcBaLU7N8FKB_2BsG4S77R0sol4HDFbuzAWG7qKoo00dxCYtYoTAQ8CB98",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/hty3z9ZCfhNmwAUooE5gbZs38WxjFMl8OA6LbbH_2Fn90_3D?respondent_id=114879918924",
+      "total_time": 167,
+      "date_modified": "2025-06-14T02:29:47+00:00",
+      "date_created": "2025-06-14T02:27:00+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/418724377/responses/114879918924",
+      "pages": [
+        {
+          "id": "66696237",
+          "questions": [
+            {
+              "id": "248459115",
+              "answers": [
+                {
+                  "choice_id": "1756978658"
+                }
+              ]
+            },
+            {
+              "id": "248459116",
+              "answers": [
+                {
+                  "choice_id": "1756978664"
+                }
+              ]
+            },
+            {
+              "id": "248459117",
+              "answers": [
+                {
+                  "choice_id": "1756978668"
+                }
+              ]
+            },
+            {
+              "id": "248459118",
+              "answers": [
+                {
+                  "choice_id": "1756978674"
+                }
+              ]
+            },
+            {
+              "id": "248459119",
+              "answers": [
+                {
+                  "choice_id": "1756978678"
+                }
+              ]
+            },
+            {
+              "id": "248459120",
+              "answers": [
+                {
+                  "choice_id": "1756978684"
+                }
+              ]
+            },
+            {
+              "id": "248459121",
+              "answers": [
+                {
+                  "choice_id": "1756978687"
+                }
+              ]
+            },
+            {
+              "id": "248459122",
+              "answers": [
+                {
+                  "choice_id": "1756978692"
+                }
+              ]
+            },
+            {
+              "id": "248459123",
+              "answers": [
+                {
+                  "choice_id": "1756978697"
+                }
+              ]
+            },
+            {
+              "id": "248459124",
+              "answers": [
+                {
+                  "choice_id": "1756978703"
+                }
+              ]
+            },
+            {
+              "id": "248459125",
+              "answers": [
+                {
+                  "choice_id": "1756978708"
+                }
+              ]
+            },
+            {
+              "id": "248459126",
+              "answers": [
+                {
+                  "choice_id": "1756978713"
+                }
+              ]
+            },
+            {
+              "id": "248459127",
+              "answers": [
+                {
+                  "choice_id": "1756978718"
+                }
+              ]
+            },
+            {
+              "id": "248459128",
+              "answers": [
+                {
+                  "choice_id": "1756978724"
+                }
+              ]
+            },
+            {
+              "id": "248459129",
+              "answers": [
+                {
+                  "choice_id": "1756978729"
+                }
+              ]
+            },
+            {
+              "id": "248711664",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Alexandra Hernández "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "114880085921",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "436065493",
+      "survey_id": "418724377",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=jt_2B4_2FfGzQWy8uMphJw5VJfCISeF9SHoEo6n4UUD_2FZMmq5_2BpoG7_2FXiqfygSWMrmwr",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/hty3z9ZCfhNmwAUooE5gbZs38WxjFMl8OA6LbbH_2Fn90_3D?respondent_id=114880085921",
+      "total_time": 360,
+      "date_modified": "2025-06-14T13:53:46+00:00",
+      "date_created": "2025-06-14T13:47:46+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/418724377/responses/114880085921",
+      "pages": [
+        {
+          "id": "66696237",
+          "questions": [
+            {
+              "id": "248459115",
+              "answers": [
+                {
+                  "choice_id": "1756978661"
+                }
+              ]
+            },
+            {
+              "id": "248459116",
+              "answers": [
+                {
+                  "choice_id": "1756978662"
+                }
+              ]
+            },
+            {
+              "id": "248459117",
+              "answers": [
+                {
+                  "choice_id": "1756978667"
+                }
+              ]
+            },
+            {
+              "id": "248459118",
+              "answers": [
+                {
+                  "choice_id": "1756978672"
+                }
+              ]
+            },
+            {
+              "id": "248459119",
+              "answers": [
+                {
+                  "choice_id": "1756978677"
+                }
+              ]
+            },
+            {
+              "id": "248459120",
+              "answers": [
+                {
+                  "choice_id": "1756978682"
+                }
+              ]
+            },
+            {
+              "id": "248459121",
+              "answers": [
+                {
+                  "choice_id": "1756978687"
+                }
+              ]
+            },
+            {
+              "id": "248459122",
+              "answers": [
+                {
+                  "choice_id": "1756978692"
+                }
+              ]
+            },
+            {
+              "id": "248459123",
+              "answers": [
+                {
+                  "choice_id": "1756978699"
+                }
+              ]
+            },
+            {
+              "id": "248459124",
+              "answers": [
+                {
+                  "choice_id": "1756978702"
+                }
+              ]
+            },
+            {
+              "id": "248459125",
+              "answers": [
+                {
+                  "choice_id": "1756978707"
+                }
+              ]
+            },
+            {
+              "id": "248459126",
+              "answers": [
+                {
+                  "choice_id": "1756978712"
+                }
+              ]
+            },
+            {
+              "id": "248459127",
+              "answers": [
+                {
+                  "choice_id": "1756978717"
+                }
+              ]
+            },
+            {
+              "id": "248459128",
+              "answers": [
+                {
+                  "choice_id": "1756978723"
+                }
+              ]
+            },
+            {
+              "id": "248459129",
+              "answers": [
+                {
+                  "choice_id": "1756978727"
+                }
+              ]
+            },
+            {
+              "id": "248711664",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Roberto E REyes "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "114881085839",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "436065493",
+      "survey_id": "418724377",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=0HCjvBuCbnMizwsT4Azr_2B3sTmbEyCkWyu4qZhgvWarNxmsyiY7QwxtvLo_2BO9Ykxa",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/hty3z9ZCfhNmwAUooE5gbZs38WxjFMl8OA6LbbH_2Fn90_3D?respondent_id=114881085839",
+      "total_time": 202,
+      "date_modified": "2025-06-16T16:09:15+00:00",
+      "date_created": "2025-06-16T16:05:53+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/418724377/responses/114881085839",
+      "pages": [
+        {
+          "id": "66696237",
+          "questions": [
+            {
+              "id": "248459115",
+              "answers": [
+                {
+                  "choice_id": "1756978658"
+                }
+              ]
+            },
+            {
+              "id": "248459116",
+              "answers": [
+                {
+                  "choice_id": "1756978664"
+                }
+              ]
+            },
+            {
+              "id": "248459117",
+              "answers": [
+                {
+                  "choice_id": "1756978669"
+                }
+              ]
+            },
+            {
+              "id": "248459118",
+              "answers": [
+                {
+                  "choice_id": "1756978674"
+                }
+              ]
+            },
+            {
+              "id": "248459119",
+              "answers": [
+                {
+                  "choice_id": "1756978678"
+                }
+              ]
+            },
+            {
+              "id": "248459120",
+              "answers": [
+                {
+                  "choice_id": "1756978683"
+                }
+              ]
+            },
+            {
+              "id": "248459121",
+              "answers": [
+                {
+                  "choice_id": "1756978688"
+                }
+              ]
+            },
+            {
+              "id": "248459122",
+              "answers": [
+                {
+                  "choice_id": "1756978693"
+                }
+              ]
+            },
+            {
+              "id": "248459123",
+              "answers": [
+                {
+                  "choice_id": "1756978698"
+                }
+              ]
+            },
+            {
+              "id": "248459124",
+              "answers": [
+                {
+                  "choice_id": "1756978703"
+                }
+              ]
+            },
+            {
+              "id": "248459125",
+              "answers": [
+                {
+                  "choice_id": "1756978708"
+                }
+              ]
+            },
+            {
+              "id": "248459126",
+              "answers": [
+                {
+                  "choice_id": "1756978713"
+                }
+              ]
+            },
+            {
+              "id": "248459127",
+              "answers": [
+                {
+                  "choice_id": "1756978718"
+                }
+              ]
+            },
+            {
+              "id": "248459128",
+              "answers": [
+                {
+                  "choice_id": "1756978724"
+                }
+              ]
+            },
+            {
+              "id": "248459129",
+              "answers": [
+                {
+                  "choice_id": "1756978729"
+                }
+              ]
+            },
+            {
+              "id": "248711664",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Alejandra Cárdenas Castaños"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "114881459815",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "436065493",
+      "survey_id": "418724377",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=yKTmhfdVbEIs1tpUzEVe2AOeGbJ_2BDdmi5MVq70ixM9Ma8kYjSItVjAEUVGU5W8Sf",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/hty3z9ZCfhNmwAUooE5gbZs38WxjFMl8OA6LbbH_2Fn90_3D?respondent_id=114881459815",
+      "total_time": 774,
+      "date_modified": "2025-06-17T02:58:51+00:00",
+      "date_created": "2025-06-17T02:45:57+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/418724377/responses/114881459815",
+      "pages": [
+        {
+          "id": "66696237",
+          "questions": [
+            {
+              "id": "248459115",
+              "answers": [
+                {
+                  "choice_id": "1756978659"
+                }
+              ]
+            },
+            {
+              "id": "248459116",
+              "answers": [
+                {
+                  "choice_id": "1756978666"
+                }
+              ]
+            },
+            {
+              "id": "248459117",
+              "answers": [
+                {
+                  "choice_id": "1756978668"
+                }
+              ]
+            },
+            {
+              "id": "248459118",
+              "answers": [
+                {
+                  "choice_id": "1756978673"
+                }
+              ]
+            },
+            {
+              "id": "248459119",
+              "answers": [
+                {
+                  "choice_id": "1756978679"
+                }
+              ]
+            },
+            {
+              "id": "248459120",
+              "answers": [
+                {
+                  "choice_id": "1756978684"
+                }
+              ]
+            },
+            {
+              "id": "248459121",
+              "answers": [
+                {
+                  "choice_id": "1756978688"
+                }
+              ]
+            },
+            {
+              "id": "248459122",
+              "answers": [
+                {
+                  "choice_id": "1756978694"
+                }
+              ]
+            },
+            {
+              "id": "248459123",
+              "answers": [
+                {
+                  "choice_id": "1756978698"
+                }
+              ]
+            },
+            {
+              "id": "248459124",
+              "answers": [
+                {
+                  "choice_id": "1756978704"
+                }
+              ]
+            },
+            {
+              "id": "248459125",
+              "answers": [
+                {
+                  "choice_id": "1756978709"
+                }
+              ]
+            },
+            {
+              "id": "248459126",
+              "answers": [
+                {
+                  "choice_id": "1756978713"
+                }
+              ]
+            },
+            {
+              "id": "248459127",
+              "answers": [
+                {
+                  "choice_id": "1756978719"
+                }
+              ]
+            },
+            {
+              "id": "248459128",
+              "answers": [
+                {
+                  "choice_id": "1756978726"
+                }
+              ]
+            },
+            {
+              "id": "248459129",
+              "answers": [
+                {
+                  "choice_id": "1756978728"
+                }
+              ]
+            },
+            {
+              "id": "248711664",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Hamed Medina"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

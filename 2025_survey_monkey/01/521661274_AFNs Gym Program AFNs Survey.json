@@ -1,0 +1,1931 @@
+{
+  "_backup_metadata": {
+    "backed_up_at": "2026-04-27T18:48:26.141614+00:00",
+    "survey_id": "521661274",
+    "title": "AFNs Gym Program (AFNs Survey)",
+    "nickname": "",
+    "date_created": null,
+    "date_modified": "2025-01-27T11:30:00",
+    "response_count_listing": 25,
+    "response_count_fetched": 25,
+    "summary_href": "https://api.surveymonkey.com/v3/surveys/521661274"
+  },
+  "details": {
+    "title": "AFNs Gym Program (AFNs Survey)",
+    "nickname": "",
+    "language": "en",
+    "folder_id": "2376268",
+    "category": "",
+    "question_count": 2,
+    "page_count": 1,
+    "response_count": 25,
+    "date_created": "2025-01-09T15:52:00",
+    "date_modified": "2025-01-27T11:30:00",
+    "id": "521661274",
+    "buttons_text": {
+      "next_button": "Next",
+      "prev_button": "Prev",
+      "done_button": "Done",
+      "exit_button": ""
+    },
+    "is_owner": true,
+    "owner": "54118456",
+    "footer": true,
+    "theme_id": "10292568",
+    "template_id": null,
+    "custom_variables": {},
+    "href": "https://api.surveymonkey.com/v3/surveys/521661274",
+    "analyze_url": "https://www.surveymonkey.com/analyze/Vph1OBnmXO7_2FX6J_2BC8suXGw6On81bwspr14lXpnhDbw_3D",
+    "edit_url": "https://www.surveymonkey.com/create/?sm=Vph1OBnmXO7_2FX6J_2BC8suXGw6On81bwspr14lXpnhDbw_3D",
+    "collect_url": "https://www.surveymonkey.com/collect/list?sm=Vph1OBnmXO7_2FX6J_2BC8suXGw6On81bwspr14lXpnhDbw_3D",
+    "summary_url": "https://www.surveymonkey.com/summary/Vph1OBnmXO7_2FX6J_2BC8suXGw6On81bwspr14lXpnhDbw_3D",
+    "preview": "https://www.surveymonkey.com/r/Preview/?sm=Bi02HSB4_2BVYdAqNBtyE2u_2B3mkkl5GzFqQD2oiCg9C7LjNdpci0Utn4TfK3zpcO3H",
+    "pages": [
+      {
+        "title": "Main Topics Survey",
+        "description": "<div>\n<div>Welcome to the Axialent AFNs 'Gym' main topics survey.</div>\n<div></div>\n<div></div>\n<div>To ensure our sessions meet your needs, we are conducting this survey to check which are the most interesting and relevant topics you would like us to include in this initiative.</div>\n</div>",
+        "position": 1,
+        "question_count": 2,
+        "id": "61717286",
+        "href": "https://api.surveymonkey.com/v3/surveys/521661274/pages/61717286",
+        "questions": [
+          {
+            "id": "225553428",
+            "position": 1,
+            "visible": true,
+            "family": "matrix",
+            "subtype": "rating",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "at_least",
+              "amount": "1"
+            },
+            "validation": null,
+            "forced_ranking": true,
+            "headings": [
+              {
+                "heading": "Please indicate your Top 3 topics in order of preference (1 being your favourite topic)"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/521661274/pages/61717286/questions/225553428",
+            "answers": {
+              "rows": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "Team Coaching",
+                  "id": "1607239487"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "Business Meeting Facilitation & Feedback",
+                  "id": "1613701054"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "Culture Assessment",
+                  "id": "1607239488"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "Sustainability",
+                  "id": "1607239489"
+                },
+                {
+                  "position": 5,
+                  "visible": true,
+                  "text": "AI for Leadership",
+                  "id": "1607239490"
+                },
+                {
+                  "position": 6,
+                  "visible": true,
+                  "text": "Health, Well-being & Resilience",
+                  "id": "1607239491"
+                },
+                {
+                  "position": 7,
+                  "visible": true,
+                  "text": "Polarity Thinking",
+                  "id": "1607239492"
+                },
+                {
+                  "position": 8,
+                  "visible": true,
+                  "text": "Sales cross fertilization",
+                  "id": "1607239493"
+                },
+                {
+                  "position": 9,
+                  "visible": true,
+                  "text": "Sales Extension",
+                  "id": "1607239494"
+                },
+                {
+                  "position": 10,
+                  "visible": true,
+                  "text": "Innovation",
+                  "id": "1607239495"
+                },
+                {
+                  "position": 11,
+                  "visible": true,
+                  "text": "Culture Plan",
+                  "id": "1607239496"
+                },
+                {
+                  "position": 12,
+                  "visible": true,
+                  "text": "Mindfulness",
+                  "id": "1607239497"
+                },
+                {
+                  "position": 13,
+                  "visible": true,
+                  "text": "Spreading Happiness",
+                  "id": "1607239498"
+                },
+                {
+                  "position": 14,
+                  "visible": true,
+                  "text": "Neuroscience",
+                  "id": "1607239499"
+                },
+                {
+                  "position": 15,
+                  "visible": true,
+                  "text": "Immunity to Change",
+                  "id": "1607239500"
+                },
+                {
+                  "position": 16,
+                  "visible": true,
+                  "text": "Raise the bar on Personal Productivity",
+                  "id": "1607239501"
+                }
+              ],
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "1",
+                  "id": "1607239502",
+                  "is_na": false,
+                  "weight": 3,
+                  "description": ""
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "2",
+                  "id": "1607239503",
+                  "is_na": false,
+                  "weight": 2,
+                  "description": ""
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "3",
+                  "id": "1607239504",
+                  "is_na": false,
+                  "weight": 1,
+                  "description": ""
+                }
+              ]
+            }
+          },
+          {
+            "id": "226553786",
+            "position": 2,
+            "visible": true,
+            "family": "open_ended",
+            "subtype": "essay",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "We´d also love to hear from you regarding any additional topics that you consider relevant for us to include in our program. <br>Please share these topics so that we can take them into account."
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/521661274/pages/61717286/questions/226553786"
+          }
+        ]
+      }
+    ]
+  },
+  "responses": [
+    {
+      "id": "118781064540",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "97.118.235.71",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "459364565",
+      "survey_id": "521661274",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=dW3i8_2BDIRnKydYyopGGPnKCJ9styHBdBfFdH0Bz_2BEpKh_2FHaccpYpa1fzKeBccqy0",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/Vph1OBnmXO7_2FX6J_2BC8suXGw6On81bwspr14lXpnhDbw_3D?respondent_id=118781064540",
+      "total_time": 89,
+      "date_modified": "2025-01-15T19:19:06+00:00",
+      "date_created": "2025-01-15T19:17:36+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/521661274/responses/118781064540",
+      "pages": [
+        {
+          "id": "61717286",
+          "questions": [
+            {
+              "id": "225553428",
+              "answers": [
+                {
+                  "choice_id": "1607239502",
+                  "row_id": "1607239500",
+                  "choice_metadata": {
+                    "weight": "3"
+                  }
+                },
+                {
+                  "choice_id": "1607239503",
+                  "row_id": "1607239496",
+                  "choice_metadata": {
+                    "weight": "2"
+                  }
+                },
+                {
+                  "choice_id": "1607239504",
+                  "row_id": "1607239491",
+                  "choice_metadata": {
+                    "weight": "1"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "226553786",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Consciousness /Spirituality in Business"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "118781085590",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "176.250.19.75",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "459364565",
+      "survey_id": "521661274",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=XH8X_2BAGxmegZ2GRMFSA3PZxO8GM6VEBEWPiuE8QylRmc6dyAa3ePpJNKoC05Ij5Z",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/Vph1OBnmXO7_2FX6J_2BC8suXGw6On81bwspr14lXpnhDbw_3D?respondent_id=118781085590",
+      "total_time": 296,
+      "date_modified": "2025-01-15T19:43:25+00:00",
+      "date_created": "2025-01-15T19:38:28+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/521661274/responses/118781085590",
+      "pages": [
+        {
+          "id": "61717286",
+          "questions": [
+            {
+              "id": "225553428",
+              "answers": [
+                {
+                  "choice_id": "1607239504",
+                  "row_id": "1613701054",
+                  "choice_metadata": {
+                    "weight": "1"
+                  }
+                },
+                {
+                  "choice_id": "1607239503",
+                  "row_id": "1607239500",
+                  "choice_metadata": {
+                    "weight": "2"
+                  }
+                },
+                {
+                  "choice_id": "1607239502",
+                  "row_id": "1607239487",
+                  "choice_metadata": {
+                    "weight": "3"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "226553786",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Building in theme of immunity to change, how to unlock executive sponsorship when this is a barrier to change "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "118781093113",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "181.25.67.16",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "459364565",
+      "survey_id": "521661274",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=d7UXRHbhwWrCH2d_2F7yRpJY_2BUPvYtT4yeWK15o0JjMa9ZA8v3_2FGmwITT_2BZF_2Bkka4R",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/Vph1OBnmXO7_2FX6J_2BC8suXGw6On81bwspr14lXpnhDbw_3D?respondent_id=118781093113",
+      "total_time": 47,
+      "date_modified": "2025-01-15T19:52:32+00:00",
+      "date_created": "2025-01-15T19:51:45+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/521661274/responses/118781093113",
+      "pages": [
+        {
+          "id": "61717286",
+          "questions": [
+            {
+              "id": "225553428",
+              "answers": [
+                {
+                  "choice_id": "1607239503",
+                  "row_id": "1613701054",
+                  "choice_metadata": {
+                    "weight": "2"
+                  }
+                },
+                {
+                  "choice_id": "1607239504",
+                  "row_id": "1607239488",
+                  "choice_metadata": {
+                    "weight": "1"
+                  }
+                },
+                {
+                  "choice_id": "1607239502",
+                  "row_id": "1607239487",
+                  "choice_metadata": {
+                    "weight": "3"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "226553786",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "High performing teams"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "118781111720",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "212.253.178.132",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "459364565",
+      "survey_id": "521661274",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=ZR0iE3_2BeBKRPgPDbRzgPr5iX9Zst_2FLD271kFPlPAIczFVIbkgWgcVrYa2lBflpZ_2B",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/Vph1OBnmXO7_2FX6J_2BC8suXGw6On81bwspr14lXpnhDbw_3D?respondent_id=118781111720",
+      "total_time": 216,
+      "date_modified": "2025-01-15T20:14:37+00:00",
+      "date_created": "2025-01-15T20:11:00+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/521661274/responses/118781111720",
+      "pages": [
+        {
+          "id": "61717286",
+          "questions": [
+            {
+              "id": "225553428",
+              "answers": [
+                {
+                  "choice_id": "1607239503",
+                  "row_id": "1607239496",
+                  "choice_metadata": {
+                    "weight": "2"
+                  }
+                },
+                {
+                  "choice_id": "1607239502",
+                  "row_id": "1607239495",
+                  "choice_metadata": {
+                    "weight": "3"
+                  }
+                },
+                {
+                  "choice_id": "1607239504",
+                  "row_id": "1607239488",
+                  "choice_metadata": {
+                    "weight": "1"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "226553786",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "None "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "118781146259",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "67.165.122.111",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "459364565",
+      "survey_id": "521661274",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=RQm7m6UrH4HGiyDsOuFlDrOpbHhtsGbO7H_2Fj70Y3X8JY6xDeWAY6jXbUclv8tDUc",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/Vph1OBnmXO7_2FX6J_2BC8suXGw6On81bwspr14lXpnhDbw_3D?respondent_id=118781146259",
+      "total_time": 160,
+      "date_modified": "2025-01-15T20:58:24+00:00",
+      "date_created": "2025-01-15T20:55:43+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/521661274/responses/118781146259",
+      "pages": [
+        {
+          "id": "61717286",
+          "questions": [
+            {
+              "id": "225553428",
+              "answers": [
+                {
+                  "choice_id": "1607239504",
+                  "row_id": "1607239500",
+                  "choice_metadata": {
+                    "weight": "1"
+                  }
+                },
+                {
+                  "choice_id": "1607239502",
+                  "row_id": "1607239496",
+                  "choice_metadata": {
+                    "weight": "3"
+                  }
+                },
+                {
+                  "choice_id": "1607239503",
+                  "row_id": "1607239488",
+                  "choice_metadata": {
+                    "weight": "2"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "226553786",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Business development"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "118781148092",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "80.29.237.55",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "459364565",
+      "survey_id": "521661274",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=RFNkgmVNamQ3v2PL1wRmTU76HlE8_2FKf9tk_2BbvzHB2Wq1X8I2CioF_2BW3KCvQQiv_2BE",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/Vph1OBnmXO7_2FX6J_2BC8suXGw6On81bwspr14lXpnhDbw_3D?respondent_id=118781148092",
+      "total_time": 50,
+      "date_modified": "2025-01-15T21:00:50+00:00",
+      "date_created": "2025-01-15T20:59:59+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/521661274/responses/118781148092",
+      "pages": [
+        {
+          "id": "61717286",
+          "questions": [
+            {
+              "id": "225553428",
+              "answers": [
+                {
+                  "choice_id": "1607239503",
+                  "row_id": "1613701054",
+                  "choice_metadata": {
+                    "weight": "2"
+                  }
+                },
+                {
+                  "choice_id": "1607239504",
+                  "row_id": "1607239500",
+                  "choice_metadata": {
+                    "weight": "1"
+                  }
+                },
+                {
+                  "choice_id": "1607239502",
+                  "row_id": "1607239487",
+                  "choice_metadata": {
+                    "weight": "3"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "226553786",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": " "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "118781168444",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "99.161.93.213",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "459364565",
+      "survey_id": "521661274",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=kos3bQzgrt6d6vtXX_2FCtOCMO8H568RVtCW5bXW7YkjokLMDcCZoq4SBajbaNxGzC",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/Vph1OBnmXO7_2FX6J_2BC8suXGw6On81bwspr14lXpnhDbw_3D?respondent_id=118781168444",
+      "total_time": 59,
+      "date_modified": "2025-01-15T21:25:46+00:00",
+      "date_created": "2025-01-15T21:24:47+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/521661274/responses/118781168444",
+      "pages": [
+        {
+          "id": "61717286",
+          "questions": [
+            {
+              "id": "225553428",
+              "answers": [
+                {
+                  "choice_id": "1607239504",
+                  "row_id": "1607239501",
+                  "choice_metadata": {
+                    "weight": "1"
+                  }
+                },
+                {
+                  "choice_id": "1607239503",
+                  "row_id": "1607239500",
+                  "choice_metadata": {
+                    "weight": "2"
+                  }
+                },
+                {
+                  "choice_id": "1607239502",
+                  "row_id": "1607239490",
+                  "choice_metadata": {
+                    "weight": "3"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "226553786",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "these look great."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "118781279061",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "191.80.141.217",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "459364565",
+      "survey_id": "521661274",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=J8ohzA6X5PHthWiO66k1C8RoC5fFlGkdXH2ui6seezgjFwffM2Yl4nmFZwNQtStL",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/Vph1OBnmXO7_2FX6J_2BC8suXGw6On81bwspr14lXpnhDbw_3D?respondent_id=118781279061",
+      "total_time": 219,
+      "date_modified": "2025-01-16T00:23:33+00:00",
+      "date_created": "2025-01-16T00:19:53+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/521661274/responses/118781279061",
+      "pages": [
+        {
+          "id": "61717286",
+          "questions": [
+            {
+              "id": "225553428",
+              "answers": [
+                {
+                  "choice_id": "1607239503",
+                  "row_id": "1607239500",
+                  "choice_metadata": {
+                    "weight": "2"
+                  }
+                },
+                {
+                  "choice_id": "1607239502",
+                  "row_id": "1607239499",
+                  "choice_metadata": {
+                    "weight": "3"
+                  }
+                },
+                {
+                  "choice_id": "1607239504",
+                  "row_id": "1607239498",
+                  "choice_metadata": {
+                    "weight": "1"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "226553786",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Designing activities to work with other mindsets for example abundance and scarcity"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "118781443079",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "151.28.147.62",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "459364565",
+      "survey_id": "521661274",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=nv3KOt_2BDyK2S7nTmqc6CV9j_2Bo28FUTE1qnjsvNClnOnnJU4mzQdDynU2DDOAOQrr",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/Vph1OBnmXO7_2FX6J_2BC8suXGw6On81bwspr14lXpnhDbw_3D?respondent_id=118781443079",
+      "total_time": 125,
+      "date_modified": "2025-01-16T07:50:00+00:00",
+      "date_created": "2025-01-16T07:47:54+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/521661274/responses/118781443079",
+      "pages": [
+        {
+          "id": "61717286",
+          "questions": [
+            {
+              "id": "225553428",
+              "answers": [
+                {
+                  "choice_id": "1607239503",
+                  "row_id": "1607239501",
+                  "choice_metadata": {
+                    "weight": "2"
+                  }
+                },
+                {
+                  "choice_id": "1607239502",
+                  "row_id": "1607239500",
+                  "choice_metadata": {
+                    "weight": "3"
+                  }
+                },
+                {
+                  "choice_id": "1607239504",
+                  "row_id": "1607239490",
+                  "choice_metadata": {
+                    "weight": "1"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "226553786",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "How to handle rising aggressiveness (social and biz environment)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "118781446768",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "178.4.158.49",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "459364565",
+      "survey_id": "521661274",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=i_2BSLg2jNjxDfK_2FIc5AO0WHW5PMbEk6q05uagjCNFtxDw4OEfrIrd98FYZHhZKboB",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/Vph1OBnmXO7_2FX6J_2BC8suXGw6On81bwspr14lXpnhDbw_3D?respondent_id=118781446768",
+      "total_time": 46,
+      "date_modified": "2025-01-16T08:00:21+00:00",
+      "date_created": "2025-01-16T07:59:35+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/521661274/responses/118781446768",
+      "pages": [
+        {
+          "id": "61717286",
+          "questions": [
+            {
+              "id": "225553428",
+              "answers": [
+                {
+                  "choice_id": "1607239504",
+                  "row_id": "1607239500",
+                  "choice_metadata": {
+                    "weight": "1"
+                  }
+                },
+                {
+                  "choice_id": "1607239502",
+                  "row_id": "1607239491",
+                  "choice_metadata": {
+                    "weight": "3"
+                  }
+                },
+                {
+                  "choice_id": "1607239503",
+                  "row_id": "1607239487",
+                  "choice_metadata": {
+                    "weight": "2"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "226553786",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "None"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "118781482420",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "189.29.145.30",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "459364565",
+      "survey_id": "521661274",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=2fITgUYovFRp7VVgnHdXbPh2iEEMlrDsAFDLfdS1zQYg3F2k1e4cTsF4bT1GKUID",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/Vph1OBnmXO7_2FX6J_2BC8suXGw6On81bwspr14lXpnhDbw_3D?respondent_id=118781482420",
+      "total_time": 370,
+      "date_modified": "2025-01-16T09:27:07+00:00",
+      "date_created": "2025-01-16T09:20:56+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/521661274/responses/118781482420",
+      "pages": [
+        {
+          "id": "61717286",
+          "questions": [
+            {
+              "id": "225553428",
+              "answers": [
+                {
+                  "choice_id": "1607239502",
+                  "row_id": "1613701054",
+                  "choice_metadata": {
+                    "weight": "3"
+                  }
+                },
+                {
+                  "choice_id": "1607239503",
+                  "row_id": "1607239500",
+                  "choice_metadata": {
+                    "weight": "2"
+                  }
+                },
+                {
+                  "choice_id": "1607239504",
+                  "row_id": "1607239492",
+                  "choice_metadata": {
+                    "weight": "1"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "226553786",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Execution with excellence,  authentic communication"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "118781673205",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "85.55.41.250",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "459364565",
+      "survey_id": "521661274",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=IPM7sZ4GPfUSNNWssduBLSJPX9gH7kBnJXBrXXoi8_2BjZeKw5W1uuWfC3o3Jdb3CZ",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/Vph1OBnmXO7_2FX6J_2BC8suXGw6On81bwspr14lXpnhDbw_3D?respondent_id=118781673205",
+      "total_time": 9014,
+      "date_modified": "2025-01-16T15:04:23+00:00",
+      "date_created": "2025-01-16T12:34:09+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/521661274/responses/118781673205",
+      "pages": [
+        {
+          "id": "61717286",
+          "questions": [
+            {
+              "id": "225553428",
+              "answers": [
+                {
+                  "choice_id": "1607239503",
+                  "row_id": "1607239500",
+                  "choice_metadata": {
+                    "weight": "2"
+                  }
+                },
+                {
+                  "choice_id": "1607239502",
+                  "row_id": "1607239496",
+                  "choice_metadata": {
+                    "weight": "3"
+                  }
+                },
+                {
+                  "choice_id": "1607239504",
+                  "row_id": "1607239487",
+                  "choice_metadata": {
+                    "weight": "1"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "226553786",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "systemic approach to consulting"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "118781713490",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "172.58.128.152",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "459364565",
+      "survey_id": "521661274",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=BDesgachzK9RtxaDSRLoLvlq9moWOPsICErwA3EdxVMsMoF4ACBYRUID4DKTgUCh",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/Vph1OBnmXO7_2FX6J_2BC8suXGw6On81bwspr14lXpnhDbw_3D?respondent_id=118781713490",
+      "total_time": 89,
+      "date_modified": "2025-01-16T15:55:06+00:00",
+      "date_created": "2025-01-16T15:53:37+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/521661274/responses/118781713490",
+      "pages": [
+        {
+          "id": "61717286",
+          "questions": [
+            {
+              "id": "225553428",
+              "answers": [
+                {
+                  "choice_id": "1607239504",
+                  "row_id": "1607239496",
+                  "choice_metadata": {
+                    "weight": "1"
+                  }
+                },
+                {
+                  "choice_id": "1607239503",
+                  "row_id": "1607239488",
+                  "choice_metadata": {
+                    "weight": "2"
+                  }
+                },
+                {
+                  "choice_id": "1607239502",
+                  "row_id": "1607239487",
+                  "choice_metadata": {
+                    "weight": "3"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "226553786",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Nothing comes to mind at the moment"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "118782212286",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "176.223.173.115",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "459364565",
+      "survey_id": "521661274",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=KM6vLxZagshTIqO_2FIrWklgpCLiEpBwgYxkdxMwdvW_2FWwi6p9cFkyNTbFJvlcp8ja",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/Vph1OBnmXO7_2FX6J_2BC8suXGw6On81bwspr14lXpnhDbw_3D?respondent_id=118782212286",
+      "total_time": 190,
+      "date_modified": "2025-01-17T07:19:43+00:00",
+      "date_created": "2025-01-17T07:16:33+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/521661274/responses/118782212286",
+      "pages": [
+        {
+          "id": "61717286",
+          "questions": [
+            {
+              "id": "225553428",
+              "answers": [
+                {
+                  "choice_id": "1607239504",
+                  "row_id": "1607239490",
+                  "choice_metadata": {
+                    "weight": "1"
+                  }
+                },
+                {
+                  "choice_id": "1607239503",
+                  "row_id": "1607239489",
+                  "choice_metadata": {
+                    "weight": "2"
+                  }
+                },
+                {
+                  "choice_id": "1607239502",
+                  "row_id": "1607239487",
+                  "choice_metadata": {
+                    "weight": "3"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "226553786",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Regenerativity"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "118782360120",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "31.94.12.27",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "459364565",
+      "survey_id": "521661274",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=ylb9GUqYancoP91lizD8PHV7Tfj2ijPzoaDUsO2NtfAwp5SFPdha99Byd9hb8ETi",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/Vph1OBnmXO7_2FX6J_2BC8suXGw6On81bwspr14lXpnhDbw_3D?respondent_id=118782360120",
+      "total_time": 361,
+      "date_modified": "2025-01-17T13:01:32+00:00",
+      "date_created": "2025-01-17T12:55:31+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/521661274/responses/118782360120",
+      "pages": [
+        {
+          "id": "61717286",
+          "questions": [
+            {
+              "id": "225553428",
+              "answers": [
+                {
+                  "choice_id": "1607239504",
+                  "row_id": "1607239500",
+                  "choice_metadata": {
+                    "weight": "1"
+                  }
+                },
+                {
+                  "choice_id": "1607239502",
+                  "row_id": "1607239489",
+                  "choice_metadata": {
+                    "weight": "3"
+                  }
+                },
+                {
+                  "choice_id": "1607239503",
+                  "row_id": "1607239487",
+                  "choice_metadata": {
+                    "weight": "2"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "226553786",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "For all of them I am curious how to put them into the bigger  context of culture/impact on the business itself and the environment and people. We see california in flames the usa in turmoil, far right on the move in multiple countries.. geopolitical tensions. How do they influence leaders; and how do they benefit from any of those practices above? "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "118783084064",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "86.182.239.149",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "459364565",
+      "survey_id": "521661274",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=jkXvDfvvi3IDxnU6aQw32HdsE6pxauRveD8ZvjdM4hx7XZJCN_2FTNSJ3AKuZg50xj",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/Vph1OBnmXO7_2FX6J_2BC8suXGw6On81bwspr14lXpnhDbw_3D?respondent_id=118783084064",
+      "total_time": 84,
+      "date_modified": "2025-01-18T15:41:05+00:00",
+      "date_created": "2025-01-18T15:39:41+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/521661274/responses/118783084064",
+      "pages": [
+        {
+          "id": "61717286",
+          "questions": [
+            {
+              "id": "225553428",
+              "answers": [
+                {
+                  "choice_id": "1607239503",
+                  "row_id": "1613701054",
+                  "choice_metadata": {
+                    "weight": "2"
+                  }
+                },
+                {
+                  "choice_id": "1607239502",
+                  "row_id": "1607239488",
+                  "choice_metadata": {
+                    "weight": "3"
+                  }
+                },
+                {
+                  "choice_id": "1607239504",
+                  "row_id": "1607239487",
+                  "choice_metadata": {
+                    "weight": "1"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "226553786",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "NA"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "118783752785",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "88.169.252.48",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "459364565",
+      "survey_id": "521661274",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=caTO1ZQcWjMV209O5zxtuZadpcigTQUjipE7ngwYseWsgTAxB_2FGijzpcT3kL6Rsh",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/Vph1OBnmXO7_2FX6J_2BC8suXGw6On81bwspr14lXpnhDbw_3D?respondent_id=118783752785",
+      "total_time": 81,
+      "date_modified": "2025-01-20T09:10:55+00:00",
+      "date_created": "2025-01-20T09:09:34+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/521661274/responses/118783752785",
+      "pages": [
+        {
+          "id": "61717286",
+          "questions": [
+            {
+              "id": "225553428",
+              "answers": [
+                {
+                  "choice_id": "1607239502",
+                  "row_id": "1607239492",
+                  "choice_metadata": {
+                    "weight": "3"
+                  }
+                },
+                {
+                  "choice_id": "1607239503",
+                  "row_id": "1607239490",
+                  "choice_metadata": {
+                    "weight": "2"
+                  }
+                },
+                {
+                  "choice_id": "1607239504",
+                  "row_id": "1607239487",
+                  "choice_metadata": {
+                    "weight": "1"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "226553786",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "It is already very rich. Thanks for this proposal"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "118783876026",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "2.50.234.226",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "459364565",
+      "survey_id": "521661274",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=_2BGybdVjaeAVYDztLB0P8il7pGKiSwOgwiwTd_2BdGZW3Ka1574uI_2BJ6Gq_2BQsb35nHR",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/Vph1OBnmXO7_2FX6J_2BC8suXGw6On81bwspr14lXpnhDbw_3D?respondent_id=118783876026",
+      "total_time": 266,
+      "date_modified": "2025-01-20T13:17:18+00:00",
+      "date_created": "2025-01-20T13:12:52+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/521661274/responses/118783876026",
+      "pages": [
+        {
+          "id": "61717286",
+          "questions": [
+            {
+              "id": "225553428",
+              "answers": [
+                {
+                  "choice_id": "1607239502",
+                  "row_id": "1607239501",
+                  "choice_metadata": {
+                    "weight": "3"
+                  }
+                },
+                {
+                  "choice_id": "1607239504",
+                  "row_id": "1607239490",
+                  "choice_metadata": {
+                    "weight": "1"
+                  }
+                },
+                {
+                  "choice_id": "1607239503",
+                  "row_id": "1607239488",
+                  "choice_metadata": {
+                    "weight": "2"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "226553786",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "One topic I would suggest is 'Adaptive Leadership in Times of Uncertainty,' focusing on navigating change, fostering resilience, and empowering teams to thrive in dynamic environments. This could complement the existing themes and provide valuable insights for today’s challenges."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "118783879939",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "31.4.241.241",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "459364565",
+      "survey_id": "521661274",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=y8h9FyH3Cvi_2FF59SZMGx52pSJN0_2BOxs_2F39bLvkUZuGcOS7gHXFHexB2pF4Zxequ9",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/Vph1OBnmXO7_2FX6J_2BC8suXGw6On81bwspr14lXpnhDbw_3D?respondent_id=118783879939",
+      "total_time": 118,
+      "date_modified": "2025-01-20T13:24:09+00:00",
+      "date_created": "2025-01-20T13:22:10+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/521661274/responses/118783879939",
+      "pages": [
+        {
+          "id": "61717286",
+          "questions": [
+            {
+              "id": "225553428",
+              "answers": [
+                {
+                  "choice_id": "1607239504",
+                  "row_id": "1613701054",
+                  "choice_metadata": {
+                    "weight": "1"
+                  }
+                },
+                {
+                  "choice_id": "1607239503",
+                  "row_id": "1607239501",
+                  "choice_metadata": {
+                    "weight": "2"
+                  }
+                },
+                {
+                  "choice_id": "1607239502",
+                  "row_id": "1607239490",
+                  "choice_metadata": {
+                    "weight": "3"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "226553786",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "None"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "118783884509",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "62.216.207.219",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "459364565",
+      "survey_id": "521661274",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=pvcuhIZO3hcrlh25n_2BGFhP6NN1SkFIu4ijFtdMY_2B9ky_2FVGWLN_2F8ZhsChcaJVVYNa",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/Vph1OBnmXO7_2FX6J_2BC8suXGw6On81bwspr14lXpnhDbw_3D?respondent_id=118783884509",
+      "total_time": 92,
+      "date_modified": "2025-01-20T13:32:28+00:00",
+      "date_created": "2025-01-20T13:30:56+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/521661274/responses/118783884509",
+      "pages": [
+        {
+          "id": "61717286",
+          "questions": [
+            {
+              "id": "225553428",
+              "answers": [
+                {
+                  "choice_id": "1607239503",
+                  "row_id": "1613701054",
+                  "choice_metadata": {
+                    "weight": "2"
+                  }
+                },
+                {
+                  "choice_id": "1607239504",
+                  "row_id": "1607239490",
+                  "choice_metadata": {
+                    "weight": "1"
+                  }
+                },
+                {
+                  "choice_id": "1607239502",
+                  "row_id": "1607239487",
+                  "choice_metadata": {
+                    "weight": "3"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "226553786",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "i like the topics above :-)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "118784018933",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "190.239.28.204",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "459364565",
+      "survey_id": "521661274",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=f5J1EV3SDjWO6s2axSlooFOHj_2BcgwG1kLEwwWG5X_2ByKVDSIupI9eI_2F68PiS70v7V",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/Vph1OBnmXO7_2FX6J_2BC8suXGw6On81bwspr14lXpnhDbw_3D?respondent_id=118784018933",
+      "total_time": 72,
+      "date_modified": "2025-01-20T16:53:45+00:00",
+      "date_created": "2025-01-20T16:52:33+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/521661274/responses/118784018933",
+      "pages": [
+        {
+          "id": "61717286",
+          "questions": [
+            {
+              "id": "225553428",
+              "answers": [
+                {
+                  "choice_id": "1607239502",
+                  "row_id": "1613701054",
+                  "choice_metadata": {
+                    "weight": "3"
+                  }
+                },
+                {
+                  "choice_id": "1607239504",
+                  "row_id": "1607239499",
+                  "choice_metadata": {
+                    "weight": "1"
+                  }
+                },
+                {
+                  "choice_id": "1607239503",
+                  "row_id": "1607239492",
+                  "choice_metadata": {
+                    "weight": "2"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "226553786",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Team coaching: Methodology and dinamics to coach teams"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "118784237612",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "88.157.123.39",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "459364565",
+      "survey_id": "521661274",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=ROwDtpZ0N29JxVU19Z50u0jkQ1WfrMANupa3Bsd6u1r8eTAg883cirZWVXpLyv96",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/Vph1OBnmXO7_2FX6J_2BC8suXGw6On81bwspr14lXpnhDbw_3D?respondent_id=118784237612",
+      "total_time": 528,
+      "date_modified": "2025-01-20T23:11:51+00:00",
+      "date_created": "2025-01-20T23:03:03+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/521661274/responses/118784237612",
+      "pages": [
+        {
+          "id": "61717286",
+          "questions": [
+            {
+              "id": "225553428",
+              "answers": [
+                {
+                  "choice_id": "1607239504",
+                  "row_id": "1607239501",
+                  "choice_metadata": {
+                    "weight": "1"
+                  }
+                },
+                {
+                  "choice_id": "1607239503",
+                  "row_id": "1607239500",
+                  "choice_metadata": {
+                    "weight": "2"
+                  }
+                },
+                {
+                  "choice_id": "1607239502",
+                  "row_id": "1607239487",
+                  "choice_metadata": {
+                    "weight": "3"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "226553786",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Establishing Trust and Resolving Conflicts in a Corporate Environment"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "118785486622",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "88.97.211.9",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "459364565",
+      "survey_id": "521661274",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=mVgnc6_2BebVnStjgplWtkyo9JyuXo89I33SJZaotO6wQ0uzHRGLpe1UjGQMWBamVk",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/Vph1OBnmXO7_2FX6J_2BC8suXGw6On81bwspr14lXpnhDbw_3D?respondent_id=118785486622",
+      "total_time": 58,
+      "date_modified": "2025-01-22T14:46:32+00:00",
+      "date_created": "2025-01-22T14:45:34+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/521661274/responses/118785486622",
+      "pages": [
+        {
+          "id": "61717286",
+          "questions": [
+            {
+              "id": "225553428",
+              "answers": [
+                {
+                  "choice_id": "1607239504",
+                  "row_id": "1607239499",
+                  "choice_metadata": {
+                    "weight": "1"
+                  }
+                },
+                {
+                  "choice_id": "1607239502",
+                  "row_id": "1607239490",
+                  "choice_metadata": {
+                    "weight": "3"
+                  }
+                },
+                {
+                  "choice_id": "1607239503",
+                  "row_id": "1607239489",
+                  "choice_metadata": {
+                    "weight": "2"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "226553786",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "AI Coaching"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "118787598430",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "62.36.37.17",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "459364565",
+      "survey_id": "521661274",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=483SkxEBuwG5POLR8G0VNmbTCs8hb0XjqjHAVedlfgB91iu82xakuwbhSs7_2B80NI",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/Vph1OBnmXO7_2FX6J_2BC8suXGw6On81bwspr14lXpnhDbw_3D?respondent_id=118787598430",
+      "total_time": 111,
+      "date_modified": "2025-01-25T05:41:23+00:00",
+      "date_created": "2025-01-25T05:39:31+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/521661274/responses/118787598430",
+      "pages": [
+        {
+          "id": "61717286",
+          "questions": [
+            {
+              "id": "225553428",
+              "answers": [
+                {
+                  "choice_id": "1607239504",
+                  "row_id": "1613701054",
+                  "choice_metadata": {
+                    "weight": "1"
+                  }
+                },
+                {
+                  "choice_id": "1607239503",
+                  "row_id": "1607239491",
+                  "choice_metadata": {
+                    "weight": "2"
+                  }
+                },
+                {
+                  "choice_id": "1607239502",
+                  "row_id": "1607239490",
+                  "choice_metadata": {
+                    "weight": "3"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "226553786",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Engagement"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "118788411502",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "86.140.193.141",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "459364565",
+      "survey_id": "521661274",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=CH6t1JoFsSUuKfhkWtSZncT8ZEs8YL1L6aSipD0JCHZHPjj_2BQA41euie9LMOfI0m",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/Vph1OBnmXO7_2FX6J_2BC8suXGw6On81bwspr14lXpnhDbw_3D?respondent_id=118788411502",
+      "total_time": 88,
+      "date_modified": "2025-01-27T11:29:50+00:00",
+      "date_created": "2025-01-27T11:28:22+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/521661274/responses/118788411502",
+      "pages": [
+        {
+          "id": "61717286",
+          "questions": [
+            {
+              "id": "225553428",
+              "answers": [
+                {
+                  "choice_id": "1607239504",
+                  "row_id": "1607239496",
+                  "choice_metadata": {
+                    "weight": "1"
+                  }
+                },
+                {
+                  "choice_id": "1607239503",
+                  "row_id": "1607239489",
+                  "choice_metadata": {
+                    "weight": "2"
+                  }
+                },
+                {
+                  "choice_id": "1607239502",
+                  "row_id": "1607239487",
+                  "choice_metadata": {
+                    "weight": "3"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "226553786",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Business Development"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

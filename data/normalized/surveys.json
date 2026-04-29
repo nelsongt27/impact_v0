@@ -19,7 +19,8 @@
     "created_at": "2026-04-27T14:46:45.947733Z",
     "updated_at": "2026-04-27T16:48:02.04012Z",
     "response_count": 0,
-    "question_count": 19
+    "question_count": 19,
+    "override_applied": false
   },
   {
     "id": "tf:hptpIV0G",
@@ -41,7 +42,8 @@
     "created_at": "2026-04-27T11:55:14.825216Z",
     "updated_at": "2026-04-27T14:28:31.726573Z",
     "response_count": 0,
-    "question_count": 19
+    "question_count": 19,
+    "override_applied": false
   },
   {
     "id": "tf:WLYTesKe",
@@ -63,7 +65,8 @@
     "created_at": "2026-04-23T12:33:46.623073Z",
     "updated_at": "2026-04-23T12:36:46.939553Z",
     "response_count": 0,
-    "question_count": 7
+    "question_count": 7,
+    "override_applied": false
   },
   {
     "id": "tf:VsRBApSr",
@@ -85,7 +88,8 @@
     "created_at": "2026-04-22T16:55:03.718434Z",
     "updated_at": "2026-04-22T17:09:59.101542Z",
     "response_count": 0,
-    "question_count": 8
+    "question_count": 8,
+    "override_applied": false
   },
   {
     "id": "tf:hsAVAO2H",
@@ -107,7 +111,8 @@
     "created_at": "2026-04-22T16:34:14.399369Z",
     "updated_at": "2026-04-22T16:41:48.915455Z",
     "response_count": 1,
-    "question_count": 7
+    "question_count": 7,
+    "override_applied": false
   },
   {
     "id": "tf:pOUwCYuh",
@@ -129,7 +134,8 @@
     "created_at": "2026-04-20T19:34:03.170343Z",
     "updated_at": "2026-04-20T19:54:51.028691Z",
     "response_count": 0,
-    "question_count": 6
+    "question_count": 6,
+    "override_applied": false
   },
   {
     "id": "tf:DGxppepG",
@@ -151,7 +157,8 @@
     "created_at": "2026-04-17T16:18:38.111267Z",
     "updated_at": "2026-04-22T16:10:18.435097Z",
     "response_count": 0,
-    "question_count": 7
+    "question_count": 7,
+    "override_applied": false
   },
   {
     "id": "tf:fP6MWP47",
@@ -173,7 +180,8 @@
     "created_at": "2026-04-17T15:58:32.028102Z",
     "updated_at": "2026-04-17T16:35:30.238547Z",
     "response_count": 1,
-    "question_count": 7
+    "question_count": 7,
+    "override_applied": false
   },
   {
     "id": "tf:qOeOxZxJ",
@@ -195,7 +203,8 @@
     "created_at": "2026-04-17T15:57:31.014691Z",
     "updated_at": "2026-04-17T16:34:53.702692Z",
     "response_count": 1,
-    "question_count": 7
+    "question_count": 7,
+    "override_applied": false
   },
   {
     "id": "tf:I1xmi3JE",
@@ -217,7 +226,8 @@
     "created_at": "2026-04-17T15:55:20.583508Z",
     "updated_at": "2026-04-17T17:33:17.383557Z",
     "response_count": 1,
-    "question_count": 7
+    "question_count": 7,
+    "override_applied": false
   },
   {
     "id": "tf:EGpWbLob",
@@ -239,7 +249,8 @@
     "created_at": "2026-04-17T15:48:34.642626Z",
     "updated_at": "2026-04-17T15:49:29.410842Z",
     "response_count": 14,
-    "question_count": 8
+    "question_count": 8,
+    "override_applied": false
   },
   {
     "id": "tf:TxqN2Zf2",
@@ -261,7 +272,8 @@
     "created_at": "2026-04-16T23:33:35.626744Z",
     "updated_at": "2026-04-16T23:39:23.62261Z",
     "response_count": 0,
-    "question_count": 6
+    "question_count": 6,
+    "override_applied": false
   },
   {
     "id": "tf:asOELBmu",
@@ -283,7 +295,8 @@
     "created_at": "2026-04-16T12:55:29.114503Z",
     "updated_at": "2026-04-16T18:28:20.841171Z",
     "response_count": 1,
-    "question_count": 9
+    "question_count": 9,
+    "override_applied": false
   },
   {
     "id": "tf:EoTe2kb9",
@@ -305,7 +318,8 @@
     "created_at": "2026-04-15T14:21:18.541518Z",
     "updated_at": "2026-04-16T18:31:32.542697Z",
     "response_count": 1,
-    "question_count": 7
+    "question_count": 7,
+    "override_applied": false
   },
   {
     "id": "tf:SMTEYoUl",
@@ -327,7 +341,8 @@
     "created_at": "2026-04-14T21:02:18.423014Z",
     "updated_at": "2026-04-14T21:03:53.859748Z",
     "response_count": 1,
-    "question_count": 7
+    "question_count": 7,
+    "override_applied": false
   },
   {
     "id": "tf:lc0PyFuj",
@@ -349,7 +364,8 @@
     "created_at": "2026-04-14T20:57:03.040419Z",
     "updated_at": "2026-04-14T21:05:04.106202Z",
     "response_count": 1,
-    "question_count": 7
+    "question_count": 7,
+    "override_applied": false
   },
   {
     "id": "tf:kouXkCvB",
@@ -371,7 +387,8 @@
     "created_at": "2026-04-14T20:56:53.366422Z",
     "updated_at": "2026-04-14T21:07:42.294089Z",
     "response_count": 1,
-    "question_count": 7
+    "question_count": 7,
+    "override_applied": false
   },
   {
     "id": "tf:oXthsElW",
@@ -393,7 +410,8 @@
     "created_at": "2026-04-14T20:49:25.966981Z",
     "updated_at": "2026-04-14T20:50:19.643864Z",
     "response_count": 0,
-    "question_count": 7
+    "question_count": 7,
+    "override_applied": false
   },
   {
     "id": "tf:qVqkiUYS",
@@ -415,7 +433,8 @@
     "created_at": "2026-04-14T20:38:32.031293Z",
     "updated_at": "2026-04-14T20:42:50.106993Z",
     "response_count": 0,
-    "question_count": 6
+    "question_count": 6,
+    "override_applied": false
   },
   {
     "id": "tf:hfnKdmx8",
@@ -437,7 +456,8 @@
     "created_at": "2026-04-14T20:38:02.792554Z",
     "updated_at": "2026-04-14T20:44:04.292652Z",
     "response_count": 0,
-    "question_count": 7
+    "question_count": 7,
+    "override_applied": false
   },
   {
     "id": "tf:iOrJ7fSV",
@@ -459,7 +479,8 @@
     "created_at": "2026-04-14T20:37:52.135857Z",
     "updated_at": "2026-04-14T20:41:03.489252Z",
     "response_count": 1,
-    "question_count": 7
+    "question_count": 7,
+    "override_applied": false
   },
   {
     "id": "tf:K1d3sx6P",
@@ -481,7 +502,8 @@
     "created_at": "2026-04-14T20:20:31.376892Z",
     "updated_at": "2026-04-14T20:21:43.06368Z",
     "response_count": 0,
-    "question_count": 7
+    "question_count": 7,
+    "override_applied": false
   },
   {
     "id": "tf:Ln50EU4H",
@@ -503,7 +525,8 @@
     "created_at": "2026-04-14T19:11:48.492382Z",
     "updated_at": "2026-04-14T19:59:32.640188Z",
     "response_count": 0,
-    "question_count": 7
+    "question_count": 7,
+    "override_applied": false
   },
   {
     "id": "tf:QQUviLQM",
@@ -525,7 +548,8 @@
     "created_at": "2026-04-14T18:53:26.759026Z",
     "updated_at": "2026-04-14T18:54:44.206435Z",
     "response_count": 0,
-    "question_count": 7
+    "question_count": 7,
+    "override_applied": false
   },
   {
     "id": "tf:XjDBtpD2",
@@ -547,7 +571,8 @@
     "created_at": "2026-04-14T18:33:56.859585Z",
     "updated_at": "2026-04-14T19:58:37.403892Z",
     "response_count": 0,
-    "question_count": 7
+    "question_count": 7,
+    "override_applied": false
   },
   {
     "id": "tf:VGwHAf1n",
@@ -569,7 +594,8 @@
     "created_at": "2026-04-14T18:33:22.751275Z",
     "updated_at": "2026-04-14T20:01:15.233014Z",
     "response_count": 0,
-    "question_count": 7
+    "question_count": 7,
+    "override_applied": false
   },
   {
     "id": "tf:yiSA0hMX",
@@ -591,7 +617,8 @@
     "created_at": "2026-04-13T14:55:25.769527Z",
     "updated_at": "2026-04-13T16:41:59.236089Z",
     "response_count": 12,
-    "question_count": 8
+    "question_count": 8,
+    "override_applied": false
   },
   {
     "id": "tf:GGVjxXyu",
@@ -613,7 +640,8 @@
     "created_at": "2026-04-11T21:50:58.070765Z",
     "updated_at": "2026-04-13T12:24:04.664664Z",
     "response_count": 0,
-    "question_count": 4
+    "question_count": 4,
+    "override_applied": false
   },
   {
     "id": "tf:RsR4QD9Q",
@@ -635,7 +663,8 @@
     "created_at": "2026-04-10T12:57:40.827208Z",
     "updated_at": "2026-04-10T17:57:13.206633Z",
     "response_count": 1,
-    "question_count": 9
+    "question_count": 9,
+    "override_applied": false
   },
   {
     "id": "tf:OxlJxByx",
@@ -657,7 +686,8 @@
     "created_at": "2026-04-01T15:26:34.139258Z",
     "updated_at": "2026-04-06T13:06:23.160636Z",
     "response_count": 5,
-    "question_count": 8
+    "question_count": 8,
+    "override_applied": false
   },
   {
     "id": "tf:dNSUj9hb",
@@ -679,7 +709,8 @@
     "created_at": "2026-04-01T13:16:50.940355Z",
     "updated_at": "2026-04-14T20:58:42.163854Z",
     "response_count": 21,
-    "question_count": 8
+    "question_count": 8,
+    "override_applied": false
   },
   {
     "id": "tf:IxqiaBuJ",
@@ -701,7 +732,8 @@
     "created_at": "2026-03-25T11:32:20.93048Z",
     "updated_at": "2026-03-25T11:33:39.828091Z",
     "response_count": 14,
-    "question_count": 8
+    "question_count": 8,
+    "override_applied": false
   },
   {
     "id": "tf:wbXjxDZF",
@@ -723,7 +755,8 @@
     "created_at": "2026-03-25T11:05:08.479808Z",
     "updated_at": "2026-03-25T11:08:38.608191Z",
     "response_count": 5,
-    "question_count": 8
+    "question_count": 8,
+    "override_applied": false
   },
   {
     "id": "tf:m4F0TXDP",
@@ -745,7 +778,8 @@
     "created_at": "2026-03-16T19:13:56.98209Z",
     "updated_at": "2026-03-16T19:18:10.379425Z",
     "response_count": 33,
-    "question_count": 8
+    "question_count": 8,
+    "override_applied": false
   },
   {
     "id": "tf:FPLb7U1A",
@@ -767,7 +801,8 @@
     "created_at": "2026-03-16T14:50:25.028898Z",
     "updated_at": "2026-03-16T14:51:21.323368Z",
     "response_count": 7,
-    "question_count": 8
+    "question_count": 8,
+    "override_applied": false
   },
   {
     "id": "tf:wW3PKp7p",
@@ -789,7 +824,8 @@
     "created_at": "2026-03-16T14:26:35.761315Z",
     "updated_at": "2026-03-16T14:29:30.393953Z",
     "response_count": 3,
-    "question_count": 8
+    "question_count": 8,
+    "override_applied": false
   },
   {
     "id": "tf:QzyH3q4X",
@@ -811,7 +847,8 @@
     "created_at": "2026-03-11T13:10:44.696807Z",
     "updated_at": "2026-03-11T13:23:35.352589Z",
     "response_count": 0,
-    "question_count": 8
+    "question_count": 8,
+    "override_applied": false
   },
   {
     "id": "tf:p5NraCNe",
@@ -833,7 +870,8 @@
     "created_at": "2026-03-09T15:42:45.377125Z",
     "updated_at": "2026-04-29T15:19:25.113341Z",
     "response_count": 28,
-    "question_count": 7
+    "question_count": 7,
+    "override_applied": false
   },
   {
     "id": "tf:fZsEUu1C",
@@ -855,7 +893,8 @@
     "created_at": "2026-03-06T19:49:04.50009Z",
     "updated_at": "2026-03-10T12:42:06.453366Z",
     "response_count": 1,
-    "question_count": 6
+    "question_count": 6,
+    "override_applied": false
   },
   {
     "id": "tf:NVSU4sT8",
@@ -877,7 +916,8 @@
     "created_at": "2026-03-06T17:30:16.19336Z",
     "updated_at": "2026-03-06T17:30:16.19336Z",
     "response_count": 0,
-    "question_count": 1
+    "question_count": 1,
+    "override_applied": false
   },
   {
     "id": "tf:e4FcN3Q2",
@@ -899,7 +939,8 @@
     "created_at": "2026-03-04T14:43:31.506025Z",
     "updated_at": "2026-03-04T14:44:22.270919Z",
     "response_count": 0,
-    "question_count": 1
+    "question_count": 1,
+    "override_applied": false
   },
   {
     "id": "tf:Vdvn1Sa1",
@@ -921,7 +962,8 @@
     "created_at": "2026-03-04T14:40:56.030304Z",
     "updated_at": "2026-03-04T14:40:56.030304Z",
     "response_count": 0,
-    "question_count": 1
+    "question_count": 1,
+    "override_applied": false
   },
   {
     "id": "tf:ZgFilcgL",
@@ -943,7 +985,8 @@
     "created_at": "2026-03-03T23:22:42.336042Z",
     "updated_at": "2026-03-05T18:40:31.128931Z",
     "response_count": 1,
-    "question_count": 8
+    "question_count": 8,
+    "override_applied": false
   },
   {
     "id": "tf:ZJEmcJ6c",
@@ -965,7 +1008,8 @@
     "created_at": "2026-03-03T17:10:12.860954Z",
     "updated_at": "2026-04-14T20:59:11.95236Z",
     "response_count": 13,
-    "question_count": 8
+    "question_count": 8,
+    "override_applied": false
   },
   {
     "id": "tf:BihOGKqu",
@@ -987,7 +1031,8 @@
     "created_at": "2026-02-26T20:39:14.115909Z",
     "updated_at": "2026-02-26T20:43:36.015663Z",
     "response_count": 5,
-    "question_count": 8
+    "question_count": 8,
+    "override_applied": false
   },
   {
     "id": "tf:neMz4mSx",
@@ -1009,7 +1054,8 @@
     "created_at": "2026-02-26T20:38:16.08293Z",
     "updated_at": "2026-02-26T20:38:16.08293Z",
     "response_count": 0,
-    "question_count": 1
+    "question_count": 1,
+    "override_applied": false
   },
   {
     "id": "tf:kyh7anpa",
@@ -1031,7 +1077,8 @@
     "created_at": "2026-02-24T22:30:22.508349Z",
     "updated_at": "2026-02-24T22:30:46.565422Z",
     "response_count": 13,
-    "question_count": 8
+    "question_count": 8,
+    "override_applied": false
   },
   {
     "id": "tf:LdoCzm33",
@@ -1053,7 +1100,8 @@
     "created_at": "2026-02-24T22:25:24.151124Z",
     "updated_at": "2026-03-03T15:41:18.097077Z",
     "response_count": 0,
-    "question_count": 8
+    "question_count": 8,
+    "override_applied": false
   },
   {
     "id": "tf:h67UkZdT",
@@ -1075,7 +1123,8 @@
     "created_at": "2026-02-24T22:19:56.690391Z",
     "updated_at": "2026-03-03T15:39:56.115626Z",
     "response_count": 29,
-    "question_count": 8
+    "question_count": 8,
+    "override_applied": false
   },
   {
     "id": "tf:qRl3pSKg",
@@ -1097,7 +1146,8 @@
     "created_at": "2026-02-19T18:49:15.259165Z",
     "updated_at": "2026-02-24T21:44:39.103873Z",
     "response_count": 40,
-    "question_count": 7
+    "question_count": 7,
+    "override_applied": false
   },
   {
     "id": "tf:St2JMnXj",
@@ -1119,7 +1169,8 @@
     "created_at": "2026-02-19T15:39:26.239111Z",
     "updated_at": "2026-02-19T15:39:53.49859Z",
     "response_count": 5,
-    "question_count": 8
+    "question_count": 8,
+    "override_applied": false
   },
   {
     "id": "tf:geOP183R",
@@ -1141,7 +1192,8 @@
     "created_at": "2026-02-17T15:50:00.269822Z",
     "updated_at": "2026-03-05T18:40:51.560054Z",
     "response_count": 10,
-    "question_count": 8
+    "question_count": 8,
+    "override_applied": false
   },
   {
     "id": "tf:qhbDY0UU",
@@ -1163,7 +1215,8 @@
     "created_at": "2026-02-13T17:51:58.984417Z",
     "updated_at": "2026-02-17T17:59:19.548258Z",
     "response_count": 7,
-    "question_count": 8
+    "question_count": 8,
+    "override_applied": false
   },
   {
     "id": "tf:qAcmB99I",
@@ -1185,7 +1238,8 @@
     "created_at": "2026-02-13T13:28:46.812211Z",
     "updated_at": "2026-04-16T12:52:56.297534Z",
     "response_count": 1,
-    "question_count": 8
+    "question_count": 8,
+    "override_applied": false
   },
   {
     "id": "tf:ZJSC9nnb",
@@ -1207,7 +1261,8 @@
     "created_at": "2026-02-12T13:58:54.342771Z",
     "updated_at": "2026-03-05T18:41:26.857242Z",
     "response_count": 0,
-    "question_count": 7
+    "question_count": 7,
+    "override_applied": false
   },
   {
     "id": "tf:SyWtk6ud",
@@ -1229,7 +1284,8 @@
     "created_at": "2026-02-12T13:47:21.69952Z",
     "updated_at": "2026-03-05T18:41:58.559869Z",
     "response_count": 0,
-    "question_count": 7
+    "question_count": 7,
+    "override_applied": false
   },
   {
     "id": "tf:WZs7spzF",
@@ -1251,7 +1307,8 @@
     "created_at": "2026-02-04T16:23:18.283961Z",
     "updated_at": "2026-02-04T16:35:43.62204Z",
     "response_count": 8,
-    "question_count": 9
+    "question_count": 9,
+    "override_applied": false
   },
   {
     "id": "tf:fLhO20Q8",
@@ -1273,7 +1330,8 @@
     "created_at": "2026-02-04T13:30:38.484183Z",
     "updated_at": "2026-02-04T13:30:38.484183Z",
     "response_count": 0,
-    "question_count": 1
+    "question_count": 1,
+    "override_applied": false
   },
   {
     "id": "tf:yJnzVH0J",
@@ -1295,7 +1353,8 @@
     "created_at": "2026-01-26T14:38:01.509124Z",
     "updated_at": "2026-01-30T20:51:23.997374Z",
     "response_count": 11,
-    "question_count": 8
+    "question_count": 8,
+    "override_applied": false
   },
   {
     "id": "tf:gN1akzh2",
@@ -1317,7 +1376,8 @@
     "created_at": "2026-01-26T14:37:31.290266Z",
     "updated_at": "2026-01-26T16:35:55.894048Z",
     "response_count": 12,
-    "question_count": 8
+    "question_count": 8,
+    "override_applied": false
   },
   {
     "id": "tf:n8nmZUVn",
@@ -1339,7 +1399,8 @@
     "created_at": "2026-01-20T22:33:38.43876Z",
     "updated_at": "2026-01-20T22:37:27.794213Z",
     "response_count": 0,
-    "question_count": 8
+    "question_count": 8,
+    "override_applied": false
   },
   {
     "id": "tf:VgI5jYAt",
@@ -1361,7 +1422,8 @@
     "created_at": "2026-01-20T21:33:27.799584Z",
     "updated_at": "2026-01-26T14:47:55.0924Z",
     "response_count": 24,
-    "question_count": 8
+    "question_count": 8,
+    "override_applied": false
   },
   {
     "id": "tf:Xl4e3AIP",
@@ -1383,7 +1445,8 @@
     "created_at": "2026-01-20T21:21:13.006531Z",
     "updated_at": "2026-01-20T21:30:41.505063Z",
     "response_count": 6,
-    "question_count": 8
+    "question_count": 8,
+    "override_applied": false
   },
   {
     "id": "tf:XewV4PEn",
@@ -1405,7 +1468,8 @@
     "created_at": "2026-01-19T15:42:35.583491Z",
     "updated_at": "2026-04-14T20:59:33.145928Z",
     "response_count": 11,
-    "question_count": 8
+    "question_count": 8,
+    "override_applied": false
   },
   {
     "id": "tf:G98nHxYz",
@@ -1427,7 +1491,8 @@
     "created_at": "2025-12-10T20:36:35.893433Z",
     "updated_at": "2025-12-16T20:03:34.097754Z",
     "response_count": 8,
-    "question_count": 1
+    "question_count": 1,
+    "override_applied": false
   },
   {
     "id": "tf:i5hseXj9",
@@ -1449,7 +1514,8 @@
     "created_at": "2025-12-09T16:14:17.884718Z",
     "updated_at": "2025-12-18T21:18:49.431072Z",
     "response_count": 0,
-    "question_count": 8
+    "question_count": 8,
+    "override_applied": false
   },
   {
     "id": "tf:cBbJFiZo",
@@ -1471,7 +1537,8 @@
     "created_at": "2025-12-09T15:51:41.882162Z",
     "updated_at": "2025-12-15T20:21:10.42145Z",
     "response_count": 6,
-    "question_count": 8
+    "question_count": 8,
+    "override_applied": false
   },
   {
     "id": "tf:eKa2hicR",
@@ -1493,7 +1560,8 @@
     "created_at": "2025-12-09T13:32:33.910075Z",
     "updated_at": "2025-12-09T14:44:50.458924Z",
     "response_count": 1,
-    "question_count": 14
+    "question_count": 14,
+    "override_applied": false
   },
   {
     "id": "tf:FuMADaqL",
@@ -1515,7 +1583,8 @@
     "created_at": "2025-12-03T12:38:21.501428Z",
     "updated_at": "2025-12-15T20:21:10.686826Z",
     "response_count": 52,
-    "question_count": 8
+    "question_count": 8,
+    "override_applied": false
   },
   {
     "id": "tf:qNwhH1J8",
@@ -1537,7 +1606,8 @@
     "created_at": "2025-10-23T12:54:25.720794Z",
     "updated_at": "2025-11-26T15:13:19.165835Z",
     "response_count": 33,
-    "question_count": 8
+    "question_count": 8,
+    "override_applied": false
   },
   {
     "id": "tf:euY3bnTL",
@@ -1559,7 +1629,8 @@
     "created_at": "2025-10-17T12:45:31.882073Z",
     "updated_at": "2025-12-15T20:21:10.599245Z",
     "response_count": 11,
-    "question_count": 37
+    "question_count": 37,
+    "override_applied": false
   },
   {
     "id": "tf:FwY56vEG",
@@ -1581,7 +1652,8 @@
     "created_at": "2025-10-09T18:13:28.402786Z",
     "updated_at": "2025-12-15T20:21:10.781567Z",
     "response_count": 2,
-    "question_count": 5
+    "question_count": 5,
+    "override_applied": false
   },
   {
     "id": "tf:UoXHUpVy",
@@ -1603,7 +1675,8 @@
     "created_at": "2025-10-09T17:53:43.858948Z",
     "updated_at": "2025-12-18T21:19:25.716764Z",
     "response_count": 0,
-    "question_count": 5
+    "question_count": 5,
+    "override_applied": false
   },
   {
     "id": "tf:RflOZOER",
@@ -1625,7 +1698,8 @@
     "created_at": "2025-10-01T17:50:50.731953Z",
     "updated_at": "2025-12-15T20:21:11.242061Z",
     "response_count": 34,
-    "question_count": 7
+    "question_count": 7,
+    "override_applied": false
   },
   {
     "id": "tf:Wnttviei",
@@ -1647,7 +1721,8 @@
     "created_at": "2025-09-15T19:46:04.265915Z",
     "updated_at": "2025-12-18T21:19:48.327924Z",
     "response_count": 0,
-    "question_count": 7
+    "question_count": 7,
+    "override_applied": false
   },
   {
     "id": "tf:tVG76MWn",
@@ -1669,7 +1744,8 @@
     "created_at": "2025-09-03T18:44:39.609569Z",
     "updated_at": "2025-12-18T21:20:11.752287Z",
     "response_count": 0,
-    "question_count": 7
+    "question_count": 7,
+    "override_applied": false
   },
   {
     "id": "tf:wtWe5bmt",
@@ -1691,7 +1767,8 @@
     "created_at": "2025-09-03T17:56:51.256739Z",
     "updated_at": "2025-12-15T21:17:24.300008Z",
     "response_count": 0,
-    "question_count": 7
+    "question_count": 7,
+    "override_applied": false
   },
   {
     "id": "tf:gkNENiTm",
@@ -1713,7 +1790,8 @@
     "created_at": "2025-09-03T17:42:43.822343Z",
     "updated_at": "2025-12-18T21:21:28.857292Z",
     "response_count": 0,
-    "question_count": 6
+    "question_count": 6,
+    "override_applied": false
   },
   {
     "id": "tf:spa8kDpY",
@@ -1735,7 +1813,8 @@
     "created_at": "2025-09-02T18:31:28.66394Z",
     "updated_at": "2025-12-18T21:21:52.628944Z",
     "response_count": 1,
-    "question_count": 9
+    "question_count": 9,
+    "override_applied": false
   },
   {
     "id": "tf:rPXDC6C1",
@@ -1757,7 +1836,8 @@
     "created_at": "2025-09-02T12:08:08.612385Z",
     "updated_at": "2025-12-18T21:22:33.531586Z",
     "response_count": 0,
-    "question_count": 6
+    "question_count": 6,
+    "override_applied": false
   },
   {
     "id": "tf:e2m3B6F6",
@@ -1779,7 +1859,8 @@
     "created_at": "2025-09-01T21:02:55.651575Z",
     "updated_at": "2025-12-18T21:23:30.350264Z",
     "response_count": 0,
-    "question_count": 6
+    "question_count": 6,
+    "override_applied": false
   },
   {
     "id": "tf:Iioe7VgM",
@@ -1801,7 +1882,8 @@
     "created_at": "2025-08-20T14:33:06.429964Z",
     "updated_at": "2025-12-18T21:24:11.777802Z",
     "response_count": 0,
-    "question_count": 7
+    "question_count": 7,
+    "override_applied": false
   },
   {
     "id": "tf:kO7ix6x7",
@@ -1823,7 +1905,8 @@
     "created_at": "2025-08-20T14:22:20.215673Z",
     "updated_at": "2025-12-15T20:21:11.139921Z",
     "response_count": 0,
-    "question_count": 8
+    "question_count": 8,
+    "override_applied": false
   },
   {
     "id": "tf:seMiXkJ7",
@@ -1845,7 +1928,8 @@
     "created_at": "2025-08-20T12:47:54.047218Z",
     "updated_at": "2025-12-18T21:24:25.04592Z",
     "response_count": 0,
-    "question_count": 8
+    "question_count": 8,
+    "override_applied": false
   },
   {
     "id": "tf:oLRq9y06",
@@ -1867,7 +1951,8 @@
     "created_at": "2025-07-23T18:25:35.083Z",
     "updated_at": "2025-08-20T14:19:38.17272Z",
     "response_count": 6,
-    "question_count": 6
+    "question_count": 6,
+    "override_applied": false
   },
   {
     "id": "tf:kSiffheC",
@@ -1889,7 +1974,8 @@
     "created_at": "2025-07-18T20:34:15.930876Z",
     "updated_at": "2025-07-23T18:54:40.748846Z",
     "response_count": 0,
-    "question_count": 6
+    "question_count": 6,
+    "override_applied": false
   },
   {
     "id": "sm:417662785",
@@ -1911,7 +1997,8 @@
     "created_at": "2025-03-17T15:45:00",
     "updated_at": "2025-04-03T16:39:00",
     "response_count": 9,
-    "question_count": 5
+    "question_count": 5,
+    "override_applied": false
   },
   {
     "id": "sm:417662125",
@@ -1933,7 +2020,8 @@
     "created_at": "2025-03-17T15:19:00",
     "updated_at": "2025-03-20T13:55:00",
     "response_count": 5,
-    "question_count": 5
+    "question_count": 5,
+    "override_applied": false
   },
   {
     "id": "sm:522667070",
@@ -1955,7 +2043,8 @@
     "created_at": "2025-03-19T22:30:00",
     "updated_at": "2025-03-26T13:55:00",
     "response_count": 4,
-    "question_count": 3
+    "question_count": 3,
+    "override_applied": false
   },
   {
     "id": "sm:522624944",
@@ -1977,7 +2066,8 @@
     "created_at": "2025-03-17T18:40:00",
     "updated_at": "2025-04-07T16:57:00",
     "response_count": 8,
-    "question_count": 8
+    "question_count": 8,
+    "override_applied": false
   },
   {
     "id": "sm:417617635",
@@ -1999,7 +2089,8 @@
     "created_at": "2025-03-13T15:39:00",
     "updated_at": "2025-04-07T21:34:00",
     "response_count": 89,
-    "question_count": 19
+    "question_count": 19,
+    "override_applied": false
   },
   {
     "id": "sm:417664950",
@@ -2021,7 +2112,8 @@
     "created_at": "2025-03-17T17:26:00",
     "updated_at": "2025-03-17T17:26:00",
     "response_count": 0,
-    "question_count": 12
+    "question_count": 12,
+    "override_applied": false
   },
   {
     "id": "sm:522797055",
@@ -2043,7 +2135,8 @@
     "created_at": "2025-03-28T16:47:00",
     "updated_at": "2025-03-31T19:11:00",
     "response_count": 0,
-    "question_count": 6
+    "question_count": 6,
+    "override_applied": false
   },
   {
     "id": "sm:417825660",
@@ -2065,7 +2158,8 @@
     "created_at": "2025-03-27T18:15:00",
     "updated_at": "2026-02-17T17:26:00",
     "response_count": 0,
-    "question_count": 8
+    "question_count": 8,
+    "override_applied": false
   },
   {
     "id": "sm:522621320",
@@ -2087,7 +2181,8 @@
     "created_at": "2025-03-17T15:48:00",
     "updated_at": "2025-05-06T17:12:00",
     "response_count": 7,
-    "question_count": 5
+    "question_count": 5,
+    "override_applied": false
   },
   {
     "id": "sm:417852868",
@@ -2109,7 +2204,8 @@
     "created_at": "2025-03-30T22:26:00",
     "updated_at": "2026-02-04T16:31:00",
     "response_count": 0,
-    "question_count": 10
+    "question_count": 10,
+    "override_applied": false
   },
   {
     "id": "sm:522621344",
@@ -2131,7 +2227,8 @@
     "created_at": "2025-03-17T15:49:00",
     "updated_at": "2025-05-12T18:40:00",
     "response_count": 7,
-    "question_count": 5
+    "question_count": 5,
+    "override_applied": false
   },
   {
     "id": "sm:417665033",
@@ -2153,7 +2250,8 @@
     "created_at": "2025-03-17T17:29:00",
     "updated_at": "2025-04-02T18:01:00",
     "response_count": 11,
-    "question_count": 8
+    "question_count": 8,
+    "override_applied": false
   },
   {
     "id": "sm:522798699",
@@ -2175,7 +2273,8 @@
     "created_at": "2025-03-28T18:33:00",
     "updated_at": "2025-06-03T13:48:00",
     "response_count": 0,
-    "question_count": 7
+    "question_count": 7,
+    "override_applied": false
   },
   {
     "id": "sm:522621380",
@@ -2197,7 +2296,8 @@
     "created_at": "2025-03-17T15:51:00",
     "updated_at": "2025-05-26T19:59:00",
     "response_count": 5,
-    "question_count": 5
+    "question_count": 5,
+    "override_applied": false
   },
   {
     "id": "sm:522796576",
@@ -2219,7 +2319,8 @@
     "created_at": "2025-03-28T16:20:00",
     "updated_at": "2026-02-17T17:31:00",
     "response_count": 0,
-    "question_count": 7
+    "question_count": 7,
+    "override_applied": false
   },
   {
     "id": "sm:417842651",
@@ -2241,7 +2342,8 @@
     "created_at": "2025-03-28T20:36:00",
     "updated_at": "2025-06-18T20:00:00",
     "response_count": 0,
-    "question_count": 8
+    "question_count": 8,
+    "override_applied": false
   },
   {
     "id": "sm:418042416",
@@ -2263,7 +2365,8 @@
     "created_at": "2025-04-11T18:17:00",
     "updated_at": "2025-04-11T18:19:00",
     "response_count": 0,
-    "question_count": 8
+    "question_count": 8,
+    "override_applied": false
   },
   {
     "id": "sm:418042478",
@@ -2285,7 +2388,8 @@
     "created_at": "2025-04-11T18:21:00",
     "updated_at": "2025-04-16T19:05:00",
     "response_count": 8,
-    "question_count": 7
+    "question_count": 7,
+    "override_applied": false
   },
   {
     "id": "sm:418260202",
@@ -2307,7 +2411,8 @@
     "created_at": "2025-04-29T14:48:00",
     "updated_at": "2025-05-05T18:04:00",
     "response_count": 15,
-    "question_count": 8
+    "question_count": 8,
+    "override_applied": false
   },
   {
     "id": "sm:418284263",
@@ -2329,7 +2434,8 @@
     "created_at": "2025-04-30T20:28:00",
     "updated_at": "2025-10-09T11:41:00",
     "response_count": 730,
-    "question_count": 8
+    "question_count": 8,
+    "override_applied": false
   },
   {
     "id": "sm:523499590",
@@ -2351,7 +2457,8 @@
     "created_at": "2025-05-20T17:24:00",
     "updated_at": "2025-06-09T14:32:00",
     "response_count": 11,
-    "question_count": 8
+    "question_count": 8,
+    "override_applied": false
   },
   {
     "id": "sm:523454725",
@@ -2373,7 +2480,8 @@
     "created_at": "2025-05-16T13:12:00",
     "updated_at": "2025-05-21T15:57:00",
     "response_count": 11,
-    "question_count": 8
+    "question_count": 8,
+    "override_applied": false
   },
   {
     "id": "sm:523594005",
@@ -2395,7 +2503,8 @@
     "created_at": "2025-05-28T13:07:00",
     "updated_at": "2025-05-28T13:34:00",
     "response_count": 0,
-    "question_count": 7
+    "question_count": 7,
+    "override_applied": false
   },
   {
     "id": "sm:523595777",
@@ -2417,7 +2526,8 @@
     "created_at": "2025-05-28T14:24:00",
     "updated_at": "2025-05-28T16:58:00",
     "response_count": 2,
-    "question_count": 7
+    "question_count": 7,
+    "override_applied": false
   },
   {
     "id": "sm:418620557",
@@ -2439,7 +2549,8 @@
     "created_at": "2025-05-27T15:49:00",
     "updated_at": "2025-05-27T15:50:00",
     "response_count": 0,
-    "question_count": 7
+    "question_count": 7,
+    "override_applied": false
   },
   {
     "id": "sm:523289623",
@@ -2461,7 +2572,8 @@
     "created_at": "2025-05-05T10:52:00",
     "updated_at": "2025-05-05T12:19:00",
     "response_count": 0,
-    "question_count": 8
+    "question_count": 8,
+    "override_applied": false
   },
   {
     "id": "sm:418369000",
@@ -2483,7 +2595,8 @@
     "created_at": "2025-05-07T13:52:00",
     "updated_at": "2025-05-12T16:32:00",
     "response_count": 21,
-    "question_count": 8
+    "question_count": 8,
+    "override_applied": false
   },
   {
     "id": "sm:418589883",
@@ -2505,7 +2618,8 @@
     "created_at": "2025-05-23T18:53:00",
     "updated_at": "2025-05-27T15:38:00",
     "response_count": 0,
-    "question_count": 7
+    "question_count": 7,
+    "override_applied": false
   },
   {
     "id": "sm:418358274",
@@ -2527,7 +2641,8 @@
     "created_at": "2025-05-06T19:32:00",
     "updated_at": "2025-06-09T16:02:00",
     "response_count": 23,
-    "question_count": 8
+    "question_count": 8,
+    "override_applied": false
   },
   {
     "id": "sm:523564624",
@@ -2549,7 +2664,8 @@
     "created_at": "2025-05-26T14:11:00",
     "updated_at": "2025-06-09T16:48:00",
     "response_count": 15,
-    "question_count": 8
+    "question_count": 8,
+    "override_applied": false
   },
   {
     "id": "sm:418589112",
@@ -2571,7 +2687,8 @@
     "created_at": "2025-05-23T17:52:00",
     "updated_at": "2025-06-19T23:32:00",
     "response_count": 9,
-    "question_count": 11
+    "question_count": 11,
+    "override_applied": false
   },
   {
     "id": "sm:418330467",
@@ -2593,7 +2710,8 @@
     "created_at": "2025-05-05T10:53:00",
     "updated_at": "2025-05-06T17:35:00",
     "response_count": 0,
-    "question_count": 10
+    "question_count": 10,
+    "override_applied": false
   },
   {
     "id": "sm:418349626",
@@ -2615,7 +2733,8 @@
     "created_at": "2025-05-06T12:45:00",
     "updated_at": "2025-05-06T22:18:00",
     "response_count": 9,
-    "question_count": 8
+    "question_count": 8,
+    "override_applied": false
   },
   {
     "id": "sm:418544494",
@@ -2637,7 +2756,8 @@
     "created_at": "2025-05-20T20:27:00",
     "updated_at": "2025-05-20T20:38:00",
     "response_count": 0,
-    "question_count": 7
+    "question_count": 7,
+    "override_applied": false
   },
   {
     "id": "sm:523579087",
@@ -2659,7 +2779,8 @@
     "created_at": "2025-05-27T16:03:00",
     "updated_at": "2025-05-27T16:04:00",
     "response_count": 0,
-    "question_count": 8
+    "question_count": 8,
+    "override_applied": false
   },
   {
     "id": "sm:418559595",
@@ -2681,7 +2802,8 @@
     "created_at": "2025-05-21T18:32:00",
     "updated_at": "2025-07-15T13:44:00",
     "response_count": 2,
-    "question_count": 8
+    "question_count": 8,
+    "override_applied": false
   },
   {
     "id": "sm:523394369",
@@ -2703,7 +2825,8 @@
     "created_at": "2025-05-12T19:54:00",
     "updated_at": "2025-05-24T21:31:00",
     "response_count": 44,
-    "question_count": 8
+    "question_count": 8,
+    "override_applied": false
   },
   {
     "id": "sm:418672945",
@@ -2725,7 +2848,8 @@
     "created_at": "2025-05-30T17:48:00",
     "updated_at": "2025-06-10T18:00:00",
     "response_count": 18,
-    "question_count": 8
+    "question_count": 8,
+    "override_applied": false
   },
   {
     "id": "sm:522283855",
@@ -2747,7 +2871,8 @@
     "created_at": "2025-02-21T13:06:00",
     "updated_at": "2025-03-10T21:34:00",
     "response_count": 62,
-    "question_count": 18
+    "question_count": 18,
+    "override_applied": false
   },
   {
     "id": "sm:522284061",
@@ -2769,7 +2894,8 @@
     "created_at": "2025-02-21T13:24:00",
     "updated_at": "2025-03-12T15:26:00",
     "response_count": 13,
-    "question_count": 3
+    "question_count": 3,
+    "override_applied": false
   },
   {
     "id": "sm:522007766",
@@ -2791,7 +2917,8 @@
     "created_at": "2025-02-03T14:52:00",
     "updated_at": "2025-02-13T18:11:00",
     "response_count": 196,
-    "question_count": 10
+    "question_count": 10,
+    "override_applied": false
   },
   {
     "id": "sm:522213732",
@@ -2813,7 +2940,8 @@
     "created_at": "2025-02-17T12:07:00",
     "updated_at": "2025-07-09T15:00:00",
     "response_count": 6,
-    "question_count": 7
+    "question_count": 7,
+    "override_applied": false
   },
   {
     "id": "sm:417433572",
@@ -2835,7 +2963,8 @@
     "created_at": "2025-02-28T20:16:00",
     "updated_at": "2025-03-26T15:36:00",
     "response_count": 85,
-    "question_count": 15
+    "question_count": 15,
+    "override_applied": false
   },
   {
     "id": "sm:522392158",
@@ -2857,7 +2986,8 @@
     "created_at": "2025-02-28T19:36:00",
     "updated_at": "2025-03-26T15:48:00",
     "response_count": 18,
-    "question_count": 25
+    "question_count": 25,
+    "override_applied": false
   },
   {
     "id": "sm:420775291",
@@ -2879,7 +3009,8 @@
     "created_at": "2025-11-26T11:43:00",
     "updated_at": "2025-11-26T20:53:00",
     "response_count": 9,
-    "question_count": 14
+    "question_count": 14,
+    "override_applied": false
   },
   {
     "id": "sm:525617285",
@@ -2901,7 +3032,8 @@
     "created_at": "2025-11-17T12:07:00",
     "updated_at": "2025-12-12T20:38:00",
     "response_count": 4,
-    "question_count": 8
+    "question_count": 8,
+    "override_applied": false
   },
   {
     "id": "sm:420749052",
@@ -2923,7 +3055,8 @@
     "created_at": "2025-11-24T15:36:00",
     "updated_at": "2025-12-03T14:21:00",
     "response_count": 2,
-    "question_count": 12
+    "question_count": 12,
+    "override_applied": false
   },
   {
     "id": "sm:420522173",
@@ -2945,7 +3078,8 @@
     "created_at": "2025-11-05T14:42:00",
     "updated_at": "2025-11-17T13:41:00",
     "response_count": 5,
-    "question_count": 5
+    "question_count": 5,
+    "override_applied": false
   },
   {
     "id": "sm:420668992",
@@ -2967,7 +3101,8 @@
     "created_at": "2025-11-17T18:58:00",
     "updated_at": "2025-12-09T16:16:00",
     "response_count": 0,
-    "question_count": 8
+    "question_count": 8,
+    "override_applied": false
   },
   {
     "id": "sm:420418223",
@@ -2989,7 +3124,8 @@
     "created_at": "2025-10-28T12:16:00",
     "updated_at": "2025-10-28T12:18:00",
     "response_count": 0,
-    "question_count": 7
+    "question_count": 7,
+    "override_applied": false
   },
   {
     "id": "sm:525198144",
@@ -3011,7 +3147,8 @@
     "created_at": "2025-10-14T12:22:00",
     "updated_at": "2025-10-29T06:58:00",
     "response_count": 13,
-    "question_count": 8
+    "question_count": 8,
+    "override_applied": false
   },
   {
     "id": "sm:420140979",
@@ -3033,7 +3170,8 @@
     "created_at": "2025-10-06T13:32:00",
     "updated_at": "2025-10-07T15:04:00",
     "response_count": 9,
-    "question_count": 8
+    "question_count": 8,
+    "override_applied": false
   },
   {
     "id": "sm:420225492",
@@ -3055,7 +3193,8 @@
     "created_at": "2025-10-13T11:55:00",
     "updated_at": "2025-10-21T17:12:00",
     "response_count": 3,
-    "question_count": 8
+    "question_count": 8,
+    "override_applied": false
   },
   {
     "id": "sm:420189805",
@@ -3077,7 +3216,8 @@
     "created_at": "2025-10-09T12:53:00",
     "updated_at": "2026-03-26T19:39:00",
     "response_count": 0,
-    "question_count": 18
+    "question_count": 18,
+    "override_applied": false
   },
   {
     "id": "sm:420142748",
@@ -3099,7 +3239,8 @@
     "created_at": "2025-10-06T14:54:00",
     "updated_at": "2025-10-07T13:44:00",
     "response_count": 0,
-    "question_count": 8
+    "question_count": 8,
+    "override_applied": false
   },
   {
     "id": "sm:419372409",
@@ -3121,7 +3262,8 @@
     "created_at": "2025-07-30T19:40:00",
     "updated_at": "2025-11-03T20:50:00",
     "response_count": 0,
-    "question_count": 17
+    "question_count": 17,
+    "override_applied": false
   },
   {
     "id": "sm:419177532",
@@ -3143,7 +3285,8 @@
     "created_at": "2025-07-15T17:34:00",
     "updated_at": "2025-08-05T20:48:00",
     "response_count": 18,
-    "question_count": 8
+    "question_count": 8,
+    "override_applied": false
   },
   {
     "id": "sm:524198834",
@@ -3165,7 +3308,8 @@
     "created_at": "2025-07-21T14:06:00",
     "updated_at": "2025-07-23T11:48:00",
     "response_count": 3,
-    "question_count": 5
+    "question_count": 5,
+    "override_applied": false
   },
   {
     "id": "sm:524165363",
@@ -3187,7 +3331,8 @@
     "created_at": "2025-07-17T19:32:00",
     "updated_at": "2025-07-18T18:55:00",
     "response_count": 1,
-    "question_count": 7
+    "question_count": 7,
+    "override_applied": false
   },
   {
     "id": "sm:419174951",
@@ -3209,7 +3354,8 @@
     "created_at": "2025-07-15T14:58:00",
     "updated_at": "2025-07-29T18:06:00",
     "response_count": 6,
-    "question_count": 25
+    "question_count": 25,
+    "override_applied": false
   },
   {
     "id": "sm:419392504",
@@ -3231,7 +3377,8 @@
     "created_at": "2025-07-31T17:36:00",
     "updated_at": "2025-07-31T17:42:00",
     "response_count": 0,
-    "question_count": 8
+    "question_count": 8,
+    "override_applied": false
   },
   {
     "id": "sm:524232800",
@@ -3253,7 +3400,8 @@
     "created_at": "2025-07-23T19:40:00",
     "updated_at": "2025-07-28T14:05:00",
     "response_count": 3,
-    "question_count": 5
+    "question_count": 5,
+    "override_applied": false
   },
   {
     "id": "sm:524173853",
@@ -3275,7 +3423,8 @@
     "created_at": "2025-07-18T14:30:00",
     "updated_at": "2025-08-25T21:45:00",
     "response_count": 1,
-    "question_count": 7
+    "question_count": 7,
+    "override_applied": false
   },
   {
     "id": "sm:524198310",
@@ -3297,7 +3446,8 @@
     "created_at": "2025-07-21T13:32:00",
     "updated_at": "2025-11-14T19:09:00",
     "response_count": 5,
-    "question_count": 8
+    "question_count": 8,
+    "override_applied": false
   },
   {
     "id": "sm:419062989",
@@ -3319,7 +3469,8 @@
     "created_at": "2025-07-03T21:14:00",
     "updated_at": "2025-07-06T12:37:00",
     "response_count": 4,
-    "question_count": 5
+    "question_count": 5,
+    "override_applied": false
   },
   {
     "id": "sm:419173460",
@@ -3341,7 +3492,8 @@
     "created_at": "2025-07-15T13:36:00",
     "updated_at": "2025-07-15T13:47:00",
     "response_count": 0,
-    "question_count": 8
+    "question_count": 8,
+    "override_applied": false
   },
   {
     "id": "sm:419176977",
@@ -3363,7 +3515,8 @@
     "created_at": "2025-07-15T16:58:00",
     "updated_at": "2025-08-21T22:01:00",
     "response_count": 17,
-    "question_count": 8
+    "question_count": 8,
+    "override_applied": false
   },
   {
     "id": "sm:419240640",
@@ -3385,7 +3538,8 @@
     "created_at": "2025-07-21T13:35:00",
     "updated_at": "2025-11-14T18:44:00",
     "response_count": 3,
-    "question_count": 8
+    "question_count": 8,
+    "override_applied": false
   },
   {
     "id": "sm:524173783",
@@ -3407,7 +3561,8 @@
     "created_at": "2025-07-18T14:25:00",
     "updated_at": "2025-07-18T14:26:00",
     "response_count": 0,
-    "question_count": 7
+    "question_count": 7,
+    "override_applied": false
   },
   {
     "id": "sm:419393005",
@@ -3429,7 +3584,8 @@
     "created_at": "2025-07-31T18:09:00",
     "updated_at": "2025-07-31T18:28:00",
     "response_count": 1,
-    "question_count": 8
+    "question_count": 8,
+    "override_applied": false
   },
   {
     "id": "sm:419159361",
@@ -3451,7 +3607,8 @@
     "created_at": "2025-07-14T13:57:00",
     "updated_at": "2025-07-15T17:11:00",
     "response_count": 1,
-    "question_count": 6
+    "question_count": 6,
+    "override_applied": false
   },
   {
     "id": "sm:419392720",
@@ -3473,7 +3630,8 @@
     "created_at": "2025-07-31T17:49:00",
     "updated_at": "2025-07-31T17:50:00",
     "response_count": 0,
-    "question_count": 7
+    "question_count": 7,
+    "override_applied": false
   },
   {
     "id": "sm:524020247",
@@ -3495,7 +3653,8 @@
     "created_at": "2025-07-03T20:15:00",
     "updated_at": "2025-08-01T18:13:00",
     "response_count": 17,
-    "question_count": 12
+    "question_count": 12,
+    "override_applied": false
   },
   {
     "id": "sm:419173492",
@@ -3517,7 +3676,8 @@
     "created_at": "2025-07-15T13:38:00",
     "updated_at": "2025-07-16T00:18:00",
     "response_count": 1,
-    "question_count": 7
+    "question_count": 7,
+    "override_applied": false
   },
   {
     "id": "sm:525028435",
@@ -3539,7 +3699,8 @@
     "created_at": "2025-09-30T14:31:00",
     "updated_at": "2025-09-30T14:31:00",
     "response_count": 0,
-    "question_count": 8
+    "question_count": 8,
+    "override_applied": false
   },
   {
     "id": "sm:524771953",
@@ -3561,7 +3722,8 @@
     "created_at": "2025-09-08T22:27:00",
     "updated_at": "2025-10-01T11:37:00",
     "response_count": 8,
-    "question_count": 8
+    "question_count": 8,
+    "override_applied": false
   },
   {
     "id": "sm:524772055",
@@ -3583,7 +3745,8 @@
     "created_at": "2025-09-08T22:41:00",
     "updated_at": "2025-09-18T09:52:00",
     "response_count": 2,
-    "question_count": 8
+    "question_count": 8,
+    "override_applied": false
   },
   {
     "id": "sm:419890832",
@@ -3605,7 +3768,8 @@
     "created_at": "2025-09-15T15:18:00",
     "updated_at": "2025-09-15T15:18:00",
     "response_count": 0,
-    "question_count": 8
+    "question_count": 8,
+    "override_applied": false
   },
   {
     "id": "sm:420002878",
@@ -3627,7 +3791,8 @@
     "created_at": "2025-09-24T12:07:00",
     "updated_at": "2025-09-24T16:25:00",
     "response_count": 8,
-    "question_count": 5
+    "question_count": 5,
+    "override_applied": false
   },
   {
     "id": "sm:420019316",
@@ -3649,7 +3814,8 @@
     "created_at": "2025-09-25T13:34:00",
     "updated_at": "2025-10-10T12:12:00",
     "response_count": 13,
-    "question_count": 25
+    "question_count": 25,
+    "override_applied": false
   },
   {
     "id": "sm:524977333",
@@ -3671,7 +3837,8 @@
     "created_at": "2025-09-25T14:30:00",
     "updated_at": "2025-10-29T22:51:00",
     "response_count": 6,
-    "question_count": 8
+    "question_count": 8,
+    "override_applied": false
   },
   {
     "id": "sm:419746127",
@@ -3693,7 +3860,8 @@
     "created_at": "2025-09-02T19:02:00",
     "updated_at": "2025-09-17T15:53:00",
     "response_count": 9,
-    "question_count": 22
+    "question_count": 22,
+    "override_applied": false
   },
   {
     "id": "sm:419744599",
@@ -3715,7 +3883,8 @@
     "created_at": "2025-09-02T17:33:00",
     "updated_at": "2025-09-03T13:12:00",
     "response_count": 0,
-    "question_count": 22
+    "question_count": 22,
+    "override_applied": false
   },
   {
     "id": "sm:419950327",
@@ -3737,7 +3906,8 @@
     "created_at": "2025-09-19T13:04:00",
     "updated_at": "2025-09-25T14:29:00",
     "response_count": 8,
-    "question_count": 8
+    "question_count": 8,
+    "override_applied": false
   },
   {
     "id": "sm:419761985",
@@ -3759,7 +3929,8 @@
     "created_at": "2025-09-03T19:52:00",
     "updated_at": "2025-09-22T16:36:00",
     "response_count": 8,
-    "question_count": 8
+    "question_count": 8,
+    "override_applied": false
   },
   {
     "id": "sm:419909034",
@@ -3781,7 +3952,8 @@
     "created_at": "2025-09-16T17:10:00",
     "updated_at": "2025-09-25T23:03:00",
     "response_count": 1,
-    "question_count": 8
+    "question_count": 8,
+    "override_applied": false
   },
   {
     "id": "sm:525028899",
@@ -3803,7 +3975,8 @@
     "created_at": "2025-09-30T14:53:00",
     "updated_at": "2025-10-06T23:05:00",
     "response_count": 21,
-    "question_count": 8
+    "question_count": 8,
+    "override_applied": false
   },
   {
     "id": "sm:419401539",
@@ -3825,7 +3998,8 @@
     "created_at": "2025-08-01T13:44:00",
     "updated_at": "2025-08-13T18:29:00",
     "response_count": 10,
-    "question_count": 8
+    "question_count": 8,
+    "override_applied": false
   },
   {
     "id": "sm:524517956",
@@ -3847,7 +4021,8 @@
     "created_at": "2025-08-14T19:51:00",
     "updated_at": "2025-08-15T17:12:00",
     "response_count": 0,
-    "question_count": 12
+    "question_count": 12,
+    "override_applied": false
   },
   {
     "id": "sm:419560813",
@@ -3869,7 +4044,8 @@
     "created_at": "2025-08-14T20:23:00",
     "updated_at": "2025-10-30T20:53:00",
     "response_count": 176,
-    "question_count": 10
+    "question_count": 10,
+    "override_applied": false
   },
   {
     "id": "sm:524645785",
@@ -3891,7 +4067,8 @@
     "created_at": "2025-08-27T13:32:00",
     "updated_at": "2025-08-28T23:48:00",
     "response_count": 22,
-    "question_count": 8
+    "question_count": 8,
+    "override_applied": false
   },
   {
     "id": "sm:521933226",
@@ -3913,7 +4090,8 @@
     "created_at": "2025-01-28T22:09:00",
     "updated_at": "2025-02-17T12:07:00",
     "response_count": 0,
-    "question_count": 9
+    "question_count": 9,
+    "override_applied": false
   },
   {
     "id": "sm:521661274",
@@ -3935,7 +4113,8 @@
     "created_at": "2025-01-09T15:52:00",
     "updated_at": "2025-01-27T11:30:00",
     "response_count": 25,
-    "question_count": 2
+    "question_count": 2,
+    "override_applied": false
   },
   {
     "id": "sm:416799136",
@@ -3957,7 +4136,8 @@
     "created_at": "2025-01-16T13:59:00",
     "updated_at": "2025-02-05T16:00:00",
     "response_count": 71,
-    "question_count": 18
+    "question_count": 18,
+    "override_applied": false
   },
   {
     "id": "sm:416787412",
@@ -3979,7 +4159,8 @@
     "created_at": "2025-01-15T19:09:00",
     "updated_at": "2025-01-19T00:43:00",
     "response_count": 9,
-    "question_count": 1
+    "question_count": 1,
+    "override_applied": false
   },
   {
     "id": "sm:521968505",
@@ -4001,7 +4182,8 @@
     "created_at": "2025-01-30T20:48:00",
     "updated_at": "2025-05-08T17:09:00",
     "response_count": 121,
-    "question_count": 5
+    "question_count": 5,
+    "override_applied": false
   },
   {
     "id": "sm:521933036",
@@ -4023,7 +4205,8 @@
     "created_at": "2025-01-28T21:55:00",
     "updated_at": "2025-02-21T11:59:00",
     "response_count": 12,
-    "question_count": 3
+    "question_count": 3,
+    "override_applied": false
   },
   {
     "id": "sm:521940734",
@@ -4045,7 +4228,8 @@
     "created_at": "2025-01-29T13:08:00",
     "updated_at": "2025-02-05T16:32:00",
     "response_count": 13,
-    "question_count": 6
+    "question_count": 6,
+    "override_applied": false
   },
   {
     "id": "sm:417008743",
@@ -4067,7 +4251,8 @@
     "created_at": "2025-01-30T20:12:00",
     "updated_at": "2025-02-10T15:56:00",
     "response_count": 8,
-    "question_count": 11
+    "question_count": 11,
+    "override_applied": false
   },
   {
     "id": "sm:418824014",
@@ -4089,7 +4274,8 @@
     "created_at": "2025-06-12T14:30:00",
     "updated_at": "2025-07-07T15:56:00",
     "response_count": 17,
-    "question_count": 8
+    "question_count": 8,
+    "override_applied": false
   },
   {
     "id": "sm:418711656",
@@ -4111,7 +4297,8 @@
     "created_at": "2025-06-03T17:14:00",
     "updated_at": "2025-06-03T17:34:00",
     "response_count": 0,
-    "question_count": 8
+    "question_count": 8,
+    "override_applied": false
   },
   {
     "id": "sm:418710168",
@@ -4133,7 +4320,8 @@
     "created_at": "2025-06-03T15:54:00",
     "updated_at": "2025-06-03T16:20:00",
     "response_count": 0,
-    "question_count": 7
+    "question_count": 7,
+    "override_applied": false
   },
   {
     "id": "sm:523667062",
@@ -4155,7 +4343,8 @@
     "created_at": "2025-06-03T14:58:00",
     "updated_at": "2025-06-03T14:59:00",
     "response_count": 0,
-    "question_count": 7
+    "question_count": 7,
+    "override_applied": false
   },
   {
     "id": "sm:418710808",
@@ -4177,7 +4366,8 @@
     "created_at": "2025-06-03T16:28:00",
     "updated_at": "2026-02-19T00:31:00",
     "response_count": 0,
-    "question_count": 9
+    "question_count": 9,
+    "override_applied": false
   },
   {
     "id": "sm:523944302",
@@ -4199,7 +4389,8 @@
     "created_at": "2025-06-26T17:56:00",
     "updated_at": "2025-10-15T15:30:00",
     "response_count": 5,
-    "question_count": 3
+    "question_count": 3,
+    "override_applied": false
   },
   {
     "id": "sm:418797284",
@@ -4221,7 +4412,8 @@
     "created_at": "2025-06-10T19:15:00",
     "updated_at": "2025-06-12T00:04:00",
     "response_count": 3,
-    "question_count": 5
+    "question_count": 5,
+    "override_applied": false
   },
   {
     "id": "sm:418711108",
@@ -4243,7 +4435,8 @@
     "created_at": "2025-06-03T16:46:00",
     "updated_at": "2025-07-03T22:23:00",
     "response_count": 1,
-    "question_count": 7
+    "question_count": 7,
+    "override_applied": false
   },
   {
     "id": "sm:418708901",
@@ -4265,7 +4458,8 @@
     "created_at": "2025-06-03T14:51:00",
     "updated_at": "2025-06-03T14:56:00",
     "response_count": 0,
-    "question_count": 7
+    "question_count": 7,
+    "override_applied": false
   },
   {
     "id": "sm:418897778",
@@ -4287,7 +4481,8 @@
     "created_at": "2025-06-18T20:08:00",
     "updated_at": "2025-07-31T17:32:00",
     "response_count": 2,
-    "question_count": 7
+    "question_count": 7,
+    "override_applied": false
   },
   {
     "id": "sm:523669376",
@@ -4309,7 +4504,8 @@
     "created_at": "2025-06-03T16:57:00",
     "updated_at": "2025-09-03T15:07:00",
     "response_count": 6,
-    "question_count": 8
+    "question_count": 8,
+    "override_applied": false
   },
   {
     "id": "sm:523856133",
@@ -4331,7 +4527,8 @@
     "created_at": "2025-06-18T20:11:00",
     "updated_at": "2025-07-08T00:57:00",
     "response_count": 3,
-    "question_count": 8
+    "question_count": 8,
+    "override_applied": false
   },
   {
     "id": "sm:523667146",
@@ -4353,7 +4550,8 @@
     "created_at": "2025-06-03T15:01:00",
     "updated_at": "2025-06-03T15:18:00",
     "response_count": 0,
-    "question_count": 8
+    "question_count": 8,
+    "override_applied": false
   },
   {
     "id": "sm:418986180",
@@ -4375,7 +4573,8 @@
     "created_at": "2025-06-26T17:49:00",
     "updated_at": "2025-07-09T04:10:00",
     "response_count": 14,
-    "question_count": 8
+    "question_count": 8,
+    "override_applied": false
   },
   {
     "id": "sm:418896694",
@@ -4397,7 +4596,8 @@
     "created_at": "2025-06-18T18:54:00",
     "updated_at": "2025-09-01T21:34:00",
     "response_count": 0,
-    "question_count": 7
+    "question_count": 7,
+    "override_applied": false
   },
   {
     "id": "sm:523855729",
@@ -4419,7 +4619,8 @@
     "created_at": "2025-06-18T19:42:00",
     "updated_at": "2025-06-18T19:53:00",
     "response_count": 0,
-    "question_count": 8
+    "question_count": 8,
+    "override_applied": false
   },
   {
     "id": "sm:418709920",
@@ -4441,7 +4642,8 @@
     "created_at": "2025-06-03T15:40:00",
     "updated_at": "2025-06-27T02:08:00",
     "response_count": 15,
-    "question_count": 8
+    "question_count": 8,
+    "override_applied": false
   },
   {
     "id": "sm:418724377",
@@ -4463,7 +4665,8 @@
     "created_at": "2025-06-04T14:02:00",
     "updated_at": "2025-06-17T02:59:00",
     "response_count": 9,
-    "question_count": 16
+    "question_count": 16,
+    "override_applied": false
   },
   {
     "id": "sm:418725039",
@@ -4485,7 +4688,8 @@
     "created_at": "2025-06-04T14:35:00",
     "updated_at": "2025-08-20T23:02:00",
     "response_count": 9,
-    "question_count": 7
+    "question_count": 7,
+    "override_applied": false
   },
   {
     "id": "sm:420935129",
@@ -4507,6 +4711,7 @@
     "created_at": "2025-12-11T15:11:00",
     "updated_at": "2025-12-15T10:53:00",
     "response_count": 8,
-    "question_count": 25
+    "question_count": 25,
+    "override_applied": false
   }
 ]

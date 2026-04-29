@@ -1,0 +1,2162 @@
+{
+  "_backup_metadata": {
+    "backed_up_at": "2026-04-27T18:46:01.095113+00:00",
+    "survey_id": "418672945",
+    "title": "Facilitación#2 BG/ CIRION- Potenciando conversaciones desafiantes Encuesta de Reflexión del Participante",
+    "nickname": "",
+    "date_created": null,
+    "date_modified": "2025-06-10T18:00:00",
+    "response_count_listing": 18,
+    "response_count_fetched": 18,
+    "summary_href": "https://api.surveymonkey.com/v3/surveys/418672945"
+  },
+  "details": {
+    "title": "Facilitación#2 BG/ CIRION- Potenciando conversaciones desafiantes Encuesta de Reflexión del Participante",
+    "nickname": "",
+    "language": "en",
+    "folder_id": "2373848",
+    "category": "",
+    "question_count": 8,
+    "page_count": 2,
+    "response_count": 18,
+    "date_created": "2025-05-30T17:48:00",
+    "date_modified": "2025-06-10T18:00:00",
+    "id": "418672945",
+    "buttons_text": {
+      "next_button": "Next",
+      "prev_button": "Prev",
+      "done_button": "Done",
+      "exit_button": ""
+    },
+    "is_owner": true,
+    "owner": "54118456",
+    "footer": true,
+    "theme_id": "22541796",
+    "template_id": "1211",
+    "custom_variables": {},
+    "href": "https://api.surveymonkey.com/v3/surveys/418672945",
+    "analyze_url": "https://www.surveymonkey.com/analyze/DKDQ6n5LCkpA6faXYLWE4LC6_2BX1CJgGCpONAbn3hT4E_3D",
+    "edit_url": "https://www.surveymonkey.com/create/?sm=DKDQ6n5LCkpA6faXYLWE4LC6_2BX1CJgGCpONAbn3hT4E_3D",
+    "collect_url": "https://www.surveymonkey.com/collect/list?sm=DKDQ6n5LCkpA6faXYLWE4LC6_2BX1CJgGCpONAbn3hT4E_3D",
+    "summary_url": "https://www.surveymonkey.com/summary/DKDQ6n5LCkpA6faXYLWE4LC6_2BX1CJgGCpONAbn3hT4E_3D",
+    "preview": "https://www.surveymonkey.com/r/Preview/?sm=7nCSVz2rIOAdM7d8cAuJx9SMNr4uzV2LLEJ_2Bxg4fH_2FRf4k8N7DT0K0wp8zTDiz1z",
+    "pages": [
+      {
+        "title": "¡Gracias por participar!",
+        "description": "<div>Felicitaciones por completar esta sesión. Nos encantaría conocer tus reflexiones sobre la experiencia de hoy: qué te llamó la atención, qué apoyó tu aprendizaje y cómo podemos seguir mejorando.</div>\n<div><br></div>\n<div>Esta breve reflexión tomará menos de 5 minutos y nos ayuda a asegurar que nuestras sesiones sean impactantes, relevantes y alineadas con tus objetivos.</div>\n<div><br></div>\n<div>Tu retroalimentación honesta es esencial. Esta es una oportunidad para modelar una comunicación auténtica —tus ideas nos ayudarán a dar forma y fortalecer este camino de aprendizaje juntos.</div>",
+        "position": 1,
+        "question_count": 0,
+        "id": "66562734",
+        "href": "https://api.surveymonkey.com/v3/surveys/418672945/pages/66562734",
+        "questions": []
+      },
+      {
+        "title": "",
+        "description": "",
+        "position": 2,
+        "question_count": 8,
+        "id": "66562735",
+        "href": "https://api.surveymonkey.com/v3/surveys/418672945/pages/66562735",
+        "questions": [
+          {
+            "id": "247904558",
+            "position": 1,
+            "visible": true,
+            "family": "presentation",
+            "subtype": "descriptive_text",
+            "layout": null,
+            "sorting": null,
+            "required": null,
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Según tu experiencia durante la facilitacion, por favor califica las siguientes afirmaciones."
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/418672945/pages/66562735/questions/247904558",
+            "display_options": {
+              "show_display_number": false
+            }
+          },
+          {
+            "id": "247904551",
+            "position": 2,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Esta facilitación es relevante para mis desafíos o aspiraciones actuales de liderazgo."
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/418672945/pages/66562735/questions/247904551",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "Totalmente de acuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1753333576"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "De acuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1753333577"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "Algo de acuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1753333578"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "En desacuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1753333579"
+                },
+                {
+                  "position": 5,
+                  "visible": true,
+                  "text": "Totalmente en desacuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1753333580"
+                }
+              ]
+            }
+          },
+          {
+            "id": "247904552",
+            "position": 3,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "La sesión fue enriquecedora y apoyó mi aprendizaje."
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/418672945/pages/66562735/questions/247904552",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "Totalmente de acuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1753333581"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "De acuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1753333582"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "Algo de acuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1753333583"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "En desacuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1753333584"
+                },
+                {
+                  "position": 5,
+                  "visible": true,
+                  "text": "Totalmente en desacuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1753333585"
+                }
+              ]
+            }
+          },
+          {
+            "id": "247904555",
+            "position": 4,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "El facilitador fue eficaz en la entrega del contenido y en apoyar mi aprendizaje."
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/418672945/pages/66562735/questions/247904555",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "Totalmente de acuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1753333597"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "De acuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1753333598"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "Algo de acuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1753333599"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "En desacuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1753333600"
+                },
+                {
+                  "position": 5,
+                  "visible": true,
+                  "text": "Totalmente en desacuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1753333601"
+                }
+              ]
+            }
+          },
+          {
+            "id": "247904553",
+            "position": 5,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Me siento confiado en mi capacidad para aplicar lo que aprendí a los desafíos reales en el lugar de trabajo."
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/418672945/pages/66562735/questions/247904553",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "Totalmente de acuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1753333586"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "De acuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1753333587"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "Algo de acuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1753333588"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "En desacuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1753333589"
+                },
+                {
+                  "position": 5,
+                  "visible": true,
+                  "text": "Totalmente en desacuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1753333590"
+                }
+              ]
+            }
+          },
+          {
+            "id": "247904557",
+            "position": 6,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Esta experiencia es coherente con los valores y la cultura que buscamos reflejar en nuestro trabajo diario."
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/418672945/pages/66562735/questions/247904557",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "Totalmente de acuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1753333604"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "De acuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1753333605"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "Algo de acuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1753333606"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "En desacuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1753333607"
+                },
+                {
+                  "position": 5,
+                  "visible": true,
+                  "text": "Totalmente en desacuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1753333608"
+                }
+              ]
+            }
+          },
+          {
+            "id": "247904556",
+            "position": 7,
+            "visible": true,
+            "family": "open_ended",
+            "subtype": "essay",
+            "layout": null,
+            "sorting": null,
+            "required": null,
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "¿Qué temas o herramientas han tenido el mayor impacto en tu forma de pensar o en tu liderazgo hasta ahora?"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/418672945/pages/66562735/questions/247904556"
+          },
+          {
+            "id": "247904554",
+            "position": 8,
+            "visible": true,
+            "family": "open_ended",
+            "subtype": "essay",
+            "layout": null,
+            "sorting": null,
+            "required": null,
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "¿Que podría hacer que tu experiencia mejore en la siguiente sesión?"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/418672945/pages/66562735/questions/247904554"
+          }
+        ]
+      }
+    ]
+  },
+  "responses": [
+    {
+      "id": "114877344019",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "181.143.143.42",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "436020532",
+      "survey_id": "418672945",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=bqO1srdyfA6heaB3LnBRhwfh_2B0xN3H65JYXyBMo6FgnI1vFbzlVgeU_2BUf5i67zJf",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/DKDQ6n5LCkpA6faXYLWE4LC6_2BX1CJgGCpONAbn3hT4E_3D?respondent_id=114877344019",
+      "total_time": 85,
+      "date_modified": "2025-06-10T17:56:37+00:00",
+      "date_created": "2025-06-10T17:55:12+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/418672945/responses/114877344019",
+      "pages": [
+        {
+          "id": "66562734",
+          "questions": []
+        },
+        {
+          "id": "66562735",
+          "questions": [
+            {
+              "id": "247904551",
+              "answers": [
+                {
+                  "choice_id": "1753333576"
+                }
+              ]
+            },
+            {
+              "id": "247904552",
+              "answers": [
+                {
+                  "choice_id": "1753333581"
+                }
+              ]
+            },
+            {
+              "id": "247904555",
+              "answers": [
+                {
+                  "choice_id": "1753333597"
+                }
+              ]
+            },
+            {
+              "id": "247904553",
+              "answers": [
+                {
+                  "choice_id": "1753333586"
+                }
+              ]
+            },
+            {
+              "id": "247904557",
+              "answers": [
+                {
+                  "choice_id": "1753333604"
+                }
+              ]
+            },
+            {
+              "id": "247904556",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Verdad profunda"
+                }
+              ]
+            },
+            {
+              "id": "247904554",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Hasta ahora está bien lo planificado y expuesto"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "114877343882",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "191.95.50.56",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "436020532",
+      "survey_id": "418672945",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=doWeItRgQ_2BPISGnrQMM9RqjHn2fI38eGCTe2dTP0OPlfQgpjqJb9o8moVG1g7Zdt",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/DKDQ6n5LCkpA6faXYLWE4LC6_2BX1CJgGCpONAbn3hT4E_3D?respondent_id=114877343882",
+      "total_time": 97,
+      "date_modified": "2025-06-10T17:56:41+00:00",
+      "date_created": "2025-06-10T17:55:03+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/418672945/responses/114877343882",
+      "pages": [
+        {
+          "id": "66562734",
+          "questions": []
+        },
+        {
+          "id": "66562735",
+          "questions": [
+            {
+              "id": "247904551",
+              "answers": [
+                {
+                  "choice_id": "1753333576"
+                }
+              ]
+            },
+            {
+              "id": "247904552",
+              "answers": [
+                {
+                  "choice_id": "1753333581"
+                }
+              ]
+            },
+            {
+              "id": "247904555",
+              "answers": [
+                {
+                  "choice_id": "1753333597"
+                }
+              ]
+            },
+            {
+              "id": "247904553",
+              "answers": [
+                {
+                  "choice_id": "1753333586"
+                }
+              ]
+            },
+            {
+              "id": "247904557",
+              "answers": [
+                {
+                  "choice_id": "1753333604"
+                }
+              ]
+            },
+            {
+              "id": "247904556",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Conversaciones difíciles "
+                }
+              ]
+            },
+            {
+              "id": "247904554",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Está ok para mi"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "114877344314",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "191.95.53.241",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "436020532",
+      "survey_id": "418672945",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=DWacx0FZpEHI1q758ajDvljM3XwTDE5lY8p7cXHOOsfe9jxnxH1TqxVw4Wm_2FKDjh",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/DKDQ6n5LCkpA6faXYLWE4LC6_2BX1CJgGCpONAbn3hT4E_3D?respondent_id=114877344314",
+      "total_time": 73,
+      "date_modified": "2025-06-10T17:56:46+00:00",
+      "date_created": "2025-06-10T17:55:33+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/418672945/responses/114877344314",
+      "pages": [
+        {
+          "id": "66562734",
+          "questions": []
+        },
+        {
+          "id": "66562735",
+          "questions": [
+            {
+              "id": "247904551",
+              "answers": [
+                {
+                  "choice_id": "1753333576"
+                }
+              ]
+            },
+            {
+              "id": "247904552",
+              "answers": [
+                {
+                  "choice_id": "1753333581"
+                }
+              ]
+            },
+            {
+              "id": "247904555",
+              "answers": [
+                {
+                  "choice_id": "1753333597"
+                }
+              ]
+            },
+            {
+              "id": "247904553",
+              "answers": [
+                {
+                  "choice_id": "1753333586"
+                }
+              ]
+            },
+            {
+              "id": "247904557",
+              "answers": [
+                {
+                  "choice_id": "1753333604"
+                }
+              ]
+            },
+            {
+              "id": "247904556",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Destilación de conversaciones (columna izquierda)"
+                }
+              ]
+            },
+            {
+              "id": "247904554",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Todo es muy satisfactorio hasta el momento "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "114877343963",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "191.95.48.48",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "436020532",
+      "survey_id": "418672945",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=gxaxrpmSh3L6wHYxZL5M0ztAVkXFZ_2F0duGThU3MmECMMCQY2bvFBauTFuoDua7U8",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/DKDQ6n5LCkpA6faXYLWE4LC6_2BX1CJgGCpONAbn3hT4E_3D?respondent_id=114877343963",
+      "total_time": 107,
+      "date_modified": "2025-06-10T17:56:57+00:00",
+      "date_created": "2025-06-10T17:55:09+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/418672945/responses/114877343963",
+      "pages": [
+        {
+          "id": "66562734",
+          "questions": []
+        },
+        {
+          "id": "66562735",
+          "questions": [
+            {
+              "id": "247904551",
+              "answers": [
+                {
+                  "choice_id": "1753333576"
+                }
+              ]
+            },
+            {
+              "id": "247904552",
+              "answers": [
+                {
+                  "choice_id": "1753333581"
+                }
+              ]
+            },
+            {
+              "id": "247904555",
+              "answers": [
+                {
+                  "choice_id": "1753333597"
+                }
+              ]
+            },
+            {
+              "id": "247904553",
+              "answers": [
+                {
+                  "choice_id": "1753333586"
+                }
+              ]
+            },
+            {
+              "id": "247904557",
+              "answers": [
+                {
+                  "choice_id": "1753333604"
+                }
+              ]
+            },
+            {
+              "id": "247904556",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Como construir la conversación. Desde las preguntas y reflexiones propuestas. Muy interesante "
+                }
+              ]
+            },
+            {
+              "id": "247904554",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Ser consciente y participar activamente. "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "114877344518",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "191.95.53.9",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "436020532",
+      "survey_id": "418672945",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=Xqzt8_2BHhOZutF_2FLJUP40pqJuAYvf_2BPr72FjW9881cLpZJXmr3x8HoS1lcsg2nFVw",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/DKDQ6n5LCkpA6faXYLWE4LC6_2BX1CJgGCpONAbn3hT4E_3D?respondent_id=114877344518",
+      "total_time": 69,
+      "date_modified": "2025-06-10T17:57:00+00:00",
+      "date_created": "2025-06-10T17:55:51+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/418672945/responses/114877344518",
+      "pages": [
+        {
+          "id": "66562734",
+          "questions": []
+        },
+        {
+          "id": "66562735",
+          "questions": [
+            {
+              "id": "247904551",
+              "answers": [
+                {
+                  "choice_id": "1753333576"
+                }
+              ]
+            },
+            {
+              "id": "247904552",
+              "answers": [
+                {
+                  "choice_id": "1753333581"
+                }
+              ]
+            },
+            {
+              "id": "247904555",
+              "answers": [
+                {
+                  "choice_id": "1753333597"
+                }
+              ]
+            },
+            {
+              "id": "247904553",
+              "answers": [
+                {
+                  "choice_id": "1753333586"
+                }
+              ]
+            },
+            {
+              "id": "247904557",
+              "answers": [
+                {
+                  "choice_id": "1753333604"
+                }
+              ]
+            },
+            {
+              "id": "247904556",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Columna izquierda"
+                }
+              ]
+            },
+            {
+              "id": "247904554",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Entiendo será una sesión práctica o cual creo será muy productiva "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "114877344414",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "191.95.55.10",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "436020532",
+      "survey_id": "418672945",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=bl_2F9207w4kpKh2QZ6SIwEha_2FkEfvIZrI9f2iwrIpascTDjIXXFro2S6L6pQDslI4",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/DKDQ6n5LCkpA6faXYLWE4LC6_2BX1CJgGCpONAbn3hT4E_3D?respondent_id=114877344414",
+      "total_time": 93,
+      "date_modified": "2025-06-10T17:57:06+00:00",
+      "date_created": "2025-06-10T17:55:32+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/418672945/responses/114877344414",
+      "pages": [
+        {
+          "id": "66562734",
+          "questions": []
+        },
+        {
+          "id": "66562735",
+          "questions": [
+            {
+              "id": "247904551",
+              "answers": [
+                {
+                  "choice_id": "1753333577"
+                }
+              ]
+            },
+            {
+              "id": "247904552",
+              "answers": [
+                {
+                  "choice_id": "1753333582"
+                }
+              ]
+            },
+            {
+              "id": "247904555",
+              "answers": [
+                {
+                  "choice_id": "1753333598"
+                }
+              ]
+            },
+            {
+              "id": "247904553",
+              "answers": [
+                {
+                  "choice_id": "1753333587"
+                }
+              ]
+            },
+            {
+              "id": "247904557",
+              "answers": [
+                {
+                  "choice_id": "1753333604"
+                }
+              ]
+            },
+            {
+              "id": "247904556",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Columna Izquierda"
+                }
+              ]
+            },
+            {
+              "id": "247904554",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Llevarlo a la práctica"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "114877344305",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "172.225.238.101",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "436020532",
+      "survey_id": "418672945",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=ihdwYkSvTvzVmmKE5r8653IxbsRehUJMrL0epkpzSBJJxfqALiEnW_2FlckADp24ml",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/DKDQ6n5LCkpA6faXYLWE4LC6_2BX1CJgGCpONAbn3hT4E_3D?respondent_id=114877344305",
+      "total_time": 110,
+      "date_modified": "2025-06-10T17:57:11+00:00",
+      "date_created": "2025-06-10T17:55:20+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/418672945/responses/114877344305",
+      "pages": [
+        {
+          "id": "66562734",
+          "questions": []
+        },
+        {
+          "id": "66562735",
+          "questions": [
+            {
+              "id": "247904551",
+              "answers": [
+                {
+                  "choice_id": "1753333577"
+                }
+              ]
+            },
+            {
+              "id": "247904552",
+              "answers": [
+                {
+                  "choice_id": "1753333582"
+                }
+              ]
+            },
+            {
+              "id": "247904555",
+              "answers": [
+                {
+                  "choice_id": "1753333597"
+                }
+              ]
+            },
+            {
+              "id": "247904553",
+              "answers": [
+                {
+                  "choice_id": "1753333587"
+                }
+              ]
+            },
+            {
+              "id": "247904557",
+              "answers": [
+                {
+                  "choice_id": "1753333605"
+                }
+              ]
+            },
+            {
+              "id": "247904556",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Concepto de la Columna Izquierda "
+                }
+              ]
+            },
+            {
+              "id": "247904554",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Es un proceso, con el tiempo se hace más fácil y se entiende mejor la metodología "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "114877344516",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "191.95.49.219",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "436020532",
+      "survey_id": "418672945",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=Tw1eeANUMB_2FVtKxFUVLGe_2BkvFFdcWPqHRafdgsZY1_2BHjxuTeKTP1A5IIngMUnVOJ",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/DKDQ6n5LCkpA6faXYLWE4LC6_2BX1CJgGCpONAbn3hT4E_3D?respondent_id=114877344516",
+      "total_time": 86,
+      "date_modified": "2025-06-10T17:57:15+00:00",
+      "date_created": "2025-06-10T17:55:48+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/418672945/responses/114877344516",
+      "pages": [
+        {
+          "id": "66562734",
+          "questions": []
+        },
+        {
+          "id": "66562735",
+          "questions": [
+            {
+              "id": "247904551",
+              "answers": [
+                {
+                  "choice_id": "1753333576"
+                }
+              ]
+            },
+            {
+              "id": "247904552",
+              "answers": [
+                {
+                  "choice_id": "1753333581"
+                }
+              ]
+            },
+            {
+              "id": "247904555",
+              "answers": [
+                {
+                  "choice_id": "1753333597"
+                }
+              ]
+            },
+            {
+              "id": "247904553",
+              "answers": [
+                {
+                  "choice_id": "1753333586"
+                }
+              ]
+            },
+            {
+              "id": "247904557",
+              "answers": [
+                {
+                  "choice_id": "1753333605"
+                }
+              ]
+            },
+            {
+              "id": "247904556",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Conversaciones difíciles "
+                }
+              ]
+            },
+            {
+              "id": "247904554",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Compartir experiencias / mentoring"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "114877344279",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "191.156.41.192",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "436020532",
+      "survey_id": "418672945",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=EN_2Foh6WVrmVbVFHU7PZPaStEi7LfSiGNBn1unuKDm96lHVG5vIeKld8PgyqfBl0U",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/DKDQ6n5LCkpA6faXYLWE4LC6_2BX1CJgGCpONAbn3hT4E_3D?respondent_id=114877344279",
+      "total_time": 111,
+      "date_modified": "2025-06-10T17:57:21+00:00",
+      "date_created": "2025-06-10T17:55:30+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/418672945/responses/114877344279",
+      "pages": [
+        {
+          "id": "66562734",
+          "questions": []
+        },
+        {
+          "id": "66562735",
+          "questions": [
+            {
+              "id": "247904551",
+              "answers": [
+                {
+                  "choice_id": "1753333576"
+                }
+              ]
+            },
+            {
+              "id": "247904552",
+              "answers": [
+                {
+                  "choice_id": "1753333581"
+                }
+              ]
+            },
+            {
+              "id": "247904555",
+              "answers": [
+                {
+                  "choice_id": "1753333597"
+                }
+              ]
+            },
+            {
+              "id": "247904553",
+              "answers": [
+                {
+                  "choice_id": "1753333586"
+                }
+              ]
+            },
+            {
+              "id": "247904557",
+              "answers": [
+                {
+                  "choice_id": "1753333604"
+                }
+              ]
+            },
+            {
+              "id": "247904556",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Para la sesión de hoy las herramientas asociadas al análisis y tratamiento de la columna izquierda "
+                }
+              ]
+            },
+            {
+              "id": "247904554",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Continúar con los casos prácticos "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "114877344400",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "191.95.54.173",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "436020532",
+      "survey_id": "418672945",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=UwiXq5OWl9_2F9vmOaFNI_2Fqz8a9ZOgVYH2QYy42o_2BfZpzv8GmtsVDDX_2BgZSw0jgXhz",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/DKDQ6n5LCkpA6faXYLWE4LC6_2BX1CJgGCpONAbn3hT4E_3D?respondent_id=114877344400",
+      "total_time": 104,
+      "date_modified": "2025-06-10T17:57:22+00:00",
+      "date_created": "2025-06-10T17:55:37+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/418672945/responses/114877344400",
+      "pages": [
+        {
+          "id": "66562734",
+          "questions": []
+        },
+        {
+          "id": "66562735",
+          "questions": [
+            {
+              "id": "247904551",
+              "answers": [
+                {
+                  "choice_id": "1753333576"
+                }
+              ]
+            },
+            {
+              "id": "247904552",
+              "answers": [
+                {
+                  "choice_id": "1753333581"
+                }
+              ]
+            },
+            {
+              "id": "247904555",
+              "answers": [
+                {
+                  "choice_id": "1753333597"
+                }
+              ]
+            },
+            {
+              "id": "247904553",
+              "answers": [
+                {
+                  "choice_id": "1753333586"
+                }
+              ]
+            },
+            {
+              "id": "247904557",
+              "answers": [
+                {
+                  "choice_id": "1753333604"
+                }
+              ]
+            },
+            {
+              "id": "247904556",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "El manejo de la verdad profunda es muy. Interesante "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "114877344127",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "191.95.49.69",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "436020532",
+      "survey_id": "418672945",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=YrU3ZRoNuTKR_2B5W0LTb_2BLogD3y1MiHseS7uZnUoYPbXSyPBLsdbYoPBoVfFHvz5U",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/DKDQ6n5LCkpA6faXYLWE4LC6_2BX1CJgGCpONAbn3hT4E_3D?respondent_id=114877344127",
+      "total_time": 125,
+      "date_modified": "2025-06-10T17:57:28+00:00",
+      "date_created": "2025-06-10T17:55:22+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/418672945/responses/114877344127",
+      "pages": [
+        {
+          "id": "66562734",
+          "questions": []
+        },
+        {
+          "id": "66562735",
+          "questions": [
+            {
+              "id": "247904551",
+              "answers": [
+                {
+                  "choice_id": "1753333576"
+                }
+              ]
+            },
+            {
+              "id": "247904552",
+              "answers": [
+                {
+                  "choice_id": "1753333581"
+                }
+              ]
+            },
+            {
+              "id": "247904555",
+              "answers": [
+                {
+                  "choice_id": "1753333597"
+                }
+              ]
+            },
+            {
+              "id": "247904553",
+              "answers": [
+                {
+                  "choice_id": "1753333586"
+                }
+              ]
+            },
+            {
+              "id": "247904557",
+              "answers": [
+                {
+                  "choice_id": "1753333604"
+                }
+              ]
+            },
+            {
+              "id": "247904556",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Asumir un rol activo como socio. Decantar las conversaciones y tener la habilidad de dirigirlas adecuadamente "
+                }
+              ]
+            },
+            {
+              "id": "247904554",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Casos reales y situaciones difíciles "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "114877343944",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "191.95.48.171",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "436020532",
+      "survey_id": "418672945",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=vRhzJkSh2Os0_2FjpdP0A9SP_2FxWv6QZezZjB_2BCQA3JAGO_2BQ_2BwGgopZtu_2FjOMkYPsG5",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/DKDQ6n5LCkpA6faXYLWE4LC6_2BX1CJgGCpONAbn3hT4E_3D?respondent_id=114877343944",
+      "total_time": 142,
+      "date_modified": "2025-06-10T17:57:29+00:00",
+      "date_created": "2025-06-10T17:55:06+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/418672945/responses/114877343944",
+      "pages": [
+        {
+          "id": "66562734",
+          "questions": []
+        },
+        {
+          "id": "66562735",
+          "questions": [
+            {
+              "id": "247904551",
+              "answers": [
+                {
+                  "choice_id": "1753333576"
+                }
+              ]
+            },
+            {
+              "id": "247904552",
+              "answers": [
+                {
+                  "choice_id": "1753333582"
+                }
+              ]
+            },
+            {
+              "id": "247904555",
+              "answers": [
+                {
+                  "choice_id": "1753333597"
+                }
+              ]
+            },
+            {
+              "id": "247904553",
+              "answers": [
+                {
+                  "choice_id": "1753333588"
+                }
+              ]
+            },
+            {
+              "id": "247904557",
+              "answers": [
+                {
+                  "choice_id": "1753333604"
+                }
+              ]
+            },
+            {
+              "id": "247904556",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "La columna izquierda "
+                }
+              ]
+            },
+            {
+              "id": "247904554",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Más ejemplos que permitan identificar esas situaciones que se explican en el taller "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "114877344086",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "191.95.51.56",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "436020532",
+      "survey_id": "418672945",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=aHAq3MBQz89JTfQP4Q4ed3y0_2BglWtCJfjY_2Fd52HX_2BdvazHqA41Kco5D4133lUc3Q",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/DKDQ6n5LCkpA6faXYLWE4LC6_2BX1CJgGCpONAbn3hT4E_3D?respondent_id=114877344086",
+      "total_time": 138,
+      "date_modified": "2025-06-10T17:57:31+00:00",
+      "date_created": "2025-06-10T17:55:12+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/418672945/responses/114877344086",
+      "pages": [
+        {
+          "id": "66562734",
+          "questions": []
+        },
+        {
+          "id": "66562735",
+          "questions": [
+            {
+              "id": "247904551",
+              "answers": [
+                {
+                  "choice_id": "1753333576"
+                }
+              ]
+            },
+            {
+              "id": "247904552",
+              "answers": [
+                {
+                  "choice_id": "1753333581"
+                }
+              ]
+            },
+            {
+              "id": "247904555",
+              "answers": [
+                {
+                  "choice_id": "1753333597"
+                }
+              ]
+            },
+            {
+              "id": "247904553",
+              "answers": [
+                {
+                  "choice_id": "1753333586"
+                }
+              ]
+            },
+            {
+              "id": "247904557",
+              "answers": [
+                {
+                  "choice_id": "1753333604"
+                }
+              ]
+            },
+            {
+              "id": "247904556",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Cómo enfocar las conservaciones difíciles (destilar la columna izquierda."
+                }
+              ]
+            },
+            {
+              "id": "247904554",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Me parece bien como se está llevando el proceso. No tengo sugerencias."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "114877344502",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "191.95.51.167",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "436020532",
+      "survey_id": "418672945",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=r3R8xnaRIgKRKJCEYF94R6mDTd0hG6ArV9ELeQ8Eb2kgOh5Vk30V2Uq4xDAWAMP7",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/DKDQ6n5LCkpA6faXYLWE4LC6_2BX1CJgGCpONAbn3hT4E_3D?respondent_id=114877344502",
+      "total_time": 121,
+      "date_modified": "2025-06-10T17:57:45+00:00",
+      "date_created": "2025-06-10T17:55:44+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/418672945/responses/114877344502",
+      "pages": [
+        {
+          "id": "66562734",
+          "questions": []
+        },
+        {
+          "id": "66562735",
+          "questions": [
+            {
+              "id": "247904551",
+              "answers": [
+                {
+                  "choice_id": "1753333576"
+                }
+              ]
+            },
+            {
+              "id": "247904552",
+              "answers": [
+                {
+                  "choice_id": "1753333581"
+                }
+              ]
+            },
+            {
+              "id": "247904555",
+              "answers": [
+                {
+                  "choice_id": "1753333597"
+                }
+              ]
+            },
+            {
+              "id": "247904553",
+              "answers": [
+                {
+                  "choice_id": "1753333586"
+                }
+              ]
+            },
+            {
+              "id": "247904557",
+              "answers": [
+                {
+                  "choice_id": "1753333604"
+                }
+              ]
+            },
+            {
+              "id": "247904556",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Hechos reales Vs opinión \nMi verdad absoluta "
+                }
+              ]
+            },
+            {
+              "id": "247904554",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": ".todo ok "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "114877344324",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "181.143.143.42",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "436020532",
+      "survey_id": "418672945",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=Ox8n7wT285rgxKfM_2BdT0UTDiiJygM7yDAHhPzfHxsnojPPAr8i_2F1zkZfj2WwPK_2Fb",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/DKDQ6n5LCkpA6faXYLWE4LC6_2BX1CJgGCpONAbn3hT4E_3D?respondent_id=114877344324",
+      "total_time": 145,
+      "date_modified": "2025-06-10T17:57:56+00:00",
+      "date_created": "2025-06-10T17:55:31+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/418672945/responses/114877344324",
+      "pages": [
+        {
+          "id": "66562734",
+          "questions": []
+        },
+        {
+          "id": "66562735",
+          "questions": [
+            {
+              "id": "247904551",
+              "answers": [
+                {
+                  "choice_id": "1753333576"
+                }
+              ]
+            },
+            {
+              "id": "247904552",
+              "answers": [
+                {
+                  "choice_id": "1753333581"
+                }
+              ]
+            },
+            {
+              "id": "247904555",
+              "answers": [
+                {
+                  "choice_id": "1753333597"
+                }
+              ]
+            },
+            {
+              "id": "247904553",
+              "answers": [
+                {
+                  "choice_id": "1753333586"
+                }
+              ]
+            },
+            {
+              "id": "247904557",
+              "answers": [
+                {
+                  "choice_id": "1753333604"
+                }
+              ]
+            },
+            {
+              "id": "247904556",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Cómo llegar a mi verdad profunda"
+                }
+              ]
+            },
+            {
+              "id": "247904554",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Ir practicando lo aprendido diaria mente "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "114877345907",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "191.95.53.232",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "436020532",
+      "survey_id": "418672945",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=kyQnoCpLRS_2BChpQwJFaK4AjFw44SEOyTM5277rfbi2MWbLcUqX2SZL5zuyTZNczo",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/DKDQ6n5LCkpA6faXYLWE4LC6_2BX1CJgGCpONAbn3hT4E_3D?respondent_id=114877345907",
+      "total_time": 50,
+      "date_modified": "2025-06-10T17:58:13+00:00",
+      "date_created": "2025-06-10T17:57:23+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/418672945/responses/114877345907",
+      "pages": [
+        {
+          "id": "66562734",
+          "questions": []
+        },
+        {
+          "id": "66562735",
+          "questions": [
+            {
+              "id": "247904551",
+              "answers": [
+                {
+                  "choice_id": "1753333576"
+                }
+              ]
+            },
+            {
+              "id": "247904552",
+              "answers": [
+                {
+                  "choice_id": "1753333582"
+                }
+              ]
+            },
+            {
+              "id": "247904555",
+              "answers": [
+                {
+                  "choice_id": "1753333597"
+                }
+              ]
+            },
+            {
+              "id": "247904553",
+              "answers": [
+                {
+                  "choice_id": "1753333586"
+                }
+              ]
+            },
+            {
+              "id": "247904557",
+              "answers": [
+                {
+                  "choice_id": "1753333605"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "114877344498",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "191.95.53.60",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "436020532",
+      "survey_id": "418672945",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=oaBlP2884GAGCB5LBOQ1qH4FUqaHXFLgb4_2BHNvk0pFUIlmYLJzxc_2F3rKDG2kY4_2BB",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/DKDQ6n5LCkpA6faXYLWE4LC6_2BX1CJgGCpONAbn3hT4E_3D?respondent_id=114877344498",
+      "total_time": 165,
+      "date_modified": "2025-06-10T17:58:24+00:00",
+      "date_created": "2025-06-10T17:55:39+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/418672945/responses/114877344498",
+      "pages": [
+        {
+          "id": "66562734",
+          "questions": []
+        },
+        {
+          "id": "66562735",
+          "questions": [
+            {
+              "id": "247904551",
+              "answers": [
+                {
+                  "choice_id": "1753333577"
+                }
+              ]
+            },
+            {
+              "id": "247904552",
+              "answers": [
+                {
+                  "choice_id": "1753333582"
+                }
+              ]
+            },
+            {
+              "id": "247904555",
+              "answers": [
+                {
+                  "choice_id": "1753333597"
+                }
+              ]
+            },
+            {
+              "id": "247904553",
+              "answers": [
+                {
+                  "choice_id": "1753333586"
+                }
+              ]
+            },
+            {
+              "id": "247904557",
+              "answers": [
+                {
+                  "choice_id": "1753333605"
+                }
+              ]
+            },
+            {
+              "id": "247904556",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "La importancia de una comunicación efectiva con el convencimiento que es una de las fallas actuales que no nos permite avanzar "
+                }
+              ]
+            },
+            {
+              "id": "247904554",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Mas ejercicios prácticos "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "114877346016",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "191.95.54.151",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "436020532",
+      "survey_id": "418672945",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=XFx1SRDJY4w6o0nkUOhnm0Um0ijc_2B0GRzmw0iToVMzn30YQY3HEw2uWFOd8_2F_2BpDF",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/DKDQ6n5LCkpA6faXYLWE4LC6_2BX1CJgGCpONAbn3hT4E_3D?respondent_id=114877346016",
+      "total_time": 137,
+      "date_modified": "2025-06-10T17:59:47+00:00",
+      "date_created": "2025-06-10T17:57:30+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/418672945/responses/114877346016",
+      "pages": [
+        {
+          "id": "66562734",
+          "questions": []
+        },
+        {
+          "id": "66562735",
+          "questions": [
+            {
+              "id": "247904551",
+              "answers": [
+                {
+                  "choice_id": "1753333576"
+                }
+              ]
+            },
+            {
+              "id": "247904552",
+              "answers": [
+                {
+                  "choice_id": "1753333582"
+                }
+              ]
+            },
+            {
+              "id": "247904555",
+              "answers": [
+                {
+                  "choice_id": "1753333599"
+                }
+              ]
+            },
+            {
+              "id": "247904553",
+              "answers": [
+                {
+                  "choice_id": "1753333587"
+                }
+              ]
+            },
+            {
+              "id": "247904557",
+              "answers": [
+                {
+                  "choice_id": "1753333605"
+                }
+              ]
+            },
+            {
+              "id": "247904556",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "La evaluación "
+                }
+              ]
+            },
+            {
+              "id": "247904554",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Dedicar más tiempo a las sesiones claves, ya creo que hemos visto mucho las matrices corporativas y no ahondaría más en eso. "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

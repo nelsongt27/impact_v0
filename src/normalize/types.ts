@@ -37,6 +37,45 @@ export interface CanonicalSurvey {
   updated_at: string | null;
   response_count: number;
   question_count: number;
+  override_applied: boolean;
+}
+
+export interface SurveyOverride {
+  client?: string | null;
+  program?: string | null;
+  survey_family?: SurveyFamily;
+  country?: string | null;
+  language?: "es" | "en" | "pt" | null;
+}
+
+export interface OverridesFile {
+  version: number;
+  updated_at: string;
+  surveys: Record<string, SurveyOverride>;
+}
+
+export interface ChangelogEntry {
+  id: string;
+  title: string;
+  source: Source;
+}
+
+export interface ChangelogUpdated extends ChangelogEntry {
+  previous_response_count: number;
+  current_response_count: number;
+  delta: number;
+}
+
+export interface ChangelogUnmapped extends ChangelogEntry {
+  missing: Array<"client" | "program" | "survey_family">;
+}
+
+export interface Changelog {
+  generated_at: string;
+  previous_run_at: string | null;
+  new_forms: ChangelogEntry[];
+  updated_forms: ChangelogUpdated[];
+  unmapped_forms: ChangelogUnmapped[];
 }
 
 export interface CanonicalDimensions {

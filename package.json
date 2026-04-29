@@ -8,6 +8,7 @@
     "extract:typeform": "bun run src/typeform/extract.ts",
     "extract:typeform:full": "bun run src/typeform/extract.ts --full",
     "normalize": "bun run src/normalize/normalize.ts",
+    "refresh": "bun run extract && bun run normalize",
     "dev": "next dev",
     "build": "next build",
     "start": "next start"

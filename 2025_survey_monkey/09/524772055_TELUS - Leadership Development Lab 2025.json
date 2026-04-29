@@ -1,0 +1,652 @@
+{
+  "_backup_metadata": {
+    "backed_up_at": "2026-04-27T18:44:12.266870+00:00",
+    "survey_id": "524772055",
+    "title": "TELUS - Leadership Development Lab 2025",
+    "nickname": "",
+    "date_created": null,
+    "date_modified": "2025-09-18T09:52:00",
+    "response_count_listing": 2,
+    "response_count_fetched": 2,
+    "summary_href": "https://api.surveymonkey.com/v3/surveys/524772055"
+  },
+  "details": {
+    "title": "TELUS - Leadership Development Lab 2025",
+    "nickname": "",
+    "language": "en",
+    "folder_id": "0",
+    "category": "",
+    "question_count": 8,
+    "page_count": 1,
+    "response_count": 2,
+    "date_created": "2025-09-08T22:41:00",
+    "date_modified": "2025-09-18T09:52:00",
+    "id": "524772055",
+    "buttons_text": {
+      "next_button": "Next",
+      "prev_button": "Prev",
+      "done_button": "Done",
+      "exit_button": ""
+    },
+    "is_owner": true,
+    "owner": "54118456",
+    "footer": true,
+    "theme_id": "22541796",
+    "template_id": "1211",
+    "custom_variables": {},
+    "href": "https://api.surveymonkey.com/v3/surveys/524772055",
+    "analyze_url": "https://www.surveymonkey.com/analyze/_2Fz0WUEMxWtHbMiUgkHBQbbgywWtwNRe0ITwWWVjNVvU_3D",
+    "edit_url": "https://www.surveymonkey.com/create/?sm=_2Fz0WUEMxWtHbMiUgkHBQbbgywWtwNRe0ITwWWVjNVvU_3D",
+    "collect_url": "https://www.surveymonkey.com/collect/list?sm=_2Fz0WUEMxWtHbMiUgkHBQbbgywWtwNRe0ITwWWVjNVvU_3D",
+    "summary_url": "https://www.surveymonkey.com/summary/_2Fz0WUEMxWtHbMiUgkHBQbbgywWtwNRe0ITwWWVjNVvU_3D",
+    "preview": "https://www.surveymonkey.com/r/Preview/?sm=qrT1OiP6M8eALsMwISF_2F8LCjLCidzFtLX6tCGh6bKvGYbDALtkjVKC1632vHQqVs",
+    "pages": [
+      {
+        "title": "Thank You for Participating!",
+        "description": "<div>Congratulations on completing this program. We’d love to hear your reflections on today’s experience—what stood out, what supported your learning, and how we can continue to improve.</div>\n<div><br></div>\n<div>This short reflection <strong>will take less than 5 minutes</strong> and helps us ensure our sessions are impactful, relevant, and aligned with your goals.</div>\n<div><br></div>\n<div>Your honest feedback is essential. This is an opportunity to model authentic communication —your insights will help us shape and strengthen this learning journey together.</div>",
+        "position": 1,
+        "question_count": 8,
+        "id": "69284509",
+        "href": "https://api.surveymonkey.com/v3/surveys/524772055/pages/69284509",
+        "questions": [
+          {
+            "id": "259483787",
+            "position": 1,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "This program is <strong>relevant</strong> to my current leadership challenges and aspirations."
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/524772055/pages/69284509/questions/259483787",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "Strongly agree",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1828879633"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "Agree",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1828879634"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "Somewhat agree",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1828879635"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "Disagree",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1828879636"
+                },
+                {
+                  "position": 5,
+                  "visible": true,
+                  "text": "Strongly disagree",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1828879637"
+                }
+              ]
+            }
+          },
+          {
+            "id": "259483788",
+            "position": 2,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "This program was <strong>engaging and supported my learning.</strong>"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/524772055/pages/69284509/questions/259483788",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "Strongly agree",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1828879638"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "Agree",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1828879639"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "Somewhat agree",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1828879640"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "Disagree",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1828879641"
+                },
+                {
+                  "position": 5,
+                  "visible": true,
+                  "text": "Strongly disagree",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1828879642"
+                }
+              ]
+            }
+          },
+          {
+            "id": "259483791",
+            "position": 3,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "The facilitators <strong>(Anabel Dumlao and Edwin Cahanding )</strong> were effective in delivering the content and supporting my learning"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/524772055/pages/69284509/questions/259483791",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "Strongly agree",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1828879654"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "Agree",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1828879655"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "Somewhat agree",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1828879656"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "Disagree",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1828879657"
+                },
+                {
+                  "position": 5,
+                  "visible": true,
+                  "text": "Strongly disagree",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1828879658"
+                }
+              ]
+            }
+          },
+          {
+            "id": "259483789",
+            "position": 4,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "I feel <strong>confident in my ability to apply</strong> what I learned to real workplace challenges."
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/524772055/pages/69284509/questions/259483789",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "Strongly agree",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1828879643"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "Agree",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1828879644"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "Somewhat agree",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1828879645"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "Disagree",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1828879646"
+                },
+                {
+                  "position": 5,
+                  "visible": true,
+                  "text": "Strongly disagree",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1828879647"
+                }
+              ]
+            }
+          },
+          {
+            "id": "259483793",
+            "position": 5,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "This experience is <strong>consistent with the values and culture</strong> we strive to embody in our everyday work."
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/524772055/pages/69284509/questions/259483793",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "Strongly agree",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1828879661"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "Agree",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1828879662"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "Somewhat agree",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1828879663"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "Disagree",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1828879664"
+                },
+                {
+                  "position": 5,
+                  "visible": true,
+                  "text": "Strongly disagree",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1828879665"
+                }
+              ]
+            }
+          },
+          {
+            "id": "259483794",
+            "position": 6,
+            "visible": true,
+            "family": "presentation",
+            "subtype": "descriptive_text",
+            "layout": null,
+            "sorting": null,
+            "required": null,
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Based on your experience during this Journey, please rate the following statements:"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/524772055/pages/69284509/questions/259483794",
+            "display_options": {
+              "show_display_number": false
+            }
+          },
+          {
+            "id": "259483792",
+            "position": 7,
+            "visible": true,
+            "family": "open_ended",
+            "subtype": "essay",
+            "layout": null,
+            "sorting": null,
+            "required": null,
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Which <strong>topics or tools</strong> have had the biggest impact on your thinking or leadership so far?"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/524772055/pages/69284509/questions/259483792"
+          },
+          {
+            "id": "259483790",
+            "position": 8,
+            "visible": true,
+            "family": "open_ended",
+            "subtype": "essay",
+            "layout": null,
+            "sorting": null,
+            "required": null,
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "What would <strong>improve your experience </strong>in future sessions?"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/524772055/pages/69284509/questions/259483790"
+          }
+        ]
+      }
+    ]
+  },
+  "responses": [
+    {
+      "id": "118955938565",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "175.176.32.176",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "462084577",
+      "survey_id": "524772055",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=3BKMXfyedY7LmSen2IRmpDCNKTdzyuqqwKaO7QOQpJQOLV_2BC3JEUeMRG2B7FddVX",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/_2Fz0WUEMxWtHbMiUgkHBQbbgywWtwNRe0ITwWWVjNVvU_3D?respondent_id=118955938565",
+      "total_time": 56,
+      "date_modified": "2025-09-18T09:48:00+00:00",
+      "date_created": "2025-09-18T09:47:04+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/524772055/responses/118955938565",
+      "pages": [
+        {
+          "id": "69284509",
+          "questions": [
+            {
+              "id": "259483787",
+              "answers": [
+                {
+                  "choice_id": "1828879633"
+                }
+              ]
+            },
+            {
+              "id": "259483788",
+              "answers": [
+                {
+                  "choice_id": "1828879638"
+                }
+              ]
+            },
+            {
+              "id": "259483791",
+              "answers": [
+                {
+                  "choice_id": "1828879654"
+                }
+              ]
+            },
+            {
+              "id": "259483789",
+              "answers": [
+                {
+                  "choice_id": "1828879643"
+                }
+              ]
+            },
+            {
+              "id": "259483793",
+              "answers": [
+                {
+                  "choice_id": "1828879661"
+                }
+              ]
+            },
+            {
+              "id": "259483792",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Player Victim"
+                }
+              ]
+            },
+            {
+              "id": "259483790",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Longer culmination session"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "118955940379",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "198.59.158.69",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "462084577",
+      "survey_id": "524772055",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=FoUY4n2UluqspVkGHOdpXYClFx2km_2FnKtsLeB0aGSstV_2Flc8kNIBdxZkTbv_2Fyn3p",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/_2Fz0WUEMxWtHbMiUgkHBQbbgywWtwNRe0ITwWWVjNVvU_3D?respondent_id=118955940379",
+      "total_time": 279,
+      "date_modified": "2025-09-18T09:51:45+00:00",
+      "date_created": "2025-09-18T09:47:05+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/524772055/responses/118955940379",
+      "pages": [
+        {
+          "id": "69284509",
+          "questions": [
+            {
+              "id": "259483787",
+              "answers": [
+                {
+                  "choice_id": "1828879633"
+                }
+              ]
+            },
+            {
+              "id": "259483788",
+              "answers": [
+                {
+                  "choice_id": "1828879638"
+                }
+              ]
+            },
+            {
+              "id": "259483791",
+              "answers": [
+                {
+                  "choice_id": "1828879654"
+                }
+              ]
+            },
+            {
+              "id": "259483789",
+              "answers": [
+                {
+                  "choice_id": "1828879643"
+                }
+              ]
+            },
+            {
+              "id": "259483793",
+              "answers": [
+                {
+                  "choice_id": "1828879661"
+                }
+              ]
+            },
+            {
+              "id": "259483792",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Commitment and accountability, Knower Learner, Player Victim"
+                }
+              ]
+            },
+            {
+              "id": "259483790",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Pitch session"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

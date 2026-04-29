@@ -1,0 +1,477 @@
+{
+  "generated_at": "2026-04-29T18:34:23.649Z",
+  "previous_run_at": "2026-04-29T18:02:49.670Z",
+  "new_forms": [],
+  "updated_forms": [],
+  "unmapped_forms": [
+    {
+      "id": "sm:419174951",
+      "title": "¿Dónde estamos como equipo? – LT Pomelo 2025",
+      "source": "surveymonkey",
+      "missing": [
+        "program"
+      ]
+    },
+    {
+      "id": "tf:RsR4QD9Q",
+      "title": "ADN - Encuesta Facilitador",
+      "source": "typeform",
+      "missing": [
+        "client",
+        "program"
+      ]
+    },
+    {
+      "id": "tf:QQUviLQM",
+      "title": "BCI - Encuesta Debrief Facilitador",
+      "source": "typeform",
+      "missing": [
+        "program"
+      ]
+    },
+    {
+      "id": "tf:LPDMddQZ",
+      "title": "BCI: Encuesta de percepción sobre la evolución del equipo de Innovación y Datos VF",
+      "source": "typeform",
+      "missing": [
+        "program"
+      ]
+    },
+    {
+      "id": "tf:eKa2hicR",
+      "title": "Building AI Driven Cultures FINAL Feedback Survey",
+      "source": "typeform",
+      "missing": [
+        "client"
+      ]
+    },
+    {
+      "id": "tf:qNwhH1J8",
+      "title": "Building AI Driven Cultures Participant Reflection Survey",
+      "source": "typeform",
+      "missing": [
+        "client"
+      ]
+    },
+    {
+      "id": "sm:522797055",
+      "title": "Client Needs Analysis & Impact Design",
+      "source": "surveymonkey",
+      "missing": [
+        "client",
+        "program"
+      ]
+    },
+    {
+      "id": "sm:522213732",
+      "title": "Coach Satisfaction Survey",
+      "source": "surveymonkey",
+      "missing": [
+        "client",
+        "program"
+      ]
+    },
+    {
+      "id": "sm:521933226",
+      "title": "Coach Satisfaction Survey_Template",
+      "source": "surveymonkey",
+      "missing": [
+        "client",
+        "program"
+      ]
+    },
+    {
+      "id": "sm:417842651",
+      "title": "Coaching Process Tracking Form",
+      "source": "surveymonkey",
+      "missing": [
+        "client",
+        "program"
+      ]
+    },
+    {
+      "id": "tf:K1d3sx6P",
+      "title": "Coaching Process Tracking Form_Joao Adao (2026)",
+      "source": "typeform",
+      "missing": [
+        "client",
+        "program"
+      ]
+    },
+    {
+      "id": "sm:522796576",
+      "title": "Coaching Reflection Survey",
+      "source": "surveymonkey",
+      "missing": [
+        "client",
+        "program"
+      ]
+    },
+    {
+      "id": "tf:oLRq9y06",
+      "title": "CREDICORP - ESPAÑOL",
+      "source": "typeform",
+      "missing": [
+        "program"
+      ]
+    },
+    {
+      "id": "tf:kSiffheC",
+      "title": "CREDICORP - INGLES",
+      "source": "typeform",
+      "missing": [
+        "program"
+      ]
+    },
+    {
+      "id": "tf:FwY56vEG",
+      "title": "CREDICORP: Encuesta feedback de Remesh - Octubre 2025",
+      "source": "typeform",
+      "missing": [
+        "program"
+      ]
+    },
+    {
+      "id": "tf:cBbJFiZo",
+      "title": "DESPEGAR BR+ Encuesta Reflexión Participante (kick off) Português",
+      "source": "typeform",
+      "missing": [
+        "program"
+      ]
+    },
+    {
+      "id": "sm:418620557",
+      "title": "Encuesta de Reflexión Sesión de Coaching - BCI",
+      "source": "surveymonkey",
+      "missing": [
+        "program"
+      ]
+    },
+    {
+      "id": "sm:418589883",
+      "title": "Encuesta de Reflexión Sesión de Coaching - Electrolit",
+      "source": "surveymonkey",
+      "missing": [
+        "program"
+      ]
+    },
+    {
+      "id": "sm:523669376",
+      "title": "Encuesta Debrief Facilitador 2025",
+      "source": "surveymonkey",
+      "missing": [
+        "client",
+        "program"
+      ]
+    },
+    {
+      "id": "sm:418710168",
+      "title": "Encuesta Debrief Facilitador Junio 2025",
+      "source": "surveymonkey",
+      "missing": [
+        "client",
+        "program"
+      ]
+    },
+    {
+      "id": "sm:418711108",
+      "title": "Encuesta Debrief Facilitador Junio 2025 (Pablo Carter)",
+      "source": "surveymonkey",
+      "missing": [
+        "client",
+        "program"
+      ]
+    },
+    {
+      "id": "sm:418589112",
+      "title": "Encuesta Reflexión Participante - Electrolit (Junio)",
+      "source": "surveymonkey",
+      "missing": [
+        "program"
+      ]
+    },
+    {
+      "id": "sm:418710808",
+      "title": "Encuesta Reflexión Participante - Sesión final - Junio 2025",
+      "source": "surveymonkey",
+      "missing": [
+        "client",
+        "program"
+      ]
+    },
+    {
+      "id": "sm:522798699",
+      "title": "Facilitator Debrief Survey June 2025",
+      "source": "surveymonkey",
+      "missing": [
+        "client",
+        "program"
+      ]
+    },
+    {
+      "id": "tf:SMTEYoUl",
+      "title": "Facilitator Debrief Survey- Offsite Enero 2026",
+      "source": "typeform",
+      "missing": [
+        "client",
+        "program"
+      ]
+    },
+    {
+      "id": "tf:kouXkCvB",
+      "title": "Facilitator Debrief Survey- WS April 2026",
+      "source": "typeform",
+      "missing": [
+        "client",
+        "program"
+      ]
+    },
+    {
+      "id": "tf:lc0PyFuj",
+      "title": "Facilitator Debrief Survey- WS March2026",
+      "source": "typeform",
+      "missing": [
+        "client",
+        "program"
+      ]
+    },
+    {
+      "id": "tf:FPLb7U1A",
+      "title": "Fintech Product ELT - Facilitator Debrief Survey",
+      "source": "typeform",
+      "missing": [
+        "client"
+      ]
+    },
+    {
+      "id": "sm:418725039",
+      "title": "Formulario Check In - ELT",
+      "source": "surveymonkey",
+      "missing": [
+        "client",
+        "program"
+      ]
+    },
+    {
+      "id": "sm:524020247",
+      "title": "Formulario de Preparación de Reto",
+      "source": "surveymonkey",
+      "missing": [
+        "client",
+        "program"
+      ]
+    },
+    {
+      "id": "tf:n8nmZUVn",
+      "title": "Leadership Summit - Participant Reflection Survey_JAN2026",
+      "source": "typeform",
+      "missing": [
+        "client"
+      ]
+    },
+    {
+      "id": "tf:wW3PKp7p",
+      "title": "MP Product ELT - Facilitator Debrief Survey ",
+      "source": "typeform",
+      "missing": [
+        "client"
+      ]
+    },
+    {
+      "id": "sm:522284061",
+      "title": "Nuevas fechas de Sesiones Grupales de Coaching - Cultura Credicorp",
+      "source": "surveymonkey",
+      "missing": [
+        "survey_family"
+      ]
+    },
+    {
+      "id": "sm:420019316",
+      "title": "Onde estamos como equipe? – 2025",
+      "source": "surveymonkey",
+      "missing": [
+        "client",
+        "program"
+      ]
+    },
+    {
+      "id": "sm:523499590",
+      "title": "Participant Reflection Survey\nPartnerRe",
+      "source": "surveymonkey",
+      "missing": [
+        "program"
+      ]
+    },
+    {
+      "id": "sm:417825660",
+      "title": "Participant Reflection Survey - June 2025",
+      "source": "surveymonkey",
+      "missing": [
+        "client",
+        "program"
+      ]
+    },
+    {
+      "id": "sm:521940734",
+      "title": "PartnerRe",
+      "source": "surveymonkey",
+      "missing": [
+        "program"
+      ]
+    },
+    {
+      "id": "tf:EoTe2kb9",
+      "title": "Pomelo - Encuesta Debrief Facilitador Richi",
+      "source": "typeform",
+      "missing": [
+        "program"
+      ]
+    },
+    {
+      "id": "sm:525617285",
+      "title": "Pomelo - Encuesta Reflexión Participante noviembre 2025",
+      "source": "surveymonkey",
+      "missing": [
+        "program"
+      ]
+    },
+    {
+      "id": "tf:asOELBmu",
+      "title": "Pomelo: Encuesta Reflexión Participante - Sesión Final",
+      "source": "typeform",
+      "missing": [
+        "program"
+      ]
+    },
+    {
+      "id": "sm:417852868",
+      "title": "Post Program Impact & ROI Check-In",
+      "source": "surveymonkey",
+      "missing": [
+        "client",
+        "program"
+      ]
+    },
+    {
+      "id": "sm:418896694",
+      "title": "Reflexión Sesiones de Coaching Participante",
+      "source": "surveymonkey",
+      "missing": [
+        "client",
+        "program"
+      ]
+    },
+    {
+      "id": "sm:420418223",
+      "title": "Reflexión Sesiones de Coaching Participante - Ilan Bajarlia",
+      "source": "surveymonkey",
+      "missing": [
+        "client",
+        "program"
+      ]
+    },
+    {
+      "id": "sm:524173783",
+      "title": "Reflexión Sesiones de Coaching Participante - Ilan Bajarlia",
+      "source": "surveymonkey",
+      "missing": [
+        "client",
+        "program"
+      ]
+    },
+    {
+      "id": "sm:524173853",
+      "title": "Reflexión Sesiones de Coaching Participante - Sergio Bernardes",
+      "source": "surveymonkey",
+      "missing": [
+        "client",
+        "program"
+      ]
+    },
+    {
+      "id": "sm:418897778",
+      "title": "Reflexión Sesiones de Coaching Participante Credicorp",
+      "source": "surveymonkey",
+      "missing": [
+        "program"
+      ]
+    },
+    {
+      "id": "tf:qVqkiUYS",
+      "title": "Reflexión Sesiones de Coaching Participante_EXCO",
+      "source": "typeform",
+      "missing": [
+        "client",
+        "program"
+      ]
+    },
+    {
+      "id": "sm:523855729",
+      "title": "Registro Proceso de Coaching",
+      "source": "surveymonkey",
+      "missing": [
+        "client",
+        "program"
+      ]
+    },
+    {
+      "id": "sm:419393005",
+      "title": "Registro Proceso de Coaching - 1° CS de Gaston Irigoyen (Richi)",
+      "source": "surveymonkey",
+      "missing": [
+        "client",
+        "program"
+      ]
+    },
+    {
+      "id": "sm:523856133",
+      "title": "Registro Proceso de Coaching - Credicorp",
+      "source": "surveymonkey",
+      "missing": [
+        "program"
+      ]
+    },
+    {
+      "id": "tf:hfnKdmx8",
+      "title": "Registro Proceso de Coaching_Thierry (2026-EXCO)",
+      "source": "typeform",
+      "missing": [
+        "client",
+        "program"
+      ]
+    },
+    {
+      "id": "tf:qAcmB99I",
+      "title": "Sesión Final - TEMPLATE - ESPAÑOL Encuesta Reflexión Participante AGO2025",
+      "source": "typeform",
+      "missing": [
+        "client",
+        "program"
+      ]
+    },
+    {
+      "id": "sm:418349626",
+      "title": "Workshop Chile- Safety Program\nEncuesta de Reflexión del Participante",
+      "source": "surveymonkey",
+      "missing": [
+        "client"
+      ]
+    },
+    {
+      "id": "sm:418709920",
+      "title": "Workshop Colombia- Safety Program Encuesta de Reflexión del Participante",
+      "source": "surveymonkey",
+      "missing": [
+        "client"
+      ]
+    },
+    {
+      "id": "sm:523394369",
+      "title": "Workshop Perú- Safety Program\nEncuesta de Reflexión del Participante",
+      "source": "surveymonkey",
+      "missing": [
+        "client"
+      ]
+    }
+  ]
+}

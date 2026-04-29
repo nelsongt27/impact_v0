@@ -1,0 +1,497 @@
+{
+  "_backup_metadata": {
+    "backed_up_at": "2026-04-27T18:45:58.266507+00:00",
+    "survey_id": "418797284",
+    "title": "AFNS Gym Satisfaction Survey: Business Meeting Facilitation - \"How to observe and offer real-time feedback in a facilitated session\" with Richi Gil",
+    "nickname": "",
+    "date_created": null,
+    "date_modified": "2025-06-12T00:04:00",
+    "response_count_listing": 3,
+    "response_count_fetched": 3,
+    "summary_href": "https://api.surveymonkey.com/v3/surveys/418797284"
+  },
+  "details": {
+    "title": "AFNS Gym Satisfaction Survey: Business Meeting Facilitation - \"How to observe and offer real-time feedback in a facilitated session\" with Richi Gil",
+    "nickname": "",
+    "language": "en",
+    "folder_id": "2376268",
+    "category": "",
+    "question_count": 5,
+    "page_count": 1,
+    "response_count": 3,
+    "date_created": "2025-06-10T19:15:00",
+    "date_modified": "2025-06-12T00:04:00",
+    "id": "418797284",
+    "buttons_text": {
+      "next_button": "Next",
+      "prev_button": "Prev",
+      "done_button": "Submit your answer",
+      "exit_button": ""
+    },
+    "is_owner": true,
+    "owner": "54118456",
+    "footer": true,
+    "theme_id": "10292568",
+    "template_id": null,
+    "custom_variables": {},
+    "href": "https://api.surveymonkey.com/v3/surveys/418797284",
+    "analyze_url": "https://www.surveymonkey.com/analyze/MSHsgjZaDbkJj3CMP5AgVJlob454n3upHBdCz_2Beo_2BnU_3D",
+    "edit_url": "https://www.surveymonkey.com/create/?sm=MSHsgjZaDbkJj3CMP5AgVJlob454n3upHBdCz_2Beo_2BnU_3D",
+    "collect_url": "https://www.surveymonkey.com/collect/list?sm=MSHsgjZaDbkJj3CMP5AgVJlob454n3upHBdCz_2Beo_2BnU_3D",
+    "summary_url": "https://www.surveymonkey.com/summary/MSHsgjZaDbkJj3CMP5AgVJlob454n3upHBdCz_2Beo_2BnU_3D",
+    "preview": "https://www.surveymonkey.com/r/Preview/?sm=I24rMMoyPEPScij5AZQkIQGlgMK9Y4H95jVw1q1GTQy5PjoCF6DyRIel8xlvZPeg",
+    "pages": [
+      {
+        "title": "",
+        "description": "<div>Dear AFNs, welcome to our AFNs Gym Satisfaction Survey for session:</div>\n<div>Business Meeting Facilitation - \"How to observe and offer real-time feedback in a facilitated session\" with Richi Gil</div>\n<div><br></div>\n<div>This brief survey will take you approx. 5 mins. to answer and provides useful insight for us to improve the program.</div>\n<div>Thanks for your time!</div>",
+        "position": 1,
+        "question_count": 5,
+        "id": "66875022",
+        "href": "https://api.surveymonkey.com/v3/surveys/418797284/pages/66875022",
+        "questions": [
+          {
+            "id": "249221941",
+            "position": 1,
+            "visible": true,
+            "family": "open_ended",
+            "subtype": "single",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": {
+              "type": "integer",
+              "text": "Please enter a whole number between {0} and {1}.",
+              "max": "10",
+              "min": "0",
+              "sum": null,
+              "sum_text": ""
+            },
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "The <strong>session</strong> provided useful tools and practice that can be applied to my clients´ challenges?"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/418797284/pages/66875022/questions/249221941",
+            "display_options": {
+              "show_display_number": true,
+              "display_type": "slider",
+              "display_subtype": "",
+              "left_label_id": "1761990926",
+              "left_label": "0 (No useful tools and practice)",
+              "right_label_id": "1761990927",
+              "right_label": "10 (Significantly usefyl tools and practice)",
+              "middle_label_id": "1761990928",
+              "middle_label": "5",
+              "custom_options": {
+                "starting_position": 0,
+                "step_size": 1,
+                "option_set": [
+                  "adjusted_scale"
+                ]
+              },
+              "file_upload_labels": {},
+              "max_diff_button_labels": {}
+            }
+          },
+          {
+            "id": "249221942",
+            "position": 2,
+            "visible": true,
+            "family": "open_ended",
+            "subtype": "single",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": {
+              "type": "integer",
+              "text": "Please enter a whole number between {0} and {1}.",
+              "max": "10",
+              "min": "0",
+              "sum": null,
+              "sum_text": ""
+            },
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "The <strong>session</strong> will help me be more effective and provided added value to improve my skills?"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/418797284/pages/66875022/questions/249221942",
+            "display_options": {
+              "show_display_number": true,
+              "display_type": "slider",
+              "display_subtype": "",
+              "left_label_id": "1761990935",
+              "left_label": "0 (No help to be more effective)",
+              "right_label_id": "1761990936",
+              "right_label": "10 (Significant help to be more effective)",
+              "middle_label_id": "1761990937",
+              "middle_label": "5",
+              "custom_options": {
+                "starting_position": 0,
+                "step_size": 1,
+                "option_set": [
+                  "adjusted_scale"
+                ]
+              },
+              "file_upload_labels": {},
+              "max_diff_button_labels": {}
+            }
+          },
+          {
+            "id": "249221943",
+            "position": 3,
+            "visible": true,
+            "family": "open_ended",
+            "subtype": "single",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": {
+              "type": "integer",
+              "text": "Please enter a whole number between {0} and {1}.",
+              "max": "10",
+              "min": "0",
+              "sum": null,
+              "sum_text": ""
+            },
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "The <strong>facilitator</strong> created an environment suitable for practicing/ learning from each other, and a space of trust to share topics and cases?"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/418797284/pages/66875022/questions/249221943",
+            "display_options": {
+              "show_display_number": true,
+              "display_type": "slider",
+              "display_subtype": "",
+              "left_label_id": "1761990944",
+              "left_label": "0 (No suitable environment for practicing/ learning)",
+              "right_label_id": "1761990945",
+              "right_label": "10 (Great suitable environment for practicing/ learning)",
+              "middle_label_id": "1761990946",
+              "middle_label": "5",
+              "custom_options": {
+                "starting_position": 0,
+                "step_size": 1,
+                "option_set": [
+                  "adjusted_scale"
+                ]
+              },
+              "file_upload_labels": {},
+              "max_diff_button_labels": {}
+            }
+          },
+          {
+            "id": "249221944",
+            "position": 4,
+            "visible": true,
+            "family": "open_ended",
+            "subtype": "single",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": {
+              "type": "integer",
+              "text": "Please enter a whole number between {0} and {1}.",
+              "max": "10",
+              "min": "0",
+              "sum": null,
+              "sum_text": ""
+            },
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "On a scale of 0 to 10 (10 being the most likely), <strong>how likely are you to recommend</strong> the AFNs Gym Program to an AFN colleague?"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/418797284/pages/66875022/questions/249221944",
+            "display_options": {
+              "show_display_number": true,
+              "display_type": "slider",
+              "display_subtype": "",
+              "left_label_id": "1761990953",
+              "left_label": "0 (Would never recommend)",
+              "right_label_id": "1761990954",
+              "right_label": "10 (Absolutely recommend)",
+              "middle_label_id": "1761990955",
+              "middle_label": "5",
+              "custom_options": {
+                "starting_position": 0,
+                "step_size": 1,
+                "option_set": [
+                  "adjusted_scale"
+                ]
+              },
+              "file_upload_labels": {},
+              "max_diff_button_labels": {}
+            }
+          },
+          {
+            "id": "249221945",
+            "position": 5,
+            "visible": true,
+            "family": "open_ended",
+            "subtype": "essay",
+            "layout": null,
+            "sorting": null,
+            "required": null,
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Please provide any other comments, suggestions or insights regarding the program."
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/418797284/pages/66875022/questions/249221945"
+          }
+        ]
+      }
+    ]
+  },
+  "responses": [
+    {
+      "id": "114877908968",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "24.232.204.222",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "436127718",
+      "survey_id": "418797284",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=TK_2Bv0s7uIxDCTAqtWaY7FgiO3FesNfPVYnX5EfR7fxZkPgLdsgzPZp8FPq_2FhX9IX",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/MSHsgjZaDbkJj3CMP5AgVJlob454n3upHBdCz_2Beo_2BnU_3D?respondent_id=114877908968",
+      "total_time": 60,
+      "date_modified": "2025-06-11T12:46:32+00:00",
+      "date_created": "2025-06-11T12:45:32+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/418797284/responses/114877908968",
+      "pages": [
+        {
+          "id": "66875022",
+          "questions": [
+            {
+              "id": "249221941",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "9"
+                }
+              ]
+            },
+            {
+              "id": "249221942",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "9"
+                }
+              ]
+            },
+            {
+              "id": "249221943",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "10"
+                }
+              ]
+            },
+            {
+              "id": "249221944",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "10"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "114878180001",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "181.25.164.35",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "436127718",
+      "survey_id": "418797284",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=3oUY0Ua9jo80eTB2nGQKfs1I8WJhK9I7EH9RgZGg0hPtb0yRFD_2FXw7Fa6poQNEhV",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/MSHsgjZaDbkJj3CMP5AgVJlob454n3upHBdCz_2Beo_2BnU_3D?respondent_id=114878180001",
+      "total_time": 32,
+      "date_modified": "2025-06-11T18:23:34+00:00",
+      "date_created": "2025-06-11T18:23:02+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/418797284/responses/114878180001",
+      "pages": [
+        {
+          "id": "66875022",
+          "questions": [
+            {
+              "id": "249221941",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "10"
+                }
+              ]
+            },
+            {
+              "id": "249221942",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "10"
+                }
+              ]
+            },
+            {
+              "id": "249221943",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "10"
+                }
+              ]
+            },
+            {
+              "id": "249221944",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "10"
+                }
+              ]
+            },
+            {
+              "id": "249221945",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Richi is an AMAZING facilitator!! Wished I had more opportunities to interact and learn from him"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "114878382611",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "186.81.242.46",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "436127718",
+      "survey_id": "418797284",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=6D2aNGF_2Fo5jD_2F_2BP4HAZL2kV1VU_2BZQPKyV62uhH6kXkpn81cLarN0Qcw5CBQqI5CG",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/MSHsgjZaDbkJj3CMP5AgVJlob454n3upHBdCz_2Beo_2BnU_3D?respondent_id=114878382611",
+      "total_time": 110,
+      "date_modified": "2025-06-12T00:04:13+00:00",
+      "date_created": "2025-06-12T00:02:23+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/418797284/responses/114878382611",
+      "pages": [
+        {
+          "id": "66875022",
+          "questions": [
+            {
+              "id": "249221941",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "10"
+                }
+              ]
+            },
+            {
+              "id": "249221942",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "10"
+                }
+              ]
+            },
+            {
+              "id": "249221943",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "10"
+                }
+              ]
+            },
+            {
+              "id": "249221944",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "10"
+                }
+              ]
+            },
+            {
+              "id": "249221945",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "mantener el hilaje de lo que hemos visto en las otras sesiones ha sido ganador a mi juicio\r\nconocer las experiencias de los compañeros \r\nla simplicidad de richie para abordar complejidades fue genial\r\n"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

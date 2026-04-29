@@ -1,0 +1,534 @@
+{
+  "_backup_metadata": {
+    "backed_up_at": "2026-04-27T18:46:23.458277+00:00",
+    "survey_id": "418708901",
+    "title": "Coaching Process Tracking Form - Aleática /Pablo Carter",
+    "nickname": "",
+    "date_created": null,
+    "date_modified": "2025-06-03T14:56:00",
+    "response_count_listing": 0,
+    "response_count_fetched": 0,
+    "summary_href": "https://api.surveymonkey.com/v3/surveys/418708901"
+  },
+  "details": {
+    "title": "Coaching Process Tracking Form - Aleática /Pablo Carter",
+    "nickname": "",
+    "language": "en",
+    "folder_id": "2373852",
+    "category": "",
+    "question_count": 7,
+    "page_count": 2,
+    "response_count": 0,
+    "date_created": "2025-06-03T14:51:00",
+    "date_modified": "2025-06-03T14:56:00",
+    "id": "418708901",
+    "buttons_text": {
+      "next_button": "Next",
+      "prev_button": "Prev",
+      "done_button": "Done",
+      "exit_button": ""
+    },
+    "is_owner": true,
+    "owner": "54118456",
+    "footer": true,
+    "theme_id": "22541796",
+    "template_id": "1211",
+    "custom_variables": {},
+    "href": "https://api.surveymonkey.com/v3/surveys/418708901",
+    "analyze_url": "https://www.surveymonkey.com/analyze/d2xVhyLI6EiE1DuTZ3ukrMVNeaWXYmkXPGXUv2xsfK4_3D",
+    "edit_url": "https://www.surveymonkey.com/create/?sm=d2xVhyLI6EiE1DuTZ3ukrMVNeaWXYmkXPGXUv2xsfK4_3D",
+    "collect_url": "https://www.surveymonkey.com/collect/list?sm=d2xVhyLI6EiE1DuTZ3ukrMVNeaWXYmkXPGXUv2xsfK4_3D",
+    "summary_url": "https://www.surveymonkey.com/summary/d2xVhyLI6EiE1DuTZ3ukrMVNeaWXYmkXPGXUv2xsfK4_3D",
+    "preview": "https://www.surveymonkey.com/r/Preview/?sm=EbP3duTpXWAzmPwvpFzDRybBR2T4KjDIerZ95HaDuWjiuR4Sp_2BI_2BXcLebUtmRmtE",
+    "pages": [
+      {
+        "title": "Session Insights & Notes",
+        "description": "<div>Este formulario breve (lleva solo 3 minutos completarlo) está diseñado para ayudar a los Coaches a capturar elementos clave de su sesión de coaching. Apoya el compromiso de Axialent con la medición del impacto y la mejora continua de la experiencia del cliente.</div>\n<div><br>Por favor, use este formulario para registrar la efectividad de la sesión, el compromiso del coachee y las principales herramientas o conceptos practicados.</div>\n<div>Su aporte nos ayudará a detectar patrones, compartir mejores prácticas y fortalecer el recorrido general del coaching.</div>\n<div><br>Gracias por su contribución a la construcción de una experiencia de coaching coherente y de impacto para nuestros clientes.<br><br></div>",
+        "position": 1,
+        "question_count": 0,
+        "id": "66651394",
+        "href": "https://api.surveymonkey.com/v3/surveys/418708901/pages/66651394",
+        "questions": []
+      },
+      {
+        "title": "",
+        "description": "",
+        "position": 2,
+        "question_count": 7,
+        "id": "66651395",
+        "href": "https://api.surveymonkey.com/v3/surveys/418708901/pages/66651395",
+        "questions": [
+          {
+            "id": "248283471",
+            "position": 1,
+            "visible": true,
+            "family": "open_ended",
+            "subtype": "single",
+            "layout": null,
+            "sorting": null,
+            "required": null,
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Nombre del Cliente y Programa"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/418708901/pages/66651395/questions/248283471"
+          },
+          {
+            "id": "248283470",
+            "position": 2,
+            "visible": true,
+            "family": "demographic",
+            "subtype": "name",
+            "layout": null,
+            "sorting": null,
+            "required": null,
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Nombre del Coachee"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/418708901/pages/66651395/questions/248283470",
+            "answers": {
+              "rows": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "Nombre de pila",
+                  "type": "first_name",
+                  "required": false,
+                  "id": "1755823825"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "Apellido",
+                  "type": "last_name",
+                  "required": false,
+                  "id": "1755823826"
+                },
+                {
+                  "position": 3,
+                  "visible": false,
+                  "text": " ",
+                  "type": "middle_name",
+                  "required": false,
+                  "id": "1755823827"
+                },
+                {
+                  "position": 4,
+                  "visible": false,
+                  "text": " ",
+                  "type": "title",
+                  "required": false,
+                  "id": "1755823828"
+                },
+                {
+                  "position": 5,
+                  "visible": false,
+                  "text": " ",
+                  "type": "suffix",
+                  "required": false,
+                  "id": "1755823829"
+                }
+              ]
+            }
+          },
+          {
+            "id": "248283466",
+            "position": 3,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "horiz",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "¿En qué medida se lograron los <strong>objetivos de la sesión</strong>? <em>Reflexione sobre la claridad de los objetivos y la entrega de resultados</em>."
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/418708901/pages/66651395/questions/248283466",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "Completamente",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1755823791"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "Mucho",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1755823792"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "Moderadamente",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1755823793"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "Ligeramente",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1755823794"
+                },
+                {
+                  "position": 5,
+                  "visible": true,
+                  "text": "Para nada",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1755823795"
+                }
+              ]
+            }
+          },
+          {
+            "id": "248283467",
+            "position": 4,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "horiz",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "¿Cómo calificarías el nivel de <strong>conexión y afinidad</strong> con el coachee? <em>Reflexiona sobre la confianza relacional, la seguridad y la apertura.</em>"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/418708901/pages/66651395/questions/248283467",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "Extremadamente alto",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1755823796"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "Alto",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1755823797"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "Moderado",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1755823798"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "Bajo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1755823799"
+                },
+                {
+                  "position": 5,
+                  "visible": true,
+                  "text": "Muy bajo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1755823800"
+                }
+              ]
+            }
+          },
+          {
+            "id": "248283468",
+            "position": 5,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "horiz",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "<em> </em>¿Cómo calificarías el nivel de <strong>compromiso y seguimiento</strong> del coachee? <em>Reflexiona sobre la energía, la responsabilidad y la práctica más allá de la sesión.</em>"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/418708901/pages/66651395/questions/248283468",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "Extremadamente alto",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1755823805"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "Alto",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1755823806"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "Moderado",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1755823807"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "Bajo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1755823808"
+                },
+                {
+                  "position": 5,
+                  "visible": true,
+                  "text": "Muy bajo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1755823809"
+                }
+              ]
+            }
+          },
+          {
+            "id": "248283469",
+            "position": 6,
+            "visible": true,
+            "family": "multiple_choice",
+            "subtype": "vertical_two_col",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "You can only select at most 4 answers (including other) to this question.",
+              "type": "at_most",
+              "amount": "8"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Principales herramientas / conceptos aplicados durante las sesiones. Por favor, indique todos los que correspondan:"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/418708901/pages/66651395/questions/248283469",
+            "answers": {
+              "other": {
+                "position": 0,
+                "visible": true,
+                "text": "Otro (por favor especifique)",
+                "id": "1755823820",
+                "num_lines": 1,
+                "num_chars": 100,
+                "is_answer_choice": false,
+                "apply_all_rows": false,
+                "error_text": ""
+              },
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "Mentalidad de Aprendiz",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1755823812"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "Mentalidad de Jugador",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1755823830"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "Integridad Esencial",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1755823831"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "LHC y Verdad Central",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1755823813"
+                },
+                {
+                  "position": 5,
+                  "visible": true,
+                  "text": "Indagación Productiva y Defensa",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1755823832"
+                },
+                {
+                  "position": 6,
+                  "visible": true,
+                  "text": "Retroalimentación Efectiva",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1755823833"
+                },
+                {
+                  "position": 7,
+                  "visible": true,
+                  "text": "Negociación Constructiva (de posiciones a intereses, escalada limpia)",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1755823814"
+                },
+                {
+                  "position": 8,
+                  "visible": true,
+                  "text": "Liderazgo Auténtico",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1755823834"
+                },
+                {
+                  "position": 9,
+                  "visible": true,
+                  "text": "Inteligencia Emocional y Coaching",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1755823815"
+                },
+                {
+                  "position": 10,
+                  "visible": true,
+                  "text": "Diseño Efectivo de Reuniones",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1755823816"
+                },
+                {
+                  "position": 11,
+                  "visible": true,
+                  "text": "Gestión de Polaridades",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1755823817"
+                },
+                {
+                  "position": 12,
+                  "visible": true,
+                  "text": "Liderar la Cultura",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1755823818"
+                },
+                {
+                  "position": 13,
+                  "visible": true,
+                  "text": "Pensamiento Estratégico",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1755823819"
+                }
+              ]
+            }
+          },
+          {
+            "id": "248283472",
+            "position": 7,
+            "visible": true,
+            "family": "presentation",
+            "subtype": "descriptive_text",
+            "layout": null,
+            "sorting": null,
+            "required": null,
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Gracias por tu tiempo. Al completar este formulario, estás contribuyendo activamente a la estrategia de impacto para clientes de Axialent y ayudándonos a aprender de cada sesión."
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/418708901/pages/66651395/questions/248283472",
+            "display_options": {
+              "show_display_number": false
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "responses": []
+}

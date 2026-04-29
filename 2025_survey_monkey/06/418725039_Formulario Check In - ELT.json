@@ -1,0 +1,1212 @@
+{
+  "_backup_metadata": {
+    "backed_up_at": "2026-04-27T18:44:37.668382+00:00",
+    "survey_id": "418725039",
+    "title": "Formulario Check In - ELT",
+    "nickname": "",
+    "date_created": null,
+    "date_modified": "2025-08-20T23:02:00",
+    "response_count_listing": 9,
+    "response_count_fetched": 9,
+    "summary_href": "https://api.surveymonkey.com/v3/surveys/418725039"
+  },
+  "details": {
+    "title": "Formulario Check In - ELT",
+    "nickname": "",
+    "language": "en",
+    "folder_id": "2374242",
+    "category": "",
+    "question_count": 7,
+    "page_count": 3,
+    "response_count": 9,
+    "date_created": "2025-06-04T14:35:00",
+    "date_modified": "2025-08-20T23:02:00",
+    "id": "418725039",
+    "buttons_text": {
+      "next_button": "Next",
+      "prev_button": "Prev",
+      "done_button": "Done",
+      "exit_button": ""
+    },
+    "is_owner": true,
+    "owner": "54118456",
+    "footer": true,
+    "theme_id": "22544686",
+    "template_id": "1211",
+    "custom_variables": {},
+    "href": "https://api.surveymonkey.com/v3/surveys/418725039",
+    "analyze_url": "https://www.surveymonkey.com/analyze/mr_2FGQHCR7KVmAQmhirPphz1JE2fuwnfa4dWBfhn1n_2Fc_3D",
+    "edit_url": "https://www.surveymonkey.com/create/?sm=mr_2FGQHCR7KVmAQmhirPphz1JE2fuwnfa4dWBfhn1n_2Fc_3D",
+    "collect_url": "https://www.surveymonkey.com/collect/list?sm=mr_2FGQHCR7KVmAQmhirPphz1JE2fuwnfa4dWBfhn1n_2Fc_3D",
+    "summary_url": "https://www.surveymonkey.com/summary/mr_2FGQHCR7KVmAQmhirPphz1JE2fuwnfa4dWBfhn1n_2Fc_3D",
+    "preview": "https://www.surveymonkey.com/r/Preview/?sm=6x4Fm_2BPUZtAhe8n2emd0Z4oNm5doepRpeHOQcFeWrHKs79EKANCC7dfMqfqcNODY",
+    "pages": [
+      {
+        "title": "Parte I",
+        "description": "<div>Este formulario es completado por el COACH, con input del líder y el coachee luego de la Sesión Tripartita.</div>",
+        "position": 1,
+        "question_count": 2,
+        "id": "66697901",
+        "href": "https://api.surveymonkey.com/v3/surveys/418725039/pages/66697901",
+        "questions": [
+          {
+            "id": "248466288",
+            "position": 1,
+            "visible": true,
+            "family": "open_ended",
+            "subtype": "essay",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Nombre y Apellido del Coachee"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/418725039/pages/66697901/questions/248466288"
+          },
+          {
+            "id": "248466292",
+            "position": 2,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "menu",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Coach Axialent"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/418725039/pages/66697901/questions/248466292",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "Tatiana Salcedo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1757025184"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "Pablo Carter",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1757025185"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "title": "Parte II",
+        "description": "<div>En Axialent creemos que los líderes conscientes entienden que los resultados excepcionales sostenibles necesitan de la integración de tres dimensiones clave: tarea (IT), interpersonal (WE) e individual (I). Por eso evaluamos las tres dimensiones simultáneamente.</div>",
+        "position": 2,
+        "question_count": 3,
+        "id": "66698168",
+        "href": "https://api.surveymonkey.com/v3/surveys/418725039/pages/66698168",
+        "questions": [
+          {
+            "id": "248466290",
+            "position": 1,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "<strong>Nivel de efectividad en su tarea / trabajo (IT): </strong>considerar la habilidad para lograr las metas, la eficiencia (poder hacer más con el mínimo consumo de recursos), la capacidad de planificar, la calidad de su trabajo de acuerdo al WOW deseado."
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/418725039/pages/66698168/questions/248466290",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "Marginal: No tan efectivo como podría ser",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1757025173"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "Adecuado: Cumple con lo mínimo esperado",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1757025174"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "Satisfactorio: Funciona correctamente en la mayoría de los casos; cumple con los objetivos",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1757025175"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "Muy bueno: Supera las expectativas en varios aspectos",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1757025176"
+                },
+                {
+                  "position": 5,
+                  "visible": true,
+                  "text": "Totalmente en desacuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1757025177"
+                },
+                {
+                  "position": 6,
+                  "visible": true,
+                  "text": "Excelente: Logra sus objetivos y mantiene estándares altos.",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1757045253"
+                }
+              ]
+            }
+          },
+          {
+            "id": "248466293",
+            "position": 2,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "<strong>Calidad de las relaciones interpersonales con los demás (WE): </strong>considerar la habilidad para trabajar en un marco de confianza, solidaridad y respeto. Construir relaciones de colaboración mutua para que las personas / equipos puedan dar lo mejor de sí."
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/418725039/pages/66698168/questions/248466293",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "Marginal: No tan efectivo como podría ser",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1757025191"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "Adecuado: Cumple con lo mínimo esperado",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1757025192"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "Satisfactorio: Funciona correctamente en la mayoría de los casos, cumple con los objetivos",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1757025193"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "Muy bueno: Supera las expectativas en varios aspectos",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1757025194"
+                },
+                {
+                  "position": 5,
+                  "visible": true,
+                  "text": "Excelente: Logra sus objetivos y mantiene estándares altos.",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1757025195"
+                }
+              ]
+            }
+          },
+          {
+            "id": "248466289",
+            "position": 3,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical_two_col",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "<strong>Nivel de satisfacción en su presente laboral (I): </strong>considerar el bienestar, la realización personal y la felicidad. Su calidad de vida dentro y fuera del trabajo. Alineamiento de los valores de Electrolit y los propios (integridad)."
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/418725039/pages/66698168/questions/248466289",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "Marginal: No tan efectivo como podría ser",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1757057071"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "Adecuado: Cumple con lo mínimo esperado",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1757057072"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "Satisfactorio: Funciona correctamente en la mayoría de los casos; cumple con los objetivos",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1757057073"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "Muy bueno: Supera las expectativas en varios aspectos",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1757057074"
+                },
+                {
+                  "position": 5,
+                  "visible": true,
+                  "text": "Excelente: Logra sus objetivos y mantiene estándares altos.",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1757057075"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "title": "Parte III",
+        "description": "<div><strong>Objetivos del Proceso de Coaching </strong></div>\n<div><br></div>\n<div>Los objetivos de desarrollo deberían estar conectados con los de desarrollo que el líder acordó como parte de su evaluación de performance.</div>\n<div>.</div>\n<div>Escribirlos en primera persona (protagónicamente) e incluir los comportamientos observables que desean cambiar para poder hacer luego un seguimiento del avance del proceso. Ej: aprendar a priorizar e influenciar con stakeholders críticos. Específicamente, esto supondría que pueda involucrarlos a tiempo en las decisiones que los afectan, plantear desacuerdos de manera efectiva, ofrecer feedback efectivo, elaborar compromisos impecables (poder decir no o si en integridad), escalar de manera productiva.</div>\n<div>.<br>Identifcar algunas medidas de éxito (cuali / cuanti).</div>",
+        "position": 3,
+        "question_count": 2,
+        "id": "66699302",
+        "href": "https://api.surveymonkey.com/v3/surveys/418725039/pages/66699302",
+        "questions": [
+          {
+            "id": "248472635",
+            "position": 1,
+            "visible": true,
+            "family": "open_ended",
+            "subtype": "essay",
+            "layout": null,
+            "sorting": null,
+            "required": null,
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "<strong>OBJETIVO #1</strong>"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/418725039/pages/66699302/questions/248472635"
+          },
+          {
+            "id": "248476299",
+            "position": 2,
+            "visible": true,
+            "family": "open_ended",
+            "subtype": "essay",
+            "layout": null,
+            "sorting": null,
+            "required": null,
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "<strong>OBJETIVO #2</strong>"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/418725039/pages/66699302/questions/248476299"
+          }
+        ]
+      }
+    ]
+  },
+  "responses": [
+    {
+      "id": "114896704720",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "partial",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "191.156.123.214",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [
+        "66697901",
+        "66698168"
+      ],
+      "collector_id": "436066869",
+      "survey_id": "418725039",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=JSTOXBBJf_2FmErwbkjIqVQCCSTXimhWfExV1rBLrnnKkC08xLSRI_2FXwfJJUhpoAS0",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/mr_2FGQHCR7KVmAQmhirPphz1JE2fuwnfa4dWBfhn1n_2Fc_3D?respondent_id=114896704720",
+      "total_time": 39,
+      "date_modified": "2025-07-10T19:18:26+00:00",
+      "date_created": "2025-07-10T19:17:46+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/418725039/responses/114896704720",
+      "pages": [
+        {
+          "id": "66697901",
+          "questions": [
+            {
+              "id": "248466288",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Javier Gonzalez"
+                }
+              ]
+            },
+            {
+              "id": "248466292",
+              "answers": [
+                {
+                  "choice_id": "1757025184"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "66698168",
+          "questions": []
+        },
+        {
+          "id": "66699302",
+          "questions": []
+        }
+      ]
+    },
+    {
+      "id": "114898854972",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "190.84.119.209",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "436066869",
+      "survey_id": "418725039",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=npOBqYt_2FgdKoh_2BY3JW0JTb6pkJARty2GEseNOWGTJxcRcyp6GBJW9OV2mCSiz5Jm",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/mr_2FGQHCR7KVmAQmhirPphz1JE2fuwnfa4dWBfhn1n_2Fc_3D?respondent_id=114898854972",
+      "total_time": 7367,
+      "date_modified": "2025-07-14T18:43:05+00:00",
+      "date_created": "2025-07-14T16:40:18+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/418725039/responses/114898854972",
+      "pages": [
+        {
+          "id": "66697901",
+          "questions": [
+            {
+              "id": "248466288",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Javier Gonzalez"
+                }
+              ]
+            },
+            {
+              "id": "248466292",
+              "answers": [
+                {
+                  "choice_id": "1757025184"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "66698168",
+          "questions": [
+            {
+              "id": "248466290",
+              "answers": [
+                {
+                  "choice_id": "1757025176"
+                }
+              ]
+            },
+            {
+              "id": "248466293",
+              "answers": [
+                {
+                  "choice_id": "1757025194"
+                }
+              ]
+            },
+            {
+              "id": "248466289",
+              "answers": [
+                {
+                  "choice_id": "1757057074"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "66699302",
+          "questions": [
+            {
+              "id": "248472635",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Trabajar para disminuir el comportamiento \"dócil\" del LSI de manera que sea más efectivo en conversaciones difíciles y en establecimiento de límites. \n\nEl indicador de éxito para este objetivo es brindar retroalimentación honesta, respetuosa y oportuna: dando prioridades, poniendo lo que se requiera en \"hold y siendo más ágil en la toma de decisiones.\n\nEsto será evidenciable especialmente en:    \n          \n1. El Bussiness Planing\n\n2.Los formatos de contratación\n\n3.Reclutamiento en las distintos paises"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "114903909641",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "190.84.119.209",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "436066869",
+      "survey_id": "418725039",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=eYFJf2J_2B5m9XjOwgXswt8XHMVR3An2bqFhBcoxbv32HrKVpkuf1_2FRisOTApInNHB",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/mr_2FGQHCR7KVmAQmhirPphz1JE2fuwnfa4dWBfhn1n_2Fc_3D?respondent_id=114903909641",
+      "total_time": 554,
+      "date_modified": "2025-07-21T22:28:54+00:00",
+      "date_created": "2025-07-21T22:19:40+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/418725039/responses/114903909641",
+      "pages": [
+        {
+          "id": "66697901",
+          "questions": [
+            {
+              "id": "248466288",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "alejandra cardenas"
+                }
+              ]
+            },
+            {
+              "id": "248466292",
+              "answers": [
+                {
+                  "choice_id": "1757025184"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "66698168",
+          "questions": [
+            {
+              "id": "248466290",
+              "answers": [
+                {
+                  "choice_id": "1757045253"
+                }
+              ]
+            },
+            {
+              "id": "248466293",
+              "answers": [
+                {
+                  "choice_id": "1757025195"
+                }
+              ]
+            },
+            {
+              "id": "248466289",
+              "answers": [
+                {
+                  "choice_id": "1757057075"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "66699302",
+          "questions": [
+            {
+              "id": "248472635",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "aprender a sostener conversaciones de valor donde pueda exponer mis puntos de vista, al tiempo que escucho con empatía los de las otras personas teniendo consciencia que esto no tiene porque fracturar la relación y que podré gestionar de mejor manera los pensamientos que quedan resonando en mi posterioremente"
+                }
+              ]
+            },
+            {
+              "id": "248476299",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "gestionar de mejor manera las conversacion en las que busco un acuerdo con otros. poder sostener conversaciones en las que no busque tener la razon sino sostener una conversacion efectiva que me ponga al servicio del equipo"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "114904428066",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "190.84.119.209",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "436066869",
+      "survey_id": "418725039",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=h12_2BbMzxIJ05xQ38s2KsZ3i0E9d7W2o7IY_2BjdNvavbV_2Faax_2BloY9PqvfLjjme9m4",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/mr_2FGQHCR7KVmAQmhirPphz1JE2fuwnfa4dWBfhn1n_2Fc_3D?respondent_id=114904428066",
+      "total_time": 348,
+      "date_modified": "2025-07-22T15:57:58+00:00",
+      "date_created": "2025-07-22T15:52:10+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/418725039/responses/114904428066",
+      "pages": [
+        {
+          "id": "66697901",
+          "questions": [
+            {
+              "id": "248466288",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "jose perez"
+                }
+              ]
+            },
+            {
+              "id": "248466292",
+              "answers": [
+                {
+                  "choice_id": "1757025184"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "66698168",
+          "questions": [
+            {
+              "id": "248466290",
+              "answers": [
+                {
+                  "choice_id": "1757025176"
+                }
+              ]
+            },
+            {
+              "id": "248466293",
+              "answers": [
+                {
+                  "choice_id": "1757025194"
+                }
+              ]
+            },
+            {
+              "id": "248466289",
+              "answers": [
+                {
+                  "choice_id": "1757057075"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "66699302",
+          "questions": [
+            {
+              "id": "248472635",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Enfrentar los conflictos de manera puntal sin temor a quedar mal ante superiores o subordinados. atendiendo de inmediato las conversaciones necesarias teniendo presente que esto me llevará a mitigar un daño a la organización"
+                }
+              ]
+            },
+            {
+              "id": "248476299",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "gestionar la dificultad que encuentro en ocasiones para oponerme cuando siento que corresponde a mis superiores. para ello voy a trabajar en ser congruente con mis capacidades y mi visión de corto, mediano y largo plazo"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "114908274315",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "partial",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "191.156.240.100",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [
+        "66697901",
+        "66698168",
+        "66699302"
+      ],
+      "collector_id": "436066869",
+      "survey_id": "418725039",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=9y9QbT0HMKA2kdZZApsxcBFImSWBNh8z2CdVfzvoSCBXTQr8Y_2FFX5I5d36mSAFPl",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/mr_2FGQHCR7KVmAQmhirPphz1JE2fuwnfa4dWBfhn1n_2Fc_3D?respondent_id=114908274315",
+      "total_time": 102,
+      "date_modified": "2025-07-29T03:26:07+00:00",
+      "date_created": "2025-07-29T03:24:25+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/418725039/responses/114908274315",
+      "pages": [
+        {
+          "id": "66697901",
+          "questions": [
+            {
+              "id": "248466288",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Javier Gonzalez"
+                }
+              ]
+            },
+            {
+              "id": "248466292",
+              "answers": [
+                {
+                  "choice_id": "1757025184"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "66698168",
+          "questions": [
+            {
+              "id": "248466290",
+              "answers": [
+                {
+                  "choice_id": "1757025176"
+                }
+              ]
+            },
+            {
+              "id": "248466293",
+              "answers": [
+                {
+                  "choice_id": "1757025194"
+                }
+              ]
+            },
+            {
+              "id": "248466289",
+              "answers": [
+                {
+                  "choice_id": "1757057074"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "66699302",
+          "questions": []
+        }
+      ]
+    },
+    {
+      "id": "114909452028",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "190.84.117.200",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "436066869",
+      "survey_id": "418725039",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=_2FORiaCn60Ov2hYjosgflPOnv6GONTDt95KSt9MvWqA7EQM5EtySrXF6dG8a4pkk4",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/mr_2FGQHCR7KVmAQmhirPphz1JE2fuwnfa4dWBfhn1n_2Fc_3D?respondent_id=114909452028",
+      "total_time": 141,
+      "date_modified": "2025-07-30T18:08:11+00:00",
+      "date_created": "2025-07-30T18:05:50+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/418725039/responses/114909452028",
+      "pages": [
+        {
+          "id": "66697901",
+          "questions": [
+            {
+              "id": "248466288",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "paula restrepo"
+                }
+              ]
+            },
+            {
+              "id": "248466292",
+              "answers": [
+                {
+                  "choice_id": "1757025184"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "66698168",
+          "questions": [
+            {
+              "id": "248466290",
+              "answers": [
+                {
+                  "choice_id": "1757025176"
+                }
+              ]
+            },
+            {
+              "id": "248466293",
+              "answers": [
+                {
+                  "choice_id": "1757025194"
+                }
+              ]
+            },
+            {
+              "id": "248466289",
+              "answers": [
+                {
+                  "choice_id": "1757057074"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "66699302",
+          "questions": [
+            {
+              "id": "248472635",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Quiero priorizar mejor los temas para poner foco de modo más estratégico y dejar de intentar estar en todo al mismo tiempo porque además de inefectivo puede desgastar innecesariamente al equipo. Para ser más estratégica en la priorización voy a trabajar en varios frentes: \nCon gobernanza y México, donde el equipo es a mi juicio proactivo, voy a validar que el liderazgo de estas personas hacia abajo esté en niveles idóneos\nCon Colombia voy a esperar la curva de aprendizaje hasta diciembre para acordar con esta persona los niveles de proactividad y liderazgo que juzgo necesarios para el rol \nCon Centroamérica voy a validar las competencias de liderazgo que juzgo necesarios para el alcance de este rol y a partir de ahí decidir movimientos o mentoring de mi parte hacia ella en habilidades de liderazgos\nCentrarnos en los riesgos claves para hacer plan A y plan B (no tenemos los recursos para estar en todo) \nComunicarlo asertadamente al equipo\n\n"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "114910170568",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "190.84.119.198",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "436066869",
+      "survey_id": "418725039",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=7mQG9LXYseutKiGLTbfNxlfXQPaBaE0YcIBW5i0MVxxNl2R8ksdPmiA0rjFFBaEq",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/mr_2FGQHCR7KVmAQmhirPphz1JE2fuwnfa4dWBfhn1n_2Fc_3D?respondent_id=114910170568",
+      "total_time": 409,
+      "date_modified": "2025-07-31T18:22:17+00:00",
+      "date_created": "2025-07-31T18:15:27+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/418725039/responses/114910170568",
+      "pages": [
+        {
+          "id": "66697901",
+          "questions": [
+            {
+              "id": "248466288",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Roberto Reyes"
+                }
+              ]
+            },
+            {
+              "id": "248466292",
+              "answers": [
+                {
+                  "choice_id": "1757025184"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "66698168",
+          "questions": [
+            {
+              "id": "248466290",
+              "answers": [
+                {
+                  "choice_id": "1757025176"
+                }
+              ]
+            },
+            {
+              "id": "248466293",
+              "answers": [
+                {
+                  "choice_id": "1757025195"
+                }
+              ]
+            },
+            {
+              "id": "248466289",
+              "answers": [
+                {
+                  "choice_id": "1757057074"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "66699302",
+          "questions": [
+            {
+              "id": "248472635",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Escuchar las sugerencias de los demás para ello:\nTener una escucha activa  – no interrumpir, no completar frases, mantenerme tranquilo con lo que se dice, hacer preguntas.\nDesarrollar una la habilidad de guiar a las personas en conversaciones ambiguas y que parecen quitar el tiempo para que estructuren mas sus datos y presenten sus ideas mas sólidamente. \n\n"
+                }
+              ]
+            },
+            {
+              "id": "248476299",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Modificar mi estilo de ser  excesivamente optimista basado en tomar y lograr retos a uno que considere mas la evaluación de factores de éxito. \nCambiar mi posición de decir que si a todo y prometer de inmediato a uno que me de un momento de pensar y reflexionar si es alcanzable lo que voy a prometer. \nReconocer y Aceptar que no puedo manejar todo, aunque se vea viable… priorizando lo mas importante. \n"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "114913595279",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "189.216.168.2",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "436066869",
+      "survey_id": "418725039",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=kHED9w8m1drLsPc42UQVi4wNPf16Wv_2FkiIDsB3_2FRgiJ5XXnRRMdupHX4JPVj6S7C",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/mr_2FGQHCR7KVmAQmhirPphz1JE2fuwnfa4dWBfhn1n_2Fc_3D?respondent_id=114913595279",
+      "total_time": 605589,
+      "date_modified": "2025-08-06T17:25:08+00:00",
+      "date_created": "2025-07-30T17:11:58+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/418725039/responses/114913595279",
+      "pages": [
+        {
+          "id": "66697901",
+          "questions": [
+            {
+              "id": "248466288",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Luis Peña"
+                }
+              ]
+            },
+            {
+              "id": "248466292",
+              "answers": [
+                {
+                  "choice_id": "1757025185"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "66698168",
+          "questions": [
+            {
+              "id": "248466290",
+              "answers": [
+                {
+                  "choice_id": "1757045253"
+                }
+              ]
+            },
+            {
+              "id": "248466293",
+              "answers": [
+                {
+                  "choice_id": "1757025194"
+                }
+              ]
+            },
+            {
+              "id": "248466289",
+              "answers": [
+                {
+                  "choice_id": "1757057074"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "66699302",
+          "questions": []
+        }
+      ]
+    },
+    {
+      "id": "114922932836",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "partial",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "186.81.242.46",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [
+        "66697901",
+        "66698168",
+        "66699302"
+      ],
+      "collector_id": "436066869",
+      "survey_id": "418725039",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=Y9JuYS0Su21_2B8jXzzG9GyTeAMCk_2F45I5OUxWJZHjyreY0m_2BSZhOR32fyXv63RjnK",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/mr_2FGQHCR7KVmAQmhirPphz1JE2fuwnfa4dWBfhn1n_2Fc_3D?respondent_id=114922932836",
+      "total_time": 92,
+      "date_modified": "2025-08-20T23:01:55+00:00",
+      "date_created": "2025-08-20T23:00:22+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/418725039/responses/114922932836",
+      "pages": [
+        {
+          "id": "66697901",
+          "questions": [
+            {
+              "id": "248466288",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Jose Jesus Perez"
+                }
+              ]
+            },
+            {
+              "id": "248466292",
+              "answers": [
+                {
+                  "choice_id": "1757025184"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "66698168",
+          "questions": [
+            {
+              "id": "248466290",
+              "answers": [
+                {
+                  "choice_id": "1757045253"
+                }
+              ]
+            },
+            {
+              "id": "248466293",
+              "answers": [
+                {
+                  "choice_id": "1757025195"
+                }
+              ]
+            },
+            {
+              "id": "248466289",
+              "answers": [
+                {
+                  "choice_id": "1757057075"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "66699302",
+          "questions": []
+        }
+      ]
+    }
+  ]
+}

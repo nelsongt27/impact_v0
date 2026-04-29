@@ -11,6 +11,7 @@ const ITEMS = [
   { href: "/coaching", label: "Coaching" },
   { href: "/voice", label: "Voice" },
   { href: "/tools", label: "Tools" },
+  { href: "/wizard", label: "Wizard" },
 ];
 
 export function Nav() {

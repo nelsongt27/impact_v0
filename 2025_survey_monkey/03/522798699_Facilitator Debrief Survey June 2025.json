@@ -1,0 +1,453 @@
+{
+  "_backup_metadata": {
+    "backed_up_at": "2026-04-27T18:46:26.361988+00:00",
+    "survey_id": "522798699",
+    "title": "Facilitator Debrief Survey June 2025",
+    "nickname": "",
+    "date_created": null,
+    "date_modified": "2025-06-03T13:48:00",
+    "response_count_listing": 0,
+    "response_count_fetched": 0,
+    "summary_href": "https://api.surveymonkey.com/v3/surveys/522798699"
+  },
+  "details": {
+    "title": "Facilitator Debrief Survey June 2025",
+    "nickname": "",
+    "language": "en",
+    "folder_id": "2353099",
+    "category": "",
+    "question_count": 7,
+    "page_count": 2,
+    "response_count": 0,
+    "date_created": "2025-03-28T18:33:00",
+    "date_modified": "2025-06-03T13:48:00",
+    "id": "522798699",
+    "buttons_text": {
+      "next_button": "Next",
+      "prev_button": "Prev",
+      "done_button": "Done",
+      "exit_button": ""
+    },
+    "is_owner": true,
+    "owner": "54118456",
+    "footer": true,
+    "theme_id": "22541796",
+    "template_id": "1211",
+    "custom_variables": {},
+    "href": "https://api.surveymonkey.com/v3/surveys/522798699",
+    "analyze_url": "https://www.surveymonkey.com/analyze/K5h8nuFsx0derhaR_2FmM4kj0cuD76uZ78vNMQu_2BnRmAE_3D",
+    "edit_url": "https://www.surveymonkey.com/create/?sm=K5h8nuFsx0derhaR_2FmM4kj0cuD76uZ78vNMQu_2BnRmAE_3D",
+    "collect_url": "https://www.surveymonkey.com/collect/list?sm=K5h8nuFsx0derhaR_2FmM4kj0cuD76uZ78vNMQu_2BnRmAE_3D",
+    "summary_url": "https://www.surveymonkey.com/summary/K5h8nuFsx0derhaR_2FmM4kj0cuD76uZ78vNMQu_2BnRmAE_3D",
+    "preview": "https://www.surveymonkey.com/r/Preview/?sm=HNYlXimqf3pup98BsklFJXpY1kwYr81HCvLij50tu04I7QLpCgb9aIA0wOKTcJlP",
+    "pages": [
+      {
+        "title": "Thank you for responding!",
+        "description": "<div>As a facilitator, your perspective is essential to understanding what worked, what could improve, and what matters most to our clients.</div>\n<div><br></div>\n<div>This short form (under 5 minutes) captures your <strong>insights on session effectiveness, participant engagement, and program delivery logistics</strong>. It also helps us identify key conditions for success and strengthen our impact measurement process across engagements.</div>\n<div><br></div>\n<div><strong>Your input ensures we continuously learn and improve—both as individuals and as a team.</strong></div>\n<div><br>Thank you for contributing to Axialent’s commitment to measurable, high-impact learning.</div>",
+        "position": 1,
+        "question_count": 0,
+        "id": "64434427",
+        "href": "https://api.surveymonkey.com/v3/surveys/522798699/pages/64434427",
+        "questions": []
+      },
+      {
+        "title": "",
+        "description": "",
+        "position": 2,
+        "question_count": 7,
+        "id": "64434428",
+        "href": "https://api.surveymonkey.com/v3/surveys/522798699/pages/64434428",
+        "questions": [
+          {
+            "id": "238944284",
+            "position": 1,
+            "visible": true,
+            "family": "open_ended",
+            "subtype": "single",
+            "layout": null,
+            "sorting": null,
+            "required": null,
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Please indicate <strong>client & program</strong> name"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/522798699/pages/64434428/questions/238944284"
+          },
+          {
+            "id": "238942873",
+            "position": 2,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "horiz",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "To what extent did the program achieve its <strong>goals</strong>?"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/522798699/pages/64434428/questions/238942873",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "None at all",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1691647327"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "A little",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1691647326"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "A moderate amount",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1691647325"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "A lot",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1691647324"
+                },
+                {
+                  "position": 5,
+                  "visible": true,
+                  "text": "A great deal",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1691647323"
+                }
+              ]
+            }
+          },
+          {
+            "id": "238942874",
+            "position": 3,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "horiz",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "What was the level of <strong>connection</strong> in the room? <em>Assess relationship with participants, empathy, rapport, etc.</em>"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/522798699/pages/64434428/questions/238942874",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "Very low",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1691647328"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "Low",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1691647329"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "Moderate",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1691647330"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "High",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1691647331"
+                },
+                {
+                  "position": 5,
+                  "visible": true,
+                  "text": "Very high",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1691647332"
+                }
+              ]
+            }
+          },
+          {
+            "id": "238945936",
+            "position": 4,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "horiz",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "What was participants’ level of <strong>commitment</strong>? <em>Assess participants engagement, participations, energy level, completion of pre-work, etc. </em>"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/522798699/pages/64434428/questions/238945936",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "Very low",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1691668355"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "Low",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1691668356"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "Moderate",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1691668357"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "High",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1691668358"
+                },
+                {
+                  "position": 5,
+                  "visible": true,
+                  "text": "Very high",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1691668359"
+                }
+              ]
+            }
+          },
+          {
+            "id": "238942877",
+            "position": 5,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "horiz",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "How would you rate your effectiveness <strong>facilitating</strong>? <em>Assess how effective you were in delivering content and managing the room</em>"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/522798699/pages/64434428/questions/238942877",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "Not at all effective",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1691647350"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "Not so effective",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1691647349"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "Somewhat effective",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1691647348"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "Effective",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1691647347"
+                },
+                {
+                  "position": 5,
+                  "visible": true,
+                  "text": "Very effective",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1691647346"
+                }
+              ]
+            }
+          },
+          {
+            "id": "238947103",
+            "position": 6,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "horiz",
+            "layout": null,
+            "sorting": null,
+            "required": null,
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "To what extent did the program run smoothly in terms of<strong> logistics and coordination</strong>? <em>Assess effective execution, pre-work delivery, scheduling, communications, etc. </em>"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/522798699/pages/64434428/questions/238947103",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "None at all",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1691675649"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "A little",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1691675648"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "A moderate amount",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1691675647"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "A lot",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1691675646"
+                },
+                {
+                  "position": 5,
+                  "visible": true,
+                  "text": "A great deal",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1691675645"
+                }
+              ]
+            }
+          },
+          {
+            "id": "238942876",
+            "position": 7,
+            "visible": true,
+            "family": "open_ended",
+            "subtype": "essay",
+            "layout": null,
+            "sorting": null,
+            "required": null,
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "What would make this workshop more <strong>effective and impactful</strong> next time?"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/522798699/pages/64434428/questions/238942876"
+          }
+        ]
+      }
+    ]
+  },
+  "responses": []
+}

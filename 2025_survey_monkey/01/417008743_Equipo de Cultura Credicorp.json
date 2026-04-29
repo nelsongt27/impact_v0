@@ -1,0 +1,1127 @@
+{
+  "_backup_metadata": {
+    "backed_up_at": "2026-04-27T18:48:14.259910+00:00",
+    "survey_id": "417008743",
+    "title": "Equipo de Cultura Credicorp",
+    "nickname": "",
+    "date_created": null,
+    "date_modified": "2025-02-10T15:56:00",
+    "response_count_listing": 8,
+    "response_count_fetched": 8,
+    "summary_href": "https://api.surveymonkey.com/v3/surveys/417008743"
+  },
+  "details": {
+    "title": "Equipo de Cultura Credicorp",
+    "nickname": "",
+    "language": "en",
+    "folder_id": "2337750",
+    "category": "",
+    "question_count": 11,
+    "page_count": 1,
+    "response_count": 8,
+    "date_created": "2025-01-30T20:12:00",
+    "date_modified": "2025-02-10T15:56:00",
+    "id": "417008743",
+    "buttons_text": {
+      "next_button": "Next",
+      "prev_button": "Prev",
+      "done_button": "Done",
+      "exit_button": ""
+    },
+    "is_owner": true,
+    "owner": "54118456",
+    "footer": true,
+    "theme_id": "21707798",
+    "template_id": null,
+    "custom_variables": {},
+    "href": "https://api.surveymonkey.com/v3/surveys/417008743",
+    "analyze_url": "https://www.surveymonkey.com/analyze/XrJHw0NJMfk3xHAGYH2lDPdz30mL1_2BIDBMTr3HmUAMs_3D",
+    "edit_url": "https://www.surveymonkey.com/create/?sm=XrJHw0NJMfk3xHAGYH2lDPdz30mL1_2BIDBMTr3HmUAMs_3D",
+    "collect_url": "https://www.surveymonkey.com/collect/list?sm=XrJHw0NJMfk3xHAGYH2lDPdz30mL1_2BIDBMTr3HmUAMs_3D",
+    "summary_url": "https://www.surveymonkey.com/summary/XrJHw0NJMfk3xHAGYH2lDPdz30mL1_2BIDBMTr3HmUAMs_3D",
+    "preview": "https://www.surveymonkey.com/r/Preview/?sm=gBrkD1DPRRVN_2BBgP8VU6u7EuA3Ycv4RoZSm_2FtD52TdeP6kpaB7CiR00pIPHTuAID",
+    "pages": [
+      {
+        "title": "Tu opinión es clave para la evolución de la cultura Credicorp",
+        "description": "<div>\n<div><span style=\"color: #333399;\">Tu aporte es fundamental para seguir impulsando una cultura sólida y alineada con los valores de Credicorp, es por ello que queremos conocer tu experiencia y perspectivas sobre el trabajo del equipo de Cultura en 2024 y las oportunidades para el 2025.<br><br>Te invitamos a completar esta breve encuesta para reflexionar sobre los logros, desafíos y aprendizajes del equipo, así como las oportunidades de mejora. Tus respuestas nos ayudarán a fortalecer el acompañamiento y asegurarnos de que tengan las herramientas necesarias para su desarrollo.<br></span></div>\n</div>",
+        "position": 1,
+        "question_count": 11,
+        "id": "62516598",
+        "href": "https://api.surveymonkey.com/v3/surveys/417008743/pages/62516598",
+        "questions": [
+          {
+            "id": "229455398",
+            "position": 1,
+            "visible": true,
+            "family": "presentation",
+            "subtype": "descriptive_text",
+            "layout": null,
+            "sorting": null,
+            "required": null,
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "<span style=\"color: #3366ff;\"><strong>Como equipo de Cultura:</strong></span>"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/417008743/pages/62516598/questions/229455398",
+            "display_options": {
+              "show_display_number": false
+            }
+          },
+          {
+            "id": "229455402",
+            "position": 2,
+            "visible": true,
+            "family": "open_ended",
+            "subtype": "essay",
+            "layout": null,
+            "sorting": null,
+            "required": null,
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "<span style=\"color: #333399;\">¿Qué logros destacas como las mayores contribuciones del equipo de cultura al desarrollo de la cultura Credicorp?</span>"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/417008743/pages/62516598/questions/229455402"
+          },
+          {
+            "id": "229460525",
+            "position": 3,
+            "visible": true,
+            "family": "open_ended",
+            "subtype": "essay",
+            "layout": null,
+            "sorting": null,
+            "required": null,
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "<span style=\"color: #333399;\">¿Cuáles fueron los principales desafíos o barreras que enfrentaron como equipo de cultura en 2024 para desarrollar su rol?, ¿Qué herramientas o recursos adicionales hubieran facilitado su trabajo?</span>"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/417008743/pages/62516598/questions/229460525"
+          },
+          {
+            "id": "229460579",
+            "position": 4,
+            "visible": true,
+            "family": "open_ended",
+            "subtype": "essay",
+            "layout": null,
+            "sorting": null,
+            "required": null,
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "<span style=\"color: #333399;\">¿Qué áreas/focos de la cultura Credicorp consideras que necesitan más atención o evolución en el 2025? </span>"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/417008743/pages/62516598/questions/229460579"
+          },
+          {
+            "id": "229460641",
+            "position": 5,
+            "visible": true,
+            "family": "open_ended",
+            "subtype": "essay",
+            "layout": null,
+            "sorting": null,
+            "required": null,
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "<span style=\"color: #333399;\">¿Qué crees que necesitan aprender como equipo para ser role model de la cultura Credicorp? </span>"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/417008743/pages/62516598/questions/229460641"
+          },
+          {
+            "id": "229460683",
+            "position": 6,
+            "visible": true,
+            "family": "open_ended",
+            "subtype": "essay",
+            "layout": null,
+            "sorting": null,
+            "required": null,
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "<span style=\"color: #333399;\">¿Qué aspectos del acompañamiento de Axialent en 2024 fueron las que más aprovecharon como equipo?</span>"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/417008743/pages/62516598/questions/229460683"
+          },
+          {
+            "id": "229460735",
+            "position": 7,
+            "visible": true,
+            "family": "open_ended",
+            "subtype": "essay",
+            "layout": null,
+            "sorting": null,
+            "required": null,
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "<span style=\"color: #333399;\">¿En qué frentes ves que puede ser más valiosa el apoyo de Axialent en 2025?</span>"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/417008743/pages/62516598/questions/229460735"
+          },
+          {
+            "id": "229455407",
+            "position": 8,
+            "visible": true,
+            "family": "presentation",
+            "subtype": "descriptive_text",
+            "layout": null,
+            "sorting": null,
+            "required": null,
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "<span style=\"color: #3366ff;\"><strong>Como colaborador del equipo de cultura:</strong></span>"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/417008743/pages/62516598/questions/229455407",
+            "display_options": {
+              "show_display_number": false
+            }
+          },
+          {
+            "id": "229455401",
+            "position": 9,
+            "visible": true,
+            "family": "open_ended",
+            "subtype": "single",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": {
+              "type": "integer",
+              "text": "Please enter a whole number between {0} and {1}.",
+              "max": "5",
+              "min": "0",
+              "sum": null,
+              "sum_text": ""
+            },
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "<span style=\"color: #333399;\">¿Qué tan satisfecho estás con tu desempeño en este rol hasta ahora?</span>"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/417008743/pages/62516598/questions/229455401",
+            "display_options": {
+              "show_display_number": true,
+              "display_type": "slider",
+              "display_subtype": "",
+              "left_label_id": "1632392120",
+              "left_label": "1 - Muy Insatisfecho",
+              "right_label_id": "1632392121",
+              "right_label": "5 - Muy Satisfecho",
+              "middle_label_id": "1632392134",
+              "middle_label": "Ni insatisfecho - Ni Satisfecho (Neutro)",
+              "custom_options": {
+                "starting_position": 0,
+                "step_size": 1,
+                "option_set": [
+                  "adjusted_scale"
+                ]
+              },
+              "file_upload_labels": {},
+              "max_diff_button_labels": {}
+            }
+          },
+          {
+            "id": "229455403",
+            "position": 10,
+            "visible": true,
+            "family": "open_ended",
+            "subtype": "essay",
+            "layout": null,
+            "sorting": null,
+            "required": null,
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "<span style=\"color: #333399;\">¿Qué rol te gustaría jugar en esa evolución (de la cultura Credicorp) y qué necesitarías para contribuir de manera efectiva?</span>"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/417008743/pages/62516598/questions/229455403"
+          },
+          {
+            "id": "229455404",
+            "position": 11,
+            "visible": true,
+            "family": "presentation",
+            "subtype": "descriptive_text",
+            "layout": null,
+            "sorting": null,
+            "required": null,
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "<span style=\"color: #3366ff;\"><strong>¡Muchas Gracias por tu tiempo y compromiso!</strong></span>"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/417008743/pages/62516598/questions/229455404",
+            "display_options": {
+              "show_display_number": false
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "responses": [
+    {
+      "id": "114788724398",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "45.231.81.66",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "434632880",
+      "survey_id": "417008743",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=N1gwWVqxtObCwSUYNWJmpC7Uo_2BF_2F9_2F4_2BGIXlzQOwMSA1CdxipIfMxX25eB2Ye8Ud",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/XrJHw0NJMfk3xHAGYH2lDPdz30mL1_2BIDBMTr3HmUAMs_3D?respondent_id=114788724398",
+      "total_time": 4331,
+      "date_modified": "2025-02-03T22:22:31+00:00",
+      "date_created": "2025-02-03T21:10:19+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/417008743/responses/114788724398",
+      "pages": [
+        {
+          "id": "62516598",
+          "questions": [
+            {
+              "id": "229455402",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Los principios culturales y el plan de acción. "
+                }
+              ]
+            },
+            {
+              "id": "229460525",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Nos falto tiempo para poder priorizar este tema. \r\nHemos debido tener un espacio (un día cada mes o dos meses) para trabajar full time este tema. "
+                }
+              ]
+            },
+            {
+              "id": "229460579",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Para mi el desafío está en difundir y comenzar a que esta nueva cultura sea parte de nuestro ADN como Credicorp. "
+                }
+              ]
+            },
+            {
+              "id": "229460641",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Tener claro cuales son las expectativas y funciones que se esperan de nosotros. "
+                }
+              ]
+            },
+            {
+              "id": "229460683",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Las sesiones con Cris, nos permitieron compartir ideas y mucha apertura. "
+                }
+              ]
+            },
+            {
+              "id": "229460735",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Me gustaría conocer experiencias de éxito que han tenido en otras empresas similares a Credicorp (mas de una empresa) y que herramientas funcionaron para implementar estas iniciativas de cultura y como podemos aprender de esas experiencias. "
+                }
+              ]
+            },
+            {
+              "id": "229455401",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "3"
+                }
+              ]
+            },
+            {
+              "id": "229455403",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Me gustaría tener mucho mas participación, pero es necesario par ello tener claridad de cuales son las expectativas y funciones que necesitan que realicemos. \r\nPara ello también es importante asignar un tiempo definido para este rol. "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "114788775180",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "163.116.229.139",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "434632880",
+      "survey_id": "417008743",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=bJvHY6LCHSXIKSNyBE7JA_2BON2Z_2FIwTnrNJJ9bfa86aVfj3iWb1ixrt5CF0aWn_2FAn",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/XrJHw0NJMfk3xHAGYH2lDPdz30mL1_2BIDBMTr3HmUAMs_3D?respondent_id=114788775180",
+      "total_time": 722,
+      "date_modified": "2025-02-04T00:03:48+00:00",
+      "date_created": "2025-02-03T23:51:46+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/417008743/responses/114788775180",
+      "pages": [
+        {
+          "id": "62516598",
+          "questions": [
+            {
+              "id": "229455402",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "- Ayudar a que el tema esté en agenda del C-suite y otros líderes"
+                }
+              ]
+            },
+            {
+              "id": "229460525",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "- Desconocimiento de cómo se implementa una cultura\r\n- Creo que no todos reflejamos los principios.  De repente la elección de los miembros fue por quién se encarga de la cultura en una empresa, y no porque reflejemos los principios. No sé qué es más importante para el equipo de cultura"
+                }
+              ]
+            },
+            {
+              "id": "229460579",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "- El alineamiento estratégico"
+                }
+              ]
+            },
+            {
+              "id": "229460641",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "- Replicar el comportamiento de los propios principios en nuestro día a día"
+                }
+              ]
+            },
+            {
+              "id": "229460683",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "- La encuesta previa\r\n- El framework\r\n- El conocimiento de los expertos (unos fueron más claros que otros)"
+                }
+              ]
+            },
+            {
+              "id": "229460735",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "- De repente pueden ser más asertivos sobre el tipo de iniciativas que deberíamos priorizar.  Con toda su experiencia, deben haber cosas que suelen funcionar más que otras"
+                }
+              ]
+            },
+            {
+              "id": "229455401",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "4"
+                }
+              ]
+            },
+            {
+              "id": "229455403",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "- Me gustaría saber si hay algo más que podría hacer además de, por un lado, vivir los principios y dar el ejemplo; y, por otro, buscar que la iniciativa bajo mi responsabilidad se ejecute correctamente"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "114788854204",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "163.116.229.133",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "434632880",
+      "survey_id": "417008743",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=Sjk_2F_2BTwzSLhsZlU161_2B1q0S_2BlOQCdWM1VJCe_2FpDZyH_2FVXOgHtBSXEN4tJZJ6FCLV",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/XrJHw0NJMfk3xHAGYH2lDPdz30mL1_2BIDBMTr3HmUAMs_3D?respondent_id=114788854204",
+      "total_time": 1100,
+      "date_modified": "2025-02-04T03:17:08+00:00",
+      "date_created": "2025-02-04T02:58:48+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/417008743/responses/114788854204",
+      "pages": [
+        {
+          "id": "62516598",
+          "questions": [
+            {
+              "id": "229455402",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Aterrizaje de los principios culturales después de varias interaciones. \r\nConsolidación de iniciativas dentro del marco de Cultura Credicorp. \r\nConexión de valor entre Comité BAP y Comité de Cultura\r\nEl acompañamiento de Axilent para desafiarnos a ser rol model como miembro del comité de cultura"
+                }
+              ]
+            },
+            {
+              "id": "229460525",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "1. Al inicio, aterrizar que la cultura Credicorp es el paraguas de las culturas de las subsidiarias, aterrizar el alcance, a quienes queremos impactar, etc. \r\n2. Desconectar del día a día laboral "
+                }
+              ]
+            },
+            {
+              "id": "229460579",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Si bien desde el Comité BAP se está hablando de Cultura Credicorp, de trabajar como equipo único, de buscar beneficios Credicorp; aún hay esfuerzos que debemos hacer para que a todos los niveles la colaboración funcione para un win-win."
+                }
+              ]
+            },
+            {
+              "id": "229460641",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Más que aprender, diría que necesitamos tener muy clara la expectativa del rol y asegurar que tengamos los recursos para cumplirlo"
+                }
+              ]
+            },
+            {
+              "id": "229460683",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "1. Los espacios de conexión y acompañamiento ayudaron a conocernos y construir confianza como equipo. \r\n2. Las sesiones donde Axilent nos compartieron herramientas (ej. víctima - protagonista) para ser un buen role model\r\n3. Que hayan jugado como bisagra entre el Comité BAP y Comité de Cultura"
+                }
+              ]
+            },
+            {
+              "id": "229460735",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "1. Asegurar la adopción y medición\r\n2. Hacer visible que tenemos iniciativas concretas con impacto que hablan de la cultura Credicorp"
+                }
+              ]
+            },
+            {
+              "id": "229455401",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "5"
+                }
+              ]
+            },
+            {
+              "id": "229455403",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Debemos ser parte de la ejecución, ver hacer realidad la Cultura Credicorp en iniciativas concretas con resultados. \r\nVamos a necesitar información consolidada, quizá una herramienta que de visibilidad de las iniciativas que se están trabajando dentro del marco de Cultura Credicorp. "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "114788888977",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "190.234.114.15",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "434632880",
+      "survey_id": "417008743",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=68UYU2_2FSRqT90_2FqmDNyPfRLj3pKiY_2BrTpUKkDjyektpam_2F9NQYZW4z3Xt_2BfaJRYV",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/XrJHw0NJMfk3xHAGYH2lDPdz30mL1_2BIDBMTr3HmUAMs_3D?respondent_id=114788888977",
+      "total_time": 47711,
+      "date_modified": "2025-02-04T05:06:52+00:00",
+      "date_created": "2025-02-03T15:51:40+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/417008743/responses/114788888977",
+      "pages": [
+        {
+          "id": "62516598",
+          "questions": [
+            {
+              "id": "229455402",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Afinar y consensuar los principios culturales"
+                }
+              ]
+            },
+            {
+              "id": "229460525",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Creo que el principal desafío fue alinearnos sobre el why del proyecto y como se cruzaba o no con las culturas de cada empresa."
+                }
+              ]
+            },
+            {
+              "id": "229460579",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Mantendría el foco en la innovación (experimentar, aprender del error) y colaboración transversal (con proyectos concretos) sumando la vista de cliente Credicorp.\r\nDefinir en conjunto la bajado o no bajada a otros niveles de la organización."
+                }
+              ]
+            },
+            {
+              "id": "229460641",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Escuchar y preguntar mas, hablar menos\r\nMindset de experimentación\r\nIncorporar el impacto en nuestro proceso de decisión \r\n\r\n"
+                }
+              ]
+            },
+            {
+              "id": "229460683",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Facilitación con el Comité BAP\r\nTaller de mindsets"
+                }
+              ]
+            },
+            {
+              "id": "229460735",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Seguir acompañando al Comité BAP"
+                }
+              ]
+            },
+            {
+              "id": "229455401",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "4"
+                }
+              ]
+            },
+            {
+              "id": "229455403",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Vocero en mi empresa\r\nLiderar/coordinar alguna iniciativa"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "114790803559",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "163.116.229.130",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "434632880",
+      "survey_id": "417008743",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=I3ostOtVkbPCzY6WZyzFEXX1Zl1thfc79G2GsdBzpYhLIWtcpCb6U_2BSung_2FIWZIO",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/XrJHw0NJMfk3xHAGYH2lDPdz30mL1_2BIDBMTr3HmUAMs_3D?respondent_id=114790803559",
+      "total_time": 1169,
+      "date_modified": "2025-02-06T14:06:26+00:00",
+      "date_created": "2025-02-06T13:46:57+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/417008743/responses/114790803559",
+      "pages": [
+        {
+          "id": "62516598",
+          "questions": [
+            {
+              "id": "229455402",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "La integración con los diversos equipos que han intervenido en la creación de la cultura credicorp, buscando hacerla tangible"
+                }
+              ]
+            },
+            {
+              "id": "229460525",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "El llevar a temas concretos los principios culturales"
+                }
+              ]
+            },
+            {
+              "id": "229460579",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "La coherencia entre lo desplegado como cultura credicorp y el día a día, así como la conexión con la cultura de cada subsidiaria"
+                }
+              ]
+            },
+            {
+              "id": "229460641",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Estar conectados, sin necesidad de un push externo"
+                }
+              ]
+            },
+            {
+              "id": "229460683",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Los espacios de co creación, asi la parte de comportamientos y modelos de liderazgo"
+                }
+              ]
+            },
+            {
+              "id": "229460735",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Coaching para que los role models de la cultura credicorp, sean realmente referentes y promotores de la cultura"
+                }
+              ]
+            },
+            {
+              "id": "229455401",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "4"
+                }
+              ]
+            },
+            {
+              "id": "229455403",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "114790834827",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "170.245.35.10",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "434632880",
+      "survey_id": "417008743",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=WicuYm8qTitM18pBzO2dicxFif3chhDDnIU3TyqXdsq15srU9cqc65pvW9_2BQwAUn",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/XrJHw0NJMfk3xHAGYH2lDPdz30mL1_2BIDBMTr3HmUAMs_3D?respondent_id=114790834827",
+      "total_time": 345,
+      "date_modified": "2025-02-06T14:42:49+00:00",
+      "date_created": "2025-02-06T14:37:04+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/417008743/responses/114790834827",
+      "pages": [
+        {
+          "id": "62516598",
+          "questions": [
+            {
+              "id": "229455402",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "El desarrollo y co creación de la estrategia más importante el banco. "
+                }
+              ]
+            },
+            {
+              "id": "229460525",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "El principal desafío es darle al Comité Bap una mirada mucho más real sobre los mitos y paradigmas que tienen en esa mesa"
+                }
+              ]
+            },
+            {
+              "id": "229460579",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Sin duda alguna que el despliegue sea perfecto, no podemos cometer errores. Siempre nos hen pedido tener especial cuidado que no sea una cultura de gigantografías en las paredes"
+                }
+              ]
+            },
+            {
+              "id": "229460641",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Trasladar la teoría y los conceptos en comportamientos evidentes en escenarios reales"
+                }
+              ]
+            },
+            {
+              "id": "229460683",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "La experiencia y todo su material. También la apertura a discusiones abiertas sin seguir siempre una agenda cerrada."
+                }
+              ]
+            },
+            {
+              "id": "229460735",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Ayudan como catalizadores al comité Bap"
+                }
+              ]
+            },
+            {
+              "id": "229455401",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "5"
+                }
+              ]
+            },
+            {
+              "id": "229455403",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Estar presente, ser activo, promover, evangelizar, inspirar y dar el ejemplo"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "114792023064",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "190.236.0.193",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "434632880",
+      "survey_id": "417008743",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=MODACd9FGHmSaZrKKT7ucCpAYTr5WCixiLDTGft7Vda9U9diDLNPgLkF0BQAhjBc",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/XrJHw0NJMfk3xHAGYH2lDPdz30mL1_2BIDBMTr3HmUAMs_3D?respondent_id=114792023064",
+      "total_time": 424,
+      "date_modified": "2025-02-07T23:48:53+00:00",
+      "date_created": "2025-02-07T23:41:48+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/417008743/responses/114792023064",
+      "pages": [
+        {
+          "id": "62516598",
+          "questions": [
+            {
+              "id": "229455402",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Es un equipo que puede contribuir a que cambiemos la cultura en la dirección que queremos "
+                }
+              ]
+            },
+            {
+              "id": "229460525",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "El avance es lento porque requiere de muchas validaciones y aún no hay un alineamiento claro a nivel de la alta dirección de lo que se quiere lograr/alcanzar"
+                }
+              ]
+            },
+            {
+              "id": "229460579",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Seguir trabajando a nivel del top management para que sean realmente role models de la cultura "
+                }
+              ]
+            },
+            {
+              "id": "229460641",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Necesitamos que el equipo realmente esté empoderado y que se cree un espacio psicológico seguro para que puedan retar "
+                }
+              ]
+            },
+            {
+              "id": "229460683",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Qué tienen una metodología y nos ayuda a avanzar de forma estructurada "
+                }
+              ]
+            },
+            {
+              "id": "229460735",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Seguir sensibilizando al top management para que eleven su nivel de autoconocimiento y reconozcan aquello en lo que tienen que trabajar en sí mismos "
+                }
+              ]
+            },
+            {
+              "id": "229455401",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "3"
+                }
+              ]
+            },
+            {
+              "id": "229455403",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Me gustaría seguir siendo agente de cambio y seguir contribuyendo a que construyamos la cultura que queremos "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "114793275401",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "181.65.34.185",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "434632880",
+      "survey_id": "417008743",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=0_2FMzZoCGCg2kZUO5Wt4jcmUgBBmRqprCN_2F_2BFABSTfr8eyReTKA7CMALx2cTGt_2BKt",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/XrJHw0NJMfk3xHAGYH2lDPdz30mL1_2BIDBMTr3HmUAMs_3D?respondent_id=114793275401",
+      "total_time": 273,
+      "date_modified": "2025-02-10T15:56:13+00:00",
+      "date_created": "2025-02-10T15:51:40+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/417008743/responses/114793275401",
+      "pages": [
+        {
+          "id": "62516598",
+          "questions": [
+            {
+              "id": "229455402",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "1. Definición de los principios culturales.\r\n2. Planteamiento del plan cultural inicial a través de las iniciativas "
+                }
+              ]
+            },
+            {
+              "id": "229460525",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "1. Falta de claridad con respecto al rol, nos demoramos mucho en llegar a eso \r\n2. Poco acompañamiento por parte de Axialent para poder definir un poco mejor siguientes pasos \r\n3. Que nos puedan compartir mejores prácticas, a veces queda un poco en lo etéreo "
+                }
+              ]
+            },
+            {
+              "id": "229460579",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Acompañar a los líderes en el role modeling "
+                }
+              ]
+            },
+            {
+              "id": "229460641",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "A dar feedback aún cuando no tenemos una relación cercana con todos los líderes "
+                }
+              ]
+            },
+            {
+              "id": "229460683",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Los espacios presenciales \r\nLas conversaciones con respecto a la expectativa del rol del equipo "
+                }
+              ]
+            },
+            {
+              "id": "229460735",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Mayor acompañamiento, no en frecuencia si no en el contenido.\r\nCompartir mejores prácticas\r\nTener más cable a tierra de lo que debería ir pensando y tal vez contar como evoluciona la cultura desde su experiencia no desde la teoría si no de la\r\nExperiencia real "
+                }
+              ]
+            },
+            {
+              "id": "229455401",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "3"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

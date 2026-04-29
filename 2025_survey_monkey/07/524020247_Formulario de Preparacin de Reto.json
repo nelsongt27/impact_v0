@@ -1,0 +1,2273 @@
+{
+  "_backup_metadata": {
+    "backed_up_at": "2026-04-27T18:44:48.693130+00:00",
+    "survey_id": "524020247",
+    "title": "Formulario de Preparación de Reto",
+    "nickname": "",
+    "date_created": null,
+    "date_modified": "2025-08-01T18:13:00",
+    "response_count_listing": 17,
+    "response_count_fetched": 17,
+    "summary_href": "https://api.surveymonkey.com/v3/surveys/524020247"
+  },
+  "details": {
+    "title": "Formulario de Preparación de Reto",
+    "nickname": "",
+    "language": "en",
+    "folder_id": "2337749",
+    "category": "",
+    "question_count": 12,
+    "page_count": 1,
+    "response_count": 17,
+    "date_created": "2025-07-03T20:15:00",
+    "date_modified": "2025-08-01T18:13:00",
+    "id": "524020247",
+    "buttons_text": {
+      "next_button": "Next",
+      "prev_button": "Prev",
+      "done_button": "Submit your answer",
+      "exit_button": ""
+    },
+    "is_owner": true,
+    "owner": "54118456",
+    "footer": true,
+    "theme_id": "22544686",
+    "template_id": null,
+    "custom_variables": {},
+    "href": "https://api.surveymonkey.com/v3/surveys/524020247",
+    "analyze_url": "https://www.surveymonkey.com/analyze/a8zZnUyIazLL6fa39tp7lR_2FWnLUegBBaW0zvgh4Duwc_3D",
+    "edit_url": "https://www.surveymonkey.com/create/?sm=a8zZnUyIazLL6fa39tp7lR_2FWnLUegBBaW0zvgh4Duwc_3D",
+    "collect_url": "https://www.surveymonkey.com/collect/list?sm=a8zZnUyIazLL6fa39tp7lR_2FWnLUegBBaW0zvgh4Duwc_3D",
+    "summary_url": "https://www.surveymonkey.com/summary/a8zZnUyIazLL6fa39tp7lR_2FWnLUegBBaW0zvgh4Duwc_3D",
+    "preview": "https://www.surveymonkey.com/r/Preview/?sm=om_2BcGvX5cgIPC452hQXqT1uQtPW_2F6dMdLb6_2FZCe9GLcWUvh3HW65CJlWjaiZAv_2F1",
+    "pages": [
+      {
+        "title": "",
+        "description": "<div>Con el objetivo de preparar el Workshop #2 de la Temporada de Growth Mindset, por favor completa, hasta el final del día del 1ro de Agosto, este breve cuestionario de “análisis de reto”, que no te llevará más de 15 o 20 minutos.</div>\n<div><br></div>\n<div><br></div>",
+        "position": 1,
+        "question_count": 12,
+        "id": "67465328",
+        "href": "https://api.surveymonkey.com/v3/surveys/524020247/pages/67465328",
+        "questions": [
+          {
+            "id": "251901419",
+            "position": 1,
+            "visible": true,
+            "family": "demographic",
+            "subtype": "name",
+            "layout": null,
+            "sorting": null,
+            "required": null,
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Nombre Completo"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/524020247/pages/67465328/questions/251901419",
+            "answers": {
+              "rows": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "\n    First name\n",
+                  "type": "first_name",
+                  "required": false,
+                  "id": "1779159370"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "\n    Last name\n",
+                  "type": "last_name",
+                  "required": false,
+                  "id": "1779159371"
+                },
+                {
+                  "position": 3,
+                  "visible": false,
+                  "text": " ",
+                  "type": "middle_name",
+                  "required": false,
+                  "id": "1779159372"
+                },
+                {
+                  "position": 4,
+                  "visible": false,
+                  "text": " ",
+                  "type": "title",
+                  "required": false,
+                  "id": "1779159373"
+                },
+                {
+                  "position": 5,
+                  "visible": false,
+                  "text": " ",
+                  "type": "suffix",
+                  "required": false,
+                  "id": "1779159374"
+                }
+              ]
+            }
+          },
+          {
+            "id": "251901340",
+            "position": 2,
+            "visible": true,
+            "family": "demographic",
+            "subtype": "email",
+            "layout": null,
+            "sorting": null,
+            "required": null,
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Email de Credicorp"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/524020247/pages/67465328/questions/251901340",
+            "answers": {
+              "rows": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "\n    Email address\n",
+                  "subtype": "email_address",
+                  "id": "1779158883"
+                }
+              ]
+            }
+          },
+          {
+            "id": "251902409",
+            "position": 3,
+            "visible": true,
+            "family": "presentation",
+            "subtype": "descriptive_text",
+            "layout": null,
+            "sorting": null,
+            "required": null,
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "<strong>Formulario de preparación de la tarea</strong><br><br><br>Piensa en un problema u oportunidad, y por favor, ten en cuenta que debe cumplir con los siguientes requisitos:<br>\n<ul>\n<li>Deben de ser retos que hasta ahora no hemos conseguido resolver, o incluso que ni siquiera teníamos identificados (mejor).</li>\n<li>Puede ser grande o pequeño, lo importante es que sea REAL.</li>\n<li>Nos debe de ayudar a avanzar y a crecer.</li>\n<li>Algo sobre lo que tú seas el principal responsable de implementación (es decir eres tú el “dueño” del problema u oportunidad), y necesites soluciones innovadoras, porque de la manera tradicional no has encontrado una solución.</li>\n</ul>\nRecuerda que cuanto más específico sea el problema u oportunidad, más probabilidades tendremos de que la solución sea también específica. Los problemas u oportunidades descritos de manera muy genérica, tienden a llevar hacia estrategias generales de acción, más que a pasos concretos de acción."
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/524020247/pages/67465328/questions/251902409",
+            "display_options": {
+              "show_display_number": false
+            }
+          },
+          {
+            "id": "251901890",
+            "position": 4,
+            "visible": true,
+            "family": "presentation",
+            "subtype": "descriptive_text",
+            "layout": null,
+            "sorting": null,
+            "required": null,
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "<strong>¿Cómo titular la tarea?</strong><br><br>Recomendamos una afirmación en una sola frase que refleje sobre qué quieres trabajar. Para orientarlo más hacia la acción, puedes comenzar la afirmación con palabras como “Inventar formas de...”, “Desarrollar una estrategia para...”, “Generar alternativas para...”, etc."
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/524020247/pages/67465328/questions/251901890",
+            "display_options": {
+              "show_display_number": false
+            }
+          },
+          {
+            "id": "251902018",
+            "position": 5,
+            "visible": true,
+            "family": "open_ended",
+            "subtype": "essay",
+            "layout": null,
+            "sorting": null,
+            "required": null,
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "<strong>Escribe tu titular:</strong>"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/524020247/pages/67465328/questions/251902018"
+          },
+          {
+            "id": "251902153",
+            "position": 6,
+            "visible": true,
+            "family": "presentation",
+            "subtype": "descriptive_text",
+            "layout": null,
+            "sorting": null,
+            "required": null,
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "<strong>Análisis de la tarea</strong><br><br>Facilita información necesaria para que un grupo diverso pueda empezar a trabajar en tu desafío. Deberías ser capaz de compartir de manera oral en no más de 3 a 5 minutos."
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/524020247/pages/67465328/questions/251902153",
+            "display_options": {
+              "show_display_number": false
+            }
+          },
+          {
+            "id": "251899869",
+            "position": 7,
+            "visible": true,
+            "family": "open_ended",
+            "subtype": "essay",
+            "layout": null,
+            "sorting": null,
+            "required": null,
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "<strong>¿Por qué el tema representa un problema u oportunidad?</strong>"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/524020247/pages/67465328/questions/251899869"
+          },
+          {
+            "id": "251899902",
+            "position": 8,
+            "visible": true,
+            "family": "open_ended",
+            "subtype": "essay",
+            "layout": null,
+            "sorting": null,
+            "required": null,
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "<strong>Facilita un breve historial del problema / la oportunidad:</strong>"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/524020247/pages/67465328/questions/251899902"
+          },
+          {
+            "id": "251898607",
+            "position": 9,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": null,
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "<strong>¿Cuál es tu rol o participación en este problema?<br></strong> Marca una o varias opciones.<br><br>En el caso que hayas seleccionado la opción \"Otra\", por favor deja una breve descripción debajo."
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/524020247/pages/67465328/questions/251898607",
+            "answers": {
+              "other": {
+                "position": 0,
+                "visible": true,
+                "text": "Otra...",
+                "id": "1779155019",
+                "num_lines": 1,
+                "num_chars": 50,
+                "is_answer_choice": true,
+                "apply_all_rows": false,
+                "error_text": "Please enter a comment."
+              },
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "Tomo decisiones",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1779154752"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "Implemento",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1779154753"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "Agregar una opción",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1779154755"
+                }
+              ]
+            }
+          },
+          {
+            "id": "251900097",
+            "position": 10,
+            "visible": true,
+            "family": "open_ended",
+            "subtype": "essay",
+            "layout": null,
+            "sorting": null,
+            "required": null,
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "<strong>¿Qué es lo que ya has pensado o probado?</strong>"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/524020247/pages/67465328/questions/251900097"
+          },
+          {
+            "id": "251899736",
+            "position": 11,
+            "visible": true,
+            "family": "open_ended",
+            "subtype": "essay",
+            "layout": null,
+            "sorting": null,
+            "required": null,
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "<strong>¿Cómo puede el grupo ayudarte mejor?</strong> <br>(¿Cuáles son los resultados a entregar? ¿Cuál debería ser el éxito para ti? ¿Con qué te gustaría quedarte?)¿Qué es lo que ya has pensado o probado?"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/524020247/pages/67465328/questions/251899736"
+          },
+          {
+            "id": "251903399",
+            "position": 12,
+            "visible": true,
+            "family": "presentation",
+            "subtype": "descriptive_text",
+            "layout": null,
+            "sorting": null,
+            "required": null,
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "¡Gracias por tu participación!"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/524020247/pages/67465328/questions/251903399",
+            "display_options": {
+              "show_display_number": false
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "responses": [
+    {
+      "id": "118902168560",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "38.25.30.149",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "461357090",
+      "survey_id": "524020247",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=MYJFlLpCKzd3ah5HM7Dv0z6I_2BSUXs08uhKcKIQLQgdQJH1CNkaq4Uksu40WgWCa9",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/a8zZnUyIazLL6fa39tp7lR_2FWnLUegBBaW0zvgh4Duwc_3D?respondent_id=118902168560",
+      "total_time": 208,
+      "date_modified": "2025-07-04T00:10:53+00:00",
+      "date_created": "2025-07-04T00:07:25+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/524020247/responses/118902168560",
+      "pages": [
+        {
+          "id": "67465328",
+          "questions": [
+            {
+              "id": "251901419",
+              "answers": [
+                {
+                  "row_id": "1779159370",
+                  "tag_data": [],
+                  "text": "Luciano"
+                },
+                {
+                  "row_id": "1779159371",
+                  "tag_data": [],
+                  "text": "Bedoya"
+                }
+              ]
+            },
+            {
+              "id": "251901340",
+              "answers": [
+                {
+                  "row_id": "1779158883",
+                  "tag_data": [],
+                  "text": "lucianobedoyac@bcp.com.pe"
+                }
+              ]
+            },
+            {
+              "id": "251902018",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Desarrollar una estrategia de acercamiento  e interfase con el negocio para el equipo de Administración de Riesgos"
+                }
+              ]
+            },
+            {
+              "id": "251899869",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Oportunidad de generar mayor impacto y valor al negocio con una conversación sobre cómo la gestión de riesgos puede HABILITAR sus objetivos y fortalecer la cultura de riesgos del banco"
+                }
+              ]
+            },
+            {
+              "id": "251899902",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "El área de AdR es percibida como oscura, con poco conocimiento de lo que se hace y percibida como lejana al negocio y que no sabe cómo comunicar de manera sencilla los riesgos o temas que gestiona"
+                }
+              ]
+            },
+            {
+              "id": "251898607",
+              "answers": [
+                {
+                  "choice_id": "1779154752"
+                }
+              ]
+            },
+            {
+              "id": "251900097",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Hasta ahora solamente acercarme a los negocios para entender su percepción y por qué la tienen"
+                }
+              ]
+            },
+            {
+              "id": "251899736",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Ideas de qué sería \"éxito\" y qué significaría que vean un verdadero valor en lo que hace este equipo"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "118902635821",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "163.116.229.134",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "461357090",
+      "survey_id": "524020247",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=siTNSRrCSbgUcEVtmBkqQnS5IEXwTXpTBs603FBtjBj8jHsPptYacfVnihxC5nsi",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/a8zZnUyIazLL6fa39tp7lR_2FWnLUegBBaW0zvgh4Duwc_3D?respondent_id=118902635821",
+      "total_time": 770,
+      "date_modified": "2025-07-04T17:16:21+00:00",
+      "date_created": "2025-07-04T17:03:31+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/524020247/responses/118902635821",
+      "pages": [
+        {
+          "id": "67465328",
+          "questions": [
+            {
+              "id": "251901419",
+              "answers": [
+                {
+                  "row_id": "1779159370",
+                  "tag_data": [],
+                  "text": "Karim"
+                },
+                {
+                  "row_id": "1779159371",
+                  "tag_data": [],
+                  "text": "Mitre"
+                }
+              ]
+            },
+            {
+              "id": "251901340",
+              "answers": [
+                {
+                  "row_id": "1779158883",
+                  "tag_data": [],
+                  "text": "karimmitre@bcp.com.pe"
+                }
+              ]
+            },
+            {
+              "id": "251902018",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Retar el modelo de reclutamiento de puestos masivos para reducir el time to fill, la rotación temprana, el riesgo y mejorar la productividad."
+                }
+              ]
+            },
+            {
+              "id": "251899869",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Hoy la rotación en puestos masivos se cenrtra en la temprana, en especial en PdC y Centro de Contacto. Esto nos trae costos de reclutamento, pérdida de productividad, riesgos operativos y de fraude y pérdida de cultura."
+                }
+              ]
+            },
+            {
+              "id": "251899902",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Luego de la pandemia, la rotación temprana en úestos masivos a subido y se mantiene en niveles muy altos. Genera dolor en el negocio al no contar con colaboradores idoneos y dificulta obtener metas de negocio. ¿Cuál es la rotación adecuada? ¿El reclutamiento debe re pensar el perfil del rol, las fuentes de reclutamiento, el modelo de trabajo? ¿Qué podemos hacer diferente? ¿Es este el real problema?"
+                }
+              ]
+            },
+            {
+              "id": "251898607",
+              "answers": [
+                {
+                  "choice_id": "1779154752"
+                }
+              ]
+            },
+            {
+              "id": "251900097",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Hemos evaluado con datos cómo y cuándo se da la rotación (por eso el foco en temprana) y buscado entender lo que buscan los candidatos versus el negocio. Pensamos en retar los perfiles y roles, pero también re pensar el proceso y fuentes de reclutamiento, empezando por tener un modelo de RPO diferente. Hoy no está respondiendo a nuestros requerimientos."
+                }
+              ]
+            },
+            {
+              "id": "251899736",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Visiones cándidas de lo que le pedimos al rol. Alternativas de fuentes de reclutamiento. Ideas fuera de la caja para motivar a los buenos se queden. Todo está sobre la mesa, pero no es una solución unilateral."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "118904460014",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "163.116.229.138",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "461357090",
+      "survey_id": "524020247",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=i0WndgNWJ21PDex86ofDJ8jcpY5LZ_2FPXtzWJfTz_2BQY2oYGvXstSZAd7kDFduhz7N",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/a8zZnUyIazLL6fa39tp7lR_2FWnLUegBBaW0zvgh4Duwc_3D?respondent_id=118904460014",
+      "total_time": 1829,
+      "date_modified": "2025-07-08T00:08:13+00:00",
+      "date_created": "2025-07-07T23:37:43+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/524020247/responses/118904460014",
+      "pages": [
+        {
+          "id": "67465328",
+          "questions": [
+            {
+              "id": "251901419",
+              "answers": [
+                {
+                  "row_id": "1779159370",
+                  "tag_data": [],
+                  "text": "Martin"
+                },
+                {
+                  "row_id": "1779159371",
+                  "tag_data": [],
+                  "text": "Iberico"
+                }
+              ]
+            },
+            {
+              "id": "251901340",
+              "answers": [
+                {
+                  "row_id": "1779158883",
+                  "tag_data": [],
+                  "text": "miberico@bcp.com.pe"
+                }
+              ]
+            },
+            {
+              "id": "251902018",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Diseñar una solución inteligente para planificar y gestionar el uso eficiente de los actuales y nuevos espacios de oficinas ante el aumento de presencialidad y el crecimiento proyectado de personas"
+                }
+              ]
+            },
+            {
+              "id": "251899869",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Porque estamos en un momento clave de transformación: el banco ha decidido aumentar la presencialidad de 2 a 3 días por semana y expandir el área útil de oficinas para responder al crecimiento proyectado del personal. Sin embargo, no contamos con herramientas que nos permitan planificar, monitorear ni optimizar el uso de los actuales y  nuevos espacios. Esto representa una gran oportunidad para implementar soluciones innovadoras que aseguren que esta inversión en infraestructura se traduzca en eficiencia operativa, bienestar del colaborador y sostenibilidad."
+                }
+              ]
+            },
+            {
+              "id": "251899902",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Después de la pandemia, el banco redujo su infraestructura física en un 40% y adoptó un modelo híbrido con 2 días de presencialidad.  Ahora, con un tercer día de presencialidad y el crecimiento sostenido del personal (7% anual), la presión sobre los espacios físicos aumentará significativamente. Si no se gestiona de forma inteligente, podríamos enfrentar problemas de sobreocupación, subutilización o distribución ineficiente de los espacios nuevos y de los existentes."
+                }
+              ]
+            },
+            {
+              "id": "251898607",
+              "answers": [
+                {
+                  "other_id": "1779155019",
+                  "text": "Tomo decisiones e implemento"
+                }
+              ]
+            },
+            {
+              "id": "251900097",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "•\tSe han hecho estimaciones de ocupación en  base en la observación y contabilización manual, pero son fotos en distintos momentos del día.\r\n•\tSe ha considerado implementar un sistema de reservas para estaciones de trabajo, pero no se ha definido una solución integral.\r\n•\tSe han evaluado sensores de ocupación, pero sin integración con herramientas de análisis predictivo.\r\n•\tNo se ha explorado aún el uso de IA generativa ni simulaciones de escenarios futuros para anticipar necesidades y tomar decisiones.\r\n"
+                }
+              ]
+            },
+            {
+              "id": "251899736",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Me gustaría que el grupo proponga soluciones innovadoras que permitan:\r\n•\tMonitorear en tiempo real el uso de estaciones de trabajo, salas de reuniones y zonas de colaboración informal.\r\n•\tPredecir la demanda futura de espacios según  patrones de asistencia, crecimiento de personal y cambios en el modelo de trabajo.\r\n•\tSimular escenarios de ocupación para validar decisiones de diseño y distribución del nuevo espacio y del existente.\r\n•\tDiseñar un sistema de reservas inteligente, si es necesario, que se adapte al comportamiento real de los colaboradores.\r\n•\tVisualizar datos clave para facilitar la toma de decisiones estratégicas sobre infraestructura.\r\n\r\nEl éxito sería contar con una propuesta concreta y viable para implementar un piloto en una de las sedes nuevas, con indicadores claros de eficiencia, experiencia del usuario y sostenibilidad."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "118905142570",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "163.116.229.51",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "461357090",
+      "survey_id": "524020247",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=EMsO4bP2oxqgQtklQBTAB5bCGIVcIJI13q4rEJ5HHoNZAS7ieiTmmGyuYKpsvbly",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/a8zZnUyIazLL6fa39tp7lR_2FWnLUegBBaW0zvgh4Duwc_3D?respondent_id=118905142570",
+      "total_time": 498,
+      "date_modified": "2025-07-08T20:48:01+00:00",
+      "date_created": "2025-07-08T20:39:43+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/524020247/responses/118905142570",
+      "pages": [
+        {
+          "id": "67465328",
+          "questions": [
+            {
+              "id": "251901419",
+              "answers": [
+                {
+                  "row_id": "1779159370",
+                  "tag_data": [],
+                  "text": "Daniel"
+                },
+                {
+                  "row_id": "1779159371",
+                  "tag_data": [],
+                  "text": "Guzmán Gilardi"
+                }
+              ]
+            },
+            {
+              "id": "251901340",
+              "answers": [
+                {
+                  "row_id": "1779158883",
+                  "tag_data": [],
+                  "text": "dguzmang@credicorpcapital.com"
+                }
+              ]
+            },
+            {
+              "id": "251902018",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Mejorar nuestros procesos y canales para potenciar nuestro nivel de servicio."
+                }
+              ]
+            },
+            {
+              "id": "251899869",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Porque la atención a los clientes (sobre todo la post venta) es clave para que se fortalezca la relación comercial en el largo plazo, y se asegure el crecimiento y supervivencia de la corredora en el futuro. "
+                }
+              ]
+            },
+            {
+              "id": "251899902",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Hoy en día los clientes están satisfechos con nuestro servicio al momento de la negociación (compra o venta), pero si estamos teniendo observaciones y reclamos por servicios que damos después: entrega de documentación propia de las operaciones, acceso a información de mercados, actualización de datos personales, disponibilidad de información tributaria, acceso a Asesores, etc.  "
+                }
+              ]
+            },
+            {
+              "id": "251898607",
+              "answers": [
+                {
+                  "choice_id": "1779154752"
+                }
+              ]
+            },
+            {
+              "id": "251900097",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Hemos tratado de hacer mejoras a través de los Asesores Bursátiles y algún otro equipo, pero no tenemos ni la capacidad de planta, ni los skills adecuados. "
+                }
+              ]
+            },
+            {
+              "id": "251899736",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "El éxito sería saber que los clientes están más contentos y satisfechos con el servicio (NPS) y además que el número de reclamos y pedidos específicos de información se han reducido. "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "118905203409",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "163.116.229.134",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "461357090",
+      "survey_id": "524020247",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=4meB0KGTbUC_2BDA6PIBH2xjFJh4WDH_2BM7nztttwqV5s4H6xi7Wl7e0fgqWWvo3_2Fpb",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/a8zZnUyIazLL6fa39tp7lR_2FWnLUegBBaW0zvgh4Duwc_3D?respondent_id=118905203409",
+      "total_time": 620,
+      "date_modified": "2025-07-08T22:37:43+00:00",
+      "date_created": "2025-07-08T22:27:23+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/524020247/responses/118905203409",
+      "pages": [
+        {
+          "id": "67465328",
+          "questions": [
+            {
+              "id": "251901419",
+              "answers": [
+                {
+                  "row_id": "1779159370",
+                  "tag_data": [],
+                  "text": "Guillermo"
+                },
+                {
+                  "row_id": "1779159371",
+                  "tag_data": [],
+                  "text": "Garrido Lecca"
+                }
+              ]
+            },
+            {
+              "id": "251901340",
+              "answers": [
+                {
+                  "row_id": "1779158883",
+                  "tag_data": [],
+                  "text": "ggarridolecca@pacifico.com.pe"
+                }
+              ]
+            },
+            {
+              "id": "251902018",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Ecosistema Seguros - Prestación"
+                }
+              ]
+            },
+            {
+              "id": "251899869",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Por que permitiría lograr eficiencias entre nuestros seguros de salud y nuestras prestadoras mejorando el cuidado de la salud y la experiencia de nuestros asegurados y pacientes."
+                }
+              ]
+            },
+            {
+              "id": "251899902",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Nuestros asegurados no tienen ningún beneficio al atenderse en nuestra red: tenemos la oportunidad de mejorar la experiencia y dar un servicio de salud individualizado para ellos."
+                }
+              ]
+            },
+            {
+              "id": "251898607",
+              "answers": [
+                {
+                  "choice_id": "1779154752"
+                }
+              ]
+            },
+            {
+              "id": "251900097",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "armar un equipo de trabajo para atender la oportunidad."
+                }
+              ]
+            },
+            {
+              "id": "251899736",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Los resultados a entregar es una nueva forma de trabajar entre nuestros seguros y prestadoras, que sea valorada por nuestros clientes y que redunde en un mejor estado de salud."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "118905301411",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "181.115.131.19",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "461357090",
+      "survey_id": "524020247",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=5_2BUJ_2BF_2Fc_2F6Xq3er5H1G6P8bnyP411DweJB0wqNEQdpWyMTrtr1_2Bx9fLknjy75at9",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/a8zZnUyIazLL6fa39tp7lR_2FWnLUegBBaW0zvgh4Duwc_3D?respondent_id=118905301411",
+      "total_time": 368769,
+      "date_modified": "2025-07-09T02:20:30+00:00",
+      "date_created": "2025-07-04T19:54:20+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/524020247/responses/118905301411",
+      "pages": [
+        {
+          "id": "67465328",
+          "questions": [
+            {
+              "id": "251901419",
+              "answers": [
+                {
+                  "row_id": "1779159370",
+                  "tag_data": [],
+                  "text": "Carina"
+                },
+                {
+                  "row_id": "1779159371",
+                  "tag_data": [],
+                  "text": "Rivero"
+                }
+              ]
+            },
+            {
+              "id": "251901340",
+              "answers": [
+                {
+                  "row_id": "1779158883",
+                  "tag_data": [],
+                  "text": "crivero@bcp.com.bo"
+                }
+              ]
+            },
+            {
+              "id": "251902018",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Talento Líquido: Impulsando agilidad, versatilidad y valor en entornos cambiantes"
+                }
+              ]
+            },
+            {
+              "id": "251899869",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "En el contexto boliviano, caracterizado por alta volatilidad económica, cambios regulatorios frecuentes y creciente presión competitiva, nuestro modelo actual de organización de talento no está diseñado para adaptarse con rapidez.\r\n\r\nEquipos clave —como ventas, analítica, tecnología y soporte— operan aún con una estructura de roles fijos y escasa movilidad inter-área. Esto limita nuestra capacidad de responder con velocidad a prioridades que cambian cada trimestre e impide capitalizar oportunidades emergentes con foco y eficacia.\r\n\r\nAdicionalmente, la cultura organizacional todavía no es tolerante al error de prueba, lo cual inhibe la experimentación y la toma de riesgos."
+                }
+              ]
+            },
+            {
+              "id": "251899902",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "1.\tEstructuras tradicionales: Los equipos aún trabajan en funciones con roles fijos , lo que dificulta la movilización rápida de personas entre proyectos o frentes emergentes.\r\n\t2.\tPriorizaciones cambiantes: La coyuntura económica, regulatoria y de liquidez del país obliga al grupo financiero a revisar sus prioridades en plazos cortos (trimestrales o incluso mensuales), sin que exista una capacidad instalada para redirigir recursos con esa misma velocidad.\r\n\t3.\tFalta de mecanismos de reconfiguración ágil: No existen canales formales ni procesos para movilizar talento de forma temporal, interárea o por proyectos emergentes.\r\n\t4.\tCultura de error penalizada: El temor a equivocarse, refuerza comportamientos defensivos y frena la innovación o la disposición a asumir nuevos desafíos. "
+                }
+              ]
+            },
+            {
+              "id": "251898607",
+              "answers": [
+                {
+                  "other_id": "1779155019",
+                  "text": "Diseño de Estructura"
+                }
+              ]
+            },
+            {
+              "id": "251900097",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "\"Talento Líquido\"\r\nEn economías volátiles no se trata de tener más gente, sino de tener gente que pueda moverse hacia donde más se lo necesita con rapidez y generación de valor.\r\nUna nueva arquitectura de talento adaptable que permita al Grupo Financiero en Bolivia contar con un grupo de colaboradores versátiles, entrenados y disponibles para ser movilizados rápidamente según las prioridades del negocio."
+                }
+              ]
+            },
+            {
+              "id": "251899736",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Apoyo para un Piloto: Creación de equipos versátiles mutifuncionales. Construcción del perfil Talento Líquido. Identificación de colaboradores con este perfil. Rotación interna como indicador de desarrollo. Beneficio esperado: proactividad para promover la adaptabilidad del negocio, desarrollo acelerado de capacidades, cultura de colaboración, velocidad en entregables de nuevas iniciativas."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "118905642838",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "163.116.229.134",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "461357090",
+      "survey_id": "524020247",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=CViLv023JTIKA3DKY7B71oHUr9ByPWGL_2BrKNujterQnxSgcIzC1ufSlOcd8b_2FmnX",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/a8zZnUyIazLL6fa39tp7lR_2FWnLUegBBaW0zvgh4Duwc_3D?respondent_id=118905642838",
+      "total_time": 358,
+      "date_modified": "2025-07-09T14:49:24+00:00",
+      "date_created": "2025-07-09T14:43:25+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/524020247/responses/118905642838",
+      "pages": [
+        {
+          "id": "67465328",
+          "questions": [
+            {
+              "id": "251901419",
+              "answers": [
+                {
+                  "row_id": "1779159370",
+                  "tag_data": [],
+                  "text": "Maria Luisa"
+                },
+                {
+                  "row_id": "1779159371",
+                  "tag_data": [],
+                  "text": "Polo"
+                }
+              ]
+            },
+            {
+              "id": "251901340",
+              "answers": [
+                {
+                  "row_id": "1779158883",
+                  "tag_data": [],
+                  "text": "mlpolo@bcp.com.pe"
+                }
+              ]
+            },
+            {
+              "id": "251902018",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Identificar de manera automática cambios en las aplicaciones y actualizar la documentación permanentemente"
+                }
+              ]
+            },
+            {
+              "id": "251899869",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Se gasta mucho tiempo en este tipo de tareas\r\nNo es atractiva para los developers\r\nEs un riesgo si no se mantiene actualizada ante un cambio posterior o incidente."
+                }
+              ]
+            },
+            {
+              "id": "251899902",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "A los desarrolladores al hacer cambios en programas existentes o nuevos desarrollos, es cuesta entregar / mantener la documentación actualizada, pudieron generar omisiones.   Ademas de representar un esfuerzo importante el riesgo que se genera es tambien bastante alto pues no tendremos documentados los ultimos cambios ante un incidente o un nuevo desarrollo."
+                }
+              ]
+            },
+            {
+              "id": "251898607",
+              "answers": [
+                {
+                  "choice_id": "1779154752"
+                }
+              ]
+            },
+            {
+              "id": "251900097",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Se han realizado algunas pruebas con Github Copilot pero no se ha tenido mucho exito en las mismas"
+                }
+              ]
+            },
+            {
+              "id": "251899736",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Con ideas sobre nuevas herramientas o cambios en el metodo de trabajo que aseguren que la documentación exista y sea exhaustiva."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "118907485071",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "163.116.229.28",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "461357090",
+      "survey_id": "524020247",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=S4RSZ4oetPqrbnBz32FrZ_2B_2F39YDdBCwp_2BCZjYOIdnkTbAkj8Iu_2BnKDhpAlUd7SeT",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/a8zZnUyIazLL6fa39tp7lR_2FWnLUegBBaW0zvgh4Duwc_3D?respondent_id=118907485071",
+      "total_time": 949,
+      "date_modified": "2025-07-12T00:08:02+00:00",
+      "date_created": "2025-07-11T23:52:12+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/524020247/responses/118907485071",
+      "pages": [
+        {
+          "id": "67465328",
+          "questions": [
+            {
+              "id": "251901419",
+              "answers": [
+                {
+                  "row_id": "1779159370",
+                  "tag_data": [],
+                  "text": "Martin"
+                },
+                {
+                  "row_id": "1779159371",
+                  "tag_data": [],
+                  "text": "Penagos"
+                }
+              ]
+            },
+            {
+              "id": "251901340",
+              "answers": [
+                {
+                  "row_id": "1779158883",
+                  "tag_data": [],
+                  "text": "martinpenagosl@pacifico.com.pe"
+                }
+              ]
+            },
+            {
+              "id": "251902018",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Desarrollar una segmentación y subsegmentación para el segmento Pyme en Credicorp"
+                }
+              ]
+            },
+            {
+              "id": "251899869",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Limita la capacidad de potenciar la estrategia de Bancaseguros en el segmento y/o subsgementos."
+                }
+              ]
+            },
+            {
+              "id": "251899902",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Los diferentes criterios utilizados en las empresas hacen que los segmentos de Pyme no sean equivalente y/o comparables entre empresas."
+                }
+              ]
+            },
+            {
+              "id": "251898607",
+              "answers": [
+                {
+                  "choice_id": "1779154752"
+                }
+              ]
+            },
+            {
+              "id": "251900097",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Asociar segmento Pyme BCP con Pyme Pacifico, pero no son el mismo cliente potencial. "
+                }
+              ]
+            },
+            {
+              "id": "251899736",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Definir criterios BCP/Pacifico que ayuden tener una definición clara del Segmento Pyme. Se probó cruzar ambos segmentos, la definición de Pyme distinta que no se pudo aterrizar una oferta de valor y canales adecuados."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "118910659071",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "163.116.229.32",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "461357090",
+      "survey_id": "524020247",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=MpyGlA8m8z2cI4rgEDsCN5nqy3cOkS1lCcxVayGuZvLUT7z_2FTAIV_2B0W9isiww6u0",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/a8zZnUyIazLL6fa39tp7lR_2FWnLUegBBaW0zvgh4Duwc_3D?respondent_id=118910659071",
+      "total_time": 1905,
+      "date_modified": "2025-07-16T21:03:36+00:00",
+      "date_created": "2025-07-16T20:31:51+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/524020247/responses/118910659071",
+      "pages": [
+        {
+          "id": "67465328",
+          "questions": [
+            {
+              "id": "251901419",
+              "answers": [
+                {
+                  "row_id": "1779159370",
+                  "tag_data": [],
+                  "text": "Verónica"
+                },
+                {
+                  "row_id": "1779159371",
+                  "tag_data": [],
+                  "text": "Angulo"
+                }
+              ]
+            },
+            {
+              "id": "251901340",
+              "answers": [
+                {
+                  "row_id": "1779158883",
+                  "tag_data": [],
+                  "text": "VeronicaAnguloG@pacifico.com.pe"
+                }
+              ]
+            },
+            {
+              "id": "251902018",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Desarrollar un proceso de suscripción de seguros de salud inteligente"
+                }
+              ]
+            },
+            {
+              "id": "251899869",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Hoy el proceso es manual, ineficiente y requiere de atención humana. La oportunidad es digitalizar el proceso y con el desarrollo de herramientas analíticas, incrementar los trámites que no requieren de evaluación humana."
+                }
+              ]
+            },
+            {
+              "id": "251899902",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "El procesos de suscripción se refiere al proceso de evaluación de solicitudes de seguros que hoy es manual y requiere de la evaluación humana en la mayoría de los casos. Además, el equipo de suscripción tiene varios años haciendo lo mismo, se necesita cambio mindset. La oportunidad es transformar el proceso, digitalizándolo, desarrollando herramientas analíticas que permitan hacerlo más eficiente e inteligente."
+                }
+              ]
+            },
+            {
+              "id": "251898607",
+              "answers": [
+                {
+                  "choice_id": "1779154752"
+                }
+              ]
+            },
+            {
+              "id": "251900097",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "En proceso está el desarrollo de un motor de decisiones que se integrará al nuevo workflow. Pensado tengo: desarrollo de una solicitud digital que se integre a un cuestionario de suscripción inteligente digital, el desarrollo de modelos de riegos que se puedan utilizar para la toma de decisiones."
+                }
+              ]
+            },
+            {
+              "id": "251899736",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Por un lado, contar con un equipo que este dispuesto a probar y a hacer las cosas de manera distinta. Espero llegar a tener un proceso digital desde la punta hasta la emisión de la póliza con inteligencia en el medio que evalúe y tome decisiones."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "118912034151",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "163.116.229.139",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "461357090",
+      "survey_id": "524020247",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=0XbyApE45VB_2BiuKBTk9e8_2BkYnTKpRR0MEki1SK6VYEuI7Wzr7B7GV55AkBr83yXR",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/a8zZnUyIazLL6fa39tp7lR_2FWnLUegBBaW0zvgh4Duwc_3D?respondent_id=118912034151",
+      "total_time": 693,
+      "date_modified": "2025-07-18T17:15:41+00:00",
+      "date_created": "2025-07-18T17:04:07+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/524020247/responses/118912034151",
+      "pages": [
+        {
+          "id": "67465328",
+          "questions": [
+            {
+              "id": "251901419",
+              "answers": [
+                {
+                  "row_id": "1779159370",
+                  "tag_data": [],
+                  "text": "Carlos"
+                },
+                {
+                  "row_id": "1779159371",
+                  "tag_data": [],
+                  "text": "Blanco"
+                }
+              ]
+            },
+            {
+              "id": "251901340",
+              "answers": [
+                {
+                  "row_id": "1779158883",
+                  "tag_data": [],
+                  "text": "carlosblanco@credicorpcapital.com"
+                }
+              ]
+            },
+            {
+              "id": "251902018",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Incorporar herramientas de IA para hacer más eficiente el trabajo de análisis y seguimiento de transacciones"
+                }
+              ]
+            },
+            {
+              "id": "251899869",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Porque le dedicamos mucho tiempo a esta tarea que tradicionalmente se ha realizado manualmente"
+                }
+              ]
+            },
+            {
+              "id": "251899902",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Facilitación de análisis financiero, seguimiento a contratos de deuda y obligaciones en ellos"
+                }
+              ]
+            },
+            {
+              "id": "251898607",
+              "answers": [
+                {
+                  "choice_id": "1779154752"
+                }
+              ]
+            },
+            {
+              "id": "251900097",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Utilizar Copilot (ojalá ChatGPT) para generar tablas de control y borradores preliminares de reportes"
+                }
+              ]
+            },
+            {
+              "id": "251899736",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Darme acceso a ChatGPT"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "118912230007",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "201.234.62.246",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "461357090",
+      "survey_id": "524020247",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=yj21PuLibKo_2F20Tc8Ox5_2Biyqw4XUmvjSwYB7f879je_2BTNIkn3KwpHLoxx_2Fwkj_2FF2",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/a8zZnUyIazLL6fa39tp7lR_2FWnLUegBBaW0zvgh4Duwc_3D?respondent_id=118912230007",
+      "total_time": 2033,
+      "date_modified": "2025-07-18T22:43:59+00:00",
+      "date_created": "2025-07-18T22:10:06+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/524020247/responses/118912230007",
+      "pages": [
+        {
+          "id": "67465328",
+          "questions": [
+            {
+              "id": "251901419",
+              "answers": [
+                {
+                  "row_id": "1779159370",
+                  "tag_data": [],
+                  "text": "Jose"
+                },
+                {
+                  "row_id": "1779159371",
+                  "tag_data": [],
+                  "text": "Block"
+                }
+              ]
+            },
+            {
+              "id": "251901340",
+              "answers": [
+                {
+                  "row_id": "1779158883",
+                  "tag_data": [],
+                  "text": "joseblock@prima.com.pe"
+                }
+              ]
+            },
+            {
+              "id": "251902018",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Mejorar la rentabilidad del Fondo 3 de Prima"
+                }
+              ]
+            },
+            {
+              "id": "251899869",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Históricamente, la rentabilidad del Fondo 3 de Prima ha estado por debajo del promedio del resto de las AFP del Sistema Privado de Pensiones. Esta situación representa un problema, ya que, por lo general, los afiliados con mayores ingresos y fondos tienen un mayor apetito por el riesgo y prefieren el Fondo 3. Mejorar esta situación representa una oportunidad, ya que atraer a este tipo de clientes es clave, dado que generan un porcentaje importante de los ingresos por comisiones."
+                }
+              ]
+            },
+            {
+              "id": "251899902",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Producto de los retiros aprobados en los últimos años, muchas inversiones —por ejemplo, en acciones locales o activos alternativos— han ganado un mayor peso en los portafolios, lo que ha perjudicado la rentabilidad del Fondo 3. Además, estas inversiones han generado retornos negativos. El reto consiste en diseñar un programa de desinversión enfocado en aquellas posiciones que no están agregando valor al fondo, con el objetivo de reducir progresivamente su peso relativo en el portafolio."
+                }
+              ]
+            },
+            {
+              "id": "251898607",
+              "answers": [
+                {
+                  "choice_id": "1779154752"
+                }
+              ]
+            },
+            {
+              "id": "251900097",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Identificar las posiciones en el portafolio que no están generando valor y elaborar un plan de desinversión. Aumentar la exposición a renta variable internacional en los portafolios. Reducir la rotación del portafolio (turnover), ya que un exceso de operaciones puede destruir valor. Revisar en profundidad el desempeño de las posiciones en fondos mutuos activos del exterior. Evaluar la posibilidad de reemplazarlos por ETF que resulten más eficientes en términos de comisiones y carga impositiva. Además, es fundamental fortalecer la capacidad del equipo para generar ideas de inversión, mediante el desarrollo de modelos y monitores que apoyen el análisis y la toma de decisiones."
+                }
+              ]
+            },
+            {
+              "id": "251899736",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Mejorar la rentabilidad relativa del Fondo 3, con el objetivo de posicionarse como el fondo con mayor rentabilidad en un horizonte de 24 meses. Otro objetivo clave es contar con un portafolio libre de posiciones ilíquidas, con fundamentos débiles o que presenten dificultades para su desinversión"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "118913766200",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "163.116.172.115",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "461357090",
+      "survey_id": "524020247",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=HHKlYZITVrxDDbEI_2B_2BAjh0UgStwHf6Ct1eKDm1jZkzaiANCzL0iNXWYuYx9QZodt",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/a8zZnUyIazLL6fa39tp7lR_2FWnLUegBBaW0zvgh4Duwc_3D?respondent_id=118913766200",
+      "total_time": 22149,
+      "date_modified": "2025-07-21T20:47:19+00:00",
+      "date_created": "2025-07-21T14:38:10+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/524020247/responses/118913766200",
+      "pages": [
+        {
+          "id": "67465328",
+          "questions": [
+            {
+              "id": "251901419",
+              "answers": [
+                {
+                  "row_id": "1779159370",
+                  "tag_data": [],
+                  "text": "Patricia"
+                },
+                {
+                  "row_id": "1779159371",
+                  "tag_data": [],
+                  "text": "Conterno"
+                }
+              ]
+            },
+            {
+              "id": "251901340",
+              "answers": [
+                {
+                  "row_id": "1779158883",
+                  "tag_data": [],
+                  "text": "patriciaconterno@bcp.com.pe"
+                }
+              ]
+            },
+            {
+              "id": "251902018",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Generar alternativas disruptivas para duplicar nuestra base de clientes en 12 meses"
+                }
+              ]
+            },
+            {
+              "id": "251899869",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Actualmente nuestras ventas dependen de estrategias tradicionales de adquisición; casi el 50% de nuestras ventas vienen por telemarketing. Hemos identificado que nuestra mayor conversión en ventas se da en los segmentos jóvenes pero aún hay oportunidad de captar más en esos grupos y activarlos de manera más efectiva."
+                }
+              ]
+            },
+            {
+              "id": "251899902",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Desde que salimos al mercado hemos enfocado nuestras estrategias de adquisición en canales tradicionales como el telemarketing, que actualmente representa cerca del 50% de nuestras ventas. Si bien esta estrategia ha dado resultados, tenemos una dependencia excesiva en este canal para nuestro producto digital y una limitada diversificación en la forma de captar nuevos clientes.\r\n\r\nAl analizar los datos de conversión, identificamos que los segmentos más jóvenes muestran mayor disposición a adquirir iO, lo que representa una oportunidad importante para impulsar el crecimiento. Sin embargo, no hemos explorado a fondo estrategias digitales, colaboraciones o mecanismos de activación que conecten mejor con estos segmentos nativos digitales y multipliquen nuestra adopción.\r\n\r\nEste contexto plantea la necesidad de innovar en nuestras tácticas de adquisición y activación para reducir la dependencia de métodos tradicionales y construir un crecimiento sostenible y escalable en la base de clientes."
+                }
+              ]
+            },
+            {
+              "id": "251898607",
+              "answers": [
+                {
+                  "choice_id": "1779154752"
+                }
+              ]
+            },
+            {
+              "id": "251900097",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Vamos a probar con nuevos canales de adquisición (por ejemplo tik tok) y nuevos formatos. También queremos hacer una estrategia más omnicanal donde whatsapp pueda tomar mayor relevancia."
+                }
+              ]
+            },
+            {
+              "id": "251899736",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "El grupo puede ayudarme con otra ideas creativas de estrategias y canales para mejorar el alcance a nuestra población objetivo."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "118916174302",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "163.116.229.72",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "461357090",
+      "survey_id": "524020247",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=v2IujuOJq0fXX0HZ5_2BmFLFMDWyJavOU4okFlljPn0VGvOpU2E3cbD1e7aX9SUMpF",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/a8zZnUyIazLL6fa39tp7lR_2FWnLUegBBaW0zvgh4Duwc_3D?respondent_id=118916174302",
+      "total_time": 490,
+      "date_modified": "2025-07-24T22:42:31+00:00",
+      "date_created": "2025-07-24T22:34:20+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/524020247/responses/118916174302",
+      "pages": [
+        {
+          "id": "67465328",
+          "questions": [
+            {
+              "id": "251901419",
+              "answers": [
+                {
+                  "row_id": "1779159370",
+                  "tag_data": [],
+                  "text": "Guillermo"
+                },
+                {
+                  "row_id": "1779159371",
+                  "tag_data": [],
+                  "text": "Casaretto"
+                }
+              ]
+            },
+            {
+              "id": "251901340",
+              "answers": [
+                {
+                  "row_id": "1779158883",
+                  "tag_data": [],
+                  "text": "gcasaretto@credicorpperu.com"
+                }
+              ]
+            },
+            {
+              "id": "251902018",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Desarrollar un gobierno para experimentar con más nuevos negocios en Colombia."
+                }
+              ]
+            },
+            {
+              "id": "251899869",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Porque en Colombia no tenemos las mismas capacidades que tenemos en Perú."
+                }
+              ]
+            },
+            {
+              "id": "251899902",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "En Colombia tenemos a Mibanco, Credicorp Capital y una Oficina de Representación de BCP.  Si bien el mercado es grande, también la competencia.\r\n\r\nAnte esta situación, creemos que es clave empezar diseñando un gobierno para explorar/acelerar nuevos negocios, usando las capacidades de estas compañías."
+                }
+              ]
+            },
+            {
+              "id": "251898607",
+              "answers": [
+                {
+                  "other_id": "1779155019",
+                  "text": "Recomiendo"
+                }
+              ]
+            },
+            {
+              "id": "251900097",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Tener mecanismos de coordinación muy light."
+                }
+              ]
+            },
+            {
+              "id": "251899736",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Ideas para considerar durante el diseño."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "118921001702",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "163.116.229.23",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "461357090",
+      "survey_id": "524020247",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=jg6muMDT24zwaIV_2B3RnfVMPz_2FT66d5jPh8_2FHfgz8Fuxf9gIKca4dZZJy0mk6EMaP",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/a8zZnUyIazLL6fa39tp7lR_2FWnLUegBBaW0zvgh4Duwc_3D?respondent_id=118921001702",
+      "total_time": 131838,
+      "date_modified": "2025-07-31T15:08:54+00:00",
+      "date_created": "2025-07-30T02:31:35+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/524020247/responses/118921001702",
+      "pages": [
+        {
+          "id": "67465328",
+          "questions": [
+            {
+              "id": "251901419",
+              "answers": [
+                {
+                  "row_id": "1779159370",
+                  "tag_data": [],
+                  "text": "Jessica "
+                },
+                {
+                  "row_id": "1779159371",
+                  "tag_data": [],
+                  "text": "Angulo"
+                }
+              ]
+            },
+            {
+              "id": "251901340",
+              "answers": [
+                {
+                  "row_id": "1779158883",
+                  "tag_data": [],
+                  "text": "jeangulo@pacifico.com.pe"
+                }
+              ]
+            },
+            {
+              "id": "251902018",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Desarrollar un programa de fidelización para el personal asistencial que nos permita tener personal altamente calificado que trabaje de manera exclusiva en nuestras Clínicas."
+                }
+              ]
+            },
+            {
+              "id": "251899869",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Presenta un problema, porque la rotación del personal asistencial en el sector salud es alta. Es un grupo muy sensible al sueldo, especialmente los enfermeros y técnicos. Además tienen una jornada laboral que les permite tener varios empleadores al mismo tiempo."
+                }
+              ]
+            },
+            {
+              "id": "251899902",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "En el sector salud, el personal asistencial (médicos, enfermeras, técnicos) tienen una jornada de trabajo reducida la cual les permite trabajar en dos o tres instituciones de salud, incluyendo el Estado (que es un mejor pagador) por ello, resulta complicado fidelizarlos  con la cultura de la empresa. Tener personal que trabaje en varias de nuestras Clínicas, nos ayudaría a fidelizar al personal, estandarizar el servicio y  por ende, la atención que bridamos a nuestros pacientes."
+                }
+              ]
+            },
+            {
+              "id": "251898607",
+              "answers": [
+                {
+                  "choice_id": "1779154752"
+                }
+              ]
+            },
+            {
+              "id": "251900097",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Durante el Covid, preparamos una propuesta atractiva para enfermeras que quisieran trabajar en nuestras tres clínicas de Lima, sin embargo este programa no tuvo el éxito que hubiéramos querido por la resistencia de las Jefaturas de Enfermería."
+                }
+              ]
+            },
+            {
+              "id": "251899736",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Para mi el éxito sería 1. Tener un programa potente de fidelización de personal asistencial que haga que este grupo de profesionales quiera trabajar en nuestras clínicas (nos busque) 2. Disminuir significativamente la rotación de alto desempeño del personal asistencial. 3. Que los jefes sean los principales embajadores del programa. 4. Mejorar el NPS de los pacientes"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "118921208145",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "163.116.229.28",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "461357090",
+      "survey_id": "524020247",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=gDTiOQhLp_2F_2FeK6hDly_2Fowga_2B3XkSke_2BXTyBkUnERCT2ECktoEhuelVOJjxG9rFvA",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/a8zZnUyIazLL6fa39tp7lR_2FWnLUegBBaW0zvgh4Duwc_3D?respondent_id=118921208145",
+      "total_time": 9013,
+      "date_modified": "2025-07-31T19:31:21+00:00",
+      "date_created": "2025-07-31T17:01:08+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/524020247/responses/118921208145",
+      "pages": [
+        {
+          "id": "67465328",
+          "questions": [
+            {
+              "id": "251901419",
+              "answers": [
+                {
+                  "row_id": "1779159370",
+                  "tag_data": [],
+                  "text": "Erick"
+                },
+                {
+                  "row_id": "1779159371",
+                  "tag_data": [],
+                  "text": "Hurtado"
+                }
+              ]
+            },
+            {
+              "id": "251901340",
+              "answers": [
+                {
+                  "row_id": "1779158883",
+                  "tag_data": [],
+                  "text": "ehurtado@bcp.com.pe"
+                }
+              ]
+            },
+            {
+              "id": "251902018",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Desarrollar una estrategia para motivar a los colaboradores de la División de Créditos a autocapacitarse en data y tecnología."
+                }
+              ]
+            },
+            {
+              "id": "251899869",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "En la División de Créditos el conocimiento de data y tecnología no ha sido necesario en el pasado para ejercer nuestras funciones. A medida que este conocimiento ha pasado a ser necesario como banco para impulsar nuestra transformación, todos los colaboradores debemos adquirir este conocimiento. Más aún en la División de Créditos, donde las iniciativas (la mayoría de ellas con un ángulo en data y tecnología) son trabajadas por el mismo equipo de colaboradores, pues no operamos como una tribu que cuenta con un squad de growth y transform. Por tanto, si nuestros colaboradores no cuentan con este conocimiento, su participación y aporte de valor en las iniciativas se limitan en gran medida, y terminan quedando \"fuera de la transformación\"."
+                }
+              ]
+            },
+            {
+              "id": "251899902",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "En los proyectos de la división con este ángulo de data y tecnología la participación de los colaboradores ha sido hasta cierto punto limitada, han podido participar y sobre todo aportar valor quienes si se han preocupado de adquirir activamente este conocimiento. Para ayudar a este proceso de adquisición de conocimiento hemos creado hace 3 años una Malla formativa en data y tecnología, conformado por 4 módulos de 2 meses cada uno, con una dedicación necesaria de 2 horas semanales. Y hemos tenido que hacer mucho seguimiento y pushing para que avancen cada  módulo; muchos terminan los módulos corriendo la última semana, reflejando un interés limitado."
+                }
+              ]
+            },
+            {
+              "id": "251898607",
+              "answers": [
+                {
+                  "choice_id": "1779154752"
+                }
+              ]
+            },
+            {
+              "id": "251900097",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Les hemos hecho saber la necesidad para el banco y la división de créditos de que adquiramos estos conocimientos; y de las potencialidades que esto genera dentro de un plan de crecimiento y desarrollo dentro de nuestra organización. Incluso, les hemos hecho notar la conveniencia empleabilidad en general de cara al mercado."
+                }
+              ]
+            },
+            {
+              "id": "251899736",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Lograr identificar cuál es la causa raíz por la cual no se logra motivar y comprometer a un grupo, no menor,  de colaboradores."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "118921469387",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "163.116.249.62",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "461357090",
+      "survey_id": "524020247",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=CFBwRI0pLQz_2BC4QVBtdnk7o6b0PKBVHEWUN0dSC46IA9NGvUF_2FnfGdDLnaiOHc84",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/a8zZnUyIazLL6fa39tp7lR_2FWnLUegBBaW0zvgh4Duwc_3D?respondent_id=118921469387",
+      "total_time": 1179,
+      "date_modified": "2025-08-01T03:38:23+00:00",
+      "date_created": "2025-08-01T03:18:44+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/524020247/responses/118921469387",
+      "pages": [
+        {
+          "id": "67465328",
+          "questions": [
+            {
+              "id": "251901419",
+              "answers": [
+                {
+                  "row_id": "1779159370",
+                  "tag_data": [],
+                  "text": "Silvia"
+                },
+                {
+                  "row_id": "1779159371",
+                  "tag_data": [],
+                  "text": "Luperdi"
+                }
+              ]
+            },
+            {
+              "id": "251901340",
+              "answers": [
+                {
+                  "row_id": "1779158883",
+                  "tag_data": [],
+                  "text": "silvia.luperdi.b@mibanco.com.pe"
+                }
+              ]
+            },
+            {
+              "id": "251902018",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Diseñar una Estrategia de Implementación de IA en Mibanco Perú y Colombia Integrada al TOM"
+                }
+              ]
+            },
+            {
+              "id": "251899869",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "El Modelo Operativo Objetivo (TOM) busca transformar la forma en que Mibanco opera en Perú y Colombia, centralizando procesos, optimizando recursos y mejorando la experiencia del cliente. Sin embargo, la IA aún no está integrada como un habilitador estructural dentro del TOM. Esto representa una oportunidad regional clave para acelerar la transformación y capturar valor en áreas críticas de atención al cliente, productividad comercial y eficiencia operativa."
+                }
+              ]
+            },
+            {
+              "id": "251899902",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Dentro de la transformación operativa impulsada por el Modelo Operativo Objetivo (TOM), Mibanco ha venido desarrollando iniciativas de automatización y digitalización tanto en Perú como en Colombia. Estas iniciativas han sido en su mayoría puntuales, con enfoque individual y sin aprovechar el potencial de la Inteligencia Artificial (IA) como habilitador transversal. A pesar de contar con pilotos y herramientas puntuales (como automatización de procesos, uso de nube, y exploración de IA generativa), existe la oportunidad de integrar estas capacidades dentro del TOM para generar velocidad y escalabilidad en la eficiencia operativa y la capacidad de ofrecer experiencias personalizadas al cliente en ambos países."
+                }
+              ]
+            },
+            {
+              "id": "251898607",
+              "answers": [
+                {
+                  "choice_id": "1779154753"
+                }
+              ]
+            },
+            {
+              "id": "251900097",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Se ha identificado la IA como una palanca clave dentro de los frentes estratégicos, tanto en Perú como en Colombia. Se ha realizado una prueba y se vienen levantando oportunidades a implementar. He planteado el tema como modelo de gobierno para llevarlo a cabo."
+                }
+              ]
+            },
+            {
+              "id": "251899736",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Me gustaría quedarme con una estrategia clara y ejecutable, que no se quede en el papel, sino que se traduzca en pilotos, aprendizajes y escalamiento.\r\nEl grupo me podrá ayudar en cuestionar y salir del status quo, buscando apoyo para la innovación."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "118921948871",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "163.116.229.133",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "461357090",
+      "survey_id": "524020247",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=no29E26cUSgJOFmI3iN9VdbHPpUh9luIEOJRC_2Fbd6mAAkJ9Dnb4erGZGVUNVSPH2",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/a8zZnUyIazLL6fa39tp7lR_2FWnLUegBBaW0zvgh4Duwc_3D?respondent_id=118921948871",
+      "total_time": 528,
+      "date_modified": "2025-08-01T18:12:36+00:00",
+      "date_created": "2025-08-01T18:03:48+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/524020247/responses/118921948871",
+      "pages": [
+        {
+          "id": "67465328",
+          "questions": [
+            {
+              "id": "251901419",
+              "answers": [
+                {
+                  "row_id": "1779159370",
+                  "tag_data": [],
+                  "text": "Javier"
+                },
+                {
+                  "row_id": "1779159371",
+                  "tag_data": [],
+                  "text": "Puiggros"
+                }
+              ]
+            },
+            {
+              "id": "251901340",
+              "answers": [
+                {
+                  "row_id": "1779158883",
+                  "tag_data": [],
+                  "text": "jpuiggros@bcp.com.pe"
+                }
+              ]
+            },
+            {
+              "id": "251902018",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Lograr que los funcionarios de crédito participen activamente haciendo preguntas o comentarios en las reuniones mensuales que tengo con el grupo."
+                }
+              ]
+            },
+            {
+              "id": "251899869",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Para conocer mejor las preocupaciones y estado de ánimo de los funcionarios. Asimismo, para recibir su feedback para que nos ayude a identificar mayores oportunidades de mejora en la gestión del equipo."
+                }
+              ]
+            },
+            {
+              "id": "251899902",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "En las reuniones grupales mensuales de seguimiento la mayoría de los funcionarios tienen muy poca participación, ya sea haciendo comentarios o sugerencias, o manifestando alguna preocupación o estado de animo."
+                }
+              ]
+            },
+            {
+              "id": "251898607",
+              "answers": [
+                {
+                  "choice_id": "1779154752"
+                }
+              ]
+            },
+            {
+              "id": "251900097",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Invitarlos a participar libremente de manera mas activa."
+                }
+              ]
+            },
+            {
+              "id": "251899736",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Con algunas ideas que ayuden a una mayor participación activa de los funcionarios."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

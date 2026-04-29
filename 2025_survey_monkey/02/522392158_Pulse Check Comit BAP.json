@@ -1,0 +1,4989 @@
+{
+  "_backup_metadata": {
+    "backed_up_at": "2026-04-27T18:47:40.676326+00:00",
+    "survey_id": "522392158",
+    "title": "Pulse Check Comité BAP",
+    "nickname": "",
+    "date_created": null,
+    "date_modified": "2025-03-26T15:48:00",
+    "response_count_listing": 18,
+    "response_count_fetched": 18,
+    "summary_href": "https://api.surveymonkey.com/v3/surveys/522392158"
+  },
+  "details": {
+    "title": "Pulse Check Comité BAP",
+    "nickname": "",
+    "language": "en",
+    "folder_id": "2337750",
+    "category": "",
+    "question_count": 25,
+    "page_count": 1,
+    "response_count": 18,
+    "date_created": "2025-02-28T19:36:00",
+    "date_modified": "2025-03-26T15:48:00",
+    "id": "522392158",
+    "buttons_text": {
+      "next_button": "Next",
+      "prev_button": "Prev",
+      "done_button": "Enviar respuestas",
+      "exit_button": ""
+    },
+    "is_owner": true,
+    "owner": "54118456",
+    "footer": true,
+    "theme_id": "22196720",
+    "template_id": null,
+    "custom_variables": {},
+    "href": "https://api.surveymonkey.com/v3/surveys/522392158",
+    "analyze_url": "https://www.surveymonkey.com/analyze/kARqt_2BvfYqYuMqEHrx1_2B6j64cEuMQGN9N3hiQjKjxhI_3D",
+    "edit_url": "https://www.surveymonkey.com/create/?sm=kARqt_2BvfYqYuMqEHrx1_2B6j64cEuMQGN9N3hiQjKjxhI_3D",
+    "collect_url": "https://www.surveymonkey.com/collect/list?sm=kARqt_2BvfYqYuMqEHrx1_2B6j64cEuMQGN9N3hiQjKjxhI_3D",
+    "summary_url": "https://www.surveymonkey.com/summary/kARqt_2BvfYqYuMqEHrx1_2B6j64cEuMQGN9N3hiQjKjxhI_3D",
+    "preview": "https://www.surveymonkey.com/r/Preview/?sm=MOvMyA3re11CRMcABy_2BU2I2rvpWWHdqENtcNXUz6XJQ_2Fzqm18I4lUVvrhDvdllb8",
+    "pages": [
+      {
+        "title": "Encuesta Cultura Credicorp 2025",
+        "description": "<div>Tu retroalimentación es fundamental para valorar el progreso del proceso que venimos trabajando el último año. Es por ello, que te invitamos a responder una breve encuesta sobre nuestras interacciones a nivel individual y como equipo. Solo mostraremos los resultados de manera consolidada.</div>",
+        "position": 1,
+        "question_count": 25,
+        "id": "63457150",
+        "href": "https://api.surveymonkey.com/v3/surveys/522392158/pages/63457150",
+        "questions": [
+          {
+            "id": "234287309",
+            "position": 1,
+            "visible": true,
+            "family": "presentation",
+            "subtype": "descriptive_text",
+            "layout": null,
+            "sorting": null,
+            "required": null,
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "A. <strong>Pensando como Comité BAP en nuestras interacciones como equipo:</strong>"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/522392158/pages/63457150/questions/234287309",
+            "display_options": {
+              "show_display_number": false
+            }
+          },
+          {
+            "id": "234287204",
+            "position": 2,
+            "visible": true,
+            "family": "open_ended",
+            "subtype": "single",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "¿Cuál crees que es el mayor logro del trabajo realizado como equipo durante el 2024?"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/522392158/pages/63457150/questions/234287204"
+          },
+          {
+            "id": "234287229",
+            "position": 3,
+            "visible": true,
+            "family": "open_ended",
+            "subtype": "single",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "¿Qué crees que son capaces de hacer hoy, que no podían hacer antes de comenzar el proceso?"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/522392158/pages/63457150/questions/234287229"
+          },
+          {
+            "id": "234287390",
+            "position": 4,
+            "visible": true,
+            "family": "open_ended",
+            "subtype": "single",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "¿Cuál consideras que es el mayor desafío que este equipo aún enfrenta para ser role model de la cultura Credicorp?"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/522392158/pages/63457150/questions/234287390"
+          },
+          {
+            "id": "234287617",
+            "position": 5,
+            "visible": true,
+            "family": "open_ended",
+            "subtype": "single",
+            "layout": {
+              "left_spacing": 0,
+              "top_spacing": 0,
+              "right_spacing": 0,
+              "bottom_spacing": 0,
+              "width_format": "percent",
+              "width": 100,
+              "col_width_format": "percent",
+              "col_width": 20,
+              "position": "new_row",
+              "num_chars": null,
+              "num_lines": null
+            },
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": {
+              "type": "integer",
+              "text": "Please enter a whole number between {0} and {1}.",
+              "max": "10",
+              "min": "0",
+              "sum": null,
+              "sum_text": ""
+            },
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "En una escala del 1-10 donde 10 es el puntaje más alto. ¿Cómo evalúas el nivel de confianza entre los miembros del equipo?"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/522392158/pages/63457150/questions/234287617",
+            "display_options": {
+              "show_display_number": true,
+              "display_type": "slider",
+              "display_subtype": "",
+              "left_label_id": "1661788410",
+              "left_label": "1",
+              "right_label_id": "1661788411",
+              "right_label": "10",
+              "middle_label_id": null,
+              "middle_label": "",
+              "custom_options": {
+                "starting_position": 0,
+                "step_size": 1,
+                "option_set": [
+                  "adjusted_scale"
+                ]
+              },
+              "file_upload_labels": {},
+              "max_diff_button_labels": {}
+            }
+          },
+          {
+            "id": "234287745",
+            "position": 6,
+            "visible": true,
+            "family": "open_ended",
+            "subtype": "essay",
+            "layout": null,
+            "sorting": null,
+            "required": null,
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "¿Qué crees que necesitarían hacer diferente para aumentar este puntaje?"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/522392158/pages/63457150/questions/234287745"
+          },
+          {
+            "id": "234287882",
+            "position": 7,
+            "visible": true,
+            "family": "open_ended",
+            "subtype": "single",
+            "layout": {
+              "left_spacing": 0,
+              "top_spacing": 0,
+              "right_spacing": 0,
+              "bottom_spacing": 0,
+              "width_format": "percent",
+              "width": 100,
+              "col_width_format": "percent",
+              "col_width": 20,
+              "position": "new_row",
+              "num_chars": null,
+              "num_lines": null
+            },
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": {
+              "type": "integer",
+              "text": "Please enter a whole number between {0} and {1}.",
+              "max": "10",
+              "min": "0",
+              "sum": null,
+              "sum_text": ""
+            },
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "En una escala del 1-10 donde 10 es el puntaje más alto. ¿Cuán oportuno, sincero, y efectivo es el feedback (retroalimentación) entre los miembros de este equipo?"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/522392158/pages/63457150/questions/234287882",
+            "display_options": {
+              "show_display_number": true,
+              "display_type": "slider",
+              "display_subtype": "",
+              "left_label_id": "1661791004",
+              "left_label": "1",
+              "right_label_id": "1661791005",
+              "right_label": "10",
+              "middle_label_id": null,
+              "middle_label": "",
+              "custom_options": {
+                "starting_position": 0,
+                "step_size": 1,
+                "option_set": [
+                  "adjusted_scale"
+                ]
+              },
+              "file_upload_labels": {},
+              "max_diff_button_labels": {}
+            }
+          },
+          {
+            "id": "234288005",
+            "position": 8,
+            "visible": true,
+            "family": "open_ended",
+            "subtype": "essay",
+            "layout": null,
+            "sorting": null,
+            "required": null,
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "¿Tienes algún comentario que te gustaría adicionar?"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/522392158/pages/63457150/questions/234288005"
+          },
+          {
+            "id": "234288254",
+            "position": 9,
+            "visible": true,
+            "family": "open_ended",
+            "subtype": "essay",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "¿Consideras que hay algún tema complejo de abordar como equipo (candente y/o indiscutible) que necesiten resolver? ¿De qué se trata?"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/522392158/pages/63457150/questions/234288254"
+          },
+          {
+            "id": "234288337",
+            "position": 10,
+            "visible": true,
+            "family": "open_ended",
+            "subtype": "essay",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "¿Qué es lo más valioso que este equipo necesita aprender a hacer distinto para acelerar la visión Credicorp?"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/522392158/pages/63457150/questions/234288337"
+          },
+          {
+            "id": "234288448",
+            "position": 11,
+            "visible": true,
+            "family": "presentation",
+            "subtype": "descriptive_text",
+            "layout": null,
+            "sorting": null,
+            "required": null,
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "B. <strong>Pensando como individuo, en mi día a día:</strong>"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/522392158/pages/63457150/questions/234288448",
+            "display_options": {
+              "show_display_number": false
+            }
+          },
+          {
+            "id": "234288566",
+            "position": 12,
+            "visible": true,
+            "family": "presentation",
+            "subtype": "descriptive_text",
+            "layout": null,
+            "sorting": null,
+            "required": null,
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Utiliza la escala abajo indicada, en cada frase, para señalar con qué frecuencia realizas cada comportamiento. Con esta información recibirás un informe individual, es por ello que te pedimos que te identifiques."
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/522392158/pages/63457150/questions/234288566",
+            "display_options": {
+              "show_display_number": false
+            }
+          },
+          {
+            "id": "235155206",
+            "position": 13,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "menu",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Mi nombre es:"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/522392158/pages/63457150/questions/235155206",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "Alejandro Perez Reyes",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1667137914"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "Adolfo Vinatea",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1674920828"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "Cesar Rios",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1667137915"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "Cesar Rivera",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1667137916"
+                },
+                {
+                  "position": 5,
+                  "visible": true,
+                  "text": "Christian Hausherr",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1667137917"
+                },
+                {
+                  "position": 6,
+                  "visible": true,
+                  "text": "Diego Cavero",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1667137918"
+                },
+                {
+                  "position": 7,
+                  "visible": true,
+                  "text": "Eduardo Montero",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1667137919"
+                },
+                {
+                  "position": 8,
+                  "visible": true,
+                  "text": "Francesca Raffo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1667137920"
+                },
+                {
+                  "position": 9,
+                  "visible": true,
+                  "text": "Galantino Gallo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1667137921"
+                },
+                {
+                  "position": 10,
+                  "visible": true,
+                  "text": "Gianfranco Ferrari",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1667137922"
+                },
+                {
+                  "position": 11,
+                  "visible": true,
+                  "text": "Guillermo Garrido Lecca",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1667137923"
+                },
+                {
+                  "position": 12,
+                  "visible": true,
+                  "text": "Javier Ichazo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1667137924"
+                },
+                {
+                  "position": 13,
+                  "visible": true,
+                  "text": "Michelle Labarthe",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1667137925"
+                },
+                {
+                  "position": 14,
+                  "visible": true,
+                  "text": "Nancy Tueros",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1667137926"
+                },
+                {
+                  "position": 15,
+                  "visible": true,
+                  "text": "Ursula Alvarez",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1667137927"
+                }
+              ]
+            }
+          },
+          {
+            "id": "234288839",
+            "position": 14,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Promuevo la toma de decisiones considerando siempre el impacto en la visión de Credicorp."
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/522392158/pages/63457150/questions/234288839",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "5 = Casi siempre",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1661796830"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "4 = Frecuentemente",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1661796831"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "3 = A veces",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1661796832"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "2 = Rara vez",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1661796833"
+                },
+                {
+                  "position": 5,
+                  "visible": true,
+                  "text": "1 = Casi nunca",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1661796834"
+                }
+              ]
+            }
+          },
+          {
+            "id": "234289270",
+            "position": 15,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Adopto y fomento un mindset de equipo único e innovación de forma proactiva en las conversaciones cruciales."
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/522392158/pages/63457150/questions/234289270",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "5 = Casi siempre",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1661798982"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "4 = Frecuentemente",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1661798983"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "3 = A veces",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1661798984"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "2 = Rara vez",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1661798985"
+                },
+                {
+                  "position": 5,
+                  "visible": true,
+                  "text": "1 = Casi nunca",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1661798986"
+                }
+              ]
+            }
+          },
+          {
+            "id": "234289501",
+            "position": 16,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Lidero conversaciones desafiantes de manera honesta y respetuosa."
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/522392158/pages/63457150/questions/234289501",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "5 = Casi siempre",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1661800183"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "4 = Frecuentemente",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1661800184"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "3 = A veces",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1661800185"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "2 = Rara vez",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1661800186"
+                },
+                {
+                  "position": 5,
+                  "visible": true,
+                  "text": "1 = Casi nunca",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1661800187"
+                }
+              ]
+            }
+          },
+          {
+            "id": "234289548",
+            "position": 17,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Escucho activamente a los demás, sin interrumpir, y mostrando atención plena durante las conversaciones."
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/522392158/pages/63457150/questions/234289548",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "5 = Casi siempre",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1661800448"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "4 = Frecuentemente",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1661800449"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "3 = A veces",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1661800450"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "2 = Rara vez",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1661800451"
+                },
+                {
+                  "position": 5,
+                  "visible": true,
+                  "text": "1 = Casi nunca",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1661800452"
+                }
+              ]
+            }
+          },
+          {
+            "id": "234289870",
+            "position": 18,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Realizo preguntas que demuestren una curiosidad genuina por entender las perspectivas de los demás."
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/522392158/pages/63457150/questions/234289870",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "5 = Casi siempre",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1661802310"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "4 = Frecuentemente",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1661802311"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "3 = A veces",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1661802312"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "2 = Rara vez",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1661802313"
+                },
+                {
+                  "position": 5,
+                  "visible": true,
+                  "text": "1 = Casi nunca",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1661802314"
+                }
+              ]
+            }
+          },
+          {
+            "id": "234290215",
+            "position": 19,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Dedico tiempo a conocer y conectar de manera auténtica con las personas dentro de Credicorp."
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/522392158/pages/63457150/questions/234290215",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "5 = Casi siempre",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1661803861"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "4 = Frecuentemente",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1661803862"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "3 = A veces",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1661803863"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "2 = Rara vez",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1661803864"
+                },
+                {
+                  "position": 5,
+                  "visible": true,
+                  "text": "1 = Casi nunca",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1661803865"
+                }
+              ]
+            }
+          },
+          {
+            "id": "234290248",
+            "position": 20,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Comparto acerca de mí mismo, abriéndome para fomentar un ambiente de confianza y cercanía."
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/522392158/pages/63457150/questions/234290248",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "5 = Casi siempre",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1661804056"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "4 = Frecuentemente",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1661804057"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "3 = A veces",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1661804058"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "2 = Rara vez",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1661804059"
+                },
+                {
+                  "position": 5,
+                  "visible": true,
+                  "text": "1 = Casi nunca",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1661804060"
+                }
+              ]
+            }
+          },
+          {
+            "id": "234290287",
+            "position": 21,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Pido y ofrezco retroalimentación de manera constructiva y efectiva para el crecimiento mutuo."
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/522392158/pages/63457150/questions/234290287",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "5 = Casi siempre",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1661804300"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "4 = Frecuentemente",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1661804301"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "3 = A veces",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1661804302"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "2 = Rara vez",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1661804303"
+                },
+                {
+                  "position": 5,
+                  "visible": true,
+                  "text": "1 = Casi nunca",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1661804304"
+                }
+              ]
+            }
+          },
+          {
+            "id": "234290321",
+            "position": 22,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Celebro y reconozco activamente el progreso y los logros de los equipos."
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/522392158/pages/63457150/questions/234290321",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "5 = Casi siempre",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1661804441"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "4 = Frecuentemente",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1661804442"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "3 = A veces",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1661804443"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "2 = Rara vez",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1661804444"
+                },
+                {
+                  "position": 5,
+                  "visible": true,
+                  "text": "1 = Casi nunca",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1661804445"
+                }
+              ]
+            }
+          },
+          {
+            "id": "234290348",
+            "position": 23,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Adopto una actitud más flexible y constructiva, enfocándome en valorar los logros y esfuerzos, en lugar de buscar la perfección o centrarse en los errores."
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/522392158/pages/63457150/questions/234290348",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "5 = Casi siempre",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1661804604"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "4 = Frecuentemente",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1661804605"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "3 = A veces",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1661804606"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "2 = Rara vez",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1661804607"
+                },
+                {
+                  "position": 5,
+                  "visible": true,
+                  "text": "1 = Casi nunca",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1661804608"
+                }
+              ]
+            }
+          },
+          {
+            "id": "234290435",
+            "position": 24,
+            "visible": true,
+            "family": "open_ended",
+            "subtype": "essay",
+            "layout": null,
+            "sorting": null,
+            "required": null,
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Si tuvieses algún comentario adicional por favor compártelo aquí:"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/522392158/pages/63457150/questions/234290435"
+          },
+          {
+            "id": "234290694",
+            "position": 25,
+            "visible": true,
+            "family": "presentation",
+            "subtype": "descriptive_text",
+            "layout": null,
+            "sorting": null,
+            "required": null,
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "<strong>Muchas gracias por tu tiempo y sinceridad!</strong>"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/522392158/pages/63457150/questions/234290694",
+            "display_options": {
+              "show_display_number": false
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "responses": [
+    {
+      "id": "118818366609",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "201.240.193.132",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "459969000",
+      "survey_id": "522392158",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=vZlI8Zz2lJ1JiA_2Bk0UwxLGLyxAEw_2BjVfhosXDni1ecJMMFEW56tc9oo0DifETOam",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/kARqt_2BvfYqYuMqEHrx1_2B6j64cEuMQGN9N3hiQjKjxhI_3D?respondent_id=118818366609",
+      "total_time": 378,
+      "date_modified": "2025-03-11T23:03:10+00:00",
+      "date_created": "2025-03-11T22:56:52+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/522392158/responses/118818366609",
+      "pages": [
+        {
+          "id": "63457150",
+          "questions": [
+            {
+              "id": "234287204",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Haber logrado la definición de una visión común para Credicorp"
+                }
+              ]
+            },
+            {
+              "id": "234287229",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Tener conversaciones mas francas, abiertas y directas"
+                }
+              ]
+            },
+            {
+              "id": "234287390",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Seguir desarrollando la confianza dentro del grupo y que seamos capaces de “bajar” la misma a los respectivos equipos"
+                }
+              ]
+            },
+            {
+              "id": "234287617",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "8"
+                }
+              ]
+            },
+            {
+              "id": "234287745",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Continuar diciendo las cosas que pensamos"
+                }
+              ]
+            },
+            {
+              "id": "234287882",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "7"
+                }
+              ]
+            },
+            {
+              "id": "234288005",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "No"
+                }
+              ]
+            },
+            {
+              "id": "234288254",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Construir una red de confianza solida entre nosotros"
+                }
+              ]
+            },
+            {
+              "id": "234288337",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Escucharnos mas"
+                }
+              ]
+            },
+            {
+              "id": "235155206",
+              "answers": [
+                {
+                  "choice_id": "1667137922"
+                }
+              ]
+            },
+            {
+              "id": "234288839",
+              "answers": [
+                {
+                  "choice_id": "1661796830"
+                }
+              ]
+            },
+            {
+              "id": "234289270",
+              "answers": [
+                {
+                  "choice_id": "1661798982"
+                }
+              ]
+            },
+            {
+              "id": "234289501",
+              "answers": [
+                {
+                  "choice_id": "1661800183"
+                }
+              ]
+            },
+            {
+              "id": "234289548",
+              "answers": [
+                {
+                  "choice_id": "1661800450"
+                }
+              ]
+            },
+            {
+              "id": "234289870",
+              "answers": [
+                {
+                  "choice_id": "1661802311"
+                }
+              ]
+            },
+            {
+              "id": "234290215",
+              "answers": [
+                {
+                  "choice_id": "1661803863"
+                }
+              ]
+            },
+            {
+              "id": "234290248",
+              "answers": [
+                {
+                  "choice_id": "1661804058"
+                }
+              ]
+            },
+            {
+              "id": "234290287",
+              "answers": [
+                {
+                  "choice_id": "1661804301"
+                }
+              ]
+            },
+            {
+              "id": "234290321",
+              "answers": [
+                {
+                  "choice_id": "1661804443"
+                }
+              ]
+            },
+            {
+              "id": "234290348",
+              "answers": [
+                {
+                  "choice_id": "1661804606"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "118819385930",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "190.238.252.170",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "459969000",
+      "survey_id": "522392158",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=JkEQ1PhIJUcV56KCdN91ngt8C_2FyWkNqxZI5W78eyLBRuIJvM_2F7WwPvSMCRPBZRWi",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/kARqt_2BvfYqYuMqEHrx1_2B6j64cEuMQGN9N3hiQjKjxhI_3D?respondent_id=118819385930",
+      "total_time": 528,
+      "date_modified": "2025-03-13T01:30:32+00:00",
+      "date_created": "2025-03-13T01:21:44+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/522392158/responses/118819385930",
+      "pages": [
+        {
+          "id": "63457150",
+          "questions": [
+            {
+              "id": "234287204",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Tomar consciencia de que tenemos que realizar un cambio profundo"
+                }
+              ]
+            },
+            {
+              "id": "234287229",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Hablar de temas delicados con más apertura"
+                }
+              ]
+            },
+            {
+              "id": "234287390",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Que realmente se la crea y principalmente que cambie compartamientos"
+                }
+              ]
+            },
+            {
+              "id": "234287617",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "8"
+                }
+              ]
+            },
+            {
+              "id": "234287745",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Conversar más de temas incomodos"
+                }
+              ]
+            },
+            {
+              "id": "234287882",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "5"
+                }
+              ]
+            },
+            {
+              "id": "234288005",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Ayudémonos a cambiar comportamientos, de lo contrario nada cambiara"
+                }
+              ]
+            },
+            {
+              "id": "234288254",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Seguimos permitiendo comportamientos manifestados en los focus iniciales "
+                }
+              ]
+            },
+            {
+              "id": "234288337",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Ser tan ejecutivo como en lo comercial, en lo cultural"
+                }
+              ]
+            },
+            {
+              "id": "235155206",
+              "answers": [
+                {
+                  "choice_id": "1667137924"
+                }
+              ]
+            },
+            {
+              "id": "234288839",
+              "answers": [
+                {
+                  "choice_id": "1661796830"
+                }
+              ]
+            },
+            {
+              "id": "234289270",
+              "answers": [
+                {
+                  "choice_id": "1661798983"
+                }
+              ]
+            },
+            {
+              "id": "234289501",
+              "answers": [
+                {
+                  "choice_id": "1661800183"
+                }
+              ]
+            },
+            {
+              "id": "234289548",
+              "answers": [
+                {
+                  "choice_id": "1661800449"
+                }
+              ]
+            },
+            {
+              "id": "234289870",
+              "answers": [
+                {
+                  "choice_id": "1661802311"
+                }
+              ]
+            },
+            {
+              "id": "234290215",
+              "answers": [
+                {
+                  "choice_id": "1661803861"
+                }
+              ]
+            },
+            {
+              "id": "234290248",
+              "answers": [
+                {
+                  "choice_id": "1661804056"
+                }
+              ]
+            },
+            {
+              "id": "234290287",
+              "answers": [
+                {
+                  "choice_id": "1661804301"
+                }
+              ]
+            },
+            {
+              "id": "234290321",
+              "answers": [
+                {
+                  "choice_id": "1661804443"
+                }
+              ]
+            },
+            {
+              "id": "234290348",
+              "answers": [
+                {
+                  "choice_id": "1661804605"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "118824213904",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "194.74.0.84",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "459969000",
+      "survey_id": "522392158",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=VuR857R1ICrX4MYWNnu2qtayTfLVvY0nc0LQ40vx8g3rmrn8OhKV7HzUQ_2BrRmLwd",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/kARqt_2BvfYqYuMqEHrx1_2B6j64cEuMQGN9N3hiQjKjxhI_3D?respondent_id=118824213904",
+      "total_time": 432,
+      "date_modified": "2025-03-19T21:22:21+00:00",
+      "date_created": "2025-03-19T21:15:09+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/522392158/responses/118824213904",
+      "pages": [
+        {
+          "id": "63457150",
+          "questions": [
+            {
+              "id": "234287204",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Alinearnos a todos !"
+                }
+              ]
+            },
+            {
+              "id": "234287229",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Conversaciones francas, fijar objetivos comunes pensando en el beneficio BAP y no individual. "
+                }
+              ]
+            },
+            {
+              "id": "234287390",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Que no se pierda la buena “ inercia” de confianza , apertura y colaboración. "
+                }
+              ]
+            },
+            {
+              "id": "234287617",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "8"
+                }
+              ]
+            },
+            {
+              "id": "234287745",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Somos personas. Lo que falta, se irá logrando poco a poco con las interacciones continuas. "
+                }
+              ]
+            },
+            {
+              "id": "234287882",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "7"
+                }
+              ]
+            },
+            {
+              "id": "234288005",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Ha sido un trabajo muy bueno del equipo de Personas y Cultura. Debo decir que en mis X ( muchos) años aquí, no había visto un esfuerzo tan genuino y efectivo en la búsqueda de esta anhelada unidad de grupo. Felicitaciones y gracias por eso. "
+                }
+              ]
+            },
+            {
+              "id": "234288254",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Siempre habrán … solo estar atentos !"
+                }
+              ]
+            },
+            {
+              "id": "234288337",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Walk the Talk "
+                }
+              ]
+            },
+            {
+              "id": "235155206",
+              "answers": [
+                {
+                  "choice_id": "1667137916"
+                }
+              ]
+            },
+            {
+              "id": "234288839",
+              "answers": [
+                {
+                  "choice_id": "1661796830"
+                }
+              ]
+            },
+            {
+              "id": "234289270",
+              "answers": [
+                {
+                  "choice_id": "1661798983"
+                }
+              ]
+            },
+            {
+              "id": "234289501",
+              "answers": [
+                {
+                  "choice_id": "1661800183"
+                }
+              ]
+            },
+            {
+              "id": "234289548",
+              "answers": [
+                {
+                  "choice_id": "1661800449"
+                }
+              ]
+            },
+            {
+              "id": "234289870",
+              "answers": [
+                {
+                  "choice_id": "1661802311"
+                }
+              ]
+            },
+            {
+              "id": "234290215",
+              "answers": [
+                {
+                  "choice_id": "1661803862"
+                }
+              ]
+            },
+            {
+              "id": "234290248",
+              "answers": [
+                {
+                  "choice_id": "1661804058"
+                }
+              ]
+            },
+            {
+              "id": "234290287",
+              "answers": [
+                {
+                  "choice_id": "1661804302"
+                }
+              ]
+            },
+            {
+              "id": "234290321",
+              "answers": [
+                {
+                  "choice_id": "1661804441"
+                }
+              ]
+            },
+            {
+              "id": "234290348",
+              "answers": [
+                {
+                  "choice_id": "1661804604"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "118824271308",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "163.116.229.23",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "459969000",
+      "survey_id": "522392158",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=CqmXDPXDoxwop9cxVPiY2h_2BZ_2BHhW_2BNDR6huZ1MUpNslIxVnhHTUZhazxP7SXnVBX",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/kARqt_2BvfYqYuMqEHrx1_2B6j64cEuMQGN9N3hiQjKjxhI_3D?respondent_id=118824271308",
+      "total_time": 420,
+      "date_modified": "2025-03-19T23:03:18+00:00",
+      "date_created": "2025-03-19T22:56:18+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/522392158/responses/118824271308",
+      "pages": [
+        {
+          "id": "63457150",
+          "questions": [
+            {
+              "id": "234287204",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "El haber definido conjuntamente el proposito y bases de la cultura BAP "
+                }
+              ]
+            },
+            {
+              "id": "234287229",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Tener conversaciones abiertas y sin reservas. Mas confianza y soporte entre todos. Mas trabajao colaborativo"
+                }
+              ]
+            },
+            {
+              "id": "234287390",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Contagiar lo avanzado hacia los equipos "
+                }
+              ]
+            },
+            {
+              "id": "234287617",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "8"
+                }
+              ]
+            },
+            {
+              "id": "234287745",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "seguir practicando y ejercitando el musculo de la apertura y la humildad"
+                }
+              ]
+            },
+            {
+              "id": "234287882",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "6"
+                }
+              ]
+            },
+            {
+              "id": "234288254",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Si. Cuando el Jefe opina anticipadmaente (verbal o fisicamente) la conversación no fluye tan abiertamente."
+                }
+              ]
+            },
+            {
+              "id": "234288337",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Vivir el que somos más que la suma de las partes. Ser mas abiertos y voclaes"
+                }
+              ]
+            },
+            {
+              "id": "235155206",
+              "answers": [
+                {
+                  "choice_id": "1667137918"
+                }
+              ]
+            },
+            {
+              "id": "234288839",
+              "answers": [
+                {
+                  "choice_id": "1661796831"
+                }
+              ]
+            },
+            {
+              "id": "234289270",
+              "answers": [
+                {
+                  "choice_id": "1661798984"
+                }
+              ]
+            },
+            {
+              "id": "234289501",
+              "answers": [
+                {
+                  "choice_id": "1661800183"
+                }
+              ]
+            },
+            {
+              "id": "234289548",
+              "answers": [
+                {
+                  "choice_id": "1661800449"
+                }
+              ]
+            },
+            {
+              "id": "234289870",
+              "answers": [
+                {
+                  "choice_id": "1661802310"
+                }
+              ]
+            },
+            {
+              "id": "234290215",
+              "answers": [
+                {
+                  "choice_id": "1661803862"
+                }
+              ]
+            },
+            {
+              "id": "234290248",
+              "answers": [
+                {
+                  "choice_id": "1661804058"
+                }
+              ]
+            },
+            {
+              "id": "234290287",
+              "answers": [
+                {
+                  "choice_id": "1661804302"
+                }
+              ]
+            },
+            {
+              "id": "234290321",
+              "answers": [
+                {
+                  "choice_id": "1661804442"
+                }
+              ]
+            },
+            {
+              "id": "234290348",
+              "answers": [
+                {
+                  "choice_id": "1661804605"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "118824826241",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "163.116.229.131",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "459969000",
+      "survey_id": "522392158",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=y5Q0Y6UYqbzoyyR8QV0Kc6XGE4LCJCRcvWbLDPPWdgOfTAiKPXbIJG4Md7gz4R8e",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/kARqt_2BvfYqYuMqEHrx1_2B6j64cEuMQGN9N3hiQjKjxhI_3D?respondent_id=118824826241",
+      "total_time": 961,
+      "date_modified": "2025-03-20T17:04:01+00:00",
+      "date_created": "2025-03-20T16:48:00+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/522392158/responses/118824826241",
+      "pages": [
+        {
+          "id": "63457150",
+          "questions": [
+            {
+              "id": "234287204",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Crear un ambiente de confianza y comodidas en donde los miembros con opiniones distintas a la mayoría o al Gerente General de BAP pueden compartirlo abiertamente. Lo otro que hemos logrado es escucharnos sin interrumpir y eso es un gran logro."
+                }
+              ]
+            },
+            {
+              "id": "234287229",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Escuchar sin juzgar de arranque. Eso no lo podiamos hacer al inicio. Y ese respeto crea confianza y construye cultura."
+                }
+              ]
+            },
+            {
+              "id": "234287390",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Walk de Talk. Aun nos cuesta en nuestro dia a dia implementar la cultura deseada ya que las urgencias y problemas rapidamente te regresan a tu estado natural de busqueda de resultados."
+                }
+              ]
+            },
+            {
+              "id": "234287617",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "8"
+                }
+              ]
+            },
+            {
+              "id": "234287745",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Creo que aun hay timidez de algunos miembros ha hablar y expresar opiniones distintas por miedo a ser juzgados. Me preocupa que eso se mantenga así y seea mas un tema de personalidad de los miembros que necesariamente el foro."
+                }
+              ]
+            },
+            {
+              "id": "234287882",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "9"
+                }
+              ]
+            },
+            {
+              "id": "234288005",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Esta funcionando muy bien dar feedback abierto al final de nuestras reuniones. "
+                }
+              ]
+            },
+            {
+              "id": "234288254",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Si, el tema de diferenciar ERROR de NEGLIGENCIA. Creo que tenemos que crear un buen plan para trasladar a nuestros equipos."
+                }
+              ]
+            },
+            {
+              "id": "234288337",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Trabajar en conjunto POR CREDICORP y no por SILOS o objetivos aislados."
+                }
+              ]
+            },
+            {
+              "id": "235155206",
+              "answers": [
+                {
+                  "choice_id": "1667137921"
+                }
+              ]
+            },
+            {
+              "id": "234288839",
+              "answers": [
+                {
+                  "choice_id": "1661796831"
+                }
+              ]
+            },
+            {
+              "id": "234289270",
+              "answers": [
+                {
+                  "choice_id": "1661798983"
+                }
+              ]
+            },
+            {
+              "id": "234289501",
+              "answers": [
+                {
+                  "choice_id": "1661800183"
+                }
+              ]
+            },
+            {
+              "id": "234289548",
+              "answers": [
+                {
+                  "choice_id": "1661800449"
+                }
+              ]
+            },
+            {
+              "id": "234289870",
+              "answers": [
+                {
+                  "choice_id": "1661802311"
+                }
+              ]
+            },
+            {
+              "id": "234290215",
+              "answers": [
+                {
+                  "choice_id": "1661803861"
+                }
+              ]
+            },
+            {
+              "id": "234290248",
+              "answers": [
+                {
+                  "choice_id": "1661804056"
+                }
+              ]
+            },
+            {
+              "id": "234290287",
+              "answers": [
+                {
+                  "choice_id": "1661804302"
+                }
+              ]
+            },
+            {
+              "id": "234290321",
+              "answers": [
+                {
+                  "choice_id": "1661804443"
+                }
+              ]
+            },
+            {
+              "id": "234290348",
+              "answers": [
+                {
+                  "choice_id": "1661804606"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "118825569177",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "163.116.247.62",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "459969000",
+      "survey_id": "522392158",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=urDvkFHs9SwkIjiuC7CJv1xtTRMVqcPxFJM5LRGxy0tsTHut1NTdyZtfdpWxwlal",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/kARqt_2BvfYqYuMqEHrx1_2B6j64cEuMQGN9N3hiQjKjxhI_3D?respondent_id=118825569177",
+      "total_time": 638,
+      "date_modified": "2025-03-21T15:10:04+00:00",
+      "date_created": "2025-03-21T14:59:25+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/522392158/responses/118825569177",
+      "pages": [
+        {
+          "id": "63457150",
+          "questions": [
+            {
+              "id": "234287204",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "escucharnos con apertura y sin adelantar juicios "
+                }
+              ]
+            },
+            {
+              "id": "234287229",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "que la participación e involucramiento no dependa solo de la personalidad o jerarquia"
+                }
+              ]
+            },
+            {
+              "id": "234287390",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Que mantengamos esa dínamica y que a su vez la promovamos en nuestros equipos"
+                }
+              ]
+            },
+            {
+              "id": "234287617",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "7"
+                }
+              ]
+            },
+            {
+              "id": "234287745",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "primero promover espacios donde nos podamos seguir conociendo más y segundo es una decisión personal...tomar la decisión de confiar"
+                }
+              ]
+            },
+            {
+              "id": "234287882",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "6"
+                }
+              ]
+            },
+            {
+              "id": "234288005",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "a nivel grupal se hace después de cada comité, pero a nivel individual no lo he visto"
+                }
+              ]
+            },
+            {
+              "id": "234288254",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "A mi parecer tenemos que terminar de aterrizar como vamos enfrentar que somos parte de una corporación pero cada empresa también tiene sus prioridades y desafios...qué pasa cuando no coinciden?"
+                }
+              ]
+            },
+            {
+              "id": "234288337",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "entender mejor la realidad de las otras empresas para tener una visión que las incluya no que las arrastre"
+                }
+              ]
+            },
+            {
+              "id": "235155206",
+              "answers": [
+                {
+                  "choice_id": "1667137926"
+                }
+              ]
+            },
+            {
+              "id": "234288839",
+              "answers": [
+                {
+                  "choice_id": "1661796831"
+                }
+              ]
+            },
+            {
+              "id": "234289270",
+              "answers": [
+                {
+                  "choice_id": "1661798983"
+                }
+              ]
+            },
+            {
+              "id": "234289501",
+              "answers": [
+                {
+                  "choice_id": "1661800184"
+                }
+              ]
+            },
+            {
+              "id": "234289548",
+              "answers": [
+                {
+                  "choice_id": "1661800450"
+                }
+              ]
+            },
+            {
+              "id": "234289870",
+              "answers": [
+                {
+                  "choice_id": "1661802312"
+                }
+              ]
+            },
+            {
+              "id": "234290215",
+              "answers": [
+                {
+                  "choice_id": "1661803862"
+                }
+              ]
+            },
+            {
+              "id": "234290248",
+              "answers": [
+                {
+                  "choice_id": "1661804057"
+                }
+              ]
+            },
+            {
+              "id": "234290287",
+              "answers": [
+                {
+                  "choice_id": "1661804302"
+                }
+              ]
+            },
+            {
+              "id": "234290321",
+              "answers": [
+                {
+                  "choice_id": "1661804441"
+                }
+              ]
+            },
+            {
+              "id": "234290348",
+              "answers": [
+                {
+                  "choice_id": "1661804606"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "118825665247",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "163.116.229.138",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "459969000",
+      "survey_id": "522392158",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=bveGB_2BYXB7vRPRlchTPXaKqUXlCIrFSHdYDqbKCoGmm32CWxPRLtSU1mZJmYPWrm",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/kARqt_2BvfYqYuMqEHrx1_2B6j64cEuMQGN9N3hiQjKjxhI_3D?respondent_id=118825665247",
+      "total_time": 402,
+      "date_modified": "2025-03-21T17:04:42+00:00",
+      "date_created": "2025-03-21T16:57:59+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/522392158/responses/118825665247",
+      "pages": [
+        {
+          "id": "63457150",
+          "questions": [
+            {
+              "id": "234287204",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Apertura para hablar de temas y reconocer estilos y preferencias con el VMI"
+                }
+              ]
+            },
+            {
+              "id": "234287229",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Un poco de retrospectiva después de los comités y reforzar algunos comportamientos que queremos más y otros menos."
+                }
+              ]
+            },
+            {
+              "id": "234287390",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Desarrollar los músculos reales, decir que no, decir que no entiendo, poder confrontar a otro de buena manera"
+                }
+              ]
+            },
+            {
+              "id": "234287617",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "6"
+                }
+              ]
+            },
+            {
+              "id": "234287745",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Más tiempo dedicado a comportamientos, stop, keep, do more de forma más profunda"
+                }
+              ]
+            },
+            {
+              "id": "234287882",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "4"
+                }
+              ]
+            },
+            {
+              "id": "234288005",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Necesitamos más coaching presente en la reunión"
+                }
+              ]
+            },
+            {
+              "id": "234288254",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Evidencias de qué está funcionando o no en colaboración, talento, proyectos, presupuestos"
+                }
+              ]
+            },
+            {
+              "id": "234288337",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Que necesita cambiar su visión de largo plazo"
+                }
+              ]
+            },
+            {
+              "id": "235155206",
+              "answers": [
+                {
+                  "choice_id": "1667137920"
+                }
+              ]
+            },
+            {
+              "id": "234288839",
+              "answers": [
+                {
+                  "choice_id": "1661796831"
+                }
+              ]
+            },
+            {
+              "id": "234289270",
+              "answers": [
+                {
+                  "choice_id": "1661798983"
+                }
+              ]
+            },
+            {
+              "id": "234289501",
+              "answers": [
+                {
+                  "choice_id": "1661800184"
+                }
+              ]
+            },
+            {
+              "id": "234289548",
+              "answers": [
+                {
+                  "choice_id": "1661800450"
+                }
+              ]
+            },
+            {
+              "id": "234289870",
+              "answers": [
+                {
+                  "choice_id": "1661802312"
+                }
+              ]
+            },
+            {
+              "id": "234290215",
+              "answers": [
+                {
+                  "choice_id": "1661803861"
+                }
+              ]
+            },
+            {
+              "id": "234290248",
+              "answers": [
+                {
+                  "choice_id": "1661804056"
+                }
+              ]
+            },
+            {
+              "id": "234290287",
+              "answers": [
+                {
+                  "choice_id": "1661804302"
+                }
+              ]
+            },
+            {
+              "id": "234290321",
+              "answers": [
+                {
+                  "choice_id": "1661804442"
+                }
+              ]
+            },
+            {
+              "id": "234290348",
+              "answers": [
+                {
+                  "choice_id": "1661804606"
+                }
+              ]
+            },
+            {
+              "id": "234290435",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Hago todo mejor en uno a uno, no en un espacio de grupo grande tipo CdG BAP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "118825704690",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "190.181.61.214",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "459969000",
+      "survey_id": "522392158",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=MdNsxaodl0icgcNKJ4EoXPzhVAKnS4v04bQep5Sb6eW27_2Brn8xIfz1pX7ECwOZXy",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/kARqt_2BvfYqYuMqEHrx1_2B6j64cEuMQGN9N3hiQjKjxhI_3D?respondent_id=118825704690",
+      "total_time": 574,
+      "date_modified": "2025-03-21T17:53:25+00:00",
+      "date_created": "2025-03-21T17:43:51+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/522392158/responses/118825704690",
+      "pages": [
+        {
+          "id": "63457150",
+          "questions": [
+            {
+              "id": "234287204",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Alineamiento en el equipo"
+                }
+              ]
+            },
+            {
+              "id": "234287229",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Hay mayor cercanía y trabajo conjunto, aunque todavía falta"
+                }
+              ]
+            },
+            {
+              "id": "234287390",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Conversaciones totalmente francas, romper silos, trabajo colaborativo"
+                }
+              ]
+            },
+            {
+              "id": "234287617",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "7"
+                }
+              ]
+            },
+            {
+              "id": "234287745",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Asegurar que todos los miembros del equipo estén jugando el partido"
+                }
+              ]
+            },
+            {
+              "id": "234287882",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "5"
+                }
+              ]
+            },
+            {
+              "id": "234288005",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Todavía hay conversaciones difíciles que se las tiene por encima o se las han postergado"
+                }
+              ]
+            },
+            {
+              "id": "234288254",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Cómo asegurar el trabajo colaborativo"
+                }
+              ]
+            },
+            {
+              "id": "234288337",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Ser más compañeros y conversaciones francas"
+                }
+              ]
+            },
+            {
+              "id": "235155206",
+              "answers": [
+                {
+                  "choice_id": "1667137917"
+                }
+              ]
+            },
+            {
+              "id": "234288839",
+              "answers": [
+                {
+                  "choice_id": "1661796830"
+                }
+              ]
+            },
+            {
+              "id": "234289270",
+              "answers": [
+                {
+                  "choice_id": "1661798982"
+                }
+              ]
+            },
+            {
+              "id": "234289501",
+              "answers": [
+                {
+                  "choice_id": "1661800184"
+                }
+              ]
+            },
+            {
+              "id": "234289548",
+              "answers": [
+                {
+                  "choice_id": "1661800449"
+                }
+              ]
+            },
+            {
+              "id": "234289870",
+              "answers": [
+                {
+                  "choice_id": "1661802311"
+                }
+              ]
+            },
+            {
+              "id": "234290215",
+              "answers": [
+                {
+                  "choice_id": "1661803862"
+                }
+              ]
+            },
+            {
+              "id": "234290248",
+              "answers": [
+                {
+                  "choice_id": "1661804058"
+                }
+              ]
+            },
+            {
+              "id": "234290287",
+              "answers": [
+                {
+                  "choice_id": "1661804302"
+                }
+              ]
+            },
+            {
+              "id": "234290321",
+              "answers": [
+                {
+                  "choice_id": "1661804442"
+                }
+              ]
+            },
+            {
+              "id": "234290348",
+              "answers": [
+                {
+                  "choice_id": "1661804605"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "118825725469",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "163.116.234.44",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "459969000",
+      "survey_id": "522392158",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=7foctkshrN_2Bn4_2FwEewLvHpWRtLm4XO1sgYRdwetOl2BpZfoZ9TITcS8zr6MYclgG",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/kARqt_2BvfYqYuMqEHrx1_2B6j64cEuMQGN9N3hiQjKjxhI_3D?respondent_id=118825725469",
+      "total_time": 161276,
+      "date_modified": "2025-03-21T18:18:40+00:00",
+      "date_created": "2025-03-19T21:30:44+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/522392158/responses/118825725469",
+      "pages": [
+        {
+          "id": "63457150",
+          "questions": [
+            {
+              "id": "234287204",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Que las empresas interactúen mas entre si"
+                }
+              ]
+            },
+            {
+              "id": "234287229",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Ver una sola corporación y no silos"
+                }
+              ]
+            },
+            {
+              "id": "234287390",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Fortalecer el plan de impacto nos lleve a resultados extraordinarios en Finanzas para el futuro, inclusion y confianza"
+                }
+              ]
+            },
+            {
+              "id": "234287617",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "10"
+                }
+              ]
+            },
+            {
+              "id": "234287745",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Desde el feedback de mi líder, avalúo que la interacción es de confianza "
+                }
+              ]
+            },
+            {
+              "id": "234287882",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "10"
+                }
+              ]
+            },
+            {
+              "id": "234288005",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Desde el feedback de mi líder, entiendo hay una retroalimentación efectiva "
+                }
+              ]
+            },
+            {
+              "id": "234288254",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "No lo considero"
+                }
+              ]
+            },
+            {
+              "id": "234288337",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Mas que aprender continuar haciendolo y reforzarlo en trabajo en equipo y pensando en Credicorp como un todo y no como diferentes empresas"
+                }
+              ]
+            },
+            {
+              "id": "235155206",
+              "answers": [
+                {
+                  "choice_id": "1667137926"
+                }
+              ]
+            },
+            {
+              "id": "234288839",
+              "answers": [
+                {
+                  "choice_id": "1661796830"
+                }
+              ]
+            },
+            {
+              "id": "234289270",
+              "answers": [
+                {
+                  "choice_id": "1661798982"
+                }
+              ]
+            },
+            {
+              "id": "234289501",
+              "answers": [
+                {
+                  "choice_id": "1661800183"
+                }
+              ]
+            },
+            {
+              "id": "234289548",
+              "answers": [
+                {
+                  "choice_id": "1661800448"
+                }
+              ]
+            },
+            {
+              "id": "234289870",
+              "answers": [
+                {
+                  "choice_id": "1661802310"
+                }
+              ]
+            },
+            {
+              "id": "234290215",
+              "answers": [
+                {
+                  "choice_id": "1661803861"
+                }
+              ]
+            },
+            {
+              "id": "234290248",
+              "answers": [
+                {
+                  "choice_id": "1661804056"
+                }
+              ]
+            },
+            {
+              "id": "234290287",
+              "answers": [
+                {
+                  "choice_id": "1661804300"
+                }
+              ]
+            },
+            {
+              "id": "234290321",
+              "answers": [
+                {
+                  "choice_id": "1661804441"
+                }
+              ]
+            },
+            {
+              "id": "234290348",
+              "answers": [
+                {
+                  "choice_id": "1661804604"
+                }
+              ]
+            },
+            {
+              "id": "234290435",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Felicito a los lideres por el excelente trabajo realizado en el 2024 y me siento orgullosa de ser parte del grupo y de tener representantes de tan alta calidad en cabeza de cada una de las empresas"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "118825755284",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "170.245.35.10",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "459969000",
+      "survey_id": "522392158",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=VPlzj4RkBkN_2FtH5cq3idVnAHFtKgdvQnApN4m0UJ0yhHOQwDYjPTiv7nizZi5JQ0",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/kARqt_2BvfYqYuMqEHrx1_2B6j64cEuMQGN9N3hiQjKjxhI_3D?respondent_id=118825755284",
+      "total_time": 8939,
+      "date_modified": "2025-03-21T18:58:08+00:00",
+      "date_created": "2025-03-21T16:29:08+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/522392158/responses/118825755284",
+      "pages": [
+        {
+          "id": "63457150",
+          "questions": [
+            {
+              "id": "234287204",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Haber alineado las expectativas sobre el funcionamiento del comité y sobre sus reglas de juego"
+                }
+              ]
+            },
+            {
+              "id": "234287229",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Poder expresarnos con mayor confianza en la mayoría de las situaciones"
+                }
+              ]
+            },
+            {
+              "id": "234287390",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Generar mayor seguridad sicológica en las interacciones durante los comités "
+                }
+              ]
+            },
+            {
+              "id": "234287617",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "6"
+                }
+              ]
+            },
+            {
+              "id": "234287745",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Creo que todavía es un foro donde la gente se cuida mucho sobre lo que dice, especialmente cuando eso implica no estar de acuerdo con otros miembros del comité"
+                }
+              ]
+            },
+            {
+              "id": "234287882",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "8"
+                }
+              ]
+            },
+            {
+              "id": "234288005",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Creo que las retroalimentaciones al finalizar son súper efectivas "
+                }
+              ]
+            },
+            {
+              "id": "234288254",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "-"
+                }
+              ]
+            },
+            {
+              "id": "234288337",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "-"
+                }
+              ]
+            },
+            {
+              "id": "235155206",
+              "answers": [
+                {
+                  "choice_id": "1667137917"
+                }
+              ]
+            },
+            {
+              "id": "234288839",
+              "answers": [
+                {
+                  "choice_id": "1661796830"
+                }
+              ]
+            },
+            {
+              "id": "234289270",
+              "answers": [
+                {
+                  "choice_id": "1661798983"
+                }
+              ]
+            },
+            {
+              "id": "234289501",
+              "answers": [
+                {
+                  "choice_id": "1661800184"
+                }
+              ]
+            },
+            {
+              "id": "234289548",
+              "answers": [
+                {
+                  "choice_id": "1661800450"
+                }
+              ]
+            },
+            {
+              "id": "234289870",
+              "answers": [
+                {
+                  "choice_id": "1661802311"
+                }
+              ]
+            },
+            {
+              "id": "234290215",
+              "answers": [
+                {
+                  "choice_id": "1661803862"
+                }
+              ]
+            },
+            {
+              "id": "234290248",
+              "answers": [
+                {
+                  "choice_id": "1661804058"
+                }
+              ]
+            },
+            {
+              "id": "234290287",
+              "answers": [
+                {
+                  "choice_id": "1661804302"
+                }
+              ]
+            },
+            {
+              "id": "234290321",
+              "answers": [
+                {
+                  "choice_id": "1661804442"
+                }
+              ]
+            },
+            {
+              "id": "234290348",
+              "answers": [
+                {
+                  "choice_id": "1661804605"
+                }
+              ]
+            },
+            {
+              "id": "234290435",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "-"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "118825821836",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "190.181.61.214",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "459969000",
+      "survey_id": "522392158",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=k96aNvUX_2B9tfc1zhdWmy_2FXvANhRpt9KUnS4lX9EBOwtLH3426ykcoWJM9ixtvAfd",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/kARqt_2BvfYqYuMqEHrx1_2B6j64cEuMQGN9N3hiQjKjxhI_3D?respondent_id=118825821836",
+      "total_time": 808,
+      "date_modified": "2025-03-21T20:35:08+00:00",
+      "date_created": "2025-03-21T20:21:40+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/522392158/responses/118825821836",
+      "pages": [
+        {
+          "id": "63457150",
+          "questions": [
+            {
+              "id": "234287204",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Creo que las subculturas se han acercados."
+                }
+              ]
+            },
+            {
+              "id": "234287229",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Creo que hay más apertura en decir lo que sienten."
+                }
+              ]
+            },
+            {
+              "id": "234287390",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Llevar la cultura a los pasillos y entre empresas."
+                }
+              ]
+            },
+            {
+              "id": "234287617",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "7"
+                }
+              ]
+            },
+            {
+              "id": "234287745",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Seguir en el proceso de conocerse."
+                }
+              ]
+            },
+            {
+              "id": "234287882",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "9"
+                }
+              ]
+            },
+            {
+              "id": "234288005",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "El desafio son las subculturas, hay que empezar por casa."
+                }
+              ]
+            },
+            {
+              "id": "234288254",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Nada."
+                }
+              ]
+            },
+            {
+              "id": "234288337",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Escuchar y empatía con los equipos."
+                }
+              ]
+            },
+            {
+              "id": "235155206",
+              "answers": [
+                {
+                  "choice_id": "1667137917"
+                }
+              ]
+            },
+            {
+              "id": "234288839",
+              "answers": [
+                {
+                  "choice_id": "1661796830"
+                }
+              ]
+            },
+            {
+              "id": "234289270",
+              "answers": [
+                {
+                  "choice_id": "1661798983"
+                }
+              ]
+            },
+            {
+              "id": "234289501",
+              "answers": [
+                {
+                  "choice_id": "1661800184"
+                }
+              ]
+            },
+            {
+              "id": "234289548",
+              "answers": [
+                {
+                  "choice_id": "1661800449"
+                }
+              ]
+            },
+            {
+              "id": "234289870",
+              "answers": [
+                {
+                  "choice_id": "1661802311"
+                }
+              ]
+            },
+            {
+              "id": "234290215",
+              "answers": [
+                {
+                  "choice_id": "1661803862"
+                }
+              ]
+            },
+            {
+              "id": "234290248",
+              "answers": [
+                {
+                  "choice_id": "1661804056"
+                }
+              ]
+            },
+            {
+              "id": "234290287",
+              "answers": [
+                {
+                  "choice_id": "1661804301"
+                }
+              ]
+            },
+            {
+              "id": "234290321",
+              "answers": [
+                {
+                  "choice_id": "1661804442"
+                }
+              ]
+            },
+            {
+              "id": "234290348",
+              "answers": [
+                {
+                  "choice_id": "1661804604"
+                }
+              ]
+            },
+            {
+              "id": "234290435",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Hay que empoderar a los equipos."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "118825890846",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "179.6.4.123",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "459969000",
+      "survey_id": "522392158",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=PBeduEynFAC3HNaOGKpaeKLNn95Tc_2F1ewW4jWXEOhXBZupaX7C2e5ag5cP7lkwLn",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/kARqt_2BvfYqYuMqEHrx1_2B6j64cEuMQGN9N3hiQjKjxhI_3D?respondent_id=118825890846",
+      "total_time": 261,
+      "date_modified": "2025-03-21T22:41:34+00:00",
+      "date_created": "2025-03-21T22:37:13+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/522392158/responses/118825890846",
+      "pages": [
+        {
+          "id": "63457150",
+          "questions": [
+            {
+              "id": "234287204",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Alineamiento de la necesidad de una cultura y vision común Credicorp. No había."
+                }
+              ]
+            },
+            {
+              "id": "234287229",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Mayor apertura para colaboración entre empresas"
+                }
+              ]
+            },
+            {
+              "id": "234287390",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Bajar esto a las respectivas organizaciones. Y los incentivos que premian lo individual."
+                }
+              ]
+            },
+            {
+              "id": "234287617",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "8"
+                }
+              ]
+            },
+            {
+              "id": "234287745",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Más tiempo juntos en temas que no son estructurados como comités."
+                }
+              ]
+            },
+            {
+              "id": "234287882",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "7"
+                }
+              ]
+            },
+            {
+              "id": "234288254",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Creo que hay mucha asimetría de ambiciones de crecimiento/riesgo entre el equipo."
+                }
+              ]
+            },
+            {
+              "id": "234288337",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Comprarse el reto del crecimiento colectivo vs. las metas e incentivos individuales."
+                }
+              ]
+            },
+            {
+              "id": "235155206",
+              "answers": [
+                {
+                  "choice_id": "1674920828"
+                }
+              ]
+            },
+            {
+              "id": "234288839",
+              "answers": [
+                {
+                  "choice_id": "1661796830"
+                }
+              ]
+            },
+            {
+              "id": "234289270",
+              "answers": [
+                {
+                  "choice_id": "1661798982"
+                }
+              ]
+            },
+            {
+              "id": "234289501",
+              "answers": [
+                {
+                  "choice_id": "1661800184"
+                }
+              ]
+            },
+            {
+              "id": "234289548",
+              "answers": [
+                {
+                  "choice_id": "1661800449"
+                }
+              ]
+            },
+            {
+              "id": "234289870",
+              "answers": [
+                {
+                  "choice_id": "1661802311"
+                }
+              ]
+            },
+            {
+              "id": "234290215",
+              "answers": [
+                {
+                  "choice_id": "1661803863"
+                }
+              ]
+            },
+            {
+              "id": "234290248",
+              "answers": [
+                {
+                  "choice_id": "1661804058"
+                }
+              ]
+            },
+            {
+              "id": "234290287",
+              "answers": [
+                {
+                  "choice_id": "1661804303"
+                }
+              ]
+            },
+            {
+              "id": "234290321",
+              "answers": [
+                {
+                  "choice_id": "1661804442"
+                }
+              ]
+            },
+            {
+              "id": "234290348",
+              "answers": [
+                {
+                  "choice_id": "1661804605"
+                }
+              ]
+            },
+            {
+              "id": "234290435",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Gracias al equipo de cultura por incluirme en este trabajo colectivo."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "118826555401",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "129.222.182.119",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "459969000",
+      "survey_id": "522392158",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=ps_2BpjQGcysCS_2BUds_2BHJ3HoH7ZNy67WJ2WtgHszH068q2nUvRrnxlSpCwd3jaxtbs",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/kARqt_2BvfYqYuMqEHrx1_2B6j64cEuMQGN9N3hiQjKjxhI_3D?respondent_id=118826555401",
+      "total_time": 549,
+      "date_modified": "2025-03-23T15:25:11+00:00",
+      "date_created": "2025-03-23T15:16:01+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/522392158/responses/118826555401",
+      "pages": [
+        {
+          "id": "63457150",
+          "questions": [
+            {
+              "id": "234287204",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Creo que se ha generado mucho más confianza entre todos nosotros."
+                }
+              ]
+            },
+            {
+              "id": "234287229",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Hoy podemos tener conversaciones que antes no habríamos tenido. Esto por la confianza que se ha generado."
+                }
+              ]
+            },
+            {
+              "id": "234287390",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Aún nos falta escuchar más y hablar menos. Debemos guiar a los equipos, no decirles lo que tienen que hacer."
+                }
+              ]
+            },
+            {
+              "id": "234287617",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "8"
+                }
+              ]
+            },
+            {
+              "id": "234287745",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Me parece que estamos en un buen nivel. No sé si siendo realistas deberíamos apuntar a 10."
+                }
+              ]
+            },
+            {
+              "id": "234287882",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "7"
+                }
+              ]
+            },
+            {
+              "id": "234288005",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Aún podemos mejorar en retroalimentación. Me parece que hay cosas que no se dicen dado la cantidad de personas en el foro, lo cual está bien. Pero luego no tenemos muchas interacciones uno a uno para decirlas. Debemos ser más proactivos en buscar a esa persona a la que le queremos dar retroalimentación uno a uno."
+                }
+              ]
+            },
+            {
+              "id": "234288254",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "X"
+                }
+              ]
+            },
+            {
+              "id": "234288337",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Aún podemos mejorar en nuestro pensamiento como Credicorp. Uno siempre tendrá los sesgos hacia su rol principal. \r\nDebemos generar los mecanismos formales adecuados para que las decisiones que suman a Credicorp, aún si restan en mi silo, sean premiadas."
+                }
+              ]
+            },
+            {
+              "id": "235155206",
+              "answers": [
+                {
+                  "choice_id": "1667137914"
+                }
+              ]
+            },
+            {
+              "id": "234288839",
+              "answers": [
+                {
+                  "choice_id": "1661796831"
+                }
+              ]
+            },
+            {
+              "id": "234289270",
+              "answers": [
+                {
+                  "choice_id": "1661798983"
+                }
+              ]
+            },
+            {
+              "id": "234289501",
+              "answers": [
+                {
+                  "choice_id": "1661800184"
+                }
+              ]
+            },
+            {
+              "id": "234289548",
+              "answers": [
+                {
+                  "choice_id": "1661800449"
+                }
+              ]
+            },
+            {
+              "id": "234289870",
+              "answers": [
+                {
+                  "choice_id": "1661802312"
+                }
+              ]
+            },
+            {
+              "id": "234290215",
+              "answers": [
+                {
+                  "choice_id": "1661803862"
+                }
+              ]
+            },
+            {
+              "id": "234290248",
+              "answers": [
+                {
+                  "choice_id": "1661804057"
+                }
+              ]
+            },
+            {
+              "id": "234290287",
+              "answers": [
+                {
+                  "choice_id": "1661804303"
+                }
+              ]
+            },
+            {
+              "id": "234290321",
+              "answers": [
+                {
+                  "choice_id": "1661804442"
+                }
+              ]
+            },
+            {
+              "id": "234290348",
+              "answers": [
+                {
+                  "choice_id": "1661804606"
+                }
+              ]
+            },
+            {
+              "id": "234290435",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "X"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "118827481753",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "163.116.229.131",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "459969000",
+      "survey_id": "522392158",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=Q_2FADfRxOMrZw6HDrmyzsAqDulMgeYg_2FXSEWne6qFV7bZlsJNPuEvQsECQFcn_2BvsI",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/kARqt_2BvfYqYuMqEHrx1_2B6j64cEuMQGN9N3hiQjKjxhI_3D?respondent_id=118827481753",
+      "total_time": 913,
+      "date_modified": "2025-03-24T23:30:46+00:00",
+      "date_created": "2025-03-24T23:15:32+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/522392158/responses/118827481753",
+      "pages": [
+        {
+          "id": "63457150",
+          "questions": [
+            {
+              "id": "234287204",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Conocer más y lograr mayor confianza entre los miembros del comité ."
+                }
+              ]
+            },
+            {
+              "id": "234287229",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Mejores intervenciones y mayor participación de los miembros de comité."
+                }
+              ]
+            },
+            {
+              "id": "234287390",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Mayor participación de algunos miembros del comité."
+                }
+              ]
+            },
+            {
+              "id": "234287617",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "7"
+                }
+              ]
+            },
+            {
+              "id": "234287745",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Más actividades entre lo miembros del comité."
+                }
+              ]
+            },
+            {
+              "id": "234287882",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "5"
+                }
+              ]
+            },
+            {
+              "id": "234288005",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Se nota q existe más confianza entre los miembros del comité q vienen del BCP y q han trabajado muchos años juntos."
+                }
+              ]
+            },
+            {
+              "id": "234288254",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "No."
+                }
+              ]
+            },
+            {
+              "id": "234288337",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Escuchar y trabajar juntos como equipo."
+                }
+              ]
+            },
+            {
+              "id": "235155206",
+              "answers": [
+                {
+                  "choice_id": "1667137923"
+                }
+              ]
+            },
+            {
+              "id": "234288839",
+              "answers": [
+                {
+                  "choice_id": "1661796830"
+                }
+              ]
+            },
+            {
+              "id": "234289270",
+              "answers": [
+                {
+                  "choice_id": "1661798983"
+                }
+              ]
+            },
+            {
+              "id": "234289501",
+              "answers": [
+                {
+                  "choice_id": "1661800184"
+                }
+              ]
+            },
+            {
+              "id": "234289548",
+              "answers": [
+                {
+                  "choice_id": "1661800450"
+                }
+              ]
+            },
+            {
+              "id": "234289870",
+              "answers": [
+                {
+                  "choice_id": "1661802311"
+                }
+              ]
+            },
+            {
+              "id": "234290215",
+              "answers": [
+                {
+                  "choice_id": "1661803862"
+                }
+              ]
+            },
+            {
+              "id": "234290248",
+              "answers": [
+                {
+                  "choice_id": "1661804057"
+                }
+              ]
+            },
+            {
+              "id": "234290287",
+              "answers": [
+                {
+                  "choice_id": "1661804302"
+                }
+              ]
+            },
+            {
+              "id": "234290321",
+              "answers": [
+                {
+                  "choice_id": "1661804442"
+                }
+              ]
+            },
+            {
+              "id": "234290348",
+              "answers": [
+                {
+                  "choice_id": "1661804605"
+                }
+              ]
+            },
+            {
+              "id": "234290435",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Es importante trabajar en estos temas a nivel del comité de gestión de cada subsidiaria."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "118828290609",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "190.239.68.152",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "459969000",
+      "survey_id": "522392158",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=Gvn7TuHLpxSnDtpVTixiwlq0B4_2F_2FevI8BE7R2s1jGiQkYyZD6OxuJ7ThlxKcqdTC",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/kARqt_2BvfYqYuMqEHrx1_2B6j64cEuMQGN9N3hiQjKjxhI_3D?respondent_id=118828290609",
+      "total_time": 838,
+      "date_modified": "2025-03-25T22:11:35+00:00",
+      "date_created": "2025-03-25T21:57:36+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/522392158/responses/118828290609",
+      "pages": [
+        {
+          "id": "63457150",
+          "questions": [
+            {
+              "id": "234287204",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Que hoy todos somos conscientes que en la sinergias entre empresas está el éxito de Credicorp."
+                }
+              ]
+            },
+            {
+              "id": "234287229",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Darnos feedback al momento, respetar mas al que expone, no interrumpirlo. También estar más presentes durante el Comité y participar más  "
+                }
+              ]
+            },
+            {
+              "id": "234287390",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Pasar del perfeccionismo a la flexibilidad tomando riesgos medidos"
+                }
+              ]
+            },
+            {
+              "id": "234287617",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "8"
+                }
+              ]
+            },
+            {
+              "id": "234287745",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Seguir dándonos feedback al momento "
+                }
+              ]
+            },
+            {
+              "id": "234287882",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "6"
+                }
+              ]
+            },
+            {
+              "id": "234288254",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "No"
+                }
+              ]
+            },
+            {
+              "id": "234288337",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Trabajar más con nuestros reportes directos para ayudarlos a entender cuáles son los comportamientos que necesitamos reforzar que representan nuestros nuevos principios "
+                }
+              ]
+            },
+            {
+              "id": "235155206",
+              "answers": [
+                {
+                  "choice_id": "1667137927"
+                }
+              ]
+            },
+            {
+              "id": "234288839",
+              "answers": [
+                {
+                  "choice_id": "1661796831"
+                }
+              ]
+            },
+            {
+              "id": "234289270",
+              "answers": [
+                {
+                  "choice_id": "1661798982"
+                }
+              ]
+            },
+            {
+              "id": "234289501",
+              "answers": [
+                {
+                  "choice_id": "1661800184"
+                }
+              ]
+            },
+            {
+              "id": "234289548",
+              "answers": [
+                {
+                  "choice_id": "1661800449"
+                }
+              ]
+            },
+            {
+              "id": "234289870",
+              "answers": [
+                {
+                  "choice_id": "1661802311"
+                }
+              ]
+            },
+            {
+              "id": "234290215",
+              "answers": [
+                {
+                  "choice_id": "1661803861"
+                }
+              ]
+            },
+            {
+              "id": "234290248",
+              "answers": [
+                {
+                  "choice_id": "1661804058"
+                }
+              ]
+            },
+            {
+              "id": "234290287",
+              "answers": [
+                {
+                  "choice_id": "1661804302"
+                }
+              ]
+            },
+            {
+              "id": "234290321",
+              "answers": [
+                {
+                  "choice_id": "1661804442"
+                }
+              ]
+            },
+            {
+              "id": "234290348",
+              "answers": [
+                {
+                  "choice_id": "1661804605"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "118828332188",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "190.236.0.82",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "459969000",
+      "survey_id": "522392158",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=WJpgiDy91ELWtXF89zDvWTPVp8w8GciH5i6VLaVCprJ4jwynt0r8gko4jflvOnaD",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/kARqt_2BvfYqYuMqEHrx1_2B6j64cEuMQGN9N3hiQjKjxhI_3D?respondent_id=118828332188",
+      "total_time": 699,
+      "date_modified": "2025-03-25T23:26:52+00:00",
+      "date_created": "2025-03-25T23:15:13+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/522392158/responses/118828332188",
+      "pages": [
+        {
+          "id": "63457150",
+          "questions": [
+            {
+              "id": "234287204",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Entender valor transversal. Tener estrategia clara"
+                }
+              ]
+            },
+            {
+              "id": "234287229",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Trabajar como equipo, no solo compañia"
+                }
+              ]
+            },
+            {
+              "id": "234287390",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Compartir conocimiento/ capacidades"
+                }
+              ]
+            },
+            {
+              "id": "234287617",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "7"
+                }
+              ]
+            },
+            {
+              "id": "234287745",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Continuar trabajando cultura Credicorp y proyectos en conjunto"
+                }
+              ]
+            },
+            {
+              "id": "234287882",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "8"
+                }
+              ]
+            },
+            {
+              "id": "234288005",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Creo que CdG es bien directo y transparente "
+                }
+              ]
+            },
+            {
+              "id": "234288254",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Tener visión Credicorp no solo empresa"
+                }
+              ]
+            },
+            {
+              "id": "234288337",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Trabajar en conjunto"
+                }
+              ]
+            },
+            {
+              "id": "235155206",
+              "answers": [
+                {
+                  "choice_id": "1667137925"
+                }
+              ]
+            },
+            {
+              "id": "234288839",
+              "answers": [
+                {
+                  "choice_id": "1661796830"
+                }
+              ]
+            },
+            {
+              "id": "234289270",
+              "answers": [
+                {
+                  "choice_id": "1661798983"
+                }
+              ]
+            },
+            {
+              "id": "234289501",
+              "answers": [
+                {
+                  "choice_id": "1661800183"
+                }
+              ]
+            },
+            {
+              "id": "234289548",
+              "answers": [
+                {
+                  "choice_id": "1661800448"
+                }
+              ]
+            },
+            {
+              "id": "234289870",
+              "answers": [
+                {
+                  "choice_id": "1661802312"
+                }
+              ]
+            },
+            {
+              "id": "234290215",
+              "answers": [
+                {
+                  "choice_id": "1661803862"
+                }
+              ]
+            },
+            {
+              "id": "234290248",
+              "answers": [
+                {
+                  "choice_id": "1661804057"
+                }
+              ]
+            },
+            {
+              "id": "234290287",
+              "answers": [
+                {
+                  "choice_id": "1661804301"
+                }
+              ]
+            },
+            {
+              "id": "234290321",
+              "answers": [
+                {
+                  "choice_id": "1661804441"
+                }
+              ]
+            },
+            {
+              "id": "234290348",
+              "answers": [
+                {
+                  "choice_id": "1661804605"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "118828351965",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "163.116.229.131",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "459969000",
+      "survey_id": "522392158",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=PNyCwDIV4PLiWBZ47K3OcOLKhC8No02MAU0gA1SexxLOoTA8RUCK1z1cCHYvLeOW",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/kARqt_2BvfYqYuMqEHrx1_2B6j64cEuMQGN9N3hiQjKjxhI_3D?respondent_id=118828351965",
+      "total_time": 357,
+      "date_modified": "2025-03-26T00:03:26+00:00",
+      "date_created": "2025-03-25T23:57:28+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/522392158/responses/118828351965",
+      "pages": [
+        {
+          "id": "63457150",
+          "questions": [
+            {
+              "id": "234287204",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "La reunión que nos permitió acordar la importancia de trabajar como Credicorp"
+                }
+              ]
+            },
+            {
+              "id": "234287229",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Hablar más abiertamente, darnos feedback delante de todos"
+                }
+              ]
+            },
+            {
+              "id": "234287390",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Mantener la apertura, la perspectiva de beneficio de conjunto en el día a día, fuera de momentos de gran reflexión y trabajo en equipo. "
+                }
+              ]
+            },
+            {
+              "id": "234287617",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "8"
+                }
+              ]
+            },
+            {
+              "id": "234287745",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Interactuar mas a nivel personal y fuera de la agenda cotidiana "
+                }
+              ]
+            },
+            {
+              "id": "234287882",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "7"
+                }
+              ]
+            },
+            {
+              "id": "234288005",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "No perder el momentum "
+                }
+              ]
+            },
+            {
+              "id": "234288254",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Como hacer temas en conjunto sin el impulso de Gianfranco."
+                }
+              ]
+            },
+            {
+              "id": "234288337",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Moverse, hacer las cosas, resolver los temas que vayan surgiendo, hablando de frente "
+                }
+              ]
+            },
+            {
+              "id": "235155206",
+              "answers": [
+                {
+                  "choice_id": "1667137915"
+                }
+              ]
+            },
+            {
+              "id": "234288839",
+              "answers": [
+                {
+                  "choice_id": "1661796831"
+                }
+              ]
+            },
+            {
+              "id": "234289270",
+              "answers": [
+                {
+                  "choice_id": "1661798983"
+                }
+              ]
+            },
+            {
+              "id": "234289501",
+              "answers": [
+                {
+                  "choice_id": "1661800184"
+                }
+              ]
+            },
+            {
+              "id": "234289548",
+              "answers": [
+                {
+                  "choice_id": "1661800450"
+                }
+              ]
+            },
+            {
+              "id": "234289870",
+              "answers": [
+                {
+                  "choice_id": "1661802311"
+                }
+              ]
+            },
+            {
+              "id": "234290215",
+              "answers": [
+                {
+                  "choice_id": "1661803863"
+                }
+              ]
+            },
+            {
+              "id": "234290248",
+              "answers": [
+                {
+                  "choice_id": "1661804058"
+                }
+              ]
+            },
+            {
+              "id": "234290287",
+              "answers": [
+                {
+                  "choice_id": "1661804302"
+                }
+              ]
+            },
+            {
+              "id": "234290321",
+              "answers": [
+                {
+                  "choice_id": "1661804444"
+                }
+              ]
+            },
+            {
+              "id": "234290348",
+              "answers": [
+                {
+                  "choice_id": "1661804606"
+                }
+              ]
+            },
+            {
+              "id": "234290435",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Muy bueno que discutamos estos temas "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "118828840988",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "107.127.42.81",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "459969000",
+      "survey_id": "522392158",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=OybQU_2FnFyCzSTA8LM_2BGRKQDuLCkztUBxy9ReZhZgIKpKzO7b86uTwTppW3WJdXcb",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/kARqt_2BvfYqYuMqEHrx1_2B6j64cEuMQGN9N3hiQjKjxhI_3D?respondent_id=118828840988",
+      "total_time": 722,
+      "date_modified": "2025-03-26T15:48:11+00:00",
+      "date_created": "2025-03-26T15:36:09+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/522392158/responses/118828840988",
+      "pages": [
+        {
+          "id": "63457150",
+          "questions": [
+            {
+              "id": "234287204",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Dar los primeros pasos para vernos y sentirnos como un equipo "
+                }
+              ]
+            },
+            {
+              "id": "234287229",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Poner sobre la mesa ideas / planteamientos de cómo nos apalancamos para generar impacto en BAP"
+                }
+              ]
+            },
+            {
+              "id": "234287390",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Pasar de la ideas a la acción y mostrarnos como líderes de nuestros negocios pero antes que eso como líderes BAP"
+                }
+              ]
+            },
+            {
+              "id": "234287617",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "7"
+                }
+              ]
+            },
+            {
+              "id": "234287745",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Por un lado, continuar con la dinámica que hemos empezado (retroalimentación de cultura), espacios para generar más confianza / cercanía (paracas) y finalmente involucrarnos en inciativas transversales "
+                }
+              ]
+            },
+            {
+              "id": "234287882",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "9"
+                }
+              ]
+            },
+            {
+              "id": "234288005",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Me parece que en ese sentido hemos dado un paso muy importante "
+                }
+              ]
+            },
+            {
+              "id": "234288254",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "me parece que cuando pasemos a la acciones (iniciativas transversales BAP) seguramente tendremos que abordar otros frentes "
+                }
+              ]
+            },
+            {
+              "id": "234288337",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Vernos como líderes BAP y que el impacto de nuestras ideas / acciones pueden ser mucho más potentes si pensamos más allá de nuestras empresas "
+                }
+              ]
+            },
+            {
+              "id": "235155206",
+              "answers": [
+                {
+                  "choice_id": "1667137919"
+                }
+              ]
+            },
+            {
+              "id": "234288839",
+              "answers": [
+                {
+                  "choice_id": "1661796831"
+                }
+              ]
+            },
+            {
+              "id": "234289270",
+              "answers": [
+                {
+                  "choice_id": "1661798984"
+                }
+              ]
+            },
+            {
+              "id": "234289501",
+              "answers": [
+                {
+                  "choice_id": "1661800184"
+                }
+              ]
+            },
+            {
+              "id": "234289548",
+              "answers": [
+                {
+                  "choice_id": "1661800448"
+                }
+              ]
+            },
+            {
+              "id": "234289870",
+              "answers": [
+                {
+                  "choice_id": "1661802312"
+                }
+              ]
+            },
+            {
+              "id": "234290215",
+              "answers": [
+                {
+                  "choice_id": "1661803863"
+                }
+              ]
+            },
+            {
+              "id": "234290248",
+              "answers": [
+                {
+                  "choice_id": "1661804058"
+                }
+              ]
+            },
+            {
+              "id": "234290287",
+              "answers": [
+                {
+                  "choice_id": "1661804303"
+                }
+              ]
+            },
+            {
+              "id": "234290321",
+              "answers": [
+                {
+                  "choice_id": "1661804442"
+                }
+              ]
+            },
+            {
+              "id": "234290348",
+              "answers": [
+                {
+                  "choice_id": "1661804605"
+                }
+              ]
+            },
+            {
+              "id": "234290435",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

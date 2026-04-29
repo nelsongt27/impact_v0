@@ -2,14 +2,19 @@
 .env
 .env.local
 
-# Raw extraction outputs (private — contain individual survey responses)
+# Typeform raw extraction is gitignored — the GitHub Action regenerates it
+# fresh on every refresh from the Typeform API.
 data/forms_index.json
 data/forms/
 data/responses/
 data/state.json
-2025_survey_monkey/
 
-# Normalized data IS tracked (consumed by Next.js at build)
+# SurveyMonkey snapshot IS tracked: the SM API access is read-only and the
+# snapshot is frozen (no future updates per Nelson). The GitHub Action needs
+# this folder available to re-normalize. Internal use only — repo is private.
+# 2025_survey_monkey/ — committed
+
+# Normalized data IS tracked (consumed by Next.js at build).
 # data/normalized/ — committed
 
 # Bun / Node / Next

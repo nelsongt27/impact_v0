@@ -1,0 +1,2225 @@
+{
+  "_backup_metadata": {
+    "backed_up_at": "2026-04-27T18:43:15.044517+00:00",
+    "survey_id": "525198144",
+    "title": "PCP Managing Excellence Journey Wave 5 – Feedback Survey.",
+    "nickname": "",
+    "date_created": null,
+    "date_modified": "2025-10-29T06:58:00",
+    "response_count_listing": 13,
+    "response_count_fetched": 13,
+    "summary_href": "https://api.surveymonkey.com/v3/surveys/525198144"
+  },
+  "details": {
+    "title": "PCP Managing Excellence Journey Wave 5 – Feedback Survey.",
+    "nickname": "",
+    "language": "en",
+    "folder_id": "0",
+    "category": "",
+    "question_count": 8,
+    "page_count": 1,
+    "response_count": 13,
+    "date_created": "2025-10-14T12:22:00",
+    "date_modified": "2025-10-29T06:58:00",
+    "id": "525198144",
+    "buttons_text": {
+      "next_button": "Next",
+      "prev_button": "Prev",
+      "done_button": "Done",
+      "exit_button": ""
+    },
+    "is_owner": true,
+    "owner": "54118456",
+    "footer": true,
+    "theme_id": "4510354",
+    "template_id": null,
+    "custom_variables": {},
+    "href": "https://api.surveymonkey.com/v3/surveys/525198144",
+    "analyze_url": "https://www.surveymonkey.com/analyze/FzzhNoKZYtZdBgYPCXq_2Bnqwgdv4wr6b4ZnOgpUY_2FcSQ_3D",
+    "edit_url": "https://www.surveymonkey.com/create/?sm=FzzhNoKZYtZdBgYPCXq_2Bnqwgdv4wr6b4ZnOgpUY_2FcSQ_3D",
+    "collect_url": "https://www.surveymonkey.com/collect/list?sm=FzzhNoKZYtZdBgYPCXq_2Bnqwgdv4wr6b4ZnOgpUY_2FcSQ_3D",
+    "summary_url": "https://www.surveymonkey.com/summary/FzzhNoKZYtZdBgYPCXq_2Bnqwgdv4wr6b4ZnOgpUY_2FcSQ_3D",
+    "preview": "https://www.surveymonkey.com/r/Preview/?sm=gH9QUCdHw_2BIl6ufRMMPZKwg83VmhsEBeO3DAqeghB_2Fl8N7weL3tA0V_2FppoWu2C5T",
+    "pages": [
+      {
+        "title": "",
+        "description": "<div>Thank you for your participation and engagement throughout our PCP Managing Excellence Journey Wave 5.</div>\n<div>We invite you to evaluate your experience and give us your feedback.</div>\n<div>We value your opinion, which will help us improve.</div>",
+        "position": 1,
+        "question_count": 8,
+        "id": "70317787",
+        "href": "https://api.surveymonkey.com/v3/surveys/525198144/pages/70317787",
+        "questions": [
+          {
+            "id": "264178888",
+            "position": 1,
+            "visible": true,
+            "family": "matrix",
+            "subtype": "rating",
+            "layout": null,
+            "sorting": null,
+            "required": null,
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "This program has helped me to contribute better to the objective of.......<br><span>Consider the score from 1-5: 1 = strongly disagree; 5 = strongly agree.</span>"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/525198144/pages/70317787/questions/264178888",
+            "answers": {
+              "rows": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "a. Growing together as one team in the PCP growth and leadership.",
+                  "id": "1859377991"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "b. Improving how I lead.",
+                  "id": "1859377992"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "c. Improving how I interact with others.",
+                  "id": "1859377993"
+                }
+              ],
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "1",
+                  "id": "1859377994",
+                  "is_na": false,
+                  "weight": 1,
+                  "description": ""
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "2",
+                  "id": "1859377995",
+                  "is_na": false,
+                  "weight": 2,
+                  "description": ""
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "3",
+                  "id": "1859377996",
+                  "is_na": false,
+                  "weight": 3,
+                  "description": ""
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "4",
+                  "id": "1859377997",
+                  "is_na": false,
+                  "weight": 4,
+                  "description": ""
+                },
+                {
+                  "position": 5,
+                  "visible": true,
+                  "text": "5",
+                  "id": "1859377998",
+                  "is_na": false,
+                  "weight": 5,
+                  "description": ""
+                }
+              ]
+            }
+          },
+          {
+            "id": "264178893",
+            "position": 2,
+            "visible": true,
+            "family": "matrix",
+            "subtype": "rating",
+            "layout": null,
+            "sorting": null,
+            "required": null,
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "The program has inspired and supported me........<br>Consider the score from 1-5: 1=strongly disagree to 5=strongly agree"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/525198144/pages/70317787/questions/264178893",
+            "answers": {
+              "rows": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "a. In my personal development as a leader.",
+                  "id": "1859378007"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "b. In my personal growth and well-being.",
+                  "id": "1859378008"
+                }
+              ],
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "",
+                  "id": "1859378009",
+                  "is_na": false,
+                  "weight": 1,
+                  "description": ""
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "",
+                  "id": "1859378010",
+                  "is_na": false,
+                  "weight": 2,
+                  "description": ""
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "",
+                  "id": "1859378011",
+                  "is_na": false,
+                  "weight": 3,
+                  "description": ""
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "",
+                  "id": "1859378012",
+                  "is_na": false,
+                  "weight": 4,
+                  "description": ""
+                },
+                {
+                  "position": 5,
+                  "visible": true,
+                  "text": "",
+                  "id": "1859378013",
+                  "is_na": false,
+                  "weight": 5,
+                  "description": ""
+                }
+              ]
+            }
+          },
+          {
+            "id": "264178889",
+            "position": 3,
+            "visible": true,
+            "family": "matrix",
+            "subtype": "rating",
+            "layout": null,
+            "sorting": null,
+            "required": null,
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "<span>The facilitator....<strong><span><br></span></strong><span>Consider the score from 1-5: 1=lowest score, 5=highest score.</span></span><strong><br></strong>"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/525198144/pages/70317787/questions/264178889",
+            "answers": {
+              "rows": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "a. demonstrates robust knowledge of the workshop content.",
+                  "id": "1859377999"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "b. creates an environment of trust in which we can address important matters for our team.",
+                  "id": "1859378000"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "c. generates and facilitates discussions that help understand the proposed methodology.",
+                  "id": "1859378001"
+                }
+              ],
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "1",
+                  "id": "1859378002",
+                  "is_na": false,
+                  "weight": 1,
+                  "description": ""
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "2",
+                  "id": "1859378003",
+                  "is_na": false,
+                  "weight": 2,
+                  "description": ""
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "3",
+                  "id": "1859378004",
+                  "is_na": false,
+                  "weight": 3,
+                  "description": ""
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "4",
+                  "id": "1859378005",
+                  "is_na": false,
+                  "weight": 4,
+                  "description": ""
+                },
+                {
+                  "position": 5,
+                  "visible": true,
+                  "text": "5",
+                  "id": "1859378006",
+                  "is_na": false,
+                  "weight": 5,
+                  "description": ""
+                }
+              ]
+            }
+          },
+          {
+            "id": "264178890",
+            "position": 4,
+            "visible": true,
+            "family": "open_ended",
+            "subtype": "essay",
+            "layout": null,
+            "sorting": null,
+            "required": null,
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "What are the 3 most positive aspects of the Workshop Sessions for you?"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/525198144/pages/70317787/questions/264178890"
+          },
+          {
+            "id": "264178891",
+            "position": 5,
+            "visible": true,
+            "family": "open_ended",
+            "subtype": "essay",
+            "layout": null,
+            "sorting": null,
+            "required": null,
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "What do you think would be appropriate to modify to improve its effectiveness?"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/525198144/pages/70317787/questions/264178891"
+          },
+          {
+            "id": "264178892",
+            "position": 6,
+            "visible": true,
+            "family": "open_ended",
+            "subtype": "essay",
+            "layout": null,
+            "sorting": null,
+            "required": null,
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Is there anything we can help you with to develop your personal and team leadership?"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/525198144/pages/70317787/questions/264178892"
+          },
+          {
+            "id": "264180072",
+            "position": 7,
+            "visible": true,
+            "family": "open_ended",
+            "subtype": "essay",
+            "layout": null,
+            "sorting": null,
+            "required": null,
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "What do you think you need as an organization to develop?"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/525198144/pages/70317787/questions/264180072"
+          },
+          {
+            "id": "264180156",
+            "position": 8,
+            "visible": true,
+            "family": "open_ended",
+            "subtype": "essay",
+            "layout": null,
+            "sorting": null,
+            "required": null,
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Any additional comments?"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/525198144/pages/70317787/questions/264180156"
+          }
+        ]
+      }
+    ]
+  },
+  "responses": [
+    {
+      "id": "118974940031",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "194.39.218.22",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "462516949",
+      "survey_id": "525198144",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=jRIeNy3zWEhofcZlgB27E9qx33xaOoxGCqqm6DYgKVC93UNjo_2FhHuKrN3NJb8LCO",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/FzzhNoKZYtZdBgYPCXq_2Bnqwgdv4wr6b4ZnOgpUY_2FcSQ_3D?respondent_id=118974940031",
+      "total_time": 302,
+      "date_modified": "2025-10-14T15:58:40+00:00",
+      "date_created": "2025-10-14T15:53:38+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/525198144/responses/118974940031",
+      "pages": [
+        {
+          "id": "70317787",
+          "questions": [
+            {
+              "id": "264178888",
+              "answers": [
+                {
+                  "choice_id": "1859377998",
+                  "row_id": "1859377993",
+                  "choice_metadata": {
+                    "weight": "5"
+                  }
+                },
+                {
+                  "choice_id": "1859377998",
+                  "row_id": "1859377991",
+                  "choice_metadata": {
+                    "weight": "5"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "264178893",
+              "answers": [
+                {
+                  "choice_id": "1859378013",
+                  "row_id": "1859378008",
+                  "choice_metadata": {
+                    "weight": "5"
+                  }
+                },
+                {
+                  "choice_id": "1859378009",
+                  "row_id": "1859378007",
+                  "choice_metadata": {
+                    "weight": "1"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "264178889",
+              "answers": [
+                {
+                  "choice_id": "1859378006",
+                  "row_id": "1859378001",
+                  "choice_metadata": {
+                    "weight": "5"
+                  }
+                },
+                {
+                  "choice_id": "1859378006",
+                  "row_id": "1859378000",
+                  "choice_metadata": {
+                    "weight": "5"
+                  }
+                },
+                {
+                  "choice_id": "1859378006",
+                  "row_id": "1859377999",
+                  "choice_metadata": {
+                    "weight": "5"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "264178890",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "well organized; best moderator Rolf;helpful contents"
+                }
+              ]
+            },
+            {
+              "id": "264178891",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "prolong another 3 months of the Journey, it ended too quick) my feeling)"
+                }
+              ]
+            },
+            {
+              "id": "264178892",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "sure, topics about Conversation, mindset, vullnerable, are important and helpful topics"
+                }
+              ]
+            },
+            {
+              "id": "264180072",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "continue learning and utilize the learned knowledge; refreshthe last Journeys' participants; set up PG group among differnt waves of MEJ"
+                }
+              ]
+            },
+            {
+              "id": "264180156",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "to set up PG group among new-former MEJ participants, to help refresh the 'old' participants, broaden contact"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "118975413257",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "119.40.69.130",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "462516949",
+      "survey_id": "525198144",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=xMeu65tQNKaOny09vIzXO6z_2FfBAqbt7qjKVQOeEuYNrlYv47_2F_2F8kTNUcL7hiusG6",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/FzzhNoKZYtZdBgYPCXq_2Bnqwgdv4wr6b4ZnOgpUY_2FcSQ_3D?respondent_id=118975413257",
+      "total_time": 5455,
+      "date_modified": "2025-10-15T03:20:02+00:00",
+      "date_created": "2025-10-15T01:49:07+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/525198144/responses/118975413257",
+      "pages": [
+        {
+          "id": "70317787",
+          "questions": [
+            {
+              "id": "264178888",
+              "answers": [
+                {
+                  "choice_id": "1859377998",
+                  "row_id": "1859377993",
+                  "choice_metadata": {
+                    "weight": "5"
+                  }
+                },
+                {
+                  "choice_id": "1859377998",
+                  "row_id": "1859377992",
+                  "choice_metadata": {
+                    "weight": "5"
+                  }
+                },
+                {
+                  "choice_id": "1859377998",
+                  "row_id": "1859377991",
+                  "choice_metadata": {
+                    "weight": "5"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "264178893",
+              "answers": [
+                {
+                  "choice_id": "1859378013",
+                  "row_id": "1859378008",
+                  "choice_metadata": {
+                    "weight": "5"
+                  }
+                },
+                {
+                  "choice_id": "1859378013",
+                  "row_id": "1859378007",
+                  "choice_metadata": {
+                    "weight": "5"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "264178889",
+              "answers": [
+                {
+                  "choice_id": "1859378006",
+                  "row_id": "1859378001",
+                  "choice_metadata": {
+                    "weight": "5"
+                  }
+                },
+                {
+                  "choice_id": "1859378006",
+                  "row_id": "1859378000",
+                  "choice_metadata": {
+                    "weight": "5"
+                  }
+                },
+                {
+                  "choice_id": "1859378006",
+                  "row_id": "1859377999",
+                  "choice_metadata": {
+                    "weight": "5"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "264178890",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "1.Establish a workshop environment of mutual trust, and \"We are never alone\". \n3.Inspire and support personal development, growth and wellbeing, focus on \"I\" and \"WE\" level to influence \"IT\".\n3.Cultivate our mindsets (learner, player and growth), self-driven."
+                }
+              ]
+            },
+            {
+              "id": "264178891",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Add successful case sharing for theoretical knowledge from industry insiders or MEJ seniors."
+                }
+              ]
+            },
+            {
+              "id": "264178892",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Drive \"Mentor-Mentee\" program approach. "
+                }
+              ]
+            },
+            {
+              "id": "264180072",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "1.Clear mission and goals, shared values\n2.Transparent and efficient collaboration system\n3.A complete and transparent talent reserve and development mechanism"
+                }
+              ]
+            },
+            {
+              "id": "264180156",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "In any case, one is the primary person responsible for one's own growth and career development."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "118975532506",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "194.39.218.20",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "462516949",
+      "survey_id": "525198144",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=EgRJ_2B8UZOX01vJu7An9GX9xntqJLZDbqECBy8HEz88XxZw1iFVWdjdjX6jw_2Fni7I",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/FzzhNoKZYtZdBgYPCXq_2Bnqwgdv4wr6b4ZnOgpUY_2FcSQ_3D?respondent_id=118975532506",
+      "total_time": 354,
+      "date_modified": "2025-10-15T08:05:34+00:00",
+      "date_created": "2025-10-15T07:59:39+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/525198144/responses/118975532506",
+      "pages": [
+        {
+          "id": "70317787",
+          "questions": [
+            {
+              "id": "264178888",
+              "answers": [
+                {
+                  "choice_id": "1859377997",
+                  "row_id": "1859377993",
+                  "choice_metadata": {
+                    "weight": "4"
+                  }
+                },
+                {
+                  "choice_id": "1859377998",
+                  "row_id": "1859377992",
+                  "choice_metadata": {
+                    "weight": "5"
+                  }
+                },
+                {
+                  "choice_id": "1859377997",
+                  "row_id": "1859377991",
+                  "choice_metadata": {
+                    "weight": "4"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "264178893",
+              "answers": [
+                {
+                  "choice_id": "1859378013",
+                  "row_id": "1859378008",
+                  "choice_metadata": {
+                    "weight": "5"
+                  }
+                },
+                {
+                  "choice_id": "1859378013",
+                  "row_id": "1859378007",
+                  "choice_metadata": {
+                    "weight": "5"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "264178889",
+              "answers": [
+                {
+                  "choice_id": "1859378005",
+                  "row_id": "1859378001",
+                  "choice_metadata": {
+                    "weight": "4"
+                  }
+                },
+                {
+                  "choice_id": "1859378006",
+                  "row_id": "1859378000",
+                  "choice_metadata": {
+                    "weight": "5"
+                  }
+                },
+                {
+                  "choice_id": "1859378004",
+                  "row_id": "1859377999",
+                  "choice_metadata": {
+                    "weight": "3"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "264178890",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "- emotions vs. leading\n- giving a positive feedback\n- connections across PCP"
+                }
+              ]
+            },
+            {
+              "id": "264178891",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "I think 3 sessions will be OK.\n"
+                }
+              ]
+            },
+            {
+              "id": "264178892",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "At the moment no."
+                }
+              ]
+            },
+            {
+              "id": "264180072",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Opennes and be more focused.\nOn operational level is to much no aded value activities connected with BSH organisation."
+                }
+              ]
+            },
+            {
+              "id": "264180156",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Thank you for good organisation. "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "118975541992",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "194.39.218.18",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "462516949",
+      "survey_id": "525198144",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=oc8_2F7zbP01QdfvzrF9gugiB_2BiSdOShXTRvJmZcMQ6hF9t8lYQ55EZUY7Q6vA6K7Z",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/FzzhNoKZYtZdBgYPCXq_2Bnqwgdv4wr6b4ZnOgpUY_2FcSQ_3D?respondent_id=118975541992",
+      "total_time": 253,
+      "date_modified": "2025-10-15T08:24:15+00:00",
+      "date_created": "2025-10-15T08:20:01+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/525198144/responses/118975541992",
+      "pages": [
+        {
+          "id": "70317787",
+          "questions": [
+            {
+              "id": "264178888",
+              "answers": [
+                {
+                  "choice_id": "1859377997",
+                  "row_id": "1859377993",
+                  "choice_metadata": {
+                    "weight": "4"
+                  }
+                },
+                {
+                  "choice_id": "1859377996",
+                  "row_id": "1859377992",
+                  "choice_metadata": {
+                    "weight": "3"
+                  }
+                },
+                {
+                  "choice_id": "1859377998",
+                  "row_id": "1859377991",
+                  "choice_metadata": {
+                    "weight": "5"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "264178893",
+              "answers": [
+                {
+                  "choice_id": "1859378013",
+                  "row_id": "1859378008",
+                  "choice_metadata": {
+                    "weight": "5"
+                  }
+                },
+                {
+                  "choice_id": "1859378013",
+                  "row_id": "1859378007",
+                  "choice_metadata": {
+                    "weight": "5"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "264178889",
+              "answers": [
+                {
+                  "choice_id": "1859378006",
+                  "row_id": "1859378001",
+                  "choice_metadata": {
+                    "weight": "5"
+                  }
+                },
+                {
+                  "choice_id": "1859378006",
+                  "row_id": "1859378000",
+                  "choice_metadata": {
+                    "weight": "5"
+                  }
+                },
+                {
+                  "choice_id": "1859378006",
+                  "row_id": "1859377999",
+                  "choice_metadata": {
+                    "weight": "5"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "264178890",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "trust, vulnerability and support"
+                }
+              ]
+            },
+            {
+              "id": "264178891",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "not per se the MEJ itself but rather after a few months / years  following up on lived values by former participants"
+                }
+              ]
+            },
+            {
+              "id": "264180072",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "commitment to openness and trust in each other as well as willingness to change esp. processes "
+                }
+              ]
+            },
+            {
+              "id": "264180156",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Thank you for this very valueable journey together!"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "118975558816",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "194.39.218.16",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "462516949",
+      "survey_id": "525198144",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=D5V0o_2FpgvJHWwJdG6yBNSBoDHHc_2FZV8VcwizXrwBj_2Bs6ZP_2Fj_2FplEFEIkwRcTnahb",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/FzzhNoKZYtZdBgYPCXq_2Bnqwgdv4wr6b4ZnOgpUY_2FcSQ_3D?respondent_id=118975558816",
+      "total_time": 1043,
+      "date_modified": "2025-10-15T08:56:32+00:00",
+      "date_created": "2025-10-15T08:39:09+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/525198144/responses/118975558816",
+      "pages": [
+        {
+          "id": "70317787",
+          "questions": [
+            {
+              "id": "264178888",
+              "answers": [
+                {
+                  "choice_id": "1859377996",
+                  "row_id": "1859377993",
+                  "choice_metadata": {
+                    "weight": "3"
+                  }
+                },
+                {
+                  "choice_id": "1859377998",
+                  "row_id": "1859377992",
+                  "choice_metadata": {
+                    "weight": "5"
+                  }
+                },
+                {
+                  "choice_id": "1859377997",
+                  "row_id": "1859377991",
+                  "choice_metadata": {
+                    "weight": "4"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "264178893",
+              "answers": [
+                {
+                  "choice_id": "1859378012",
+                  "row_id": "1859378008",
+                  "choice_metadata": {
+                    "weight": "4"
+                  }
+                },
+                {
+                  "choice_id": "1859378012",
+                  "row_id": "1859378007",
+                  "choice_metadata": {
+                    "weight": "4"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "264178889",
+              "answers": [
+                {
+                  "choice_id": "1859378004",
+                  "row_id": "1859378001",
+                  "choice_metadata": {
+                    "weight": "3"
+                  }
+                },
+                {
+                  "choice_id": "1859378006",
+                  "row_id": "1859378000",
+                  "choice_metadata": {
+                    "weight": "5"
+                  }
+                },
+                {
+                  "choice_id": "1859378003",
+                  "row_id": "1859377999",
+                  "choice_metadata": {
+                    "weight": "2"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "264178890",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "1. work with bigger and smaller groups during session\n2. external facilitator\n3. long time of programme (not finished in one week, but take a few months)"
+                }
+              ]
+            },
+            {
+              "id": "264178891",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "1. I'd mix participation groups, workshops perform within people from different locations and roles but peer groups create with the closest environment. Then we can meet new people and learn from each other but in case real change we can already do it in close around. "
+                }
+              ]
+            },
+            {
+              "id": "264178892",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "No, in the place where I am now, I have everything to grow, thank you."
+                }
+              ]
+            },
+            {
+              "id": "264180072",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Re-consider if people on leaders positions are true leaders, unfortunately I don't see it sometimes. There are specific skills requested, organization can evaluate and should evaluate it. Positive leadership is power, not only on high level roles, but starting with team leaders as well. They have big impact on people, with wrong mindset there is more harm than good."
+                }
+              ]
+            },
+            {
+              "id": "264180156",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "I believe it is worth to spread this programm to all employees, maybe not with support of external company due to costs, but in PCP we have community of internal trainers/coaches which I think are able to pass the content and inspire people. Then the whole organization can speak one language and keep mindset alive."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "118975765397",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "194.39.218.19",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "462516949",
+      "survey_id": "525198144",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=q40t3815h_2BOqmMN0Ytf_2FfpjnElYef2VhVxZnFLjkdtygb5tJB7C_2BOUrDZ5SdZXSe",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/FzzhNoKZYtZdBgYPCXq_2Bnqwgdv4wr6b4ZnOgpUY_2FcSQ_3D?respondent_id=118975765397",
+      "total_time": 197,
+      "date_modified": "2025-10-15T14:04:20+00:00",
+      "date_created": "2025-10-15T14:01:02+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/525198144/responses/118975765397",
+      "pages": [
+        {
+          "id": "70317787",
+          "questions": [
+            {
+              "id": "264178888",
+              "answers": [
+                {
+                  "choice_id": "1859377998",
+                  "row_id": "1859377993",
+                  "choice_metadata": {
+                    "weight": "5"
+                  }
+                },
+                {
+                  "choice_id": "1859377997",
+                  "row_id": "1859377992",
+                  "choice_metadata": {
+                    "weight": "4"
+                  }
+                },
+                {
+                  "choice_id": "1859377997",
+                  "row_id": "1859377991",
+                  "choice_metadata": {
+                    "weight": "4"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "264178893",
+              "answers": [
+                {
+                  "choice_id": "1859378013",
+                  "row_id": "1859378008",
+                  "choice_metadata": {
+                    "weight": "5"
+                  }
+                },
+                {
+                  "choice_id": "1859378013",
+                  "row_id": "1859378007",
+                  "choice_metadata": {
+                    "weight": "5"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "264178889",
+              "answers": [
+                {
+                  "choice_id": "1859378005",
+                  "row_id": "1859378001",
+                  "choice_metadata": {
+                    "weight": "4"
+                  }
+                },
+                {
+                  "choice_id": "1859378005",
+                  "row_id": "1859378000",
+                  "choice_metadata": {
+                    "weight": "4"
+                  }
+                },
+                {
+                  "choice_id": "1859378005",
+                  "row_id": "1859377999",
+                  "choice_metadata": {
+                    "weight": "4"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "264178890",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "openess, we had a small peer grup of 4 (really good)! regularyty of the meetings to keep the learnings fresh in mind"
+                }
+              ]
+            },
+            {
+              "id": "264180072",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "more trainings like this, respectively continous exchanges like in the peer groups"
+                }
+              ]
+            },
+            {
+              "id": "264180156",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "thanks to Chris!"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "118976602450",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "194.39.218.17",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "462516949",
+      "survey_id": "525198144",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=ybqmyO2YGuOb2LdgkQ_2Bnh72hwOvD8QJB0_2FI2E7wUz_2BSeAAfmJ5u_2BMKNcP_2BCkhA1P",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/FzzhNoKZYtZdBgYPCXq_2Bnqwgdv4wr6b4ZnOgpUY_2FcSQ_3D?respondent_id=118976602450",
+      "total_time": 583,
+      "date_modified": "2025-10-16T12:34:56+00:00",
+      "date_created": "2025-10-16T12:25:12+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/525198144/responses/118976602450",
+      "pages": [
+        {
+          "id": "70317787",
+          "questions": [
+            {
+              "id": "264178888",
+              "answers": [
+                {
+                  "choice_id": "1859377998",
+                  "row_id": "1859377993",
+                  "choice_metadata": {
+                    "weight": "5"
+                  }
+                },
+                {
+                  "choice_id": "1859377998",
+                  "row_id": "1859377992",
+                  "choice_metadata": {
+                    "weight": "5"
+                  }
+                },
+                {
+                  "choice_id": "1859377998",
+                  "row_id": "1859377991",
+                  "choice_metadata": {
+                    "weight": "5"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "264178893",
+              "answers": [
+                {
+                  "choice_id": "1859378013",
+                  "row_id": "1859378008",
+                  "choice_metadata": {
+                    "weight": "5"
+                  }
+                },
+                {
+                  "choice_id": "1859378013",
+                  "row_id": "1859378007",
+                  "choice_metadata": {
+                    "weight": "5"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "264178889",
+              "answers": [
+                {
+                  "choice_id": "1859378006",
+                  "row_id": "1859378001",
+                  "choice_metadata": {
+                    "weight": "5"
+                  }
+                },
+                {
+                  "choice_id": "1859378006",
+                  "row_id": "1859378000",
+                  "choice_metadata": {
+                    "weight": "5"
+                  }
+                },
+                {
+                  "choice_id": "1859378006",
+                  "row_id": "1859377999",
+                  "choice_metadata": {
+                    "weight": "5"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "264178890",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "openness, exchange, support each other"
+                }
+              ]
+            },
+            {
+              "id": "264178891",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "regular refreshment sessions + bad practice sessions"
+                }
+              ]
+            },
+            {
+              "id": "264178892",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "-"
+                }
+              ]
+            },
+            {
+              "id": "264180072",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "-"
+                }
+              ]
+            },
+            {
+              "id": "264180156",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "-"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "118980581140",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "194.39.218.16",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "462516949",
+      "survey_id": "525198144",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=t_2BR1CafB5LXw2JCLmAQUICA9OMs_2BS_2BOz9pVZKPtdVJTt8XjlHuYf9_2FLJlO4RkDic",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/FzzhNoKZYtZdBgYPCXq_2Bnqwgdv4wr6b4ZnOgpUY_2FcSQ_3D?respondent_id=118980581140",
+      "total_time": 610,
+      "date_modified": "2025-10-21T13:04:04+00:00",
+      "date_created": "2025-10-21T12:53:54+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/525198144/responses/118980581140",
+      "pages": [
+        {
+          "id": "70317787",
+          "questions": [
+            {
+              "id": "264178888",
+              "answers": [
+                {
+                  "choice_id": "1859377997",
+                  "row_id": "1859377993",
+                  "choice_metadata": {
+                    "weight": "4"
+                  }
+                },
+                {
+                  "choice_id": "1859377997",
+                  "row_id": "1859377992",
+                  "choice_metadata": {
+                    "weight": "4"
+                  }
+                },
+                {
+                  "choice_id": "1859377997",
+                  "row_id": "1859377991",
+                  "choice_metadata": {
+                    "weight": "4"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "264178893",
+              "answers": [
+                {
+                  "choice_id": "1859378012",
+                  "row_id": "1859378008",
+                  "choice_metadata": {
+                    "weight": "4"
+                  }
+                },
+                {
+                  "choice_id": "1859378012",
+                  "row_id": "1859378007",
+                  "choice_metadata": {
+                    "weight": "4"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "264178889",
+              "answers": [
+                {
+                  "choice_id": "1859378005",
+                  "row_id": "1859378001",
+                  "choice_metadata": {
+                    "weight": "4"
+                  }
+                },
+                {
+                  "choice_id": "1859378005",
+                  "row_id": "1859378000",
+                  "choice_metadata": {
+                    "weight": "4"
+                  }
+                },
+                {
+                  "choice_id": "1859378005",
+                  "row_id": "1859377999",
+                  "choice_metadata": {
+                    "weight": "4"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "264178890",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "meet and discuss things with BSH colleagues outside of the normal way-of-working"
+                }
+              ]
+            },
+            {
+              "id": "264178891",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "as some colleagues had problems to join the meetings perhaps it would help to plan 2 or 3 cpl. days... I know that this is problematic for the homework between the workshops, but I am sure this could be somehow compensated in the big group of participants"
+                }
+              ]
+            },
+            {
+              "id": "264178892",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "not for the moment"
+                }
+              ]
+            },
+            {
+              "id": "264180072",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "not only to introduce and offer things like this MEJ project, but also live it in the daily operative working mode... my feeling is, that many colleagues (from mgmt.) who were part of MEJ already, forgot most fo the things he learned in this workshops  "
+                }
+              ]
+            },
+            {
+              "id": "264180156",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "no"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "118983282787",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "194.39.218.20",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "462516949",
+      "survey_id": "525198144",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=x00xjHpGFj1_2FBw4_2F3K_2BSHMY1_2Bbihu6v9UwzKcek661c00Xy9o40UTarj6KxQCWOH",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/FzzhNoKZYtZdBgYPCXq_2Bnqwgdv4wr6b4ZnOgpUY_2FcSQ_3D?respondent_id=118983282787",
+      "total_time": 769,
+      "date_modified": "2025-10-24T09:55:41+00:00",
+      "date_created": "2025-10-24T09:42:52+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/525198144/responses/118983282787",
+      "pages": [
+        {
+          "id": "70317787",
+          "questions": [
+            {
+              "id": "264178888",
+              "answers": [
+                {
+                  "choice_id": "1859377997",
+                  "row_id": "1859377993",
+                  "choice_metadata": {
+                    "weight": "4"
+                  }
+                },
+                {
+                  "choice_id": "1859377997",
+                  "row_id": "1859377992",
+                  "choice_metadata": {
+                    "weight": "4"
+                  }
+                },
+                {
+                  "choice_id": "1859377997",
+                  "row_id": "1859377991",
+                  "choice_metadata": {
+                    "weight": "4"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "264178893",
+              "answers": [
+                {
+                  "choice_id": "1859378012",
+                  "row_id": "1859378008",
+                  "choice_metadata": {
+                    "weight": "4"
+                  }
+                },
+                {
+                  "choice_id": "1859378012",
+                  "row_id": "1859378007",
+                  "choice_metadata": {
+                    "weight": "4"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "264178889",
+              "answers": [
+                {
+                  "choice_id": "1859378005",
+                  "row_id": "1859378001",
+                  "choice_metadata": {
+                    "weight": "4"
+                  }
+                },
+                {
+                  "choice_id": "1859378005",
+                  "row_id": "1859378000",
+                  "choice_metadata": {
+                    "weight": "4"
+                  }
+                },
+                {
+                  "choice_id": "1859378005",
+                  "row_id": "1859377999",
+                  "choice_metadata": {
+                    "weight": "4"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "264178890",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Exchange of opinions\nsharing of good practices\nnetworking and personal development growth"
+                }
+              ]
+            },
+            {
+              "id": "264178891",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "time frame 1.5 hours maximum\nall good/"
+                }
+              ]
+            },
+            {
+              "id": "264178892",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "I have 6 weekly meetings with my group."
+                }
+              ]
+            },
+            {
+              "id": "264180072",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Efficiency/cost reduction \nReduction of activities that do not add value"
+                }
+              ]
+            },
+            {
+              "id": "264180156",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "great teachers/ know how to listen and hear\nconcrete examples of improvements\nsharing practices-unifying criteria between locations"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "118983287258",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "194.39.218.23",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "462516949",
+      "survey_id": "525198144",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=2nx_2BNmlUhnAcXbM0aUxX_2BCUUIOkYNmpk40LUDynYLFMi1ulvikyLYrUYpS2tT_2Bks",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/FzzhNoKZYtZdBgYPCXq_2Bnqwgdv4wr6b4ZnOgpUY_2FcSQ_3D?respondent_id=118983287258",
+      "total_time": 1523,
+      "date_modified": "2025-10-24T10:04:03+00:00",
+      "date_created": "2025-10-24T09:38:39+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/525198144/responses/118983287258",
+      "pages": [
+        {
+          "id": "70317787",
+          "questions": [
+            {
+              "id": "264178888",
+              "answers": [
+                {
+                  "choice_id": "1859377997",
+                  "row_id": "1859377993",
+                  "choice_metadata": {
+                    "weight": "4"
+                  }
+                },
+                {
+                  "choice_id": "1859377997",
+                  "row_id": "1859377992",
+                  "choice_metadata": {
+                    "weight": "4"
+                  }
+                },
+                {
+                  "choice_id": "1859377997",
+                  "row_id": "1859377991",
+                  "choice_metadata": {
+                    "weight": "4"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "264178893",
+              "answers": [
+                {
+                  "choice_id": "1859378012",
+                  "row_id": "1859378008",
+                  "choice_metadata": {
+                    "weight": "4"
+                  }
+                },
+                {
+                  "choice_id": "1859378012",
+                  "row_id": "1859378007",
+                  "choice_metadata": {
+                    "weight": "4"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "264178889",
+              "answers": [
+                {
+                  "choice_id": "1859378006",
+                  "row_id": "1859378001",
+                  "choice_metadata": {
+                    "weight": "5"
+                  }
+                },
+                {
+                  "choice_id": "1859378005",
+                  "row_id": "1859378000",
+                  "choice_metadata": {
+                    "weight": "4"
+                  }
+                },
+                {
+                  "choice_id": "1859378005",
+                  "row_id": "1859377999",
+                  "choice_metadata": {
+                    "weight": "4"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "118983314291",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "194.39.218.23",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "462516949",
+      "survey_id": "525198144",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=x0Z2McQjtoPHbfvu8vvjB1MjdKon_2FNKKFh0BKPEywEZYHQDL9ul_2Bp5D_2FfDJw20Yr",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/FzzhNoKZYtZdBgYPCXq_2Bnqwgdv4wr6b4ZnOgpUY_2FcSQ_3D?respondent_id=118983314291",
+      "total_time": 266,
+      "date_modified": "2025-10-24T11:00:34+00:00",
+      "date_created": "2025-10-24T10:56:07+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/525198144/responses/118983314291",
+      "pages": [
+        {
+          "id": "70317787",
+          "questions": [
+            {
+              "id": "264178888",
+              "answers": [
+                {
+                  "choice_id": "1859377998",
+                  "row_id": "1859377993",
+                  "choice_metadata": {
+                    "weight": "5"
+                  }
+                },
+                {
+                  "choice_id": "1859377998",
+                  "row_id": "1859377992",
+                  "choice_metadata": {
+                    "weight": "5"
+                  }
+                },
+                {
+                  "choice_id": "1859377998",
+                  "row_id": "1859377991",
+                  "choice_metadata": {
+                    "weight": "5"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "264178893",
+              "answers": [
+                {
+                  "choice_id": "1859378013",
+                  "row_id": "1859378008",
+                  "choice_metadata": {
+                    "weight": "5"
+                  }
+                },
+                {
+                  "choice_id": "1859378013",
+                  "row_id": "1859378007",
+                  "choice_metadata": {
+                    "weight": "5"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "264178889",
+              "answers": [
+                {
+                  "choice_id": "1859378006",
+                  "row_id": "1859378001",
+                  "choice_metadata": {
+                    "weight": "5"
+                  }
+                },
+                {
+                  "choice_id": "1859378006",
+                  "row_id": "1859378000",
+                  "choice_metadata": {
+                    "weight": "5"
+                  }
+                },
+                {
+                  "choice_id": "1859378006",
+                  "row_id": "1859377999",
+                  "choice_metadata": {
+                    "weight": "5"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "264178890",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Understand the team and what PSH wants"
+                }
+              ]
+            },
+            {
+              "id": "264178891",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Participation of team not always there, some were missing. In actual situation understandable."
+                }
+              ]
+            },
+            {
+              "id": "264178892",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "It is my work to improve continously myself"
+                }
+              ]
+            },
+            {
+              "id": "264180072",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Not sure if all out targets fit with this what I learned. Often the trust of management is not there and the group leaders have to step in, what leads to \"fear\" of within team"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "118984995969",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "194.39.218.22",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "462516949",
+      "survey_id": "525198144",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=4gqcTQkkausFre8YzQn_2FpvqXOGk9nE0RQAznc_2BiPydTfk3FSsm_2Be3xYHn78MBSBN",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/FzzhNoKZYtZdBgYPCXq_2Bnqwgdv4wr6b4ZnOgpUY_2FcSQ_3D?respondent_id=118984995969",
+      "total_time": 6028,
+      "date_modified": "2025-10-27T08:55:54+00:00",
+      "date_created": "2025-10-27T07:15:25+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/525198144/responses/118984995969",
+      "pages": [
+        {
+          "id": "70317787",
+          "questions": [
+            {
+              "id": "264178888",
+              "answers": [
+                {
+                  "choice_id": "1859377998",
+                  "row_id": "1859377993",
+                  "choice_metadata": {
+                    "weight": "5"
+                  }
+                },
+                {
+                  "choice_id": "1859377996",
+                  "row_id": "1859377992",
+                  "choice_metadata": {
+                    "weight": "3"
+                  }
+                },
+                {
+                  "choice_id": "1859377997",
+                  "row_id": "1859377991",
+                  "choice_metadata": {
+                    "weight": "4"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "264178893",
+              "answers": [
+                {
+                  "choice_id": "1859378012",
+                  "row_id": "1859378008",
+                  "choice_metadata": {
+                    "weight": "4"
+                  }
+                },
+                {
+                  "choice_id": "1859378012",
+                  "row_id": "1859378007",
+                  "choice_metadata": {
+                    "weight": "4"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "264178889",
+              "answers": [
+                {
+                  "choice_id": "1859378006",
+                  "row_id": "1859378001",
+                  "choice_metadata": {
+                    "weight": "5"
+                  }
+                },
+                {
+                  "choice_id": "1859378006",
+                  "row_id": "1859378000",
+                  "choice_metadata": {
+                    "weight": "5"
+                  }
+                },
+                {
+                  "choice_id": "1859378006",
+                  "row_id": "1859377999",
+                  "choice_metadata": {
+                    "weight": "5"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "264178890",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "increase awareness of perspective I, WE, IT \nrequest for commitment \nmanaging emotions (core truth)"
+                }
+              ]
+            },
+            {
+              "id": "264178891",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "no idea - everything was perfect "
+                }
+              ]
+            },
+            {
+              "id": "264178892",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Maybe reminder sessions after a year when program ends  to sum up a bit more with the Mentors. What we changed - which effect this brought ect. "
+                }
+              ]
+            },
+            {
+              "id": "264180072",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "work on taking responsibilities that they can really feel it. "
+                }
+              ]
+            },
+            {
+              "id": "264180156",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "for the sessions that were planned 2 h  I missed sort break 5 min in the middle - would be great to implement them for future :)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "118986781776",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "45.112.38.97",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "462516949",
+      "survey_id": "525198144",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=yDfY_2FcxtqyRF7juFwJHetU3yfR9c_2Fei9DGvIec8DpWFh1hR56W7LcRVNjgKBsC0_2F",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/FzzhNoKZYtZdBgYPCXq_2Bnqwgdv4wr6b4ZnOgpUY_2FcSQ_3D?respondent_id=118986781776",
+      "total_time": 277,
+      "date_modified": "2025-10-29T06:58:16+00:00",
+      "date_created": "2025-10-29T06:53:38+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/525198144/responses/118986781776",
+      "pages": [
+        {
+          "id": "70317787",
+          "questions": [
+            {
+              "id": "264178888",
+              "answers": [
+                {
+                  "choice_id": "1859377998",
+                  "row_id": "1859377993",
+                  "choice_metadata": {
+                    "weight": "5"
+                  }
+                },
+                {
+                  "choice_id": "1859377998",
+                  "row_id": "1859377992",
+                  "choice_metadata": {
+                    "weight": "5"
+                  }
+                },
+                {
+                  "choice_id": "1859377998",
+                  "row_id": "1859377991",
+                  "choice_metadata": {
+                    "weight": "5"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "264178893",
+              "answers": [
+                {
+                  "choice_id": "1859378013",
+                  "row_id": "1859378008",
+                  "choice_metadata": {
+                    "weight": "5"
+                  }
+                },
+                {
+                  "choice_id": "1859378013",
+                  "row_id": "1859378007",
+                  "choice_metadata": {
+                    "weight": "5"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "264178889",
+              "answers": [
+                {
+                  "choice_id": "1859378006",
+                  "row_id": "1859378001",
+                  "choice_metadata": {
+                    "weight": "5"
+                  }
+                },
+                {
+                  "choice_id": "1859378006",
+                  "row_id": "1859378000",
+                  "choice_metadata": {
+                    "weight": "5"
+                  }
+                },
+                {
+                  "choice_id": "1859378006",
+                  "row_id": "1859377999",
+                  "choice_metadata": {
+                    "weight": "5"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "264178890",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "1- Sharing real life challenges and experiences and address them\n2- Learning new tools and technics to enhance our leadership skills\n3-Connecting with PCP teams around the globe."
+                }
+              ]
+            },
+            {
+              "id": "264178891",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "All good."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,478 @@
+{
+  "_backup_metadata": {
+    "backed_up_at": "2026-04-27T18:43:49.284414+00:00",
+    "survey_id": "420142748",
+    "title": "Ingram Micro: Pesquisa de Reflexão do Participante - Multiplicadores de Cultura - 13 de outubro",
+    "nickname": "",
+    "date_created": null,
+    "date_modified": "2025-10-07T13:44:00",
+    "response_count_listing": 0,
+    "response_count_fetched": 0,
+    "summary_href": "https://api.surveymonkey.com/v3/surveys/420142748"
+  },
+  "details": {
+    "title": "Ingram Micro: Pesquisa de Reflexão do Participante - Multiplicadores de Cultura - 13 de outubro",
+    "nickname": "",
+    "language": "en",
+    "folder_id": "2364627",
+    "category": "",
+    "question_count": 8,
+    "page_count": 2,
+    "response_count": 0,
+    "date_created": "2025-10-06T14:54:00",
+    "date_modified": "2025-10-07T13:44:00",
+    "id": "420142748",
+    "buttons_text": {
+      "next_button": "próximo",
+      "prev_button": "Anterior",
+      "done_button": "Feito",
+      "exit_button": ""
+    },
+    "is_owner": true,
+    "owner": "54118456",
+    "footer": true,
+    "theme_id": "22541796",
+    "template_id": "1211",
+    "custom_variables": {},
+    "href": "https://api.surveymonkey.com/v3/surveys/420142748",
+    "analyze_url": "https://www.surveymonkey.com/analyze/ncydqN1MYT3lJtdKgQztWiNtTaO8fTlarQ1ehEA2fK8_3D",
+    "edit_url": "https://www.surveymonkey.com/create/?sm=ncydqN1MYT3lJtdKgQztWiNtTaO8fTlarQ1ehEA2fK8_3D",
+    "collect_url": "https://www.surveymonkey.com/collect/list?sm=ncydqN1MYT3lJtdKgQztWiNtTaO8fTlarQ1ehEA2fK8_3D",
+    "summary_url": "https://www.surveymonkey.com/summary/ncydqN1MYT3lJtdKgQztWiNtTaO8fTlarQ1ehEA2fK8_3D",
+    "preview": "https://www.surveymonkey.com/r/Preview/?sm=5aSXsDqr5THBKoHloDTZZiQxtAdbUqjwpcXeJm74WYA7eRwW_2FkidzPWmHYkeucpi",
+    "pages": [
+      {
+        "title": "Obrigado por participar!",
+        "description": "<div>Parabéns por concluir esta sessão. Adoraríamos ouvir suas reflexões sobre a experiência de hoje — o que se destacou, o que apoiou seu aprendizado e como podemos continuar melhorando.</div>\n<div><br></div>\n<div>Esta breve <strong>reflexão levará menos de 5 minutos</strong> e nos ajuda a garantir que nossas sessões sejam impactantes, relevantes e alinhadas com seus objetivos.</div>\n<div><br></div>\n<div>Seu feedback honesto é essencial. Esta é uma oportunidade de praticar uma comunicação autêntica — suas percepções nos ajudarão a moldar e fortalecer essa jornada de aprendizagem juntos.</div>",
+        "position": 1,
+        "question_count": 0,
+        "id": "70166537",
+        "href": "https://api.surveymonkey.com/v3/surveys/420142748/pages/70166537",
+        "questions": []
+      },
+      {
+        "title": "",
+        "description": "",
+        "position": 2,
+        "question_count": 8,
+        "id": "70166538",
+        "href": "https://api.surveymonkey.com/v3/surveys/420142748/pages/70166538",
+        "questions": [
+          {
+            "id": "263339997",
+            "position": 1,
+            "visible": true,
+            "family": "presentation",
+            "subtype": "descriptive_text",
+            "layout": null,
+            "sorting": null,
+            "required": null,
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Com base na sua experiência durante a sessão, por favor, avalie as seguintes afirmações."
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/420142748/pages/70166538/questions/263339997",
+            "display_options": {
+              "show_display_number": false
+            }
+          },
+          {
+            "id": "263339990",
+            "position": 2,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Esta sessão é <strong>relevante</strong> para meus desafios ou aspirações atuais de liderança."
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/420142748/pages/70166538/questions/263339990",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "Concordo totalmente",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1855099273"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "Concordo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1855099274"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "Concordo parcialmente",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1855099275"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "Discordo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1855099276"
+                },
+                {
+                  "position": 5,
+                  "visible": true,
+                  "text": "Discordo totalmente",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1855099277"
+                }
+              ]
+            }
+          },
+          {
+            "id": "263339991",
+            "position": 3,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "A sessão foi <strong>envolvente e apoiou meu aprendizado.</strong>"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/420142748/pages/70166538/questions/263339991",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "Concordo totalmente",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1855099278"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "Concordo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1855099279"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "Concordo parcialmente",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1855099280"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "Discordo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1855099281"
+                },
+                {
+                  "position": 5,
+                  "visible": true,
+                  "text": "Discordo totalmente",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1855099282"
+                }
+              ]
+            }
+          },
+          {
+            "id": "263339994",
+            "position": 4,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "O <strong>facilitador foi eficaz</strong> na entrega do conteúdo e no apoio ao seu aprendizado."
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/420142748/pages/70166538/questions/263339994",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "Concordo totalmente",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1855099294"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "Concordo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1855099295"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "Concordo parcialmente",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1855099296"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "Discordo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1855099297"
+                },
+                {
+                  "position": 5,
+                  "visible": true,
+                  "text": "Discordo totalmente",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1855099298"
+                }
+              ]
+            }
+          },
+          {
+            "id": "263339992",
+            "position": 5,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Sinto-me <strong>confiante na minha capacidade de aplicar</strong> o que aprendi em desafios reais no local de trabalho."
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/420142748/pages/70166538/questions/263339992",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "Concordo totalmente",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1855099283"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "Concordo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1855099284"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "Concordo parcialmente",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1855099285"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "Discordo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1855099286"
+                },
+                {
+                  "position": 5,
+                  "visible": true,
+                  "text": "Discordo totalmente",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1855099287"
+                }
+              ]
+            }
+          },
+          {
+            "id": "263339996",
+            "position": 6,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Esta experiência é <strong>consistente com os valores e a cultura</strong> que buscamos incorporar em nosso trabalho diário."
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/420142748/pages/70166538/questions/263339996",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "Concordo totalmente",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1855099301"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "Concordo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1855099302"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "Concordo parcialmente",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1855099303"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "Discordo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1855099304"
+                },
+                {
+                  "position": 5,
+                  "visible": true,
+                  "text": "Discordo totalmente",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1855099305"
+                }
+              ]
+            }
+          },
+          {
+            "id": "263339995",
+            "position": 7,
+            "visible": true,
+            "family": "open_ended",
+            "subtype": "essay",
+            "layout": null,
+            "sorting": null,
+            "required": null,
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Quais <strong>tópicos ou ferramentas</strong> tiveram o maior impacto no seu pensamento ou na sua liderança até agora?"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/420142748/pages/70166538/questions/263339995"
+          },
+          {
+            "id": "263339993",
+            "position": 8,
+            "visible": true,
+            "family": "open_ended",
+            "subtype": "essay",
+            "layout": null,
+            "sorting": null,
+            "required": null,
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "O que poderia melhorar sua experiência em futuras sessões ?"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/420142748/pages/70166538/questions/263339993"
+          }
+        ]
+      }
+    ]
+  },
+  "responses": []
+}

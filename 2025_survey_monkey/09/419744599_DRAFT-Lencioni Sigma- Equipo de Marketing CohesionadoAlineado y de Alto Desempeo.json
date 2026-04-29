@@ -1,0 +1,1337 @@
+{
+  "_backup_metadata": {
+    "backed_up_at": "2026-04-27T18:44:23.398132+00:00",
+    "survey_id": "419744599",
+    "title": "DRAFT-Lencioni (Sigma- Equipo de Marketing Cohesionado,\nAlineado y de Alto Desempeño)",
+    "nickname": "",
+    "date_created": null,
+    "date_modified": "2025-09-03T13:12:00",
+    "response_count_listing": 0,
+    "response_count_fetched": 0,
+    "summary_href": "https://api.surveymonkey.com/v3/surveys/419744599"
+  },
+  "details": {
+    "title": "DRAFT-Lencioni (Sigma- Equipo de Marketing Cohesionado,\nAlineado y de Alto Desempeño)",
+    "nickname": "",
+    "language": "en",
+    "folder_id": "2390217",
+    "category": "",
+    "question_count": 22,
+    "page_count": 1,
+    "response_count": 0,
+    "date_created": "2025-09-02T17:33:00",
+    "date_modified": "2025-09-03T13:12:00",
+    "id": "419744599",
+    "buttons_text": {
+      "next_button": "Next",
+      "prev_button": "Prev",
+      "done_button": "Done",
+      "exit_button": ""
+    },
+    "is_owner": true,
+    "owner": "54118456",
+    "footer": true,
+    "theme_id": "20396371",
+    "template_id": null,
+    "custom_variables": {},
+    "href": "https://api.surveymonkey.com/v3/surveys/419744599",
+    "analyze_url": "https://www.surveymonkey.com/analyze/vuBaaNpdPWPu_2FHYk3BbHR2Tvma2Wdto4apdkLS_2BMwVQ_3D",
+    "edit_url": "https://www.surveymonkey.com/create/?sm=vuBaaNpdPWPu_2FHYk3BbHR2Tvma2Wdto4apdkLS_2BMwVQ_3D",
+    "collect_url": "https://www.surveymonkey.com/collect/list?sm=vuBaaNpdPWPu_2FHYk3BbHR2Tvma2Wdto4apdkLS_2BMwVQ_3D",
+    "summary_url": "https://www.surveymonkey.com/summary/vuBaaNpdPWPu_2FHYk3BbHR2Tvma2Wdto4apdkLS_2BMwVQ_3D",
+    "preview": "https://www.surveymonkey.com/r/Preview/?sm=016W8Jz2i7e60XT17gS0jm5tmaRw5KRhRMGouwZZKveAXYerYe_2BH8QCwyeAbc9dZ",
+    "pages": [
+      {
+        "title": "Bienvenidos!",
+        "description": "<div>El siguiente cuestionario, tomado del libro “Las cinco disfunciones de un equipo” de Patrick Lencioni, es una herramienta sencilla de diagnóstico, ayudará a evaluar la situación actual del equipo y, de esta forma, saber en qué aspectos enfocar la gestión como líder.<br><br>El objetivo de la encuesta es entender cómo están funcionando como equipo e identificar los comportamientos fundamentales que necesitan ser abordados para potenciarse.</div>",
+        "position": 1,
+        "question_count": 22,
+        "id": "69196533",
+        "href": "https://api.surveymonkey.com/v3/surveys/419744599/pages/69196533",
+        "questions": [
+          {
+            "id": "258932118",
+            "position": 1,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Los miembros del equipo discutimos los problemas apasionadamente y sin reservarnos nuestras opiniones:"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/419744599/pages/69196533/questions/258932118",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "4- Casi siempre",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826288642"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "3- Frecuentemente",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826288643"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "2- A veces",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826288644"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "1- Casi nunca",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826288645"
+                }
+              ]
+            }
+          },
+          {
+            "id": "258932119",
+            "position": 2,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Podemos hablar directamente y de manera constructiva acerca de los comportamientos inefectivos que percibimos, los propios y los de mis colegas:"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/419744599/pages/69196533/questions/258932119",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "4- Casi siempre",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826288646"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "3- Frecuentemente",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826288647"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "2- A veces",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826288648"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "1- Casi nunca",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826288649"
+                }
+              ]
+            }
+          },
+          {
+            "id": "258932120",
+            "position": 3,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Sabemos en qué están trabajando nuestros colegas y cómo todos y cada uno contribuimos al bien colectivo del equipo:"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/419744599/pages/69196533/questions/258932120",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "4- Casi siempre",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826288650"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "3- Frecuentemente",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826288651"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "2- A veces",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826288652"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "1- Casi nunca",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826288653"
+                }
+              ]
+            }
+          },
+          {
+            "id": "258932121",
+            "position": 4,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Los miembros del equipo nos disculpamos en el momento oportuno y con toda sinceridad cuando nos damos cuenta de que dijimos o hicimos algo inadecuado o posiblemente perjudicial para el equipo:"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/419744599/pages/69196533/questions/258932121",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "4- Casi siempre",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826288654"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "3- Frecuentemente",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826288655"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "2- A veces",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826288656"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "1- Casi nunca",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826288657"
+                }
+              ]
+            }
+          },
+          {
+            "id": "258932122",
+            "position": 5,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Todos estamos dispuestos a hacer algunos sacrificios (por ejemplo, presupuesto, posiciones, discusiones…) en nuestros departamentos o áreas especializadas cuando entendemos que son por el bien del equipo y de la organización:"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/419744599/pages/69196533/questions/258932122",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "4- Casi siempre",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826288658"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "3- Frecuentemente",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826288659"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "2- A veces",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826288660"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "1- Casi nunca",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826288661"
+                }
+              ]
+            }
+          },
+          {
+            "id": "258932123",
+            "position": 6,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Los miembros del equipo reconocemos abiertamente nuestras debilidades y errores:"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/419744599/pages/69196533/questions/258932123",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "4- Casi siempre",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826288662"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "3- Frecuentemente",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826288663"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "2- A veces",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826288664"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "1- Casi nunca",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826288665"
+                }
+              ]
+            }
+          },
+          {
+            "id": "258932124",
+            "position": 7,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Nuestras reuniones son apasionantes, nunca aburridas:"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/419744599/pages/69196533/questions/258932124",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "4- Casi siempre",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826288666"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "3- Frecuentemente",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826288667"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "2- A veces",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826288668"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "1- Casi nunca",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826288669"
+                }
+              ]
+            }
+          },
+          {
+            "id": "258934527",
+            "position": 8,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Los miembros del equipo solicitan las opiniones de los demás durante las reuniones."
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/419744599/pages/69196533/questions/258934527",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "4- Casi siempre",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826300158"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "3- Frecuentemente",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826300159"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "2- A veces",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826300160"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "1- Casi nunca",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826300161"
+                }
+              ]
+            }
+          },
+          {
+            "id": "258932125",
+            "position": 9,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Salimos de nuestras reuniones confiados en que nuestros compañeros están por completo comprometidos con las decisiones que acordamos, aunque hubiera desacuerdos inicialmente:"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/419744599/pages/69196533/questions/258932125",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "4- Casi siempre",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826288670"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "3- Frecuentemente",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826288671"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "2- A veces",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826288672"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "1- Casi nunca",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826288673"
+                }
+              ]
+            }
+          },
+          {
+            "id": "258932126",
+            "position": 10,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Nos afecta de manera importante cuando no logramos las metas del equipo y de la empresa:"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/419744599/pages/69196533/questions/258932126",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "4- Casi siempre",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826288674"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "3- Frecuentemente",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826288675"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "2- A veces",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826288676"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "1- Casi nunca",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826288677"
+                }
+              ]
+            }
+          },
+          {
+            "id": "258935172",
+            "position": 11,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Los miembros del equipo valoran más el éxito colectivo que los logros individuales."
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/419744599/pages/69196533/questions/258935172",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "4- Casi siempre",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826304195"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "3- Frecuentemente",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826304196"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "2- A veces",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826304197"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "1- Casi nunca",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826304198"
+                }
+              ]
+            }
+          },
+          {
+            "id": "258932127",
+            "position": 12,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Durante nuestras reuniones, ponemos los asuntos más importantes y difíciles sobre la mesa para ser resueltos:"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/419744599/pages/69196533/questions/258932127",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "4- Casi siempre",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826288678"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "3- Frecuentemente",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826288679"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "2- A veces",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826288680"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "1- Casi nunca",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826288681"
+                }
+              ]
+            }
+          },
+          {
+            "id": "258934738",
+            "position": 13,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "El equipo tiene clara su dirección y sus prioridades."
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/419744599/pages/69196533/questions/258934738",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "4- Casi siempre",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826301475"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "3- Frecuentemente",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826301476"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "2- A veces",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826301477"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "1- Casi nunca",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826301478"
+                }
+              ]
+            }
+          },
+          {
+            "id": "258932128",
+            "position": 14,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "A todos nos preocupa seriamente la perspectiva de defraudar a nuestros compañeros:"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/419744599/pages/69196533/questions/258932128",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "4- Casi siempre",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826288682"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "3- Frecuentemente",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826288683"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "2- A veces",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826288684"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "1- Casi nunca",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826288685"
+                }
+              ]
+            }
+          },
+          {
+            "id": "258934106",
+            "position": 15,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Los miembros del equipo reconocen y aprovechan las habilidades y la experiencia de los demás:"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/419744599/pages/69196533/questions/258934106",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "4- Casi siempre",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826296909"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "3- Frecuentemente",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826296910"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "2- A veces",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826296911"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "1- Casi nunca",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826296912"
+                }
+              ]
+            }
+          },
+          {
+            "id": "258932129",
+            "position": 16,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Los miembros del equipo conocemos algunos elementos de la vida personal de nuestros compañeros y nos sentimos cómodos conversando sobre ellos:"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/419744599/pages/69196533/questions/258932129",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "4- Casi siempre",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826288686"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "3- Frecuentemente",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826288687"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "2- A veces",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826288688"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "1- Casi nunca",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826288689"
+                }
+              ]
+            }
+          },
+          {
+            "id": "258932130",
+            "position": 17,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "En los foros que compartimos, terminamos nuestros debates con resoluciones claras y específicas y la decisión y los elementos para actuar:"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/419744599/pages/69196533/questions/258932130",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "4- Casi siempre",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826288690"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "3- Frecuentemente",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826288691"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "2- A veces",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826288692"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "1- Casi nunca",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826288693"
+                }
+              ]
+            }
+          },
+          {
+            "id": "258932131",
+            "position": 18,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Nos desafiamos constructivamente unos a otros acerca de nuestras opiniones y planteamientos:"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/419744599/pages/69196533/questions/258932131",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "4- Casi siempre",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826288694"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "3- Frecuentemente",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826288695"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "2- A veces",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826288696"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "1- Casi nunca",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826288697"
+                }
+              ]
+            }
+          },
+          {
+            "id": "258935022",
+            "position": 19,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Cuando se produce un conflicto, el equipo se enfrenta y trata el asunto antes de pasar a otro tema."
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/419744599/pages/69196533/questions/258935022",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "4- Casi siempre",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826303287"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "3- Frecuentemente",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826303288"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "2- A veces",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826303289"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "1- Casi nunca",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826303290"
+                }
+              ]
+            }
+          },
+          {
+            "id": "258932132",
+            "position": 20,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Cuando nos reunimos, no mostramos tener prisa en destacar nuestras propias contribuciones, pero sí en reconocer las de los demás y las del equipo sin pérdida de tiempo:"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/419744599/pages/69196533/questions/258932132",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "4- Casi siempre",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826288698"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "3- Frecuentemente",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826288699"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "2- A veces",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826288700"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "1- Casi nunca",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826288701"
+                }
+              ]
+            }
+          },
+          {
+            "id": "258935581",
+            "position": 21,
+            "visible": true,
+            "family": "open_ended",
+            "subtype": "essay",
+            "layout": null,
+            "sorting": null,
+            "required": null,
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "¿Qué creen que es lo más valioso que podrían aprender para mejorar la efectividad del equipo?"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/419744599/pages/69196533/questions/258935581"
+          },
+          {
+            "id": "258932133",
+            "position": 22,
+            "visible": true,
+            "family": "open_ended",
+            "subtype": "essay",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Ingrese por favor su nombre y apellido"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/419744599/pages/69196533/questions/258932133"
+          }
+        ]
+      }
+    ]
+  },
+  "responses": []
+}

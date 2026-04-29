@@ -1,0 +1,524 @@
+{
+  "_backup_metadata": {
+    "backed_up_at": "2026-04-27T18:44:00.948146+00:00",
+    "survey_id": "419909034",
+    "title": "Electrolit: Registro Proceso de Coaching",
+    "nickname": "",
+    "date_created": null,
+    "date_modified": "2025-09-25T23:03:00",
+    "response_count_listing": 1,
+    "response_count_fetched": 1,
+    "summary_href": "https://api.surveymonkey.com/v3/surveys/419909034"
+  },
+  "details": {
+    "title": "Electrolit: Registro Proceso de Coaching",
+    "nickname": "",
+    "language": "en",
+    "folder_id": "2374242",
+    "category": "",
+    "question_count": 8,
+    "page_count": 2,
+    "response_count": 1,
+    "date_created": "2025-09-16T17:10:00",
+    "date_modified": "2025-09-25T23:03:00",
+    "id": "419909034",
+    "buttons_text": {
+      "next_button": "Next",
+      "prev_button": "Prev",
+      "done_button": "Done",
+      "exit_button": ""
+    },
+    "is_owner": true,
+    "owner": "54118456",
+    "footer": true,
+    "theme_id": "22541796",
+    "template_id": "1211",
+    "custom_variables": {},
+    "href": "https://api.surveymonkey.com/v3/surveys/419909034",
+    "analyze_url": "https://www.surveymonkey.com/analyze/MkMn8wA4IiPKmiYEpk11w2BXSf8fdqFAvFs6za1LA74_3D",
+    "edit_url": "https://www.surveymonkey.com/create/?sm=MkMn8wA4IiPKmiYEpk11w2BXSf8fdqFAvFs6za1LA74_3D",
+    "collect_url": "https://www.surveymonkey.com/collect/list?sm=MkMn8wA4IiPKmiYEpk11w2BXSf8fdqFAvFs6za1LA74_3D",
+    "summary_url": "https://www.surveymonkey.com/summary/MkMn8wA4IiPKmiYEpk11w2BXSf8fdqFAvFs6za1LA74_3D",
+    "preview": "https://www.surveymonkey.com/r/Preview/?sm=abrUTbhsEaW56MXuxP3xkhU2u1DdhO0_2Fb75rOC5G2RA7ef_2Bgj_2ByvE_2BJ0Uz0XERBf",
+    "pages": [
+      {
+        "title": "Insights y notas de la sesión",
+        "description": "<div>Esta breve encuesta (toma solo 3 minutos completarlo) ayudará a los coaches a capturar los elementos clave de cada sesión de coaching, y apoya el compromiso de Axialent con la medición de impacto y la mejora continua de la experiencia del cliente.</div>\n<div><br></div>\n<div>Por favor, utiliza este formulario para registrar la efectividad de la sesión, el nivel de participación del coachee y las principales herramientas o conceptos trabajados. Tu aporte nos ayudará a identificar patrones, compartir mejores prácticas y fortalecer el proceso general de coaching.</div>\n<div><br></div>\n<div>Gracias por tu contribución para construir una experiencia de coaching coherente y de alto impacto para nuestros clientes.</div>",
+        "position": 1,
+        "question_count": 0,
+        "id": "69591940",
+        "href": "https://api.surveymonkey.com/v3/surveys/419909034/pages/69591940",
+        "questions": []
+      },
+      {
+        "title": "",
+        "description": "",
+        "position": 2,
+        "question_count": 8,
+        "id": "69591941",
+        "href": "https://api.surveymonkey.com/v3/surveys/419909034/pages/69591941",
+        "questions": [
+          {
+            "id": "260717010",
+            "position": 1,
+            "visible": true,
+            "family": "open_ended",
+            "subtype": "single",
+            "layout": null,
+            "sorting": null,
+            "required": null,
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Cliente y nombre del programa"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/419909034/pages/69591941/questions/260717010"
+          },
+          {
+            "id": "260717009",
+            "position": 2,
+            "visible": true,
+            "family": "demographic",
+            "subtype": "name",
+            "layout": null,
+            "sorting": null,
+            "required": null,
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Coachee"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/419909034/pages/69591941/questions/260717009",
+            "answers": {
+              "rows": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "Nombre",
+                  "type": "first_name",
+                  "required": false,
+                  "id": "1837839545"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "Apellido",
+                  "type": "last_name",
+                  "required": false,
+                  "id": "1837839546"
+                },
+                {
+                  "position": 3,
+                  "visible": false,
+                  "text": " ",
+                  "type": "middle_name",
+                  "required": false,
+                  "id": "1837839547"
+                },
+                {
+                  "position": 4,
+                  "visible": false,
+                  "text": " ",
+                  "type": "title",
+                  "required": false,
+                  "id": "1837839548"
+                },
+                {
+                  "position": 5,
+                  "visible": false,
+                  "text": " ",
+                  "type": "suffix",
+                  "required": false,
+                  "id": "1837839549"
+                }
+              ]
+            }
+          },
+          {
+            "id": "260717012",
+            "position": 3,
+            "visible": true,
+            "family": "open_ended",
+            "subtype": "essay",
+            "layout": null,
+            "sorting": null,
+            "required": null,
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "¿Cuáles fueron los principales desafíos sobre los que trabajaron en la sesión?"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/419909034/pages/69591941/questions/260717012"
+          },
+          {
+            "id": "260717005",
+            "position": 4,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "¿En qué medida se cumplieron los objetivos de la sesión?<br><em>Reflexiona sobre la claridad de los objetivos y la efectividad en la entrega de resultados.</em>"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/419909034/pages/69591941/questions/260717005",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "Completamente",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1837839522"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "En gran medida",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1837839523"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "Parcialmente",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1837839524"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "Poco",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1837839525"
+                },
+                {
+                  "position": 5,
+                  "visible": true,
+                  "text": "Para nada",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1837839526"
+                }
+              ]
+            }
+          },
+          {
+            "id": "260717006",
+            "position": 5,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "horiz",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "¿Cómo calificarías el nivel de <strong>conexión y empatía</strong> con el coachee? <em>Reflexiona sobre la confianza en la relación, la sensación de seguridad y la apertura durante la sesión.</em>"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/419909034/pages/69591941/questions/260717006",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "Muy alta",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1837839527"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "Alta",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1837839528"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "Moderada",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1837839529"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "Baja",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1837839530"
+                },
+                {
+                  "position": 5,
+                  "visible": true,
+                  "text": "Muy baja",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1837839531"
+                }
+              ]
+            }
+          },
+          {
+            "id": "260717007",
+            "position": 6,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "horiz",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "¿Cómo calificarías el nivel de <strong>compromiso y seguimiento</strong> del coachee? <em>Reflexiona sobre su energía, sentido de responsabilidad y aplicación de lo trabajado más allá de la sesión.</em>"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/419909034/pages/69591941/questions/260717007",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "Muy alto",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1837839536"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "Alto",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1837839537"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "Moderado",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1837839538"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "Bajo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1837839539"
+                },
+                {
+                  "position": 5,
+                  "visible": true,
+                  "text": "Muy bajo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1837839540"
+                }
+              ]
+            }
+          },
+          {
+            "id": "260717008",
+            "position": 7,
+            "visible": true,
+            "family": "open_ended",
+            "subtype": "essay",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "You can only select at most 4 answers (including other) to this question.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "¿Cuáles fueron las principales herramientas y conceptos aplicados en la sesión? Por favor señala todas las que consideres relavantes."
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/419909034/pages/69591941/questions/260717008"
+          },
+          {
+            "id": "260717011",
+            "position": 8,
+            "visible": true,
+            "family": "presentation",
+            "subtype": "descriptive_text",
+            "layout": null,
+            "sorting": null,
+            "required": null,
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Gracias por tu tiempo. Al completar este formulario, estás contribuyendo activamente a la estrategia de impacto en clientes de Axialent y ayudándonos a aprender de cada sesión."
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/419909034/pages/69591941/questions/260717011",
+            "display_options": {
+              "show_display_number": false
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "responses": [
+    {
+      "id": "114946653155",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "190.84.116.17",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "437194061",
+      "survey_id": "419909034",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=xVQvbdGh2ryyvfSLS0xPjoJP9l43eON_2BGbdtsq0bOEKnKDCleqvfbw68laPp0zmr",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/MkMn8wA4IiPKmiYEpk11w2BXSf8fdqFAvFs6za1LA74_3D?respondent_id=114946653155",
+      "total_time": 614,
+      "date_modified": "2025-09-25T23:02:52+00:00",
+      "date_created": "2025-09-25T22:52:38+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/419909034/responses/114946653155",
+      "pages": [
+        {
+          "id": "69591940",
+          "questions": []
+        },
+        {
+          "id": "69591941",
+          "questions": [
+            {
+              "id": "260717010",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Electrolit HPT"
+                }
+              ]
+            },
+            {
+              "id": "260717009",
+              "answers": [
+                {
+                  "row_id": "1837839545",
+                  "tag_data": [],
+                  "text": "roberto "
+                },
+                {
+                  "row_id": "1837839546",
+                  "tag_data": [],
+                  "text": "reyes"
+                }
+              ]
+            },
+            {
+              "id": "260717012",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "objetivos: \r\ndesarrollar flexibilidad ante las sugerencias de los demás, permitir que esto fomente la participación y la creatividad de quienes le rodean\r\ndesafio trabajado puntual: \r\ncomo generar confianza en otros para facilitar la seguridad psicologica "
+                }
+              ]
+            },
+            {
+              "id": "260717005",
+              "answers": [
+                {
+                  "choice_id": "1837839524"
+                }
+              ]
+            },
+            {
+              "id": "260717006",
+              "answers": [
+                {
+                  "choice_id": "1837839528"
+                }
+              ]
+            },
+            {
+              "id": "260717007",
+              "answers": [
+                {
+                  "choice_id": "1837839536"
+                }
+              ]
+            },
+            {
+              "id": "260717008",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "identificar donde aparece la honestidad brutal que puede estar gatillando la falta de confianza en el equipo \r\npasos de la conversación foco en contexto para en este espacio generar acuerdos o invitacion a la forma de participar de las reuniones que fue el espacio que puntualmente trabajamos hoy.\r\ncreo que alcanzó parcialmente el objetivo porque si bien logró identificar con contundencia donde está el punto de apalancamiento para promover la seguridad psicologica y esto era un punto ciego en él, tiene algunas ideas de lo que le podría funcionar pero siente que hasta que no lo pruebe en vivo no estará seguro. lo conversaremos en la próxima sesión."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,604 @@
+{
+  "_backup_metadata": {
+    "backed_up_at": "2026-04-27T18:47:09.416716+00:00",
+    "survey_id": "418330467",
+    "title": "Ingram Micro: Avaliação de Impacto e ROI após o Programa",
+    "nickname": "",
+    "date_created": null,
+    "date_modified": "2025-05-06T17:35:00",
+    "response_count_listing": 0,
+    "response_count_fetched": 0,
+    "summary_href": "https://api.surveymonkey.com/v3/surveys/418330467"
+  },
+  "details": {
+    "title": "Ingram Micro: Avaliação de Impacto e ROI após o Programa",
+    "nickname": "",
+    "language": "en",
+    "folder_id": "2364627",
+    "category": "",
+    "question_count": 10,
+    "page_count": 2,
+    "response_count": 0,
+    "date_created": "2025-05-05T10:53:00",
+    "date_modified": "2025-05-06T17:35:00",
+    "id": "418330467",
+    "buttons_text": {
+      "next_button": "Próximo",
+      "prev_button": "Anterior",
+      "done_button": "Feito",
+      "exit_button": ""
+    },
+    "is_owner": true,
+    "owner": "54118456",
+    "footer": true,
+    "theme_id": "22544682",
+    "template_id": null,
+    "custom_variables": {},
+    "href": "https://api.surveymonkey.com/v3/surveys/418330467",
+    "analyze_url": "https://www.surveymonkey.com/analyze/1NWIO_2FYNvFQmyEwwH_2FdMNyz3D_2FnsVuUz1VTE8EFyiAE_3D",
+    "edit_url": "https://www.surveymonkey.com/create/?sm=1NWIO_2FYNvFQmyEwwH_2FdMNyz3D_2FnsVuUz1VTE8EFyiAE_3D",
+    "collect_url": "https://www.surveymonkey.com/collect/list?sm=1NWIO_2FYNvFQmyEwwH_2FdMNyz3D_2FnsVuUz1VTE8EFyiAE_3D",
+    "summary_url": "https://www.surveymonkey.com/summary/1NWIO_2FYNvFQmyEwwH_2FdMNyz3D_2FnsVuUz1VTE8EFyiAE_3D",
+    "preview": "https://www.surveymonkey.com/r/Preview/?sm=b5wGyQR6RErO9k4nHx9VHOw7OnCpypeI1pMmme84NIwYNBmgE7QO6bD1yv7OamIV",
+    "pages": [
+      {
+        "title": "Cumprindo a Promessa",
+        "description": "<div>Obrigado por ser nosso parceiro nesta jornada de desenvolvimento de liderança. <strong>Seu feedback é essencial para nos ajudar a entender como o programa está promovendo mudanças em sua organização.</strong></div>\n<div><br></div>\n<div>Esta <strong>breve reflexão levará de 10 a 15 minutos</strong> para ser concluída e nos ajudará a:</div>\n<ul>\n<li>Confirmar que o programa cumpriu o que prometeu</li>\n</ul>\n<ul>\n<li>Identificar resultados significativos em liderança e negócios</li>\n</ul>\n<ul>\n<li>Garantir o retorno contínuo sobre seu investimento</li>\n</ul>\n<div><br>Suas percepções irão orientar como manteremos o impulso e aprofundaremos o impacto de longo prazo do programa para sua equipe e sua organização.</div>",
+        "position": 1,
+        "question_count": 0,
+        "id": "65683994",
+        "href": "https://api.surveymonkey.com/v3/surveys/418330467/pages/65683994",
+        "questions": []
+      },
+      {
+        "title": "Cumprindo a Promessa",
+        "description": "",
+        "position": 2,
+        "question_count": 10,
+        "id": "65683995",
+        "href": "https://api.surveymonkey.com/v3/surveys/418330467/pages/65683995",
+        "questions": [
+          {
+            "id": "244154101",
+            "position": 1,
+            "visible": true,
+            "family": "open_ended",
+            "subtype": "essay",
+            "layout": {
+              "left_spacing": 0,
+              "top_spacing": 0,
+              "right_spacing": 0,
+              "bottom_spacing": 0,
+              "width_format": "percent",
+              "width": 100,
+              "col_width_format": null,
+              "col_width": null,
+              "position": "new_row",
+              "num_chars": 50,
+              "num_lines": 5
+            },
+            "sorting": null,
+            "required": null,
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Quais <strong>mudanças de liderança</strong> você observou nos participantes desde a conclusão do programa?<br>Por favor, compartilhe quaisquer mudanças perceptíveis em comportamentos de liderança, tomada de decisão ou dinâmicas de equipe."
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/418330467/pages/65683995/questions/244154101"
+          },
+          {
+            "id": "244154107",
+            "position": 2,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "horiz",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": ". Em que medida este programa ajudou seus líderes a lidarem de forma mais eficaz com os <strong>desafios de liderança da sua organização?</strong>"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/418330467/pages/65683995/questions/244154107",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "Muito significativamente",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1727533701"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "significativamente",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1727533702"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "Moderadamente",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1727533703"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "Levemente",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1727533704"
+                },
+                {
+                  "position": 5,
+                  "visible": true,
+                  "text": "Nada",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1727533705"
+                }
+              ]
+            }
+          },
+          {
+            "id": "244154102",
+            "position": 3,
+            "visible": true,
+            "family": "open_ended",
+            "subtype": "essay",
+            "layout": {
+              "left_spacing": 0,
+              "top_spacing": 0,
+              "right_spacing": 0,
+              "bottom_spacing": 0,
+              "width_format": "percent",
+              "width": 100,
+              "col_width_format": null,
+              "col_width": null,
+              "position": "new_row",
+              "num_chars": 50,
+              "num_lines": 5
+            },
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Quais <strong>resultados de negócios</strong> foram impactados por essas mudanças de liderança? <em>Inclua quaisquer indicadores mensuráveis (por exemplo: produtividade, engajamento, retenção).</em>"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/418330467/pages/65683995/questions/244154102"
+          },
+          {
+            "id": "244154103",
+            "position": 4,
+            "visible": true,
+            "family": "open_ended",
+            "subtype": "single",
+            "layout": {
+              "left_spacing": 0,
+              "top_spacing": 0,
+              "right_spacing": 0,
+              "bottom_spacing": 0,
+              "width_format": "percent",
+              "width": 100,
+              "col_width_format": null,
+              "col_width": null,
+              "position": "new_row",
+              "num_chars": 50,
+              "num_lines": 5
+            },
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": {
+              "type": "integer",
+              "text": "Please enter a whole number between {0} and {1}.",
+              "max": "5",
+              "min": "0",
+              "sum": null,
+              "sum_text": ""
+            },
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Quão valioso foi este programa como <strong>investimento para sua organização</strong>?"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/418330467/pages/65683995/questions/244154103",
+            "display_options": {
+              "show_display_number": true,
+              "display_type": "slider",
+              "display_subtype": "",
+              "left_label_id": "1727533713",
+              "left_label": "Nada valioso",
+              "right_label_id": "1727533714",
+              "right_label": "Extremamente valioso",
+              "middle_label_id": null,
+              "middle_label": "",
+              "custom_options": {
+                "starting_position": 2,
+                "step_size": 1,
+                "option_set": [
+                  "adjusted_scale",
+                  "hide_numeric_input"
+                ]
+              },
+              "file_upload_labels": {},
+              "max_diff_button_labels": {}
+            }
+          },
+          {
+            "id": "244154104",
+            "position": 5,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "horiz",
+            "layout": {
+              "left_spacing": 0,
+              "top_spacing": 0,
+              "right_spacing": 0,
+              "bottom_spacing": 0,
+              "width_format": "percent",
+              "width": 100,
+              "col_width_format": null,
+              "col_width": null,
+              "position": "new_row",
+              "num_chars": null,
+              "num_lines": null
+            },
+            "sorting": null,
+            "required": null,
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Como você avaliaria a gestão e a<strong> logística do programa</strong> (por exemplo: agendamento, atividades preparatórias, comunicação, coordenação)?"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/418330467/pages/65683995/questions/244154104",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "Excelente",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1727533718"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "Muito bom",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1727533719"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "Bom",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1727533720"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "Regular",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1727533721"
+                },
+                {
+                  "position": 5,
+                  "visible": true,
+                  "text": "Ruim",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1727533722"
+                }
+              ]
+            }
+          },
+          {
+            "id": "244154109",
+            "position": 6,
+            "visible": true,
+            "family": "open_ended",
+            "subtype": "essay",
+            "layout": null,
+            "sorting": null,
+            "required": null,
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Por favor, compartilhe quaisquer comentários sobre o que funcionou bem ou o que poderia ser melhorado."
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/418330467/pages/65683995/questions/244154109"
+          },
+          {
+            "id": "244154105",
+            "position": 7,
+            "visible": true,
+            "family": "open_ended",
+            "subtype": "essay",
+            "layout": {
+              "left_spacing": 0,
+              "top_spacing": 0,
+              "right_spacing": 0,
+              "bottom_spacing": 0,
+              "width_format": "percent",
+              "width": 100,
+              "col_width_format": null,
+              "col_width": null,
+              "position": "new_row",
+              "num_chars": 50,
+              "num_lines": 5
+            },
+            "sorting": null,
+            "required": null,
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Que <strong>apoio adiciona</strong>l ajudaria a manter ou ampliar o impacto do programa?"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/418330467/pages/65683995/questions/244154105"
+          },
+          {
+            "id": "244154108",
+            "position": 8,
+            "visible": true,
+            "family": "matrix",
+            "subtype": "rating",
+            "layout": {
+              "left_spacing": 0,
+              "top_spacing": 0,
+              "right_spacing": 0,
+              "bottom_spacing": 0,
+              "width_format": "percent",
+              "width": 100,
+              "col_width_format": "percent",
+              "col_width": 80,
+              "position": "new_row",
+              "num_chars": null,
+              "num_lines": null
+            },
+            "sorting": null,
+            "required": null,
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "How likely is it that you would recommend this program to other teams or organizations?"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/418330467/pages/65683995/questions/244154108",
+            "answers": {
+              "rows": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "",
+                  "id": "1727533723"
+                }
+              ],
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "Not at all likely - 0",
+                  "id": "1727533724",
+                  "is_na": false,
+                  "weight": -100,
+                  "description": "Not at all likely"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "1",
+                  "id": "1727533725",
+                  "is_na": false,
+                  "weight": -100,
+                  "description": ""
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "2",
+                  "id": "1727533726",
+                  "is_na": false,
+                  "weight": -100,
+                  "description": ""
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "3",
+                  "id": "1727533727",
+                  "is_na": false,
+                  "weight": -100,
+                  "description": ""
+                },
+                {
+                  "position": 5,
+                  "visible": true,
+                  "text": "4",
+                  "id": "1727533728",
+                  "is_na": false,
+                  "weight": -100,
+                  "description": ""
+                },
+                {
+                  "position": 6,
+                  "visible": true,
+                  "text": "5",
+                  "id": "1727533729",
+                  "is_na": false,
+                  "weight": -100,
+                  "description": ""
+                },
+                {
+                  "position": 7,
+                  "visible": true,
+                  "text": "6",
+                  "id": "1727533730",
+                  "is_na": false,
+                  "weight": -100,
+                  "description": ""
+                },
+                {
+                  "position": 8,
+                  "visible": true,
+                  "text": "7",
+                  "id": "1727533731",
+                  "is_na": false,
+                  "weight": 0,
+                  "description": ""
+                },
+                {
+                  "position": 9,
+                  "visible": true,
+                  "text": "8",
+                  "id": "1727533732",
+                  "is_na": false,
+                  "weight": 0,
+                  "description": ""
+                },
+                {
+                  "position": 10,
+                  "visible": true,
+                  "text": "9",
+                  "id": "1727533733",
+                  "is_na": false,
+                  "weight": 100,
+                  "description": ""
+                },
+                {
+                  "position": 11,
+                  "visible": true,
+                  "text": "Extremely likely - 10",
+                  "id": "1727533734",
+                  "is_na": false,
+                  "weight": 100,
+                  "description": "Extremely likely"
+                }
+              ]
+            }
+          },
+          {
+            "id": "244154106",
+            "position": 9,
+            "visible": true,
+            "family": "open_ended",
+            "subtype": "essay",
+            "layout": {
+              "left_spacing": 0,
+              "top_spacing": 0,
+              "right_spacing": 0,
+              "bottom_spacing": 0,
+              "width_format": "percent",
+              "width": 100,
+              "col_width_format": null,
+              "col_width": null,
+              "position": "new_row",
+              "num_chars": 50,
+              "num_lines": 5
+            },
+            "sorting": null,
+            "required": null,
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Por que sim ou por que não?"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/418330467/pages/65683995/questions/244154106"
+          },
+          {
+            "id": "244428468",
+            "position": 10,
+            "visible": true,
+            "family": "open_ended",
+            "subtype": "single",
+            "layout": null,
+            "sorting": null,
+            "required": null,
+            "validation": {
+              "type": "integer",
+              "text": "Please enter a whole number between {0} and {1}.",
+              "max": "100",
+              "min": "0",
+              "sum": null,
+              "sum_text": ""
+            },
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Quão provável é que você recomendaria este programa para outras equipes ou organizações?"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/418330467/pages/65683995/questions/244428468",
+            "display_options": {
+              "show_display_number": true,
+              "display_type": "slider",
+              "display_subtype": "",
+              "left_label_id": "1729478195",
+              "left_label": "1 Nada provável",
+              "right_label_id": "1729478196",
+              "right_label": "10 Extremamente provável",
+              "middle_label_id": null,
+              "middle_label": "",
+              "custom_options": {
+                "starting_position": 0,
+                "step_size": 1,
+                "option_set": []
+              },
+              "file_upload_labels": {},
+              "max_diff_button_labels": {}
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "responses": []
+}

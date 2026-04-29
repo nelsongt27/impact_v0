@@ -1,0 +1,411 @@
+{
+  "_backup_metadata": {
+    "backed_up_at": "2026-04-27T18:42:30.180995+00:00",
+    "survey_id": "522796576",
+    "title": "Coaching Reflection Survey",
+    "nickname": "",
+    "date_created": null,
+    "date_modified": "2026-02-17T17:31:00",
+    "response_count_listing": 0,
+    "response_count_fetched": 0,
+    "summary_href": "https://api.surveymonkey.com/v3/surveys/522796576"
+  },
+  "details": {
+    "title": "Coaching Reflection Survey",
+    "nickname": "",
+    "language": "en",
+    "folder_id": "2353099",
+    "category": "",
+    "question_count": 7,
+    "page_count": 2,
+    "response_count": 0,
+    "date_created": "2025-03-28T16:20:00",
+    "date_modified": "2026-02-17T17:31:00",
+    "id": "522796576",
+    "buttons_text": {
+      "next_button": "Next",
+      "prev_button": "Prev",
+      "done_button": "Done",
+      "exit_button": ""
+    },
+    "is_owner": true,
+    "owner": "54118456",
+    "footer": true,
+    "theme_id": "22544686",
+    "template_id": "1211",
+    "custom_variables": {},
+    "href": "https://api.surveymonkey.com/v3/surveys/522796576",
+    "analyze_url": "https://www.surveymonkey.com/analyze/QMt6TlZUTwTkf1YcMVsjINpdSUG8MQz_2F5iS1HzN3R0Q_3D",
+    "edit_url": "https://www.surveymonkey.com/create/?sm=QMt6TlZUTwTkf1YcMVsjINpdSUG8MQz_2F5iS1HzN3R0Q_3D",
+    "collect_url": "https://www.surveymonkey.com/collect/list?sm=QMt6TlZUTwTkf1YcMVsjINpdSUG8MQz_2F5iS1HzN3R0Q_3D",
+    "summary_url": "https://www.surveymonkey.com/summary/QMt6TlZUTwTkf1YcMVsjINpdSUG8MQz_2F5iS1HzN3R0Q_3D",
+    "preview": "https://www.surveymonkey.com/r/Preview/?sm=izcPVLZnd1_2BdxAgDb_2BaBgdcWazX4kCZvnWanhbZ5RB18_2FDbzInE6pJ9H9LMQOTEc",
+    "pages": [
+      {
+        "title": "Congratulations on completing your coaching sessions",
+        "description": "<div>We invite you to take a few moments to reflect on your experience to date —what supported your progress, what insights emerged, and how we can continue to tailor the journey to your needs.</div>\n<div><br></div>\n<div>This short reflection <strong>takes less than 5 minutes</strong> and helps us ensure your coaching is meaningful, relevant, and aligned with your leadership goals.</div>\n<div><br></div>\n<div>In the spirit of authentic communication, your honest feedback will help us strengthen this experience—for you and for others navigating similar challenges.</div>",
+        "position": 1,
+        "question_count": 0,
+        "id": "64429124",
+        "href": "https://api.surveymonkey.com/v3/surveys/522796576/pages/64429124",
+        "questions": []
+      },
+      {
+        "title": "",
+        "description": "",
+        "position": 2,
+        "question_count": 7,
+        "id": "64429125",
+        "href": "https://api.surveymonkey.com/v3/surveys/522796576/pages/64429125",
+        "questions": [
+          {
+            "id": "240198667",
+            "position": 1,
+            "visible": true,
+            "family": "presentation",
+            "subtype": "descriptive_text",
+            "layout": null,
+            "sorting": null,
+            "required": null,
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Based on your experience, please rate the following statements."
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/522796576/pages/64429125/questions/240198667",
+            "display_options": {
+              "show_display_number": false
+            }
+          },
+          {
+            "id": "238919762",
+            "position": 2,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "This session supported my progress on leadership challenges or goals."
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/522796576/pages/64429125/questions/238919762",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "Strongly agree",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1691491294"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "Agree",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1691491295"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "Somewhat agree",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1691491296"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "Disagree",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1691491297"
+                },
+                {
+                  "position": 5,
+                  "visible": true,
+                  "text": "Strongly disagree",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1691491298"
+                }
+              ]
+            }
+          },
+          {
+            "id": "238919766",
+            "position": 3,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "My <strong>coach</strong> was effective in guiding me toward clarity or solutions."
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/522796576/pages/64429125/questions/238919766",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "Strongly agree",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1691491317"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "Agree",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1691491318"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "Somewhat agree",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1691491319"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "Disagree",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1691491320"
+                },
+                {
+                  "position": 5,
+                  "visible": true,
+                  "text": "Strongly disagree",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1691491321"
+                }
+              ]
+            }
+          },
+          {
+            "id": "238919764",
+            "position": 4,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "I felt that communication with my coach supported openness and clarity."
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/522796576/pages/64429125/questions/238919764",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "Strongly agree",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1691491304"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "Agree",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1691491305"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "Somewhat agree",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1691491306"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "Disagree",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1691491307"
+                },
+                {
+                  "position": 5,
+                  "visible": true,
+                  "text": "Strongly disagree",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1691491308"
+                }
+              ]
+            }
+          },
+          {
+            "id": "238924119",
+            "position": 5,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "I felt <strong>safe and supported</strong> to share my thoughts and concerns during each session."
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/522796576/pages/64429125/questions/238924119",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "Strongly agree",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1691520272"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "Agree",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1691520273"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "Somewhat agree",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1691520274"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "Disagree",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1691520275"
+                },
+                {
+                  "position": 5,
+                  "visible": true,
+                  "text": "Strongly disagree",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1691520276"
+                }
+              ]
+            }
+          },
+          {
+            "id": "238919763",
+            "position": 6,
+            "visible": true,
+            "family": "open_ended",
+            "subtype": "essay",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "What was the most valuable <strong>insight or takeaway</strong> from the process so far?"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/522796576/pages/64429125/questions/238919763"
+          },
+          {
+            "id": "238919765",
+            "position": 7,
+            "visible": true,
+            "family": "open_ended",
+            "subtype": "essay",
+            "layout": null,
+            "sorting": null,
+            "required": null,
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "What would <strong>improve your experience</strong> in future sessions?"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/522796576/pages/64429125/questions/238919765"
+          }
+        ]
+      }
+    ]
+  },
+  "responses": []
+}

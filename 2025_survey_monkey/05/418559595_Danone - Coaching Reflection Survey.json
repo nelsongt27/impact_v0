@@ -1,0 +1,673 @@
+{
+  "_backup_metadata": {
+    "backed_up_at": "2026-04-27T18:45:24.166166+00:00",
+    "survey_id": "418559595",
+    "title": "Danone - Coaching Reflection Survey",
+    "nickname": "",
+    "date_created": null,
+    "date_modified": "2025-07-15T13:44:00",
+    "response_count_listing": 2,
+    "response_count_fetched": 2,
+    "summary_href": "https://api.surveymonkey.com/v3/surveys/418559595"
+  },
+  "details": {
+    "title": "Danone - Coaching Reflection Survey",
+    "nickname": "",
+    "language": "en",
+    "folder_id": "2358102",
+    "category": "",
+    "question_count": 8,
+    "page_count": 2,
+    "response_count": 2,
+    "date_created": "2025-05-21T18:32:00",
+    "date_modified": "2025-07-15T13:44:00",
+    "id": "418559595",
+    "buttons_text": {
+      "next_button": "Next",
+      "prev_button": "Prev",
+      "done_button": "Done",
+      "exit_button": ""
+    },
+    "is_owner": true,
+    "owner": "54118456",
+    "footer": true,
+    "theme_id": "22544686",
+    "template_id": "1211",
+    "custom_variables": {},
+    "href": "https://api.surveymonkey.com/v3/surveys/418559595",
+    "analyze_url": "https://www.surveymonkey.com/analyze/Kz5t4QLtWOl6MmX0_2BiFG8_2BmnR45uli1HCkICLekGJSM_3D",
+    "edit_url": "https://www.surveymonkey.com/create/?sm=Kz5t4QLtWOl6MmX0_2BiFG8_2BmnR45uli1HCkICLekGJSM_3D",
+    "collect_url": "https://www.surveymonkey.com/collect/list?sm=Kz5t4QLtWOl6MmX0_2BiFG8_2BmnR45uli1HCkICLekGJSM_3D",
+    "summary_url": "https://www.surveymonkey.com/summary/Kz5t4QLtWOl6MmX0_2BiFG8_2BmnR45uli1HCkICLekGJSM_3D",
+    "preview": "https://www.surveymonkey.com/r/Preview/?sm=JU8iOdCzTOLyFPRc2Uv8WoBduTrq36u3FkHy9U_2F1N3RGBU8ANJVOQtIgTZgC2IBm",
+    "pages": [
+      {
+        "title": "Felicitaciones por haber completado tus sesiones",
+        "description": "<div>Llegó el momento de hacer una pausa para reflexionar sobre tu experiencia en este proceso de coaching.</div>\n<div><br></div>\n<div>Te invitamos a dedicar unos minutos para evaluar las sesiones de coaching 1:1 y también compartir tu percepción sobre el espacio de coaching grupal que compartiste con el otro líder del Topline.</div>\n<div><br></div>\n<div>Queremos entender qué te ayudó a avanzar, qué aprendizajes surgieron.</div>\n<div>Esta breve reflexión te llevará menos de 5 minutos, y tu mirada sincera nos va a permitir seguir fortaleciendo esta experiencia.</div>\n<div><br></div>\n<div>¡Gracias por tu compromiso!</div>",
+        "position": 1,
+        "question_count": 0,
+        "id": "66272573",
+        "href": "https://api.surveymonkey.com/v3/surveys/418559595/pages/66272573",
+        "questions": []
+      },
+      {
+        "title": "",
+        "description": "",
+        "position": 2,
+        "question_count": 8,
+        "id": "66272574",
+        "href": "https://api.surveymonkey.com/v3/surveys/418559595/pages/66272574",
+        "questions": [
+          {
+            "id": "246629851",
+            "position": 1,
+            "visible": true,
+            "family": "presentation",
+            "subtype": "descriptive_text",
+            "layout": null,
+            "sorting": null,
+            "required": null,
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Según tu experiencia, por favor calificá las siguientes afirmaciones."
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/418559595/pages/66272574/questions/246629851",
+            "display_options": {
+              "show_display_number": false
+            }
+          },
+          {
+            "id": "246629845",
+            "position": 2,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Las sesiones de coaching apoyaron mi progreso en desafíos o metas de liderazgo."
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/418559595/pages/66272574/questions/246629845",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "Totalmente de acuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1744505231"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "De acuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1744505232"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "Algo de acuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1744505233"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "En desacuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1744505234"
+                },
+                {
+                  "position": 5,
+                  "visible": true,
+                  "text": "Totalmente en desacuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1744505235"
+                }
+              ]
+            }
+          },
+          {
+            "id": "246629849",
+            "position": 3,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Mi <strong>coach</strong> fue efectivo/a para guiarme hacia la claridad o soluciones."
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/418559595/pages/66272574/questions/246629849",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "Totalmente de acuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1744505247"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "De acuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1744505248"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "Algo de acuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1744505249"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "En desacuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1744505250"
+                },
+                {
+                  "position": 5,
+                  "visible": true,
+                  "text": "Totalmente en desacuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1744505251"
+                }
+              ]
+            }
+          },
+          {
+            "id": "246629847",
+            "position": 4,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Sentí que la comunicación con <strong>mi coach</strong> favoreció la apertura y la claridad."
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/418559595/pages/66272574/questions/246629847",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "Totalmente de acuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1744505236"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "De acuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1744505237"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "Algo de acuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1744505238"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "En desacuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1744505239"
+                },
+                {
+                  "position": 5,
+                  "visible": true,
+                  "text": "Totalmente en desacuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1744505240"
+                }
+              ]
+            }
+          },
+          {
+            "id": "246629850",
+            "position": 5,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Me sentí <strong>seguro</strong> <strong>y acompañado</strong> para compartir mis pensamientos e inquietudes durante cada sesión."
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/418559595/pages/66272574/questions/246629850",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "Totalmente de acuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1744505254"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "De acuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1744505255"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "Algo de acuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1744505256"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "En desacuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1744505257"
+                },
+                {
+                  "position": 5,
+                  "visible": true,
+                  "text": "Totalmente en desacuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1744505258"
+                }
+              ]
+            }
+          },
+          {
+            "id": "247273827",
+            "position": 6,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Las sesiones de coaching <strong>junto al otro líder</strong> apoyaron mi progreso en desafíos o metas de liderazgo."
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/418559595/pages/66272574/questions/247273827",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "Totalmente de acuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1748755411"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "De acuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1748755412"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "Algo de acuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1748755413"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "En desacuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1748755414"
+                },
+                {
+                  "position": 5,
+                  "visible": true,
+                  "text": "Totalmente en desacuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1748755415"
+                }
+              ]
+            }
+          },
+          {
+            "id": "246629846",
+            "position": 7,
+            "visible": true,
+            "family": "open_ended",
+            "subtype": "essay",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "¿Cuál ha sido el <strong>aprendizaje o reflexión</strong> más valioso del proceso?"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/418559595/pages/66272574/questions/246629846"
+          },
+          {
+            "id": "246629848",
+            "position": 8,
+            "visible": true,
+            "family": "open_ended",
+            "subtype": "essay",
+            "layout": null,
+            "sorting": null,
+            "required": null,
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "¿Qué <strong>mejoraría tu experiencia </strong>en futuras sesiones?"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/418559595/pages/66272574/questions/246629848"
+          }
+        ]
+      }
+    ]
+  },
+  "responses": [
+    {
+      "id": "114870056126",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "130.41.97.69",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "435924194",
+      "survey_id": "418559595",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=QWOxZe1UCufMnSKdYN8rSsxyCOQE7HjiodCtqrmsTIFMgEu1b6ugADUR4wZW_2FNpX",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/Kz5t4QLtWOl6MmX0_2BiFG8_2BmnR45uli1HCkICLekGJSM_3D?respondent_id=114870056126",
+      "total_time": 146,
+      "date_modified": "2025-05-30T12:12:08+00:00",
+      "date_created": "2025-05-30T12:09:42+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/418559595/responses/114870056126",
+      "pages": [
+        {
+          "id": "66272573",
+          "questions": []
+        },
+        {
+          "id": "66272574",
+          "questions": [
+            {
+              "id": "246629845",
+              "answers": [
+                {
+                  "choice_id": "1744505231"
+                }
+              ]
+            },
+            {
+              "id": "246629849",
+              "answers": [
+                {
+                  "choice_id": "1744505247"
+                }
+              ]
+            },
+            {
+              "id": "246629847",
+              "answers": [
+                {
+                  "choice_id": "1744505236"
+                }
+              ]
+            },
+            {
+              "id": "246629850",
+              "answers": [
+                {
+                  "choice_id": "1744505254"
+                }
+              ]
+            },
+            {
+              "id": "247273827",
+              "answers": [
+                {
+                  "choice_id": "1748755411"
+                }
+              ]
+            },
+            {
+              "id": "246629846",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "entender como me ve la organización y que palancas tengo para cambiar y mejorar"
+                }
+              ]
+            },
+            {
+              "id": "246629848",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "clarificar las expectativas de las sesiones con anterioridad."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "114892128377",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "130.41.97.69",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "435924194",
+      "survey_id": "418559595",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=ZHW6_2FUOnUemzn0ECYV7IiFA4KdRdekEUMlPlzZCQUqQi4K6MKcQnc5EGeovQvMyM",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/Kz5t4QLtWOl6MmX0_2BiFG8_2BmnR45uli1HCkICLekGJSM_3D?respondent_id=114892128377",
+      "total_time": 89,
+      "date_modified": "2025-07-03T13:24:30+00:00",
+      "date_created": "2025-07-03T13:23:01+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/418559595/responses/114892128377",
+      "pages": [
+        {
+          "id": "66272573",
+          "questions": []
+        },
+        {
+          "id": "66272574",
+          "questions": [
+            {
+              "id": "246629845",
+              "answers": [
+                {
+                  "choice_id": "1744505231"
+                }
+              ]
+            },
+            {
+              "id": "246629849",
+              "answers": [
+                {
+                  "choice_id": "1744505247"
+                }
+              ]
+            },
+            {
+              "id": "246629847",
+              "answers": [
+                {
+                  "choice_id": "1744505236"
+                }
+              ]
+            },
+            {
+              "id": "246629850",
+              "answers": [
+                {
+                  "choice_id": "1744505254"
+                }
+              ]
+            },
+            {
+              "id": "247273827",
+              "answers": [
+                {
+                  "choice_id": "1748755411"
+                }
+              ]
+            },
+            {
+              "id": "246629846",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Entender como me ven los demasny el impacto que puedo generar"
+                }
+              ]
+            },
+            {
+              "id": "246629848",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Hacerlo 100% presencial sería un plus pero no es una barrera"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -95,6 +95,7 @@ export function normalizeSMSurvey(file: SMFile): CanonicalSurvey {
     updated_at: d.date_modified ?? null,
     response_count: file.responses.length,
     question_count: d.question_count ?? countQuestions(d),
+    override_applied: false,
   };
 }
 

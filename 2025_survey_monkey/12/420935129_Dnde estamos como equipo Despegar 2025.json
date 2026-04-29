@@ -1,0 +1,3780 @@
+{
+  "_backup_metadata": {
+    "backed_up_at": "2026-04-27T18:42:40.854278+00:00",
+    "survey_id": "420935129",
+    "title": "¿Dónde estamos como equipo? – Despegar 2025",
+    "nickname": "",
+    "date_created": null,
+    "date_modified": "2025-12-15T10:53:00",
+    "response_count_listing": 8,
+    "response_count_fetched": 8,
+    "summary_href": "https://api.surveymonkey.com/v3/surveys/420935129"
+  },
+  "details": {
+    "title": "¿Dónde estamos como equipo? – Despegar 2025",
+    "nickname": "",
+    "language": "en",
+    "folder_id": "2428677",
+    "category": "",
+    "question_count": 25,
+    "page_count": 2,
+    "response_count": 8,
+    "date_created": "2025-12-11T15:11:00",
+    "date_modified": "2025-12-15T10:53:00",
+    "id": "420935129",
+    "buttons_text": {
+      "next_button": "Next",
+      "prev_button": "Prev",
+      "done_button": "Done",
+      "exit_button": ""
+    },
+    "is_owner": true,
+    "owner": "54118456",
+    "footer": false,
+    "theme_id": "4510354",
+    "template_id": null,
+    "custom_variables": {},
+    "href": "https://api.surveymonkey.com/v3/surveys/420935129",
+    "analyze_url": "https://www.surveymonkey.com/analyze/TJWanHz2F7TqP3OTqQztZ8oLFnW1uVKhDeLG2QH22aQ_3D",
+    "edit_url": "https://www.surveymonkey.com/create/?sm=TJWanHz2F7TqP3OTqQztZ8oLFnW1uVKhDeLG2QH22aQ_3D",
+    "collect_url": "https://www.surveymonkey.com/collect/list?sm=TJWanHz2F7TqP3OTqQztZ8oLFnW1uVKhDeLG2QH22aQ_3D",
+    "summary_url": "https://www.surveymonkey.com/summary/TJWanHz2F7TqP3OTqQztZ8oLFnW1uVKhDeLG2QH22aQ_3D",
+    "preview": "https://www.surveymonkey.com/r/Preview/?sm=m6Fk1pybNc9BONshPlaO6mSUcBT8vKbIsN4lIK6IKDjqMCknpOWSlGDBnbzJAd55",
+    "pages": [
+      {
+        "title": "<span style=\"color: #003366;\">¡Bienvenidos!</span>",
+        "description": "<div>Cómo preparación al offsite de equipo que tendremos el 16 y 17 de Diciembre, queremos conocer tu opinión respecto del estado del equipo, sus fortalezas y oportunidades.</div>\n<div><br>Para ello, les pedimos por favor, respondan la siguiente encuesta y que al hacerlo consideren las interacciones que mantienen en el equipo de líderes de Despegar o con algunos de sus miembros.</div>\n<div><br></div>\n<div>Gracias por participar de este proceso. <strong>Sus respuestas son anónimas</strong>. Los resultados de la encuesta serán agrupados y presentados durante el offsite (con frases destacadas en algunos casos).</div>",
+        "position": 1,
+        "question_count": 0,
+        "id": "72116738",
+        "href": "https://api.surveymonkey.com/v3/surveys/420935129/pages/72116738",
+        "questions": []
+      },
+      {
+        "title": "",
+        "description": "",
+        "position": 2,
+        "question_count": 25,
+        "id": "72116739",
+        "href": "https://api.surveymonkey.com/v3/surveys/420935129/pages/72116739",
+        "questions": [
+          {
+            "id": "272188263",
+            "position": 1,
+            "visible": true,
+            "family": "open_ended",
+            "subtype": "single",
+            "layout": null,
+            "sorting": null,
+            "required": null,
+            "validation": {
+              "type": "integer",
+              "text": "Please enter a whole number between {0} and {1}.",
+              "max": "100",
+              "min": "0",
+              "sum": null,
+              "sum_text": ""
+            },
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "¿Cuál es el nivel de interdependencia con el que actualmente opera este equipo?"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/420935129/pages/72116739/questions/272188263",
+            "display_options": {
+              "show_display_number": true,
+              "display_type": "slider",
+              "display_subtype": "",
+              "left_label_id": "1912571114",
+              "left_label": "Baja",
+              "right_label_id": "1912571115",
+              "right_label": "Alta",
+              "middle_label_id": null,
+              "middle_label": "",
+              "custom_options": {
+                "starting_position": 0,
+                "step_size": 1,
+                "option_set": []
+              },
+              "file_upload_labels": {},
+              "max_diff_button_labels": {}
+            }
+          },
+          {
+            "id": "272188262",
+            "position": 2,
+            "visible": true,
+            "family": "open_ended",
+            "subtype": "essay",
+            "layout": {
+              "left_spacing": 0,
+              "top_spacing": 0,
+              "right_spacing": 0,
+              "bottom_spacing": 0,
+              "width_format": "percent",
+              "width": 100,
+              "col_width_format": null,
+              "col_width": null,
+              "position": "new_row",
+              "num_chars": 100,
+              "num_lines": 3
+            },
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "¿Cuál dirías que es el principal desafío que enfrentan como equipo para alcanzar el Big Dream? ¿Qué obstáculos o limitaciones que contribuyen con este desafío?"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/420935129/pages/72116739/questions/272188262"
+          },
+          {
+            "id": "272188284",
+            "position": 3,
+            "visible": true,
+            "family": "open_ended",
+            "subtype": "essay",
+            "layout": {
+              "left_spacing": 0,
+              "top_spacing": 0,
+              "right_spacing": 0,
+              "bottom_spacing": 0,
+              "width_format": "percent",
+              "width": 100,
+              "col_width_format": null,
+              "col_width": null,
+              "position": "new_row",
+              "num_chars": 100,
+              "num_lines": 3
+            },
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "¿Cuáles consideras que son las Factores Críticos de Exito para dar respuesta al desafío del Big Dream?"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/420935129/pages/72116739/questions/272188284"
+          },
+          {
+            "id": "272188264",
+            "position": 4,
+            "visible": true,
+            "family": "open_ended",
+            "subtype": "single",
+            "layout": null,
+            "sorting": null,
+            "required": null,
+            "validation": {
+              "type": "integer",
+              "text": "Please enter a whole number between {0} and {1}.",
+              "max": "100",
+              "min": "0",
+              "sum": null,
+              "sum_text": ""
+            },
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "¿Cuál debería ser el nivel de interdependencia de este equipo de liderazgo? (deseada)"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/420935129/pages/72116739/questions/272188264",
+            "display_options": {
+              "show_display_number": true,
+              "display_type": "slider",
+              "display_subtype": "",
+              "left_label_id": "1912571106",
+              "left_label": "Baja",
+              "right_label_id": "1912571107",
+              "right_label": "Alta",
+              "middle_label_id": null,
+              "middle_label": "",
+              "custom_options": {
+                "starting_position": 0,
+                "step_size": 1,
+                "option_set": []
+              },
+              "file_upload_labels": {},
+              "max_diff_button_labels": {}
+            }
+          },
+          {
+            "id": "272188267",
+            "position": 5,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": {
+              "left_spacing": 0,
+              "top_spacing": 0,
+              "right_spacing": 0,
+              "bottom_spacing": 0,
+              "width_format": "percent",
+              "width": 100,
+              "col_width_format": "percent",
+              "col_width": 40,
+              "position": "new_row",
+              "num_chars": null,
+              "num_lines": null
+            },
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Tenemos un propósito que nos inspira. Tenemos un propósito compartido como LT."
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/420935129/pages/72116739/questions/272188267",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "Totalmente de acuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1912571013"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "De acuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1912571014"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "Ni de acuerdo ni en desacuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1912571015"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "En desacuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1912571016"
+                },
+                {
+                  "position": 5,
+                  "visible": true,
+                  "text": "Totalmente en desacuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1912571017"
+                }
+              ]
+            }
+          },
+          {
+            "id": "272188261",
+            "position": 6,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": {
+              "left_spacing": 0,
+              "top_spacing": 0,
+              "right_spacing": 0,
+              "bottom_spacing": 0,
+              "width_format": "percent",
+              "width": 100,
+              "col_width_format": "percent",
+              "col_width": 40,
+              "position": "new_row",
+              "num_chars": null,
+              "num_lines": null
+            },
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Compartimos una visión clara sobre el Big Dream."
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/420935129/pages/72116739/questions/272188261",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "Totalmente de acuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1912570979"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "De acuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1912570980"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "Ni de acuerdo ni en desacuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1912570981"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "En desacuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1912570982"
+                },
+                {
+                  "position": 5,
+                  "visible": true,
+                  "text": "Totalmente en desacuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1912570983"
+                }
+              ]
+            }
+          },
+          {
+            "id": "272188265",
+            "position": 7,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": {
+              "left_spacing": 0,
+              "top_spacing": 0,
+              "right_spacing": 0,
+              "bottom_spacing": 0,
+              "width_format": "percent",
+              "width": 100,
+              "col_width_format": "percent",
+              "col_width": 40,
+              "position": "new_row",
+              "num_chars": null,
+              "num_lines": null
+            },
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Priorizamos los intereses de Despegar por encima de los personales o de cada área."
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/420935129/pages/72116739/questions/272188265",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "Totalmente de acuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1912570992"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "De acuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1912570993"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "Ni de acuerdo ni en desacuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1912570994"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "En desacuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1912570995"
+                },
+                {
+                  "position": 5,
+                  "visible": true,
+                  "text": "Totalmente en desacuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1912570996"
+                }
+              ]
+            }
+          },
+          {
+            "id": "272188266",
+            "position": 8,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": {
+              "left_spacing": 0,
+              "top_spacing": 0,
+              "right_spacing": 0,
+              "bottom_spacing": 0,
+              "width_format": "percent",
+              "width": 100,
+              "col_width_format": "percent",
+              "col_width": 40,
+              "position": "new_row",
+              "num_chars": null,
+              "num_lines": null
+            },
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Los roles están claramente definidos, no hay superposición ni \"zonas grises\"."
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/420935129/pages/72116739/questions/272188266",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "Totalmente de acuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1912571096"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "De acuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1912571097"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "Ni de acuerdo ni en desacuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1912571098"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "En desacuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1912571099"
+                },
+                {
+                  "position": 5,
+                  "visible": true,
+                  "text": "Totalmente en desacuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1912571100"
+                }
+              ]
+            }
+          },
+          {
+            "id": "272188268",
+            "position": 9,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": {
+              "left_spacing": 0,
+              "top_spacing": 0,
+              "right_spacing": 0,
+              "bottom_spacing": 0,
+              "width_format": "percent",
+              "width": 100,
+              "col_width_format": "percent",
+              "col_width": 40,
+              "position": "new_row",
+              "num_chars": null,
+              "num_lines": null
+            },
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "En el equipo de liderazgo compartimos la responsabilidad por los resultados de los objetivos comunes. Tenemos éxito o fracasamos como grupo (no individualmente)."
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/420935129/pages/72116739/questions/272188268",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "Totalmente de acuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1912571026"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "De acuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1912571027"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "Ni de acuerdo ni en desacuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1912571028"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "En desacuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1912571029"
+                },
+                {
+                  "position": 5,
+                  "visible": true,
+                  "text": "Totalmente en desacuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1912571030"
+                }
+              ]
+            }
+          },
+          {
+            "id": "272188275",
+            "position": 10,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": {
+              "left_spacing": 0,
+              "top_spacing": 0,
+              "right_spacing": 0,
+              "bottom_spacing": 0,
+              "width_format": "percent",
+              "width": 100,
+              "col_width_format": "percent",
+              "col_width": 40,
+              "position": "new_row",
+              "num_chars": null,
+              "num_lines": null
+            },
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "En el equipo de liderazgo tenemos una actitud positiva frente a la experimentación de nuevas ideas. Probamos cosas, y si no funcionan aprendemos y probamos algo diferente."
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/420935129/pages/72116739/questions/272188275",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "Totalmente de acuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1912571145"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "De acuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1912571146"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "Ni de acuerdo ni en desacuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1912571147"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "En desacuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1912571148"
+                },
+                {
+                  "position": 5,
+                  "visible": true,
+                  "text": "Totalmente en desacuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1912571149"
+                }
+              ]
+            }
+          },
+          {
+            "id": "272188269",
+            "position": 11,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": {
+              "left_spacing": 0,
+              "top_spacing": 0,
+              "right_spacing": 0,
+              "bottom_spacing": 0,
+              "width_format": "percent",
+              "width": 100,
+              "col_width_format": "percent",
+              "col_width": 40,
+              "position": "new_row",
+              "num_chars": null,
+              "num_lines": null
+            },
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Tenemos reuniones efectivas, bien preparadas y con foco en la toma de decisiones."
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/420935129/pages/72116739/questions/272188269",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "Totalmente de acuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1912571039"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "De acuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1912571040"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "Ni de acuerdo ni en desacuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1912571041"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "En desacuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1912571042"
+                },
+                {
+                  "position": 5,
+                  "visible": true,
+                  "text": "Totalmente en desacuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1912571043"
+                }
+              ]
+            }
+          },
+          {
+            "id": "272188274",
+            "position": 12,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": {
+              "left_spacing": 0,
+              "top_spacing": 0,
+              "right_spacing": 0,
+              "bottom_spacing": 0,
+              "width_format": "percent",
+              "width": 100,
+              "col_width_format": "percent",
+              "col_width": 40,
+              "position": "new_row",
+              "num_chars": null,
+              "num_lines": null
+            },
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "A veces, tareas importantes no reciben la atención que se merecen, por problemas en la comunicación y/o demoras en la toma de decisiones."
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/420935129/pages/72116739/questions/272188274",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "Totalmente de acuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1912571132"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "De acuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1912571133"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "Ni de acuerdo ni en desacuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1912571134"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "En desacuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1912571135"
+                },
+                {
+                  "position": 5,
+                  "visible": true,
+                  "text": "Totalmente en desacuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1912571136"
+                }
+              ]
+            }
+          },
+          {
+            "id": "272188270",
+            "position": 13,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": {
+              "left_spacing": 0,
+              "top_spacing": 0,
+              "right_spacing": 0,
+              "bottom_spacing": 0,
+              "width_format": "percent",
+              "width": 100,
+              "col_width_format": "percent",
+              "col_width": 40,
+              "position": "new_row",
+              "num_chars": null,
+              "num_lines": null
+            },
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Los miembros del equipo de liderazgo tienen las habilidades técnicas necesarias para su rol."
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/420935129/pages/72116739/questions/272188270",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "Totalmente de acuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1912571052"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "De acuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1912571053"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "Ni de acuerdo ni en desacuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1912571054"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "En desacuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1912571055"
+                },
+                {
+                  "position": 5,
+                  "visible": true,
+                  "text": "Totalmente en desacuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1912571056"
+                }
+              ]
+            }
+          },
+          {
+            "id": "272188271",
+            "position": 14,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": {
+              "left_spacing": 0,
+              "top_spacing": 0,
+              "right_spacing": 0,
+              "bottom_spacing": 0,
+              "width_format": "percent",
+              "width": 100,
+              "col_width_format": "percent",
+              "col_width": 40,
+              "position": "new_row",
+              "num_chars": null,
+              "num_lines": null
+            },
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Hay un elevado nivel de confianza y seguridad psicológica entre los miembros del equipo de liderazgo."
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/420935129/pages/72116739/questions/272188271",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "Totalmente de acuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1912571065"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "De acuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1912571066"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "Ni de acuerdo ni en desacuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1912571067"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "En desacuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1912571068"
+                },
+                {
+                  "position": 5,
+                  "visible": true,
+                  "text": "Totalmente en desacuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1912571069"
+                }
+              ]
+            }
+          },
+          {
+            "id": "272188272",
+            "position": 15,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": {
+              "left_spacing": 0,
+              "top_spacing": 0,
+              "right_spacing": 0,
+              "bottom_spacing": 0,
+              "width_format": "percent",
+              "width": 100,
+              "col_width_format": "percent",
+              "col_width": 40,
+              "position": "new_row",
+              "num_chars": null,
+              "num_lines": null
+            },
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Construimos relaciones sinceras y recíprocas. Colaboramos con otros y pedimos ayuda cuando la necesitamos."
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/420935129/pages/72116739/questions/272188272",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "Totalmente de acuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1912571078"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "De acuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1912571079"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "Ni de acuerdo ni en desacuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1912571080"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "En desacuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1912571081"
+                },
+                {
+                  "position": 5,
+                  "visible": true,
+                  "text": "Totalmente en desacuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1912571082"
+                }
+              ]
+            }
+          },
+          {
+            "id": "272188276",
+            "position": 16,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": {
+              "left_spacing": 0,
+              "top_spacing": 0,
+              "right_spacing": 0,
+              "bottom_spacing": 0,
+              "width_format": "percent",
+              "width": 100,
+              "col_width_format": "percent",
+              "col_width": 40,
+              "position": "new_row",
+              "num_chars": null,
+              "num_lines": null
+            },
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Contribuimos al crecimiento y desarrollo propio y de otros miembros del equipo compartiendo experiencias, conocimiento y buenas prácticas."
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/420935129/pages/72116739/questions/272188276",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "Totalmente de acuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1912571158"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "De acuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1912571159"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "Ni de acuerdo ni en desacuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1912571160"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "En desacuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1912571161"
+                },
+                {
+                  "position": 5,
+                  "visible": true,
+                  "text": "Totalmente en desacuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1912571162"
+                }
+              ]
+            }
+          },
+          {
+            "id": "272188279",
+            "position": 17,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": {
+              "left_spacing": 0,
+              "top_spacing": 0,
+              "right_spacing": 0,
+              "bottom_spacing": 0,
+              "width_format": "percent",
+              "width": 100,
+              "col_width_format": "percent",
+              "col_width": 40,
+              "position": "new_row",
+              "num_chars": null,
+              "num_lines": null
+            },
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Nos damos feedback en tiempo real."
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/420935129/pages/72116739/questions/272188279",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "Totalmente de acuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1912571181"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "De acuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1912571182"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "Ni de acuerdo ni en desacuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1912571183"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "En desacuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1912571184"
+                },
+                {
+                  "position": 5,
+                  "visible": true,
+                  "text": "Totalmente en desacuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1912571185"
+                }
+              ]
+            }
+          },
+          {
+            "id": "272188273",
+            "position": 18,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": {
+              "left_spacing": 0,
+              "top_spacing": 0,
+              "right_spacing": 0,
+              "bottom_spacing": 0,
+              "width_format": "percent",
+              "width": 100,
+              "col_width_format": "percent",
+              "col_width": 40,
+              "position": "new_row",
+              "num_chars": null,
+              "num_lines": null
+            },
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Resolvemos los conflictos de manera constructiva, con asertividad pero sin agresión."
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/420935129/pages/72116739/questions/272188273",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "Totalmente de acuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1912571119"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "De acuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1912571120"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "Ni de acuerdo ni en desacuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1912571121"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "En desacuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1912571122"
+                },
+                {
+                  "position": 5,
+                  "visible": true,
+                  "text": "Totalmente en desacuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1912571123"
+                }
+              ]
+            }
+          },
+          {
+            "id": "272188277",
+            "position": 19,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": null,
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Promovemos la diversidad de pensamiento y respetamos y damos espacio a las diferencias de opiniones."
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/420935129/pages/72116739/questions/272188277",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "Totalmente de acuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1912571163"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "De acuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1912571164"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "Ni de acuerdo ni en desacuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1912571165"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "En desacuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1912571166"
+                },
+                {
+                  "position": 5,
+                  "visible": true,
+                  "text": "Totalmente en desacuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1912571167"
+                }
+              ]
+            }
+          },
+          {
+            "id": "272188280",
+            "position": 20,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": null,
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Los diferentes puntos de vista son expuestos abiertamente y escuchados sin defensividad."
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/420935129/pages/72116739/questions/272188280",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "Totalmente de acuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1912571186"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "De acuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1912571187"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "Ni de acuerdo ni en desacuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1912571188"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "En desacuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1912571189"
+                },
+                {
+                  "position": 5,
+                  "visible": true,
+                  "text": "Totalmente en desacuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1912571190"
+                }
+              ]
+            }
+          },
+          {
+            "id": "272188281",
+            "position": 21,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": null,
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Promovemos una efectiva comunicación interna, primero escuchando y luego hablando."
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/420935129/pages/72116739/questions/272188281",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "Totalmente de acuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1912571191"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "De acuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1912571192"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "Ni de acuerdo ni en desacuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1912571193"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "En desacuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1912571194"
+                },
+                {
+                  "position": 5,
+                  "visible": true,
+                  "text": "Totalmente en desacuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1912571195"
+                }
+              ]
+            }
+          },
+          {
+            "id": "272188282",
+            "position": 22,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": null,
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Evitamos el radio pasillo y hablar de otros a sus espaldas."
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/420935129/pages/72116739/questions/272188282",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "Totalmente de acuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1912571196"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "De acuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1912571197"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "Ni de acuerdo ni en desacuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1912571198"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "En desacuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1912571199"
+                },
+                {
+                  "position": 5,
+                  "visible": true,
+                  "text": "Totalmente en desacuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1912571200"
+                }
+              ]
+            }
+          },
+          {
+            "id": "272188283",
+            "position": 23,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": null,
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "“Cualquier tema se discute abiertamente. No tenemos \"elefantes o indiscutibles en el equipo\"”."
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/420935129/pages/72116739/questions/272188283",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "Totalmente de acuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1912571201"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "De acuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1912571202"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "Ni de acuerdo ni en desacuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1912571203"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "En desacuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1912571204"
+                },
+                {
+                  "position": 5,
+                  "visible": true,
+                  "text": "Totalmente en desacuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1912571205"
+                }
+              ]
+            }
+          },
+          {
+            "id": "272188285",
+            "position": 24,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": null,
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Demostramos preocupación genuina por los otros y por el equipo."
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/420935129/pages/72116739/questions/272188285",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "Totalmente de acuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1912571215"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "De acuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1912571216"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "Ni de acuerdo ni en desacuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1912571217"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "En desacuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1912571218"
+                },
+                {
+                  "position": 5,
+                  "visible": true,
+                  "text": "Totalmente en desacuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1912571219"
+                }
+              ]
+            }
+          },
+          {
+            "id": "272188278",
+            "position": 25,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": null,
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Nos ven como un equipo muy unido y otros quieren ser parte."
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/420935129/pages/72116739/questions/272188278",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "Totalmente de acuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1912571168"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "De acuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1912571169"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "Ni de acuerdo ni en desacuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1912571170"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "En desacuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1912571171"
+                },
+                {
+                  "position": 5,
+                  "visible": true,
+                  "text": "Totalmente en desacuerdo",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1912571172"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "responses": [
+    {
+      "id": "115003678438",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "181.28.46.160",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "438232345",
+      "survey_id": "420935129",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=UEsL9KLiQ4N81fDZ2r2P2_2BZ3NxOkknS_2BJ7UzYiMn3UjqTugFcBQP7obWyNmar5lz",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/TJWanHz2F7TqP3OTqQztZ8oLFnW1uVKhDeLG2QH22aQ_3D?respondent_id=115003678438",
+      "total_time": 615,
+      "date_modified": "2025-12-12T10:59:37+00:00",
+      "date_created": "2025-12-12T10:49:22+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/420935129/responses/115003678438",
+      "pages": [
+        {
+          "id": "72116738",
+          "questions": []
+        },
+        {
+          "id": "72116739",
+          "questions": [
+            {
+              "id": "272188263",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "100"
+                }
+              ]
+            },
+            {
+              "id": "272188262",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Cambiar la cultura hacias más accountability, más ambición \r\nContruir equipos de alta performance: densidad de talento"
+                }
+              ]
+            },
+            {
+              "id": "272188284",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Ambición\r\nConfianza\r\nSer capaces de tomar medidas duras con los equipos"
+                }
+              ]
+            },
+            {
+              "id": "272188264",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "75"
+                }
+              ]
+            },
+            {
+              "id": "272188267",
+              "answers": [
+                {
+                  "choice_id": "1912571014"
+                }
+              ]
+            },
+            {
+              "id": "272188261",
+              "answers": [
+                {
+                  "choice_id": "1912570980"
+                }
+              ]
+            },
+            {
+              "id": "272188265",
+              "answers": [
+                {
+                  "choice_id": "1912570993"
+                }
+              ]
+            },
+            {
+              "id": "272188266",
+              "answers": [
+                {
+                  "choice_id": "1912571098"
+                }
+              ]
+            },
+            {
+              "id": "272188268",
+              "answers": [
+                {
+                  "choice_id": "1912571026"
+                }
+              ]
+            },
+            {
+              "id": "272188275",
+              "answers": [
+                {
+                  "choice_id": "1912571145"
+                }
+              ]
+            },
+            {
+              "id": "272188269",
+              "answers": [
+                {
+                  "choice_id": "1912571043"
+                }
+              ]
+            },
+            {
+              "id": "272188274",
+              "answers": [
+                {
+                  "choice_id": "1912571133"
+                }
+              ]
+            },
+            {
+              "id": "272188270",
+              "answers": [
+                {
+                  "choice_id": "1912571054"
+                }
+              ]
+            },
+            {
+              "id": "272188271",
+              "answers": [
+                {
+                  "choice_id": "1912571066"
+                }
+              ]
+            },
+            {
+              "id": "272188272",
+              "answers": [
+                {
+                  "choice_id": "1912571078"
+                }
+              ]
+            },
+            {
+              "id": "272188276",
+              "answers": [
+                {
+                  "choice_id": "1912571158"
+                }
+              ]
+            },
+            {
+              "id": "272188279",
+              "answers": [
+                {
+                  "choice_id": "1912571182"
+                }
+              ]
+            },
+            {
+              "id": "272188273",
+              "answers": [
+                {
+                  "choice_id": "1912571121"
+                }
+              ]
+            },
+            {
+              "id": "272188277",
+              "answers": [
+                {
+                  "choice_id": "1912571164"
+                }
+              ]
+            },
+            {
+              "id": "272188280",
+              "answers": [
+                {
+                  "choice_id": "1912571189"
+                }
+              ]
+            },
+            {
+              "id": "272188281",
+              "answers": [
+                {
+                  "choice_id": "1912571195"
+                }
+              ]
+            },
+            {
+              "id": "272188282",
+              "answers": [
+                {
+                  "choice_id": "1912571196"
+                }
+              ]
+            },
+            {
+              "id": "272188283",
+              "answers": [
+                {
+                  "choice_id": "1912571203"
+                }
+              ]
+            },
+            {
+              "id": "272188285",
+              "answers": [
+                {
+                  "choice_id": "1912571216"
+                }
+              ]
+            },
+            {
+              "id": "272188278",
+              "answers": [
+                {
+                  "choice_id": "1912571169"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "115003792225",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "201.235.172.170",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "438232345",
+      "survey_id": "420935129",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=oXtKRGIOWKxlFuG27G0GKlusCRzvaOu5rnqu3GC1VsDn_2Bv_2BFq7cjaFcRPgQhh0AV",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/TJWanHz2F7TqP3OTqQztZ8oLFnW1uVKhDeLG2QH22aQ_3D?respondent_id=115003792225",
+      "total_time": 832,
+      "date_modified": "2025-12-12T14:36:40+00:00",
+      "date_created": "2025-12-12T14:22:47+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/420935129/responses/115003792225",
+      "pages": [
+        {
+          "id": "72116738",
+          "questions": []
+        },
+        {
+          "id": "72116739",
+          "questions": [
+            {
+              "id": "272188263",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "80"
+                }
+              ]
+            },
+            {
+              "id": "272188262",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Capacidad limitada para atraer y retener talento. Velocidad en la transformación tecnologica y de AI. Dependencias entre equipos que ralentizan la entrega de valor; prioridades que dispersan el foco;"
+                }
+              ]
+            },
+            {
+              "id": "272188284",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Clientes encantados, no solo satisfechos. Oferta competitiva y rentable.\r\nTecnología y datos como motor de personalización, viaje conectado y eficiencia. Ejecución impecable.\r\nTalento y cultura alineados a velocidad e innovación."
+                }
+              ]
+            },
+            {
+              "id": "272188264",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "100"
+                }
+              ]
+            },
+            {
+              "id": "272188267",
+              "answers": [
+                {
+                  "choice_id": "1912571014"
+                }
+              ]
+            },
+            {
+              "id": "272188261",
+              "answers": [
+                {
+                  "choice_id": "1912570980"
+                }
+              ]
+            },
+            {
+              "id": "272188265",
+              "answers": [
+                {
+                  "choice_id": "1912570993"
+                }
+              ]
+            },
+            {
+              "id": "272188266",
+              "answers": [
+                {
+                  "choice_id": "1912571097"
+                }
+              ]
+            },
+            {
+              "id": "272188268",
+              "answers": [
+                {
+                  "choice_id": "1912571027"
+                }
+              ]
+            },
+            {
+              "id": "272188275",
+              "answers": [
+                {
+                  "choice_id": "1912571146"
+                }
+              ]
+            },
+            {
+              "id": "272188269",
+              "answers": [
+                {
+                  "choice_id": "1912571042"
+                }
+              ]
+            },
+            {
+              "id": "272188274",
+              "answers": [
+                {
+                  "choice_id": "1912571134"
+                }
+              ]
+            },
+            {
+              "id": "272188270",
+              "answers": [
+                {
+                  "choice_id": "1912571053"
+                }
+              ]
+            },
+            {
+              "id": "272188271",
+              "answers": [
+                {
+                  "choice_id": "1912571067"
+                }
+              ]
+            },
+            {
+              "id": "272188272",
+              "answers": [
+                {
+                  "choice_id": "1912571079"
+                }
+              ]
+            },
+            {
+              "id": "272188276",
+              "answers": [
+                {
+                  "choice_id": "1912571160"
+                }
+              ]
+            },
+            {
+              "id": "272188279",
+              "answers": [
+                {
+                  "choice_id": "1912571183"
+                }
+              ]
+            },
+            {
+              "id": "272188273",
+              "answers": [
+                {
+                  "choice_id": "1912571120"
+                }
+              ]
+            },
+            {
+              "id": "272188277",
+              "answers": [
+                {
+                  "choice_id": "1912571166"
+                }
+              ]
+            },
+            {
+              "id": "272188280",
+              "answers": [
+                {
+                  "choice_id": "1912571187"
+                }
+              ]
+            },
+            {
+              "id": "272188281",
+              "answers": [
+                {
+                  "choice_id": "1912571193"
+                }
+              ]
+            },
+            {
+              "id": "272188282",
+              "answers": [
+                {
+                  "choice_id": "1912571197"
+                }
+              ]
+            },
+            {
+              "id": "272188283",
+              "answers": [
+                {
+                  "choice_id": "1912571202"
+                }
+              ]
+            },
+            {
+              "id": "272188285",
+              "answers": [
+                {
+                  "choice_id": "1912571216"
+                }
+              ]
+            },
+            {
+              "id": "272188278",
+              "answers": [
+                {
+                  "choice_id": "1912571169"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "115003804977",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "181.25.161.28",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "438232345",
+      "survey_id": "420935129",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=cdH9SeWXPoAJuI4UUOJLftkJb92IkB4RJnVookFltJTC_2FjD1n7sUBVeq2NqeJ6Cc",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/TJWanHz2F7TqP3OTqQztZ8oLFnW1uVKhDeLG2QH22aQ_3D?respondent_id=115003804977",
+      "total_time": 14340,
+      "date_modified": "2025-12-12T18:40:56+00:00",
+      "date_created": "2025-12-12T14:41:55+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/420935129/responses/115003804977",
+      "pages": [
+        {
+          "id": "72116738",
+          "questions": []
+        },
+        {
+          "id": "72116739",
+          "questions": [
+            {
+              "id": "272188263",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "82"
+                }
+              ]
+            },
+            {
+              "id": "272188262",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "- hacer las cosas mas rapido / decidir mas rapido\r\n- tomar mas riesgo\r\n- tener talento debajo nuestro empoderado y con la visión y el delivery necesario"
+                }
+              ]
+            },
+            {
+              "id": "272188284",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "- inversión $\r\n- talento\r\n- agilidad en la toma de decisiones (estamos mejorando)\r\n- "
+                }
+              ]
+            },
+            {
+              "id": "272188264",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "53"
+                }
+              ]
+            },
+            {
+              "id": "272188267",
+              "answers": [
+                {
+                  "choice_id": "1912571015"
+                }
+              ]
+            },
+            {
+              "id": "272188261",
+              "answers": [
+                {
+                  "choice_id": "1912570980"
+                }
+              ]
+            },
+            {
+              "id": "272188265",
+              "answers": [
+                {
+                  "choice_id": "1912570993"
+                }
+              ]
+            },
+            {
+              "id": "272188266",
+              "answers": [
+                {
+                  "choice_id": "1912571097"
+                }
+              ]
+            },
+            {
+              "id": "272188268",
+              "answers": [
+                {
+                  "choice_id": "1912571028"
+                }
+              ]
+            },
+            {
+              "id": "272188275",
+              "answers": [
+                {
+                  "choice_id": "1912571147"
+                }
+              ]
+            },
+            {
+              "id": "272188269",
+              "answers": [
+                {
+                  "choice_id": "1912571041"
+                }
+              ]
+            },
+            {
+              "id": "272188274",
+              "answers": [
+                {
+                  "choice_id": "1912571134"
+                }
+              ]
+            },
+            {
+              "id": "272188270",
+              "answers": [
+                {
+                  "choice_id": "1912571053"
+                }
+              ]
+            },
+            {
+              "id": "272188271",
+              "answers": [
+                {
+                  "choice_id": "1912571067"
+                }
+              ]
+            },
+            {
+              "id": "272188272",
+              "answers": [
+                {
+                  "choice_id": "1912571079"
+                }
+              ]
+            },
+            {
+              "id": "272188276",
+              "answers": [
+                {
+                  "choice_id": "1912571159"
+                }
+              ]
+            },
+            {
+              "id": "272188279",
+              "answers": [
+                {
+                  "choice_id": "1912571182"
+                }
+              ]
+            },
+            {
+              "id": "272188273",
+              "answers": [
+                {
+                  "choice_id": "1912571120"
+                }
+              ]
+            },
+            {
+              "id": "272188277",
+              "answers": [
+                {
+                  "choice_id": "1912571164"
+                }
+              ]
+            },
+            {
+              "id": "272188280",
+              "answers": [
+                {
+                  "choice_id": "1912571188"
+                }
+              ]
+            },
+            {
+              "id": "272188281",
+              "answers": [
+                {
+                  "choice_id": "1912571193"
+                }
+              ]
+            },
+            {
+              "id": "272188282",
+              "answers": [
+                {
+                  "choice_id": "1912571198"
+                }
+              ]
+            },
+            {
+              "id": "272188283",
+              "answers": [
+                {
+                  "choice_id": "1912571204"
+                }
+              ]
+            },
+            {
+              "id": "272188285",
+              "answers": [
+                {
+                  "choice_id": "1912571216"
+                }
+              ]
+            },
+            {
+              "id": "272188278",
+              "answers": [
+                {
+                  "choice_id": "1912571170"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "115004119501",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "200.127.148.165",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "438232345",
+      "survey_id": "420935129",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=3i7BzOIRX5KCnpfsnITCCO2QD1P5P9RZyh5EgR5R9RX6d4pADR8Bqsp_2Bv9AiAS6Q",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/TJWanHz2F7TqP3OTqQztZ8oLFnW1uVKhDeLG2QH22aQ_3D?respondent_id=115004119501",
+      "total_time": 37680,
+      "date_modified": "2025-12-13T08:49:26+00:00",
+      "date_created": "2025-12-12T22:21:26+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/420935129/responses/115004119501",
+      "pages": [
+        {
+          "id": "72116738",
+          "questions": []
+        },
+        {
+          "id": "72116739",
+          "questions": [
+            {
+              "id": "272188263",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "55"
+                }
+              ]
+            },
+            {
+              "id": "272188262",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Tenemos que elevar muchísimo el nivel de confianza que existe entre nosotros. A partir de una relación de confianza elevada, conseguiremos subir la valla uno al otro, colaborar mejor, ejercer accountability, traer los problemas a la mesa y pedir ayuda. \r\n\r\nTodavía somos muy lentos tanto en tomar decisiones cuanto en ejecutar. Nuestro plan va exigir ajustes rápidos a lo largo de la jornada y para eso vamos a necesitar ser mucho más rápidos. \r\n\r\nEscuchamos y hablamos poco del cliente (cliente final y partners). Eso nos puede inducir a tomar decisiones equivocadas. "
+                }
+              ]
+            },
+            {
+              "id": "272188284",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "1. Garantizar que nuestros equipos compren el sueño;\r\n2. Alinear la organización hacia ese sueño;\r\n3. Nível de ejecución muy alto (y rápido);\r\n4. Comunicar con más frequência y con más transparencia;\r\n5. Elevar la densidad de nuestro talento;\r\n6. Estar comprometido con el resultado de este trabajo de transformación cultural."
+                }
+              ]
+            },
+            {
+              "id": "272188264",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "100"
+                }
+              ]
+            },
+            {
+              "id": "272188267",
+              "answers": [
+                {
+                  "choice_id": "1912571014"
+                }
+              ]
+            },
+            {
+              "id": "272188261",
+              "answers": [
+                {
+                  "choice_id": "1912570981"
+                }
+              ]
+            },
+            {
+              "id": "272188265",
+              "answers": [
+                {
+                  "choice_id": "1912570995"
+                }
+              ]
+            },
+            {
+              "id": "272188266",
+              "answers": [
+                {
+                  "choice_id": "1912571100"
+                }
+              ]
+            },
+            {
+              "id": "272188268",
+              "answers": [
+                {
+                  "choice_id": "1912571029"
+                }
+              ]
+            },
+            {
+              "id": "272188275",
+              "answers": [
+                {
+                  "choice_id": "1912571146"
+                }
+              ]
+            },
+            {
+              "id": "272188269",
+              "answers": [
+                {
+                  "choice_id": "1912571042"
+                }
+              ]
+            },
+            {
+              "id": "272188274",
+              "answers": [
+                {
+                  "choice_id": "1912571133"
+                }
+              ]
+            },
+            {
+              "id": "272188270",
+              "answers": [
+                {
+                  "choice_id": "1912571053"
+                }
+              ]
+            },
+            {
+              "id": "272188271",
+              "answers": [
+                {
+                  "choice_id": "1912571068"
+                }
+              ]
+            },
+            {
+              "id": "272188272",
+              "answers": [
+                {
+                  "choice_id": "1912571081"
+                }
+              ]
+            },
+            {
+              "id": "272188276",
+              "answers": [
+                {
+                  "choice_id": "1912571160"
+                }
+              ]
+            },
+            {
+              "id": "272188279",
+              "answers": [
+                {
+                  "choice_id": "1912571184"
+                }
+              ]
+            },
+            {
+              "id": "272188273",
+              "answers": [
+                {
+                  "choice_id": "1912571122"
+                }
+              ]
+            },
+            {
+              "id": "272188277",
+              "answers": [
+                {
+                  "choice_id": "1912571166"
+                }
+              ]
+            },
+            {
+              "id": "272188280",
+              "answers": [
+                {
+                  "choice_id": "1912571188"
+                }
+              ]
+            },
+            {
+              "id": "272188281",
+              "answers": [
+                {
+                  "choice_id": "1912571194"
+                }
+              ]
+            },
+            {
+              "id": "272188282",
+              "answers": [
+                {
+                  "choice_id": "1912571199"
+                }
+              ]
+            },
+            {
+              "id": "272188283",
+              "answers": [
+                {
+                  "choice_id": "1912571204"
+                }
+              ]
+            },
+            {
+              "id": "272188285",
+              "answers": [
+                {
+                  "choice_id": "1912571216"
+                }
+              ]
+            },
+            {
+              "id": "272188278",
+              "answers": [
+                {
+                  "choice_id": "1912571171"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "115004369951",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "186.143.135.195",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "438232345",
+      "survey_id": "420935129",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=kxEkK6_2FLeU8vUJfq9EHfGdMkYlT1kUlaKwIG0RRjOg2IO8Ti4h1ST7NovFaIFEEB",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/TJWanHz2F7TqP3OTqQztZ8oLFnW1uVKhDeLG2QH22aQ_3D?respondent_id=115004369951",
+      "total_time": 538,
+      "date_modified": "2025-12-13T14:09:50+00:00",
+      "date_created": "2025-12-13T14:00:51+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/420935129/responses/115004369951",
+      "pages": [
+        {
+          "id": "72116738",
+          "questions": []
+        },
+        {
+          "id": "72116739",
+          "questions": [
+            {
+              "id": "272188263",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "60"
+                }
+              ]
+            },
+            {
+              "id": "272188262",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "A team. Jugar de memoria. Confianza en delivery y wow para ganar agilidad con menos control que permita escalar."
+                }
+              ]
+            },
+            {
+              "id": "272188284",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Talento. Innovacion. Excelencia operacional."
+                }
+              ]
+            },
+            {
+              "id": "272188264",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "50"
+                }
+              ]
+            },
+            {
+              "id": "272188267",
+              "answers": [
+                {
+                  "choice_id": "1912571015"
+                }
+              ]
+            },
+            {
+              "id": "272188261",
+              "answers": [
+                {
+                  "choice_id": "1912570980"
+                }
+              ]
+            },
+            {
+              "id": "272188265",
+              "answers": [
+                {
+                  "choice_id": "1912570992"
+                }
+              ]
+            },
+            {
+              "id": "272188266",
+              "answers": [
+                {
+                  "choice_id": "1912571099"
+                }
+              ]
+            },
+            {
+              "id": "272188268",
+              "answers": [
+                {
+                  "choice_id": "1912571027"
+                }
+              ]
+            },
+            {
+              "id": "272188275",
+              "answers": [
+                {
+                  "choice_id": "1912571147"
+                }
+              ]
+            },
+            {
+              "id": "272188269",
+              "answers": [
+                {
+                  "choice_id": "1912571042"
+                }
+              ]
+            },
+            {
+              "id": "272188274",
+              "answers": [
+                {
+                  "choice_id": "1912571134"
+                }
+              ]
+            },
+            {
+              "id": "272188270",
+              "answers": [
+                {
+                  "choice_id": "1912571054"
+                }
+              ]
+            },
+            {
+              "id": "272188271",
+              "answers": [
+                {
+                  "choice_id": "1912571067"
+                }
+              ]
+            },
+            {
+              "id": "272188272",
+              "answers": [
+                {
+                  "choice_id": "1912571079"
+                }
+              ]
+            },
+            {
+              "id": "272188276",
+              "answers": [
+                {
+                  "choice_id": "1912571159"
+                }
+              ]
+            },
+            {
+              "id": "272188279",
+              "answers": [
+                {
+                  "choice_id": "1912571182"
+                }
+              ]
+            },
+            {
+              "id": "272188273",
+              "answers": [
+                {
+                  "choice_id": "1912571121"
+                }
+              ]
+            },
+            {
+              "id": "272188277",
+              "answers": [
+                {
+                  "choice_id": "1912571165"
+                }
+              ]
+            },
+            {
+              "id": "272188280",
+              "answers": [
+                {
+                  "choice_id": "1912571188"
+                }
+              ]
+            },
+            {
+              "id": "272188281",
+              "answers": [
+                {
+                  "choice_id": "1912571195"
+                }
+              ]
+            },
+            {
+              "id": "272188282",
+              "answers": [
+                {
+                  "choice_id": "1912571198"
+                }
+              ]
+            },
+            {
+              "id": "272188283",
+              "answers": [
+                {
+                  "choice_id": "1912571203"
+                }
+              ]
+            },
+            {
+              "id": "272188285",
+              "answers": [
+                {
+                  "choice_id": "1912571215"
+                }
+              ]
+            },
+            {
+              "id": "272188278",
+              "answers": [
+                {
+                  "choice_id": "1912571171"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "115004750512",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "187.57.156.31",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "438232345",
+      "survey_id": "420935129",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=V3M_2BkuNmB8Yr5wMtD_2Fn0B5XdReefBHLRNdrujKQAOctOvla4Wo5ngALu7cEzBv2D",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/TJWanHz2F7TqP3OTqQztZ8oLFnW1uVKhDeLG2QH22aQ_3D?respondent_id=115004750512",
+      "total_time": 378,
+      "date_modified": "2025-12-14T14:07:53+00:00",
+      "date_created": "2025-12-14T14:01:35+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/420935129/responses/115004750512",
+      "pages": [
+        {
+          "id": "72116738",
+          "questions": []
+        },
+        {
+          "id": "72116739",
+          "questions": [
+            {
+              "id": "272188263",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "25"
+                }
+              ]
+            },
+            {
+              "id": "272188262",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Creo que el status quo y cambios necesarios para llegar al Big Dream son muy dificiles y como el equipo viene trabajando de la misma forma hace tiempo es más desafiador implementar cambios"
+                }
+              ]
+            },
+            {
+              "id": "272188284",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "- escuchar otros puntos de vista muy distintos\r\n- entender que hay otras maneras de se implementar cambios y de trabajar\r\n- confiar que otros pueden aportar mismo que no sean de mi historico profesional \r\n- globalizar un poco - menos centrado en Argentina"
+                }
+              ]
+            },
+            {
+              "id": "272188264",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "50"
+                }
+              ]
+            },
+            {
+              "id": "272188267",
+              "answers": [
+                {
+                  "choice_id": "1912571014"
+                }
+              ]
+            },
+            {
+              "id": "272188261",
+              "answers": [
+                {
+                  "choice_id": "1912570980"
+                }
+              ]
+            },
+            {
+              "id": "272188265",
+              "answers": [
+                {
+                  "choice_id": "1912570994"
+                }
+              ]
+            },
+            {
+              "id": "272188266",
+              "answers": [
+                {
+                  "choice_id": "1912571097"
+                }
+              ]
+            },
+            {
+              "id": "272188268",
+              "answers": [
+                {
+                  "choice_id": "1912571029"
+                }
+              ]
+            },
+            {
+              "id": "272188275",
+              "answers": [
+                {
+                  "choice_id": "1912571147"
+                }
+              ]
+            },
+            {
+              "id": "272188269",
+              "answers": [
+                {
+                  "choice_id": "1912571042"
+                }
+              ]
+            },
+            {
+              "id": "272188274",
+              "answers": [
+                {
+                  "choice_id": "1912571135"
+                }
+              ]
+            },
+            {
+              "id": "272188270",
+              "answers": [
+                {
+                  "choice_id": "1912571053"
+                }
+              ]
+            },
+            {
+              "id": "272188271",
+              "answers": [
+                {
+                  "choice_id": "1912571067"
+                }
+              ]
+            },
+            {
+              "id": "272188272",
+              "answers": [
+                {
+                  "choice_id": "1912571079"
+                }
+              ]
+            },
+            {
+              "id": "272188276",
+              "answers": [
+                {
+                  "choice_id": "1912571159"
+                }
+              ]
+            },
+            {
+              "id": "272188279",
+              "answers": [
+                {
+                  "choice_id": "1912571184"
+                }
+              ]
+            },
+            {
+              "id": "272188273",
+              "answers": [
+                {
+                  "choice_id": "1912571120"
+                }
+              ]
+            },
+            {
+              "id": "272188277",
+              "answers": [
+                {
+                  "choice_id": "1912571166"
+                }
+              ]
+            },
+            {
+              "id": "272188280",
+              "answers": [
+                {
+                  "choice_id": "1912571188"
+                }
+              ]
+            },
+            {
+              "id": "272188281",
+              "answers": [
+                {
+                  "choice_id": "1912571194"
+                }
+              ]
+            },
+            {
+              "id": "272188282",
+              "answers": [
+                {
+                  "choice_id": "1912571197"
+                }
+              ]
+            },
+            {
+              "id": "272188283",
+              "answers": [
+                {
+                  "choice_id": "1912571204"
+                }
+              ]
+            },
+            {
+              "id": "272188285",
+              "answers": [
+                {
+                  "choice_id": "1912571216"
+                }
+              ]
+            },
+            {
+              "id": "272188278",
+              "answers": [
+                {
+                  "choice_id": "1912571170"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "115004783376",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "88.1.60.72",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "438232345",
+      "survey_id": "420935129",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=AYlQT_2B4P_2FoQCbzaIcz9QQi_2FBpKmM8PLRdjTqWSUsegO5L_2BHnXXuHNYKmpbmQS2hq",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/TJWanHz2F7TqP3OTqQztZ8oLFnW1uVKhDeLG2QH22aQ_3D?respondent_id=115004783376",
+      "total_time": 459,
+      "date_modified": "2025-12-14T15:59:46+00:00",
+      "date_created": "2025-12-14T15:52:06+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/420935129/responses/115004783376",
+      "pages": [
+        {
+          "id": "72116738",
+          "questions": []
+        },
+        {
+          "id": "72116739",
+          "questions": [
+            {
+              "id": "272188263",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "80"
+                }
+              ]
+            },
+            {
+              "id": "272188262",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "El alto nivel de interdependencia reduce el accountability individual lo que, por momentos, lleva a pérdida de confianza de unos con otros y excesiva necesidad de coordinación"
+                }
+              ]
+            },
+            {
+              "id": "272188284",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Podar tomar apuestas más bold, con mayor nivel de independencia, confiando que el resto cada uno está su mayor esfuerzo en lo propio"
+                }
+              ]
+            },
+            {
+              "id": "272188264",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "40"
+                }
+              ]
+            },
+            {
+              "id": "272188267",
+              "answers": [
+                {
+                  "choice_id": "1912571014"
+                }
+              ]
+            },
+            {
+              "id": "272188261",
+              "answers": [
+                {
+                  "choice_id": "1912570980"
+                }
+              ]
+            },
+            {
+              "id": "272188265",
+              "answers": [
+                {
+                  "choice_id": "1912570994"
+                }
+              ]
+            },
+            {
+              "id": "272188266",
+              "answers": [
+                {
+                  "choice_id": "1912571098"
+                }
+              ]
+            },
+            {
+              "id": "272188268",
+              "answers": [
+                {
+                  "choice_id": "1912571027"
+                }
+              ]
+            },
+            {
+              "id": "272188275",
+              "answers": [
+                {
+                  "choice_id": "1912571146"
+                }
+              ]
+            },
+            {
+              "id": "272188269",
+              "answers": [
+                {
+                  "choice_id": "1912571042"
+                }
+              ]
+            },
+            {
+              "id": "272188274",
+              "answers": [
+                {
+                  "choice_id": "1912571134"
+                }
+              ]
+            },
+            {
+              "id": "272188270",
+              "answers": [
+                {
+                  "choice_id": "1912571053"
+                }
+              ]
+            },
+            {
+              "id": "272188271",
+              "answers": [
+                {
+                  "choice_id": "1912571067"
+                }
+              ]
+            },
+            {
+              "id": "272188272",
+              "answers": [
+                {
+                  "choice_id": "1912571080"
+                }
+              ]
+            },
+            {
+              "id": "272188276",
+              "answers": [
+                {
+                  "choice_id": "1912571161"
+                }
+              ]
+            },
+            {
+              "id": "272188279",
+              "answers": [
+                {
+                  "choice_id": "1912571184"
+                }
+              ]
+            },
+            {
+              "id": "272188273",
+              "answers": [
+                {
+                  "choice_id": "1912571120"
+                }
+              ]
+            },
+            {
+              "id": "272188277",
+              "answers": [
+                {
+                  "choice_id": "1912571164"
+                }
+              ]
+            },
+            {
+              "id": "272188280",
+              "answers": [
+                {
+                  "choice_id": "1912571188"
+                }
+              ]
+            },
+            {
+              "id": "272188281",
+              "answers": [
+                {
+                  "choice_id": "1912571194"
+                }
+              ]
+            },
+            {
+              "id": "272188282",
+              "answers": [
+                {
+                  "choice_id": "1912571199"
+                }
+              ]
+            },
+            {
+              "id": "272188283",
+              "answers": [
+                {
+                  "choice_id": "1912571204"
+                }
+              ]
+            },
+            {
+              "id": "272188285",
+              "answers": [
+                {
+                  "choice_id": "1912571216"
+                }
+              ]
+            },
+            {
+              "id": "272188278",
+              "answers": [
+                {
+                  "choice_id": "1912571170"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "115005140188",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "131.0.212.40",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "438232345",
+      "survey_id": "420935129",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=xj5vRUVUVgKKbZYiotDiG6LaFfuAKKIkaD85C0Vn2egFr7pN0XaqpXBsTzJKN5Gy",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/TJWanHz2F7TqP3OTqQztZ8oLFnW1uVKhDeLG2QH22aQ_3D?respondent_id=115005140188",
+      "total_time": 359,
+      "date_modified": "2025-12-15T10:53:03+00:00",
+      "date_created": "2025-12-15T10:47:03+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/420935129/responses/115005140188",
+      "pages": [
+        {
+          "id": "72116738",
+          "questions": []
+        },
+        {
+          "id": "72116739",
+          "questions": [
+            {
+              "id": "272188263",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "90"
+                }
+              ]
+            },
+            {
+              "id": "272188262",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Ganar velocidad y efectividad en la ejecución\r\nNos limita: la falta de confianza en los equipos, la poca autonomía, el nivel de talento."
+                }
+              ]
+            },
+            {
+              "id": "272188284",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Talento\r\nAgilidad para la ejecución\r\nTomar riesgos, animarnos y creer que se puede"
+                }
+              ]
+            },
+            {
+              "id": "272188264",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "21"
+                }
+              ]
+            },
+            {
+              "id": "272188267",
+              "answers": [
+                {
+                  "choice_id": "1912571015"
+                }
+              ]
+            },
+            {
+              "id": "272188261",
+              "answers": [
+                {
+                  "choice_id": "1912570982"
+                }
+              ]
+            },
+            {
+              "id": "272188265",
+              "answers": [
+                {
+                  "choice_id": "1912570994"
+                }
+              ]
+            },
+            {
+              "id": "272188266",
+              "answers": [
+                {
+                  "choice_id": "1912571099"
+                }
+              ]
+            },
+            {
+              "id": "272188268",
+              "answers": [
+                {
+                  "choice_id": "1912571028"
+                }
+              ]
+            },
+            {
+              "id": "272188275",
+              "answers": [
+                {
+                  "choice_id": "1912571147"
+                }
+              ]
+            },
+            {
+              "id": "272188269",
+              "answers": [
+                {
+                  "choice_id": "1912571043"
+                }
+              ]
+            },
+            {
+              "id": "272188274",
+              "answers": [
+                {
+                  "choice_id": "1912571133"
+                }
+              ]
+            },
+            {
+              "id": "272188270",
+              "answers": [
+                {
+                  "choice_id": "1912571054"
+                }
+              ]
+            },
+            {
+              "id": "272188271",
+              "answers": [
+                {
+                  "choice_id": "1912571067"
+                }
+              ]
+            },
+            {
+              "id": "272188272",
+              "answers": [
+                {
+                  "choice_id": "1912571080"
+                }
+              ]
+            },
+            {
+              "id": "272188276",
+              "answers": [
+                {
+                  "choice_id": "1912571160"
+                }
+              ]
+            },
+            {
+              "id": "272188279",
+              "answers": [
+                {
+                  "choice_id": "1912571184"
+                }
+              ]
+            },
+            {
+              "id": "272188273",
+              "answers": [
+                {
+                  "choice_id": "1912571121"
+                }
+              ]
+            },
+            {
+              "id": "272188277",
+              "answers": [
+                {
+                  "choice_id": "1912571165"
+                }
+              ]
+            },
+            {
+              "id": "272188280",
+              "answers": [
+                {
+                  "choice_id": "1912571189"
+                }
+              ]
+            },
+            {
+              "id": "272188281",
+              "answers": [
+                {
+                  "choice_id": "1912571194"
+                }
+              ]
+            },
+            {
+              "id": "272188282",
+              "answers": [
+                {
+                  "choice_id": "1912571198"
+                }
+              ]
+            },
+            {
+              "id": "272188283",
+              "answers": [
+                {
+                  "choice_id": "1912571204"
+                }
+              ]
+            },
+            {
+              "id": "272188285",
+              "answers": [
+                {
+                  "choice_id": "1912571216"
+                }
+              ]
+            },
+            {
+              "id": "272188278",
+              "answers": [
+                {
+                  "choice_id": "1912571170"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

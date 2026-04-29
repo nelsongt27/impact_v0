@@ -1,0 +1,497 @@
+{
+  "_backup_metadata": {
+    "backed_up_at": "2026-04-27T18:45:04.802760+00:00",
+    "survey_id": "524232800",
+    "title": "AFNS Gym Satisfaction Survey: Exploring the Four Dimensions of Meaning in Coaching Practice facilitated by Michelle Hollingshead",
+    "nickname": "",
+    "date_created": null,
+    "date_modified": "2025-07-28T14:05:00",
+    "response_count_listing": 3,
+    "response_count_fetched": 3,
+    "summary_href": "https://api.surveymonkey.com/v3/surveys/524232800"
+  },
+  "details": {
+    "title": "AFNS Gym Satisfaction Survey: Exploring the Four Dimensions of Meaning in Coaching Practice facilitated by Michelle Hollingshead",
+    "nickname": "",
+    "language": "en",
+    "folder_id": "2376268",
+    "category": "",
+    "question_count": 5,
+    "page_count": 1,
+    "response_count": 3,
+    "date_created": "2025-07-23T19:40:00",
+    "date_modified": "2025-07-28T14:05:00",
+    "id": "524232800",
+    "buttons_text": {
+      "next_button": "Next",
+      "prev_button": "Prev",
+      "done_button": "Submit your answer",
+      "exit_button": ""
+    },
+    "is_owner": true,
+    "owner": "54118456",
+    "footer": true,
+    "theme_id": "10292568",
+    "template_id": null,
+    "custom_variables": {},
+    "href": "https://api.surveymonkey.com/v3/surveys/524232800",
+    "analyze_url": "https://www.surveymonkey.com/analyze/T7zqUSigqlgwdsuEfjD16sDfNFng_2BvzTEhUhSZCw_2F_2Fk_3D",
+    "edit_url": "https://www.surveymonkey.com/create/?sm=T7zqUSigqlgwdsuEfjD16sDfNFng_2BvzTEhUhSZCw_2F_2Fk_3D",
+    "collect_url": "https://www.surveymonkey.com/collect/list?sm=T7zqUSigqlgwdsuEfjD16sDfNFng_2BvzTEhUhSZCw_2F_2Fk_3D",
+    "summary_url": "https://www.surveymonkey.com/summary/T7zqUSigqlgwdsuEfjD16sDfNFng_2BvzTEhUhSZCw_2F_2Fk_3D",
+    "preview": "https://www.surveymonkey.com/r/Preview/?sm=HcCrIzw0p3IL0GsjM0NYz2RRnwq09ZzGh1NUjENnrS9XoQzxZhKqnKwbW16hdbxq",
+    "pages": [
+      {
+        "title": "",
+        "description": "<div>Dear AFNs, welcome to our AFNs Gym Satisfaction Survey for session: Exploring the Four Dimensions of Meaning in Coaching Practice facilitated by Michelle Hollingshead</div>\n<div><br></div>\n<div>This brief survey will take you approx. 5 mins. to answer and provides useful insight for us to improve the program.</div>\n<div>Thanks for your time!</div>",
+        "position": 1,
+        "question_count": 5,
+        "id": "68021213",
+        "href": "https://api.surveymonkey.com/v3/surveys/524232800/pages/68021213",
+        "questions": [
+          {
+            "id": "254178076",
+            "position": 1,
+            "visible": true,
+            "family": "open_ended",
+            "subtype": "single",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": {
+              "type": "integer",
+              "text": "Please enter a whole number between {0} and {1}.",
+              "max": "10",
+              "min": "0",
+              "sum": null,
+              "sum_text": ""
+            },
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "The <strong>session</strong> provided useful tools and practice that can be applied to my clients´ challenges?"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/524232800/pages/68021213/questions/254178076",
+            "display_options": {
+              "show_display_number": true,
+              "display_type": "slider",
+              "display_subtype": "",
+              "left_label_id": "1794301634",
+              "left_label": "0 (No useful tools and practice)",
+              "right_label_id": "1794301635",
+              "right_label": "10 (Significantly usefyl tools and practice)",
+              "middle_label_id": "1794301636",
+              "middle_label": "5",
+              "custom_options": {
+                "starting_position": 0,
+                "step_size": 1,
+                "option_set": [
+                  "adjusted_scale"
+                ]
+              },
+              "file_upload_labels": {},
+              "max_diff_button_labels": {}
+            }
+          },
+          {
+            "id": "254178077",
+            "position": 2,
+            "visible": true,
+            "family": "open_ended",
+            "subtype": "single",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": {
+              "type": "integer",
+              "text": "Please enter a whole number between {0} and {1}.",
+              "max": "10",
+              "min": "0",
+              "sum": null,
+              "sum_text": ""
+            },
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "The <strong>session</strong> will help me be more effective and provided added value to improve my skills?"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/524232800/pages/68021213/questions/254178077",
+            "display_options": {
+              "show_display_number": true,
+              "display_type": "slider",
+              "display_subtype": "",
+              "left_label_id": "1794301643",
+              "left_label": "0 (No help to be more effective)",
+              "right_label_id": "1794301644",
+              "right_label": "10 (Significant help to be more effective)",
+              "middle_label_id": "1794301645",
+              "middle_label": "5",
+              "custom_options": {
+                "starting_position": 0,
+                "step_size": 1,
+                "option_set": [
+                  "adjusted_scale"
+                ]
+              },
+              "file_upload_labels": {},
+              "max_diff_button_labels": {}
+            }
+          },
+          {
+            "id": "254178078",
+            "position": 3,
+            "visible": true,
+            "family": "open_ended",
+            "subtype": "single",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": {
+              "type": "integer",
+              "text": "Please enter a whole number between {0} and {1}.",
+              "max": "10",
+              "min": "0",
+              "sum": null,
+              "sum_text": ""
+            },
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "The <strong>facilitator</strong> created an environment suitable for practicing/ learning from each other, and a space of trust to share topics and cases?"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/524232800/pages/68021213/questions/254178078",
+            "display_options": {
+              "show_display_number": true,
+              "display_type": "slider",
+              "display_subtype": "",
+              "left_label_id": "1794301652",
+              "left_label": "0 (No suitable environment for practicing/ learning)",
+              "right_label_id": "1794301653",
+              "right_label": "10 (Great suitable environment for practicing/ learning)",
+              "middle_label_id": "1794301654",
+              "middle_label": "5",
+              "custom_options": {
+                "starting_position": 0,
+                "step_size": 1,
+                "option_set": [
+                  "adjusted_scale"
+                ]
+              },
+              "file_upload_labels": {},
+              "max_diff_button_labels": {}
+            }
+          },
+          {
+            "id": "254178079",
+            "position": 4,
+            "visible": true,
+            "family": "open_ended",
+            "subtype": "single",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": {
+              "type": "integer",
+              "text": "Please enter a whole number between {0} and {1}.",
+              "max": "10",
+              "min": "0",
+              "sum": null,
+              "sum_text": ""
+            },
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "On a scale of 0 to 10 (10 being the most likely), <strong>how likely are you to recommend</strong> the AFNs Gym Program to an AFN colleague?"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/524232800/pages/68021213/questions/254178079",
+            "display_options": {
+              "show_display_number": true,
+              "display_type": "slider",
+              "display_subtype": "",
+              "left_label_id": "1794301661",
+              "left_label": "0 (Would never recommend)",
+              "right_label_id": "1794301662",
+              "right_label": "10 (Absolutely recommend)",
+              "middle_label_id": "1794301663",
+              "middle_label": "5",
+              "custom_options": {
+                "starting_position": 0,
+                "step_size": 1,
+                "option_set": [
+                  "adjusted_scale"
+                ]
+              },
+              "file_upload_labels": {},
+              "max_diff_button_labels": {}
+            }
+          },
+          {
+            "id": "254178080",
+            "position": 5,
+            "visible": true,
+            "family": "open_ended",
+            "subtype": "essay",
+            "layout": null,
+            "sorting": null,
+            "required": null,
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Please provide any other comments, suggestions or insights regarding the program."
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/524232800/pages/68021213/questions/254178080"
+          }
+        ]
+      }
+    ]
+  },
+  "responses": [
+    {
+      "id": "118915954109",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "190.84.119.209",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "461560553",
+      "survey_id": "524232800",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=cex340yvhIcg8WspktNlPXlF2QVW5btA9eVua4TBgfKr_2F_2F837Y7m2dCCPs0lveJN",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/T7zqUSigqlgwdsuEfjD16sDfNFng_2BvzTEhUhSZCw_2F_2Fk_3D?respondent_id=118915954109",
+      "total_time": 44,
+      "date_modified": "2025-07-24T16:56:18+00:00",
+      "date_created": "2025-07-24T16:55:34+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/524232800/responses/118915954109",
+      "pages": [
+        {
+          "id": "68021213",
+          "questions": [
+            {
+              "id": "254178076",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "10"
+                }
+              ]
+            },
+            {
+              "id": "254178077",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "10"
+                }
+              ]
+            },
+            {
+              "id": "254178078",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "10"
+                }
+              ]
+            },
+            {
+              "id": "254178079",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "10"
+                }
+              ]
+            },
+            {
+              "id": "254178080",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "gracias como siempre por abrir estos espacios"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "118917930867",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "71.218.104.37",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "461560553",
+      "survey_id": "524232800",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=Rt1vRXF1a1SGvIB21r6pFZO4Uhho2V5ilsmT5O8oRwW657qTDNTRnLm0_2BaTSrCm1",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/T7zqUSigqlgwdsuEfjD16sDfNFng_2BvzTEhUhSZCw_2F_2Fk_3D?respondent_id=118917930867",
+      "total_time": 65,
+      "date_modified": "2025-07-28T03:21:07+00:00",
+      "date_created": "2025-07-28T03:20:01+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/524232800/responses/118917930867",
+      "pages": [
+        {
+          "id": "68021213",
+          "questions": [
+            {
+              "id": "254178076",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "8"
+                }
+              ]
+            },
+            {
+              "id": "254178077",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "10"
+                }
+              ]
+            },
+            {
+              "id": "254178078",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "10"
+                }
+              ]
+            },
+            {
+              "id": "254178079",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "10"
+                }
+              ]
+            },
+            {
+              "id": "254178080",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Michelle did a fantastic job at navigating the session "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "118918233580",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "107.77.194.181",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "461560553",
+      "survey_id": "524232800",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=ot_2Fq7HFI_2BHT2TlWNd1oxSrwSJ4oqQwN_2FTdpqdurLbR97J7yDgj6_2FFFC3PYzuqZrx",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/T7zqUSigqlgwdsuEfjD16sDfNFng_2BvzTEhUhSZCw_2F_2Fk_3D?respondent_id=118918233580",
+      "total_time": 38,
+      "date_modified": "2025-07-28T14:05:10+00:00",
+      "date_created": "2025-07-28T14:04:32+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/524232800/responses/118918233580",
+      "pages": [
+        {
+          "id": "68021213",
+          "questions": [
+            {
+              "id": "254178076",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "10"
+                }
+              ]
+            },
+            {
+              "id": "254178077",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "10"
+                }
+              ]
+            },
+            {
+              "id": "254178078",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "10"
+                }
+              ]
+            },
+            {
+              "id": "254178079",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "10"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

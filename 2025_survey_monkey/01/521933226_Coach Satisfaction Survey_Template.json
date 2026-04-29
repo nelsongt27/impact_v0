@@ -1,0 +1,402 @@
+{
+  "_backup_metadata": {
+    "backed_up_at": "2026-04-27T18:48:06.480962+00:00",
+    "survey_id": "521933226",
+    "title": "Coach Satisfaction Survey_Template",
+    "nickname": "",
+    "date_created": null,
+    "date_modified": "2025-02-17T12:07:00",
+    "response_count_listing": 0,
+    "response_count_fetched": 0,
+    "summary_href": "https://api.surveymonkey.com/v3/surveys/521933226"
+  },
+  "details": {
+    "title": "Coach Satisfaction Survey_Template",
+    "nickname": "",
+    "language": "en",
+    "folder_id": "2339181",
+    "category": "",
+    "question_count": 9,
+    "page_count": 1,
+    "response_count": 0,
+    "date_created": "2025-01-28T22:09:00",
+    "date_modified": "2025-02-17T12:07:00",
+    "id": "521933226",
+    "buttons_text": {
+      "next_button": "Next",
+      "prev_button": "Prev",
+      "done_button": "Done",
+      "exit_button": ""
+    },
+    "is_owner": true,
+    "owner": "54118456",
+    "footer": false,
+    "theme_id": "20396371",
+    "template_id": null,
+    "custom_variables": {},
+    "href": "https://api.surveymonkey.com/v3/surveys/521933226",
+    "analyze_url": "https://www.surveymonkey.com/analyze/8hwgpC1cqaE6SeOD8yYL0nRR3SGZ7XWw11w4HxwqZmY_3D",
+    "edit_url": "https://www.surveymonkey.com/create/?sm=8hwgpC1cqaE6SeOD8yYL0nRR3SGZ7XWw11w4HxwqZmY_3D",
+    "collect_url": "https://www.surveymonkey.com/collect/list?sm=8hwgpC1cqaE6SeOD8yYL0nRR3SGZ7XWw11w4HxwqZmY_3D",
+    "summary_url": "https://www.surveymonkey.com/summary/8hwgpC1cqaE6SeOD8yYL0nRR3SGZ7XWw11w4HxwqZmY_3D",
+    "preview": "https://www.surveymonkey.com/r/Preview/?sm=KZCNTz1OMbAON8BetseYcF_2B2UJ9xzV6_2B6YZpG7nik1wsP1m8sQSX9fyRUxuYx_2F7c",
+    "pages": [
+      {
+        "title": "Welcome!",
+        "description": "<div>\n<div>In order to continuously improve the quality of our coaching sessions and ensure that each coachee receives maximum value, we invite you to share your feedback about the coaches you worked with. Your input will help us identify what is working well and what we can adjust to offer you an even better experience.</div>\n<div></div>\n<div>Below, please find four brief questions that will take you just a few minutes to answer.</div>\n</div>\n<div><br></div>\n<div>Please, don't hesitate to contact us if you have any questions.<br><br>All the best,</div>\n<div>The Axialent Team</div>",
+        "position": 1,
+        "question_count": 9,
+        "id": "62359173",
+        "href": "https://api.surveymonkey.com/v3/surveys/521933226/pages/62359173",
+        "questions": [
+          {
+            "id": "228811073",
+            "position": 1,
+            "visible": true,
+            "family": "matrix",
+            "subtype": "menu",
+            "layout": null,
+            "sorting": {
+              "type": "random",
+              "ignore_last": false
+            },
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Please select the name of your coach"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/521933226/pages/62359173/questions/228811073",
+            "answers": {
+              "rows": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "My coach was/is",
+                  "id": "1627711425"
+                }
+              ],
+              "cols": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "Name",
+                  "id": "1627708462",
+                  "choices": [
+                    {
+                      "position": 1,
+                      "visible": true,
+                      "text": "Christian Hvidbo",
+                      "id": "1627710837",
+                      "is_na": false
+                    },
+                    {
+                      "position": 2,
+                      "visible": true,
+                      "text": "Piedad Umaña",
+                      "id": "1627710838",
+                      "is_na": false
+                    },
+                    {
+                      "position": 3,
+                      "visible": true,
+                      "text": "Declan Scott",
+                      "id": "1627710839",
+                      "is_na": false
+                    },
+                    {
+                      "position": 4,
+                      "visible": true,
+                      "text": "Raff Viton",
+                      "id": "1627710840",
+                      "is_na": false
+                    },
+                    {
+                      "position": 5,
+                      "visible": true,
+                      "text": "Rebecca Williams",
+                      "id": "1627710841",
+                      "is_na": false
+                    },
+                    {
+                      "position": 6,
+                      "visible": true,
+                      "text": "Joao Adao",
+                      "id": "1627710842",
+                      "is_na": false
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "id": "228811926",
+            "position": 2,
+            "visible": true,
+            "family": "open_ended",
+            "subtype": "single",
+            "layout": null,
+            "sorting": null,
+            "required": null,
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "How did the coach make you feel during the sessions?"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/521933226/pages/62359173/questions/228811926"
+          },
+          {
+            "id": "228812347",
+            "position": 3,
+            "visible": true,
+            "family": "presentation",
+            "subtype": "descriptive_text",
+            "layout": null,
+            "sorting": null,
+            "required": null,
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "<span style=\"color: #003366;\"><strong>On a scale of 1 to 10:</strong></span>"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/521933226/pages/62359173/questions/228812347",
+            "display_options": {
+              "show_display_number": false
+            }
+          },
+          {
+            "id": "228811997",
+            "position": 4,
+            "visible": true,
+            "family": "open_ended",
+            "subtype": "single",
+            "layout": null,
+            "sorting": null,
+            "required": null,
+            "validation": {
+              "type": "integer",
+              "text": "Please enter a whole number between {0} and {1}.",
+              "max": "10",
+              "min": "0",
+              "sum": null,
+              "sum_text": ""
+            },
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "How would you rate the clarity with which the coach explained the concepts or tools?"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/521933226/pages/62359173/questions/228811997",
+            "display_options": {
+              "show_display_number": true,
+              "display_type": "slider",
+              "display_subtype": "",
+              "left_label_id": "1627715735",
+              "left_label": "0",
+              "right_label_id": "1627715736",
+              "right_label": "10",
+              "middle_label_id": null,
+              "middle_label": "",
+              "custom_options": {
+                "starting_position": 0,
+                "step_size": 1,
+                "option_set": [
+                  "adjusted_scale"
+                ]
+              },
+              "file_upload_labels": {},
+              "max_diff_button_labels": {}
+            }
+          },
+          {
+            "id": "228812533",
+            "position": 5,
+            "visible": true,
+            "family": "open_ended",
+            "subtype": "single",
+            "layout": null,
+            "sorting": null,
+            "required": null,
+            "validation": {
+              "type": "integer",
+              "text": "Please enter a whole number between {0} and {1}.",
+              "max": "10",
+              "min": "0",
+              "sum": null,
+              "sum_text": ""
+            },
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "How would you rate the coach's ability to adapt to your specific needs?"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/521933226/pages/62359173/questions/228812533",
+            "display_options": {
+              "show_display_number": true,
+              "display_type": "slider",
+              "display_subtype": "",
+              "left_label_id": "1627716203",
+              "left_label": "0",
+              "right_label_id": "1627716204",
+              "right_label": "10",
+              "middle_label_id": null,
+              "middle_label": "",
+              "custom_options": {
+                "starting_position": 0,
+                "step_size": 1,
+                "option_set": [
+                  "adjusted_scale"
+                ]
+              },
+              "file_upload_labels": {},
+              "max_diff_button_labels": {}
+            }
+          },
+          {
+            "id": "228812601",
+            "position": 6,
+            "visible": true,
+            "family": "open_ended",
+            "subtype": "single",
+            "layout": null,
+            "sorting": null,
+            "required": null,
+            "validation": {
+              "type": "integer",
+              "text": "Please enter a whole number between {0} and {1}.",
+              "max": "10",
+              "min": "0",
+              "sum": null,
+              "sum_text": ""
+            },
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "How satisfied are you with the progress you made through working with this coach?"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/521933226/pages/62359173/questions/228812601",
+            "display_options": {
+              "show_display_number": true,
+              "display_type": "slider",
+              "display_subtype": "",
+              "left_label_id": "1627716534",
+              "left_label": "0",
+              "right_label_id": "1627716535",
+              "right_label": "10",
+              "middle_label_id": null,
+              "middle_label": "",
+              "custom_options": {
+                "starting_position": 0,
+                "step_size": 1,
+                "option_set": [
+                  "adjusted_scale"
+                ]
+              },
+              "file_upload_labels": {},
+              "max_diff_button_labels": {}
+            }
+          },
+          {
+            "id": "228812663",
+            "position": 7,
+            "visible": true,
+            "family": "open_ended",
+            "subtype": "single",
+            "layout": null,
+            "sorting": null,
+            "required": null,
+            "validation": {
+              "type": "integer",
+              "text": "Please enter a whole number between {0} and {1}.",
+              "max": "10",
+              "min": "0",
+              "sum": null,
+              "sum_text": ""
+            },
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Please rate this coach overall on a scale of 1 to 10, with 1 being 'ineffective' and 10 being 'excellent'"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/521933226/pages/62359173/questions/228812663",
+            "display_options": {
+              "show_display_number": true,
+              "display_type": "slider",
+              "display_subtype": "",
+              "left_label_id": "1627716889",
+              "left_label": "Ineffective",
+              "right_label_id": "1627716890",
+              "right_label": "Excellent",
+              "middle_label_id": null,
+              "middle_label": "",
+              "custom_options": {
+                "starting_position": 0,
+                "step_size": 1,
+                "option_set": [
+                  "adjusted_scale"
+                ]
+              },
+              "file_upload_labels": {},
+              "max_diff_button_labels": {}
+            }
+          },
+          {
+            "id": "228812932",
+            "position": 8,
+            "visible": true,
+            "family": "open_ended",
+            "subtype": "single",
+            "layout": null,
+            "sorting": null,
+            "required": null,
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Is there anything else you would like to mention about your coach?"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/521933226/pages/62359173/questions/228812932"
+          },
+          {
+            "id": "228811075",
+            "position": 9,
+            "visible": true,
+            "family": "presentation",
+            "subtype": "descriptive_text",
+            "layout": null,
+            "sorting": null,
+            "required": null,
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Thank you for your collaboration!"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/521933226/pages/62359173/questions/228811075",
+            "display_options": {
+              "show_display_number": false
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "responses": []
+}

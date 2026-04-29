@@ -1,0 +1,866 @@
+{
+  "_backup_metadata": {
+    "backed_up_at": "2026-04-27T18:45:27.163693+00:00",
+    "survey_id": "522213732",
+    "title": "Coach Satisfaction Survey",
+    "nickname": "",
+    "date_created": null,
+    "date_modified": "2025-07-09T15:00:00",
+    "response_count_listing": 6,
+    "response_count_fetched": 6,
+    "summary_href": "https://api.surveymonkey.com/v3/surveys/522213732"
+  },
+  "details": {
+    "title": "Coach Satisfaction Survey",
+    "nickname": "",
+    "language": "en",
+    "folder_id": "2339181",
+    "category": "",
+    "question_count": 7,
+    "page_count": 1,
+    "response_count": 6,
+    "date_created": "2025-02-17T12:07:00",
+    "date_modified": "2025-07-09T15:00:00",
+    "id": "522213732",
+    "buttons_text": {
+      "next_button": "Next",
+      "prev_button": "Prev",
+      "done_button": "Submit Responses",
+      "exit_button": ""
+    },
+    "is_owner": true,
+    "owner": "54118456",
+    "footer": false,
+    "theme_id": "20396371",
+    "template_id": null,
+    "custom_variables": {},
+    "href": "https://api.surveymonkey.com/v3/surveys/522213732",
+    "analyze_url": "https://www.surveymonkey.com/analyze/Rvw22YIK7kgpEppUBVr1WaL3lNp4Bx09ZsQASXu0hkw_3D",
+    "edit_url": "https://www.surveymonkey.com/create/?sm=Rvw22YIK7kgpEppUBVr1WaL3lNp4Bx09ZsQASXu0hkw_3D",
+    "collect_url": "https://www.surveymonkey.com/collect/list?sm=Rvw22YIK7kgpEppUBVr1WaL3lNp4Bx09ZsQASXu0hkw_3D",
+    "summary_url": "https://www.surveymonkey.com/summary/Rvw22YIK7kgpEppUBVr1WaL3lNp4Bx09ZsQASXu0hkw_3D",
+    "preview": "https://www.surveymonkey.com/r/Preview/?sm=h5cwUrOfW8t8MJTS3wt5EgbjFmz9S4zovB9HXBTz41Qhr0PS8ciFTggAXPfmLwau",
+    "pages": [
+      {
+        "title": "Welcome!",
+        "description": "<div>\n<div>In order to continuously improve the quality of our coaching sessions and ensure that each coachee receives maximum value, we invite you to share your feedback about the coaches you worked with. Your input will help us identify what is working well and what we can adjust to offer you an even better experience.</div>\n<div></div>\n<div>Below, please find four brief questions that will take you just a few minutes to answer.</div>\n</div>\n<div><br></div>\n<div>Please, don't hesitate to contact us if you have any questions.<br><br>All the best,</div>\n<div>The Axialent Team</div>",
+        "position": 1,
+        "question_count": 7,
+        "id": "63018301",
+        "href": "https://api.surveymonkey.com/v3/surveys/522213732/pages/63018301",
+        "questions": [
+          {
+            "id": "232125024",
+            "position": 1,
+            "visible": true,
+            "family": "matrix",
+            "subtype": "menu",
+            "layout": null,
+            "sorting": {
+              "type": "random",
+              "ignore_last": false
+            },
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Please select the name of your coach"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/522213732/pages/63018301/questions/232125024",
+            "answers": {
+              "rows": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "My coach was/is",
+                  "id": "1648189557"
+                }
+              ],
+              "cols": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "Name",
+                  "id": "1648189555",
+                  "choices": [
+                    {
+                      "position": 1,
+                      "visible": true,
+                      "text": "Christian Hvidbo",
+                      "id": "1648198264",
+                      "is_na": false
+                    },
+                    {
+                      "position": 2,
+                      "visible": true,
+                      "text": "Kat Niewiadomska",
+                      "id": "1781105998",
+                      "is_na": false
+                    },
+                    {
+                      "position": 3,
+                      "visible": true,
+                      "text": "Declan Scott",
+                      "id": "1648198265",
+                      "is_na": false
+                    },
+                    {
+                      "position": 4,
+                      "visible": true,
+                      "text": "Horacio Rieznik",
+                      "id": "1648198266",
+                      "is_na": false
+                    },
+                    {
+                      "position": 5,
+                      "visible": true,
+                      "text": "Joao Adao",
+                      "id": "1648198267",
+                      "is_na": false
+                    },
+                    {
+                      "position": 6,
+                      "visible": true,
+                      "text": "Raff Viton",
+                      "id": "1648198268",
+                      "is_na": false
+                    },
+                    {
+                      "position": 7,
+                      "visible": true,
+                      "text": "Rebecca Williams",
+                      "id": "1648198269",
+                      "is_na": false
+                    },
+                    {
+                      "position": 8,
+                      "visible": true,
+                      "text": "Sergio Ledesma",
+                      "id": "1648198270",
+                      "is_na": false
+                    },
+                    {
+                      "position": 9,
+                      "visible": true,
+                      "text": "Pablo Carter",
+                      "id": "1648198271",
+                      "is_na": false
+                    },
+                    {
+                      "position": 10,
+                      "visible": true,
+                      "text": "Piedad Umaña",
+                      "id": "1648198272",
+                      "is_na": false
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "id": "232125027",
+            "position": 2,
+            "visible": true,
+            "family": "open_ended",
+            "subtype": "single",
+            "layout": null,
+            "sorting": null,
+            "required": null,
+            "validation": {
+              "type": "integer",
+              "text": "Please enter a whole number between {0} and {1}.",
+              "max": "10",
+              "min": "1",
+              "sum": null,
+              "sum_text": ""
+            },
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "How would you rate your coach's ability to adapt to your specific needs?"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/522213732/pages/63018301/questions/232125027",
+            "display_options": {
+              "show_display_number": true,
+              "display_type": "slider",
+              "display_subtype": "",
+              "left_label_id": "1648189564",
+              "left_label": "Very Low (1)",
+              "right_label_id": "1648189565",
+              "right_label": "Very High (10)",
+              "middle_label_id": null,
+              "middle_label": "",
+              "custom_options": {
+                "starting_position": 1,
+                "step_size": 1,
+                "option_set": [
+                  "adjusted_scale"
+                ]
+              },
+              "file_upload_labels": {},
+              "max_diff_button_labels": {}
+            }
+          },
+          {
+            "id": "252187521",
+            "position": 3,
+            "visible": true,
+            "family": "open_ended",
+            "subtype": "single",
+            "layout": null,
+            "sorting": null,
+            "required": null,
+            "validation": {
+              "type": "integer",
+              "text": "Please enter a whole number between {0} and {1}.",
+              "max": "10",
+              "min": "1",
+              "sum": null,
+              "sum_text": ""
+            },
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "How would you rate your ability to implement the insights gained from your coaching sessions?"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/522213732/pages/63018301/questions/252187521",
+            "display_options": {
+              "show_display_number": true,
+              "display_type": "slider",
+              "display_subtype": "",
+              "left_label_id": "1781100416",
+              "left_label": "Very Low (1)",
+              "right_label_id": "1781100417",
+              "right_label": "Very High (10)",
+              "middle_label_id": null,
+              "middle_label": "",
+              "custom_options": {
+                "starting_position": 1,
+                "step_size": 1,
+                "option_set": [
+                  "adjusted_scale"
+                ]
+              },
+              "file_upload_labels": {},
+              "max_diff_button_labels": {}
+            }
+          },
+          {
+            "id": "232125029",
+            "position": 4,
+            "visible": true,
+            "family": "open_ended",
+            "subtype": "single",
+            "layout": null,
+            "sorting": null,
+            "required": null,
+            "validation": {
+              "type": "integer",
+              "text": "Please enter a whole number between {0} and {1}.",
+              "max": "10",
+              "min": "1",
+              "sum": null,
+              "sum_text": ""
+            },
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "How satisfied are you with the progress you made through working with this coach?"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/522213732/pages/63018301/questions/232125029",
+            "display_options": {
+              "show_display_number": true,
+              "display_type": "slider",
+              "display_subtype": "",
+              "left_label_id": "1648189572",
+              "left_label": "Extremely Unsatisfied (1)",
+              "right_label_id": "1648189573",
+              "right_label": "Extremely Satisfied (10)",
+              "middle_label_id": null,
+              "middle_label": "",
+              "custom_options": {
+                "starting_position": 1,
+                "step_size": 1,
+                "option_set": [
+                  "adjusted_scale"
+                ]
+              },
+              "file_upload_labels": {},
+              "max_diff_button_labels": {}
+            }
+          },
+          {
+            "id": "232125030",
+            "position": 5,
+            "visible": true,
+            "family": "open_ended",
+            "subtype": "single",
+            "layout": null,
+            "sorting": null,
+            "required": null,
+            "validation": {
+              "type": "integer",
+              "text": "Please enter a whole number between {0} and {1}.",
+              "max": "10",
+              "min": "1",
+              "sum": null,
+              "sum_text": ""
+            },
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "How likely would you be to recommend this coach to a friend or colleague?"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/522213732/pages/63018301/questions/232125030",
+            "display_options": {
+              "show_display_number": true,
+              "display_type": "slider",
+              "display_subtype": "",
+              "left_label_id": "1648189580",
+              "left_label": "Highly Unlikely (1)",
+              "right_label_id": "1648189581",
+              "right_label": "Highly Likely (10)",
+              "middle_label_id": null,
+              "middle_label": "",
+              "custom_options": {
+                "starting_position": 1,
+                "step_size": 1,
+                "option_set": [
+                  "adjusted_scale"
+                ]
+              },
+              "file_upload_labels": {},
+              "max_diff_button_labels": {}
+            }
+          },
+          {
+            "id": "232125032",
+            "position": 6,
+            "visible": true,
+            "family": "open_ended",
+            "subtype": "single",
+            "layout": null,
+            "sorting": null,
+            "required": null,
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Is there anything else you would like to mention about your coach?"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/522213732/pages/63018301/questions/232125032"
+          },
+          {
+            "id": "232125025",
+            "position": 7,
+            "visible": true,
+            "family": "presentation",
+            "subtype": "descriptive_text",
+            "layout": null,
+            "sorting": null,
+            "required": null,
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Thank you for your collaboration!"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/522213732/pages/63018301/questions/232125025",
+            "display_options": {
+              "show_display_number": false
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "responses": [
+    {
+      "id": "118807473779",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "170.85.11.12",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "459817970",
+      "survey_id": "522213732",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=fYMJ_2BB2DIEO5oHL4MQKsZJUzgcs92PmJMQuUy8l5SSLx0r6oWWDHlngrY2Kfw3Fl",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/Rvw22YIK7kgpEppUBVr1WaL3lNp4Bx09ZsQASXu0hkw_3D?respondent_id=118807473779",
+      "total_time": 43,
+      "date_modified": "2025-02-24T12:06:52+00:00",
+      "date_created": "2025-02-24T12:06:09+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/522213732/responses/118807473779",
+      "pages": [
+        {
+          "id": "63018301",
+          "questions": [
+            {
+              "id": "232125024",
+              "answers": [
+                {
+                  "col_id": "1648189555",
+                  "choice_id": "1648198265",
+                  "row_id": "1648189557"
+                }
+              ]
+            },
+            {
+              "id": "232125027",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "7"
+                }
+              ]
+            },
+            {
+              "id": "232125029",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "7"
+                }
+              ]
+            },
+            {
+              "id": "232125030",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "8"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "118807605956",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "170.85.11.36",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "459817970",
+      "survey_id": "522213732",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=K5ELgxv_2FP89DQEuH7sZ70Ab0wf74Yp1HmB2tG96M44N9s34SJfJvPwNk5FM02y0F",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/Rvw22YIK7kgpEppUBVr1WaL3lNp4Bx09ZsQASXu0hkw_3D?respondent_id=118807605956",
+      "total_time": 57,
+      "date_modified": "2025-02-24T15:20:36+00:00",
+      "date_created": "2025-02-24T15:19:39+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/522213732/responses/118807605956",
+      "pages": [
+        {
+          "id": "63018301",
+          "questions": [
+            {
+              "id": "232125024",
+              "answers": [
+                {
+                  "col_id": "1648189555",
+                  "choice_id": "1648198265",
+                  "row_id": "1648189557"
+                }
+              ]
+            },
+            {
+              "id": "232125027",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "9"
+                }
+              ]
+            },
+            {
+              "id": "232125029",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "8"
+                }
+              ]
+            },
+            {
+              "id": "232125030",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "8"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "118808519926",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "136.226.58.190",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "459817970",
+      "survey_id": "522213732",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=pqrkuHRwXpUkb0t9o0q9tv7X_2FBGczoemO8AwBq2NZAvmiA4kHm9N5P3_2B2sRY66nd",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/Rvw22YIK7kgpEppUBVr1WaL3lNp4Bx09ZsQASXu0hkw_3D?respondent_id=118808519926",
+      "total_time": 50,
+      "date_modified": "2025-02-25T16:27:30+00:00",
+      "date_created": "2025-02-25T16:26:39+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/522213732/responses/118808519926",
+      "pages": [
+        {
+          "id": "63018301",
+          "questions": [
+            {
+              "id": "232125024",
+              "answers": [
+                {
+                  "col_id": "1648189555",
+                  "choice_id": "1648198264",
+                  "row_id": "1648189557"
+                }
+              ]
+            },
+            {
+              "id": "232125027",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "9"
+                }
+              ]
+            },
+            {
+              "id": "232125029",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "10"
+                }
+              ]
+            },
+            {
+              "id": "232125030",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "10"
+                }
+              ]
+            },
+            {
+              "id": "232125032",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "He was extremely emphatic always connected with me. I felt like speaking with a Friend."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "118904787396",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "155.113.40.230",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "459817970",
+      "survey_id": "522213732",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=yRTLWjWJpZYSXExOhU8gpJRDF7rYGGdLV3j4C1U04SUPFZOSiUso5WLuB39EQ7Px",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/Rvw22YIK7kgpEppUBVr1WaL3lNp4Bx09ZsQASXu0hkw_3D?respondent_id=118904787396",
+      "total_time": 60,
+      "date_modified": "2025-07-08T13:24:11+00:00",
+      "date_created": "2025-07-08T13:23:10+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/522213732/responses/118904787396",
+      "pages": [
+        {
+          "id": "63018301",
+          "questions": [
+            {
+              "id": "232125024",
+              "answers": [
+                {
+                  "col_id": "1648189555",
+                  "choice_id": "1781105998",
+                  "row_id": "1648189557"
+                }
+              ]
+            },
+            {
+              "id": "232125027",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "9"
+                }
+              ]
+            },
+            {
+              "id": "252187521",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "8"
+                }
+              ]
+            },
+            {
+              "id": "232125029",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "8"
+                }
+              ]
+            },
+            {
+              "id": "232125030",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "9"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "118904924979",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "174.207.168.136",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "459817970",
+      "survey_id": "522213732",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=sPd5Kfs6KznOMKv1x_2BSKMXrXK5VB0v1Oz9lBp4EoIWbiECQeRPE72sbHctVtZ1t4",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/Rvw22YIK7kgpEppUBVr1WaL3lNp4Bx09ZsQASXu0hkw_3D?respondent_id=118904924979",
+      "total_time": 64,
+      "date_modified": "2025-07-08T16:06:43+00:00",
+      "date_created": "2025-07-08T16:05:38+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/522213732/responses/118904924979",
+      "pages": [
+        {
+          "id": "63018301",
+          "questions": [
+            {
+              "id": "232125024",
+              "answers": [
+                {
+                  "col_id": "1648189555",
+                  "choice_id": "1781105998",
+                  "row_id": "1648189557"
+                }
+              ]
+            },
+            {
+              "id": "232125027",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "10"
+                }
+              ]
+            },
+            {
+              "id": "252187521",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "10"
+                }
+              ]
+            },
+            {
+              "id": "232125029",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "10"
+                }
+              ]
+            },
+            {
+              "id": "232125030",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "10"
+                }
+              ]
+            },
+            {
+              "id": "232125032",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Kat was fantastic. Empathetic, helpful and clear in giving tactical feedback to improve. Really enjoyed working with her! "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "118905650881",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "136.226.50.183",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "459817970",
+      "survey_id": "522213732",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=oh6hybVQTSU9cFWuoW6xiIigChwU3_2FxJqv1jL71NW_2BvAmeVPs5j6oljBSwL4tJ59",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/Rvw22YIK7kgpEppUBVr1WaL3lNp4Bx09ZsQASXu0hkw_3D?respondent_id=118905650881",
+      "total_time": 93,
+      "date_modified": "2025-07-09T14:59:46+00:00",
+      "date_created": "2025-07-09T14:58:12+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/522213732/responses/118905650881",
+      "pages": [
+        {
+          "id": "63018301",
+          "questions": [
+            {
+              "id": "232125024",
+              "answers": [
+                {
+                  "col_id": "1648189555",
+                  "choice_id": "1648198265",
+                  "row_id": "1648189557"
+                }
+              ]
+            },
+            {
+              "id": "232125027",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "10"
+                }
+              ]
+            },
+            {
+              "id": "252187521",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "10"
+                }
+              ]
+            },
+            {
+              "id": "232125029",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "10"
+                }
+              ]
+            },
+            {
+              "id": "232125030",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "9"
+                }
+              ]
+            },
+            {
+              "id": "232125032",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "He provided me with great resources "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3237 @@
+{
+  "_backup_metadata": {
+    "backed_up_at": "2026-04-27T18:44:15.462351+00:00",
+    "survey_id": "419746127",
+    "title": "Lencioni (Sigma- Equipo de Marketing Cohesionado,\nAlineado y de Alto Desempeño)",
+    "nickname": "",
+    "date_created": null,
+    "date_modified": "2025-09-17T15:53:00",
+    "response_count_listing": 9,
+    "response_count_fetched": 9,
+    "summary_href": "https://api.surveymonkey.com/v3/surveys/419746127"
+  },
+  "details": {
+    "title": "Lencioni (Sigma- Equipo de Marketing Cohesionado,\nAlineado y de Alto Desempeño)",
+    "nickname": "",
+    "language": "en",
+    "folder_id": "2390217",
+    "category": "",
+    "question_count": 22,
+    "page_count": 1,
+    "response_count": 9,
+    "date_created": "2025-09-02T19:02:00",
+    "date_modified": "2025-09-17T15:53:00",
+    "id": "419746127",
+    "buttons_text": {
+      "next_button": "Next",
+      "prev_button": "Prev",
+      "done_button": "Done",
+      "exit_button": ""
+    },
+    "is_owner": true,
+    "owner": "54118456",
+    "footer": true,
+    "theme_id": "20396371",
+    "template_id": null,
+    "custom_variables": {},
+    "href": "https://api.surveymonkey.com/v3/surveys/419746127",
+    "analyze_url": "https://www.surveymonkey.com/analyze/wW0lsGAHZC6GYhS15roOxucvOXOtGCIhxmAMafmEaxQ_3D",
+    "edit_url": "https://www.surveymonkey.com/create/?sm=wW0lsGAHZC6GYhS15roOxucvOXOtGCIhxmAMafmEaxQ_3D",
+    "collect_url": "https://www.surveymonkey.com/collect/list?sm=wW0lsGAHZC6GYhS15roOxucvOXOtGCIhxmAMafmEaxQ_3D",
+    "summary_url": "https://www.surveymonkey.com/summary/wW0lsGAHZC6GYhS15roOxucvOXOtGCIhxmAMafmEaxQ_3D",
+    "preview": "https://www.surveymonkey.com/r/Preview/?sm=Qu4ED83NwTqyayKbp3WFmOMLeg1t7aDCWpnyCHx_2FSJxM_2BJ6dqzTYsZJOncylwTzW",
+    "pages": [
+      {
+        "title": "Bienvenidos!",
+        "description": "<div>El siguiente cuestionario, tomado del libro “Las cinco disfunciones de un equipo” de Patrick Lencioni, es una herramienta sencilla de diagnóstico, ayudará a evaluar la situación actual del equipo y, de esta forma, saber en qué aspectos enfocar la gestión como líder.<br><br>El objetivo de la encuesta es entender cómo están funcionando como equipo e identificar los comportamientos fundamentales que necesitan ser abordados para potenciarse.</div>\n<div><br></div>\n<div>Tus respuestas serán tratadas con total confidencialidad y absoluto anonimato.</div>",
+        "position": 1,
+        "question_count": 22,
+        "id": "69200144",
+        "href": "https://api.surveymonkey.com/v3/surveys/419746127/pages/69200144",
+        "questions": [
+          {
+            "id": "258950313",
+            "position": 1,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Los miembros del equipo discutimos los problemas apasionadamente y sin reservarnos nuestras opiniones:"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/419746127/pages/69200144/questions/258950313",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "4- Casi siempre en particular en las situaciones más desafiantes",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826393538"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "3- Frecuentemente incluso en las situaciones más críticas",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826393539"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "2- Generalmente pero no tanto en situaciones complejas o retadoras",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826393540"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "1- Solo a veces, escasamente",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826393541"
+                }
+              ]
+            }
+          },
+          {
+            "id": "258950314",
+            "position": 2,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Podemos hablar directamente y de manera constructiva acerca de los comportamientos inefectivos que percibimos, los propios y los de mis colegas:"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/419746127/pages/69200144/questions/258950314",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "4- Casi siempre en particular en las situaciones más desafiantes",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826393542"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "3- Frecuentemente incluso en las situaciones más críticas",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826393543"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "2- Generalmente pero no tanto en situaciones complejas o retadoras",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826393544"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "1- Solo a veces, escasamente",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826393545"
+                }
+              ]
+            }
+          },
+          {
+            "id": "258950315",
+            "position": 3,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Sabemos en qué están trabajando nuestros colegas y cómo todos y cada uno contribuimos al bien colectivo del equipo:"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/419746127/pages/69200144/questions/258950315",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "4- Casi siempre en particular en las situaciones más desafiantes",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826393546"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "3- Frecuentemente incluso en las situaciones más críticas",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826393547"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "2- Generalmente pero no tanto en situaciones complejas o retadoras",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826393548"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "1- Solo a veces, escasamente",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826393549"
+                }
+              ]
+            }
+          },
+          {
+            "id": "258950316",
+            "position": 4,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Los miembros del equipo nos disculpamos en el momento oportuno y con toda sinceridad cuando nos damos cuenta de que dijimos o hicimos algo inadecuado o posiblemente perjudicial para el equipo:"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/419746127/pages/69200144/questions/258950316",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "4-Casi siempre en particular en las situaciones más desafiantes",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826393550"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "3- Frecuentemente incluso en las situaciones más críticas",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826393551"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "2- Generalmente pero no tanto en situaciones complejas o retadoras",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826393552"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "1- Solo a veces, escasamente",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826393553"
+                }
+              ]
+            }
+          },
+          {
+            "id": "258950317",
+            "position": 5,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Todos estamos dispuestos a hacer algunos sacrificios (por ejemplo, presupuesto, posiciones, discusiones…) en nuestros departamentos o áreas especializadas cuando entendemos que son por el bien del equipo y de la organización:"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/419746127/pages/69200144/questions/258950317",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "4- Casi siempre en particular en las situaciones más desafiantes",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826393554"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "3- Frecuentemente incluso en las situaciones más críticas",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826393555"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "2- Generalmente pero no tanto en situaciones complejas o retadoras",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826393556"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "1- Solo a veces, escasamente",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826393557"
+                }
+              ]
+            }
+          },
+          {
+            "id": "258950318",
+            "position": 6,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Los miembros del equipo reconocemos abiertamente nuestras debilidades y errores:"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/419746127/pages/69200144/questions/258950318",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "4- Casi siempre en particular en las situaciones más desafiantes",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826393558"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "3- Frecuentemente incluso en las situaciones más críticas",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826393559"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "2- Generalmente pero no tanto en situaciones complejas o retadoras",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826393560"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "1- Solo a veces, escasamente",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826393561"
+                }
+              ]
+            }
+          },
+          {
+            "id": "258950319",
+            "position": 7,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Nuestras reuniones son apasionantes, nunca aburridas:"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/419746127/pages/69200144/questions/258950319",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "4- Casi siempre en particular en las situaciones más desafiantes",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826393562"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "3- Frecuentemente incluso en las situaciones más críticas",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826393563"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "2- Generalmente pero no tanto en situaciones complejas o retadoras",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826393564"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "1- Solo a veces, escasamente",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826393565"
+                }
+              ]
+            }
+          },
+          {
+            "id": "258950330",
+            "position": 8,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Los miembros del equipo solicitan las opiniones de los demás durante las reuniones."
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/419746127/pages/69200144/questions/258950330",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "4- Casi siempre en particular en las situaciones más desafiantes",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826393636"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "3- Frecuentemente incluso en las situaciones más críticas",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826393637"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "2- Generalmente pero no tanto en situaciones complejas o retadoras",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826393638"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "1- Solo a veces, escasamente",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826393639"
+                }
+              ]
+            }
+          },
+          {
+            "id": "258950320",
+            "position": 9,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Salimos de nuestras reuniones confiados en que nuestros compañeros están por completo comprometidos con las decisiones que acordamos, aunque hubiera desacuerdos inicialmente:"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/419746127/pages/69200144/questions/258950320",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "4- Casi siempre en particular en las situaciones más desafiantes",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826393566"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "3- Frecuentemente incluso en las situaciones más críticas",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826393567"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "2- Generalmente pero no tanto en situaciones complejas o retadoras",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826393568"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "1- Solo a veces, escasamente",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826393569"
+                }
+              ]
+            }
+          },
+          {
+            "id": "258950321",
+            "position": 10,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Nos afecta de manera importante cuando no logramos las metas del equipo y de la empresa:"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/419746127/pages/69200144/questions/258950321",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "4- Casi siempre en particular en las situaciones más desafiantes",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826393570"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "3- Frecuentemente incluso en las situaciones más críticas",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826393571"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "2- Generalmente pero no tanto en situaciones complejas o retadoras",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826393572"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "1- Solo a veces, escasamente",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826393573"
+                }
+              ]
+            }
+          },
+          {
+            "id": "258950333",
+            "position": 11,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Los miembros del equipo valoran más el éxito colectivo que los logros individuales."
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/419746127/pages/69200144/questions/258950333",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "4-Casi siempre en particular en las situaciones más desafiantes",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826393654"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "3- Frecuentemente incluso en las situaciones más críticas",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826393655"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "2- Generalmente pero no tanto en situaciones complejas o retadoras",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826393656"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "1- Solo a veces, escasamente",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826393657"
+                }
+              ]
+            }
+          },
+          {
+            "id": "258950322",
+            "position": 12,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Durante nuestras reuniones, ponemos los asuntos más importantes y difíciles sobre la mesa para ser resueltos:"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/419746127/pages/69200144/questions/258950322",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "4- Casi siempre en particular en las situaciones más desafiantes",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826393574"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "3- Frecuentemente incluso en las situaciones más críticas",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826393575"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "2- Generalmente pero no tanto en situaciones complejas o retadoras",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826393576"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "1- Solo a veces, escasamente",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826393577"
+                }
+              ]
+            }
+          },
+          {
+            "id": "258950331",
+            "position": 13,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "El equipo tiene clara su dirección y sus prioridades."
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/419746127/pages/69200144/questions/258950331",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "4- Casi siempre en particular en las situaciones más desafiantes",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826393642"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "3- Frecuentemente incluso en las situaciones más críticas",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826393643"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "2- Generalmente pero no tanto en situaciones complejas o retadoras",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826393644"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "1- Solo a veces, escasamente",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826393645"
+                }
+              ]
+            }
+          },
+          {
+            "id": "258950323",
+            "position": 14,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "A todos nos preocupa seriamente la perspectiva de defraudar a nuestros compañeros:"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/419746127/pages/69200144/questions/258950323",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "4- Casi siempre en particular en las situaciones más desafiantes",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826393578"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "3- Frecuentemente incluso en las situaciones más críticas",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826393579"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "2- Generalmente pero no tanto en situaciones complejas o retadoras",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826393580"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "1- Solo a veces, escasamente",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826393581"
+                }
+              ]
+            }
+          },
+          {
+            "id": "258950329",
+            "position": 15,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Los miembros del equipo reconocen y aprovechan las habilidades y la experiencia de los demás:"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/419746127/pages/69200144/questions/258950329",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "4- Casi siempre en particular en las situaciones más desafiantes",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826393630"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "3- Frecuentemente incluso en las situaciones más críticas",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826393631"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "2- Generalmente pero no tanto en situaciones complejas o retadoras",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826393632"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "1- Solo a veces, escasamente",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826393633"
+                }
+              ]
+            }
+          },
+          {
+            "id": "258950324",
+            "position": 16,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Los miembros del equipo conocemos algunos elementos de la vida personal de nuestros compañeros y nos sentimos cómodos conversando sobre ellos:"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/419746127/pages/69200144/questions/258950324",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "4- Casi siempre en particular en las situaciones más desafiantes",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826393582"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "3- Frecuentemente incluso en las situaciones más críticas",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826393583"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "2- Generalmente pero no tanto en situaciones complejas o retadoras",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826393584"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "1- Solo a veces, escasamente",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826393585"
+                }
+              ]
+            }
+          },
+          {
+            "id": "258950325",
+            "position": 17,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "En los foros que compartimos, terminamos nuestros debates con resoluciones claras y específicas y la decisión y los elementos para actuar:"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/419746127/pages/69200144/questions/258950325",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "4- Casi siempre en particular en las situaciones más desafiantes",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826393586"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "3- Frecuentemente incluso en las situaciones más críticas",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826393587"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "2- Generalmente pero no tanto en situaciones complejas o retadoras",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826393588"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "1- Solo a veces, escasamente",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826393589"
+                }
+              ]
+            }
+          },
+          {
+            "id": "258950326",
+            "position": 18,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Nos desafiamos constructivamente unos a otros acerca de nuestras opiniones y planteamientos:"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/419746127/pages/69200144/questions/258950326",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "4- Casi siempre en particular en las situaciones más desafiantes",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826393590"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "3- Frecuentemente incluso en las situaciones más críticas",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826393591"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "2- Generalmente pero no tanto en situaciones complejas o retadoras",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826393592"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "1- Solo a veces, escasamente",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826393593"
+                }
+              ]
+            }
+          },
+          {
+            "id": "258950332",
+            "position": 19,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Cuando se produce un conflicto, el equipo se enfrenta y trata el asunto antes de pasar a otro tema."
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/419746127/pages/69200144/questions/258950332",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "4- Casi siempre en particular en las situaciones más desafiantes",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826393648"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "3- Frecuentemente incluso en las situaciones más críticas",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826393649"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "2- Generalmente pero no tanto en situaciones complejas o retadoras",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826393650"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "1- Solo a veces, escasamente",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826393651"
+                }
+              ]
+            }
+          },
+          {
+            "id": "258950327",
+            "position": 20,
+            "visible": true,
+            "family": "single_choice",
+            "subtype": "vertical",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Cuando nos reunimos, no mostramos tener prisa en destacar nuestras propias contribuciones, pero sí en reconocer las de los demás y las del equipo sin pérdida de tiempo:"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/419746127/pages/69200144/questions/258950327",
+            "answers": {
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "4- Casi siempre en particular en las situaciones más desafiantes",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826393594"
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "3- Frecuentemente incluso en las situaciones más críticas",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826393595"
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "2- Generalmente pero no tanto en situaciones complejas o retadoras",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826393596"
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "1- Solo a veces, escasamente",
+                  "quiz_options": {
+                    "score": 0
+                  },
+                  "id": "1826393597"
+                }
+              ]
+            }
+          },
+          {
+            "id": "258950334",
+            "position": 21,
+            "visible": true,
+            "family": "open_ended",
+            "subtype": "essay",
+            "layout": null,
+            "sorting": null,
+            "required": null,
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "¿Qué creen que es lo más valioso que podrían aprender para mejorar la efectividad del equipo?"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/419746127/pages/69200144/questions/258950334"
+          },
+          {
+            "id": "258950328",
+            "position": 22,
+            "visible": true,
+            "family": "open_ended",
+            "subtype": "essay",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "Ingrese por favor su nombre y apellido"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/419746127/pages/69200144/questions/258950328"
+          }
+        ]
+      }
+    ]
+  },
+  "responses": [
+    {
+      "id": "114931375078",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "216.194.102.81",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "437033367",
+      "survey_id": "419746127",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=fHBTSORth0VzXypdEMRjsnu8tm_2F2tYNVc0tlF82HahgWQb_2BmAhGonfsVf3k2cJEo",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/wW0lsGAHZC6GYhS15roOxucvOXOtGCIhxmAMafmEaxQ_3D?respondent_id=114931375078",
+      "total_time": 290,
+      "date_modified": "2025-09-03T16:20:45+00:00",
+      "date_created": "2025-09-03T16:15:54+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/419746127/responses/114931375078",
+      "pages": [
+        {
+          "id": "69200144",
+          "questions": [
+            {
+              "id": "258950313",
+              "answers": [
+                {
+                  "choice_id": "1826393541"
+                }
+              ]
+            },
+            {
+              "id": "258950314",
+              "answers": [
+                {
+                  "choice_id": "1826393545"
+                }
+              ]
+            },
+            {
+              "id": "258950315",
+              "answers": [
+                {
+                  "choice_id": "1826393547"
+                }
+              ]
+            },
+            {
+              "id": "258950316",
+              "answers": [
+                {
+                  "choice_id": "1826393553"
+                }
+              ]
+            },
+            {
+              "id": "258950317",
+              "answers": [
+                {
+                  "choice_id": "1826393555"
+                }
+              ]
+            },
+            {
+              "id": "258950318",
+              "answers": [
+                {
+                  "choice_id": "1826393561"
+                }
+              ]
+            },
+            {
+              "id": "258950319",
+              "answers": [
+                {
+                  "choice_id": "1826393565"
+                }
+              ]
+            },
+            {
+              "id": "258950330",
+              "answers": [
+                {
+                  "choice_id": "1826393639"
+                }
+              ]
+            },
+            {
+              "id": "258950320",
+              "answers": [
+                {
+                  "choice_id": "1826393569"
+                }
+              ]
+            },
+            {
+              "id": "258950321",
+              "answers": [
+                {
+                  "choice_id": "1826393570"
+                }
+              ]
+            },
+            {
+              "id": "258950333",
+              "answers": [
+                {
+                  "choice_id": "1826393656"
+                }
+              ]
+            },
+            {
+              "id": "258950322",
+              "answers": [
+                {
+                  "choice_id": "1826393577"
+                }
+              ]
+            },
+            {
+              "id": "258950331",
+              "answers": [
+                {
+                  "choice_id": "1826393644"
+                }
+              ]
+            },
+            {
+              "id": "258950323",
+              "answers": [
+                {
+                  "choice_id": "1826393581"
+                }
+              ]
+            },
+            {
+              "id": "258950329",
+              "answers": [
+                {
+                  "choice_id": "1826393632"
+                }
+              ]
+            },
+            {
+              "id": "258950324",
+              "answers": [
+                {
+                  "choice_id": "1826393585"
+                }
+              ]
+            },
+            {
+              "id": "258950325",
+              "answers": [
+                {
+                  "choice_id": "1826393589"
+                }
+              ]
+            },
+            {
+              "id": "258950326",
+              "answers": [
+                {
+                  "choice_id": "1826393592"
+                }
+              ]
+            },
+            {
+              "id": "258950332",
+              "answers": [
+                {
+                  "choice_id": "1826393650"
+                }
+              ]
+            },
+            {
+              "id": "258950327",
+              "answers": [
+                {
+                  "choice_id": "1826393597"
+                }
+              ]
+            },
+            {
+              "id": "258950334",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "solo reunirnos cuando haya algo que compartir. No por llenar espacios en la agenda"
+                }
+              ]
+            },
+            {
+              "id": "258950328",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Reynaldo Castillo"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "114931386982",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "216.194.102.81",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "437033367",
+      "survey_id": "419746127",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=blf5By6xwUz_2Fvi9AoVsfg7v6o7tM2wcOffG5hdeBI2x_2BD1VaXXOU3XE0qzFr_2FGib",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/wW0lsGAHZC6GYhS15roOxucvOXOtGCIhxmAMafmEaxQ_3D?respondent_id=114931386982",
+      "total_time": 1460,
+      "date_modified": "2025-09-03T16:35:42+00:00",
+      "date_created": "2025-09-03T16:11:21+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/419746127/responses/114931386982",
+      "pages": [
+        {
+          "id": "69200144",
+          "questions": [
+            {
+              "id": "258950313",
+              "answers": [
+                {
+                  "choice_id": "1826393540"
+                }
+              ]
+            },
+            {
+              "id": "258950314",
+              "answers": [
+                {
+                  "choice_id": "1826393544"
+                }
+              ]
+            },
+            {
+              "id": "258950315",
+              "answers": [
+                {
+                  "choice_id": "1826393548"
+                }
+              ]
+            },
+            {
+              "id": "258950316",
+              "answers": [
+                {
+                  "choice_id": "1826393553"
+                }
+              ]
+            },
+            {
+              "id": "258950317",
+              "answers": [
+                {
+                  "choice_id": "1826393555"
+                }
+              ]
+            },
+            {
+              "id": "258950318",
+              "answers": [
+                {
+                  "choice_id": "1826393560"
+                }
+              ]
+            },
+            {
+              "id": "258950319",
+              "answers": [
+                {
+                  "choice_id": "1826393563"
+                }
+              ]
+            },
+            {
+              "id": "258950330",
+              "answers": [
+                {
+                  "choice_id": "1826393637"
+                }
+              ]
+            },
+            {
+              "id": "258950320",
+              "answers": [
+                {
+                  "choice_id": "1826393568"
+                }
+              ]
+            },
+            {
+              "id": "258950321",
+              "answers": [
+                {
+                  "choice_id": "1826393571"
+                }
+              ]
+            },
+            {
+              "id": "258950333",
+              "answers": [
+                {
+                  "choice_id": "1826393657"
+                }
+              ]
+            },
+            {
+              "id": "258950322",
+              "answers": [
+                {
+                  "choice_id": "1826393575"
+                }
+              ]
+            },
+            {
+              "id": "258950331",
+              "answers": [
+                {
+                  "choice_id": "1826393644"
+                }
+              ]
+            },
+            {
+              "id": "258950323",
+              "answers": [
+                {
+                  "choice_id": "1826393579"
+                }
+              ]
+            },
+            {
+              "id": "258950329",
+              "answers": [
+                {
+                  "choice_id": "1826393632"
+                }
+              ]
+            },
+            {
+              "id": "258950324",
+              "answers": [
+                {
+                  "choice_id": "1826393584"
+                }
+              ]
+            },
+            {
+              "id": "258950325",
+              "answers": [
+                {
+                  "choice_id": "1826393587"
+                }
+              ]
+            },
+            {
+              "id": "258950326",
+              "answers": [
+                {
+                  "choice_id": "1826393592"
+                }
+              ]
+            },
+            {
+              "id": "258950332",
+              "answers": [
+                {
+                  "choice_id": "1826393650"
+                }
+              ]
+            },
+            {
+              "id": "258950327",
+              "answers": [
+                {
+                  "choice_id": "1826393596"
+                }
+              ]
+            },
+            {
+              "id": "258950334",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Eliminar posibles posturas y jerarquías, seleccionar la mejor decisión que le convenga a la organización independientemente de quién la haya tenido.  "
+                }
+              ]
+            },
+            {
+              "id": "258950328",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Xavier González"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "114933765533",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "216.194.102.88",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "437033367",
+      "survey_id": "419746127",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=LsbCiyd8nlX6CocG42bT0fO_2B1wRSWbMsvombg4Ya7j1d8cY6RX7PiVH8LUJW99Q5",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/wW0lsGAHZC6GYhS15roOxucvOXOtGCIhxmAMafmEaxQ_3D?respondent_id=114933765533",
+      "total_time": 461,
+      "date_modified": "2025-09-07T22:37:40+00:00",
+      "date_created": "2025-09-07T22:29:58+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/419746127/responses/114933765533",
+      "pages": [
+        {
+          "id": "69200144",
+          "questions": [
+            {
+              "id": "258950313",
+              "answers": [
+                {
+                  "choice_id": "1826393540"
+                }
+              ]
+            },
+            {
+              "id": "258950314",
+              "answers": [
+                {
+                  "choice_id": "1826393544"
+                }
+              ]
+            },
+            {
+              "id": "258950315",
+              "answers": [
+                {
+                  "choice_id": "1826393548"
+                }
+              ]
+            },
+            {
+              "id": "258950316",
+              "answers": [
+                {
+                  "choice_id": "1826393552"
+                }
+              ]
+            },
+            {
+              "id": "258950317",
+              "answers": [
+                {
+                  "choice_id": "1826393554"
+                }
+              ]
+            },
+            {
+              "id": "258950318",
+              "answers": [
+                {
+                  "choice_id": "1826393561"
+                }
+              ]
+            },
+            {
+              "id": "258950319",
+              "answers": [
+                {
+                  "choice_id": "1826393563"
+                }
+              ]
+            },
+            {
+              "id": "258950330",
+              "answers": [
+                {
+                  "choice_id": "1826393639"
+                }
+              ]
+            },
+            {
+              "id": "258950320",
+              "answers": [
+                {
+                  "choice_id": "1826393569"
+                }
+              ]
+            },
+            {
+              "id": "258950321",
+              "answers": [
+                {
+                  "choice_id": "1826393572"
+                }
+              ]
+            },
+            {
+              "id": "258950333",
+              "answers": [
+                {
+                  "choice_id": "1826393657"
+                }
+              ]
+            },
+            {
+              "id": "258950322",
+              "answers": [
+                {
+                  "choice_id": "1826393577"
+                }
+              ]
+            },
+            {
+              "id": "258950331",
+              "answers": [
+                {
+                  "choice_id": "1826393642"
+                }
+              ]
+            },
+            {
+              "id": "258950323",
+              "answers": [
+                {
+                  "choice_id": "1826393580"
+                }
+              ]
+            },
+            {
+              "id": "258950329",
+              "answers": [
+                {
+                  "choice_id": "1826393633"
+                }
+              ]
+            },
+            {
+              "id": "258950324",
+              "answers": [
+                {
+                  "choice_id": "1826393584"
+                }
+              ]
+            },
+            {
+              "id": "258950325",
+              "answers": [
+                {
+                  "choice_id": "1826393588"
+                }
+              ]
+            },
+            {
+              "id": "258950326",
+              "answers": [
+                {
+                  "choice_id": "1826393592"
+                }
+              ]
+            },
+            {
+              "id": "258950332",
+              "answers": [
+                {
+                  "choice_id": "1826393650"
+                }
+              ]
+            },
+            {
+              "id": "258950327",
+              "answers": [
+                {
+                  "choice_id": "1826393596"
+                }
+              ]
+            },
+            {
+              "id": "258950334",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Compartir mejores practicas"
+                }
+              ]
+            },
+            {
+              "id": "258950328",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Patricia Lorena Ruiz Campa"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "114935975463",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "149.20.192.64",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "437033367",
+      "survey_id": "419746127",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=AZGy7L6PSBY8R1R1qe198wXon2QeXd2C7Uh4gVpMKq0i61wR96WXkm_2F_2FIG0QeRyq",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/wW0lsGAHZC6GYhS15roOxucvOXOtGCIhxmAMafmEaxQ_3D?respondent_id=114935975463",
+      "total_time": 4053,
+      "date_modified": "2025-09-10T18:57:42+00:00",
+      "date_created": "2025-09-10T17:50:09+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/419746127/responses/114935975463",
+      "pages": [
+        {
+          "id": "69200144",
+          "questions": [
+            {
+              "id": "258950313",
+              "answers": [
+                {
+                  "choice_id": "1826393540"
+                }
+              ]
+            },
+            {
+              "id": "258950314",
+              "answers": [
+                {
+                  "choice_id": "1826393542"
+                }
+              ]
+            },
+            {
+              "id": "258950315",
+              "answers": [
+                {
+                  "choice_id": "1826393548"
+                }
+              ]
+            },
+            {
+              "id": "258950316",
+              "answers": [
+                {
+                  "choice_id": "1826393553"
+                }
+              ]
+            },
+            {
+              "id": "258950317",
+              "answers": [
+                {
+                  "choice_id": "1826393555"
+                }
+              ]
+            },
+            {
+              "id": "258950318",
+              "answers": [
+                {
+                  "choice_id": "1826393559"
+                }
+              ]
+            },
+            {
+              "id": "258950319",
+              "answers": [
+                {
+                  "choice_id": "1826393562"
+                }
+              ]
+            },
+            {
+              "id": "258950330",
+              "answers": [
+                {
+                  "choice_id": "1826393639"
+                }
+              ]
+            },
+            {
+              "id": "258950320",
+              "answers": [
+                {
+                  "choice_id": "1826393566"
+                }
+              ]
+            },
+            {
+              "id": "258950321",
+              "answers": [
+                {
+                  "choice_id": "1826393570"
+                }
+              ]
+            },
+            {
+              "id": "258950333",
+              "answers": [
+                {
+                  "choice_id": "1826393656"
+                }
+              ]
+            },
+            {
+              "id": "258950322",
+              "answers": [
+                {
+                  "choice_id": "1826393575"
+                }
+              ]
+            },
+            {
+              "id": "258950331",
+              "answers": [
+                {
+                  "choice_id": "1826393642"
+                }
+              ]
+            },
+            {
+              "id": "258950323",
+              "answers": [
+                {
+                  "choice_id": "1826393579"
+                }
+              ]
+            },
+            {
+              "id": "258950329",
+              "answers": [
+                {
+                  "choice_id": "1826393633"
+                }
+              ]
+            },
+            {
+              "id": "258950324",
+              "answers": [
+                {
+                  "choice_id": "1826393583"
+                }
+              ]
+            },
+            {
+              "id": "258950325",
+              "answers": [
+                {
+                  "choice_id": "1826393587"
+                }
+              ]
+            },
+            {
+              "id": "258950326",
+              "answers": [
+                {
+                  "choice_id": "1826393591"
+                }
+              ]
+            },
+            {
+              "id": "258950332",
+              "answers": [
+                {
+                  "choice_id": "1826393649"
+                }
+              ]
+            },
+            {
+              "id": "258950327",
+              "answers": [
+                {
+                  "choice_id": "1826393597"
+                }
+              ]
+            },
+            {
+              "id": "258950334",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Empatía, conocer funcionamiento de las otras áreas para buscar ayudar en bien de todo Sigma. Confiar en el conocimiento o expertise de la gente a cargo. Conocer las funciones (job description y AMR) para no duplicar o evitar áreas grises. "
+                }
+              ]
+            },
+            {
+              "id": "258950328",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Claudia Lorena Cabrera García"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "114937419733",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "216.194.102.81",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "437033367",
+      "survey_id": "419746127",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=0U_2FQW1xsFuzC4wxwJNWdCiv_2FHDjmRg6DioSnrSAfxgAjnpujZj6aZ3fwMcWPrMKf",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/wW0lsGAHZC6GYhS15roOxucvOXOtGCIhxmAMafmEaxQ_3D?respondent_id=114937419733",
+      "total_time": 560,
+      "date_modified": "2025-09-12T16:47:12+00:00",
+      "date_created": "2025-09-12T16:37:51+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/419746127/responses/114937419733",
+      "pages": [
+        {
+          "id": "69200144",
+          "questions": [
+            {
+              "id": "258950313",
+              "answers": [
+                {
+                  "choice_id": "1826393540"
+                }
+              ]
+            },
+            {
+              "id": "258950314",
+              "answers": [
+                {
+                  "choice_id": "1826393545"
+                }
+              ]
+            },
+            {
+              "id": "258950315",
+              "answers": [
+                {
+                  "choice_id": "1826393548"
+                }
+              ]
+            },
+            {
+              "id": "258950316",
+              "answers": [
+                {
+                  "choice_id": "1826393552"
+                }
+              ]
+            },
+            {
+              "id": "258950317",
+              "answers": [
+                {
+                  "choice_id": "1826393556"
+                }
+              ]
+            },
+            {
+              "id": "258950318",
+              "answers": [
+                {
+                  "choice_id": "1826393560"
+                }
+              ]
+            },
+            {
+              "id": "258950319",
+              "answers": [
+                {
+                  "choice_id": "1826393564"
+                }
+              ]
+            },
+            {
+              "id": "258950330",
+              "answers": [
+                {
+                  "choice_id": "1826393637"
+                }
+              ]
+            },
+            {
+              "id": "258950320",
+              "answers": [
+                {
+                  "choice_id": "1826393568"
+                }
+              ]
+            },
+            {
+              "id": "258950321",
+              "answers": [
+                {
+                  "choice_id": "1826393571"
+                }
+              ]
+            },
+            {
+              "id": "258950333",
+              "answers": [
+                {
+                  "choice_id": "1826393655"
+                }
+              ]
+            },
+            {
+              "id": "258950322",
+              "answers": [
+                {
+                  "choice_id": "1826393575"
+                }
+              ]
+            },
+            {
+              "id": "258950331",
+              "answers": [
+                {
+                  "choice_id": "1826393645"
+                }
+              ]
+            },
+            {
+              "id": "258950323",
+              "answers": [
+                {
+                  "choice_id": "1826393581"
+                }
+              ]
+            },
+            {
+              "id": "258950329",
+              "answers": [
+                {
+                  "choice_id": "1826393632"
+                }
+              ]
+            },
+            {
+              "id": "258950324",
+              "answers": [
+                {
+                  "choice_id": "1826393585"
+                }
+              ]
+            },
+            {
+              "id": "258950325",
+              "answers": [
+                {
+                  "choice_id": "1826393588"
+                }
+              ]
+            },
+            {
+              "id": "258950326",
+              "answers": [
+                {
+                  "choice_id": "1826393592"
+                }
+              ]
+            },
+            {
+              "id": "258950332",
+              "answers": [
+                {
+                  "choice_id": "1826393650"
+                }
+              ]
+            },
+            {
+              "id": "258950327",
+              "answers": [
+                {
+                  "choice_id": "1826393596"
+                }
+              ]
+            },
+            {
+              "id": "258950334",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Tener dirección clara. Que los pedidos se han claros y especificos teniendo claro el contexto. Valorar al equipo, ayudaría mucho mostrar ejemplos de lo que se pide porque muchas veces no esta claro. Trabajar en la inteligencia emocional para no mostrar molestia cuando hay discrepancias. "
+                }
+              ]
+            },
+            {
+              "id": "258950328",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Delia Guzmán Treviño "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "114939952993",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "216.194.102.92",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "437033367",
+      "survey_id": "419746127",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=K15MMOsdEHoV5FTX8rKp1eiA91zNiU5IiWYMJUqVQVJH_2BWue5n7s3mZ6fo834UK3",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/wW0lsGAHZC6GYhS15roOxucvOXOtGCIhxmAMafmEaxQ_3D?respondent_id=114939952993",
+      "total_time": 615,
+      "date_modified": "2025-09-16T20:49:08+00:00",
+      "date_created": "2025-09-16T20:38:52+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/419746127/responses/114939952993",
+      "pages": [
+        {
+          "id": "69200144",
+          "questions": [
+            {
+              "id": "258950313",
+              "answers": [
+                {
+                  "choice_id": "1826393541"
+                }
+              ]
+            },
+            {
+              "id": "258950314",
+              "answers": [
+                {
+                  "choice_id": "1826393545"
+                }
+              ]
+            },
+            {
+              "id": "258950315",
+              "answers": [
+                {
+                  "choice_id": "1826393546"
+                }
+              ]
+            },
+            {
+              "id": "258950316",
+              "answers": [
+                {
+                  "choice_id": "1826393552"
+                }
+              ]
+            },
+            {
+              "id": "258950317",
+              "answers": [
+                {
+                  "choice_id": "1826393555"
+                }
+              ]
+            },
+            {
+              "id": "258950318",
+              "answers": [
+                {
+                  "choice_id": "1826393561"
+                }
+              ]
+            },
+            {
+              "id": "258950319",
+              "answers": [
+                {
+                  "choice_id": "1826393563"
+                }
+              ]
+            },
+            {
+              "id": "258950330",
+              "answers": [
+                {
+                  "choice_id": "1826393636"
+                }
+              ]
+            },
+            {
+              "id": "258950320",
+              "answers": [
+                {
+                  "choice_id": "1826393567"
+                }
+              ]
+            },
+            {
+              "id": "258950321",
+              "answers": [
+                {
+                  "choice_id": "1826393570"
+                }
+              ]
+            },
+            {
+              "id": "258950333",
+              "answers": [
+                {
+                  "choice_id": "1826393655"
+                }
+              ]
+            },
+            {
+              "id": "258950322",
+              "answers": [
+                {
+                  "choice_id": "1826393576"
+                }
+              ]
+            },
+            {
+              "id": "258950331",
+              "answers": [
+                {
+                  "choice_id": "1826393645"
+                }
+              ]
+            },
+            {
+              "id": "258950323",
+              "answers": [
+                {
+                  "choice_id": "1826393579"
+                }
+              ]
+            },
+            {
+              "id": "258950329",
+              "answers": [
+                {
+                  "choice_id": "1826393630"
+                }
+              ]
+            },
+            {
+              "id": "258950324",
+              "answers": [
+                {
+                  "choice_id": "1826393582"
+                }
+              ]
+            },
+            {
+              "id": "258950325",
+              "answers": [
+                {
+                  "choice_id": "1826393588"
+                }
+              ]
+            },
+            {
+              "id": "258950326",
+              "answers": [
+                {
+                  "choice_id": "1826393591"
+                }
+              ]
+            },
+            {
+              "id": "258950332",
+              "answers": [
+                {
+                  "choice_id": "1826393650"
+                }
+              ]
+            },
+            {
+              "id": "258950327",
+              "answers": [
+                {
+                  "choice_id": "1826393596"
+                }
+              ]
+            },
+            {
+              "id": "258950334",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Como equipo nos conocemos bien y colaboramos muy bien juntos, alineamos prioridades y nos damos apoyo en las situaciones y en la búsqueda de los objetivos comunes. La situación con el nuevo liderazgo ha sido muy dificil los últimos meses. No logramos  alinearnos o entendernos, hay mucho retrabajo y desgaste, tenemos muy mala comunicación y eso esta generando una frustración constante en el equipo y a su vez en nuestros equipos que también se ven afectados por la situación. "
+                }
+              ]
+            },
+            {
+              "id": "258950328",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Maria Corina Carmona Nass"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "114940134022",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "216.194.102.30",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "437033367",
+      "survey_id": "419746127",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=72YRY5EojMHLsuBDfMeSxayNl3KuhTj2sYn0jnDbpujIMhDwriBI1YLXjsaa_2BPRZ",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/wW0lsGAHZC6GYhS15roOxucvOXOtGCIhxmAMafmEaxQ_3D?respondent_id=114940134022",
+      "total_time": 607,
+      "date_modified": "2025-09-17T02:26:03+00:00",
+      "date_created": "2025-09-17T02:15:56+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/419746127/responses/114940134022",
+      "pages": [
+        {
+          "id": "69200144",
+          "questions": [
+            {
+              "id": "258950313",
+              "answers": [
+                {
+                  "choice_id": "1826393538"
+                }
+              ]
+            },
+            {
+              "id": "258950314",
+              "answers": [
+                {
+                  "choice_id": "1826393542"
+                }
+              ]
+            },
+            {
+              "id": "258950315",
+              "answers": [
+                {
+                  "choice_id": "1826393546"
+                }
+              ]
+            },
+            {
+              "id": "258950316",
+              "answers": [
+                {
+                  "choice_id": "1826393550"
+                }
+              ]
+            },
+            {
+              "id": "258950317",
+              "answers": [
+                {
+                  "choice_id": "1826393554"
+                }
+              ]
+            },
+            {
+              "id": "258950318",
+              "answers": [
+                {
+                  "choice_id": "1826393558"
+                }
+              ]
+            },
+            {
+              "id": "258950319",
+              "answers": [
+                {
+                  "choice_id": "1826393562"
+                }
+              ]
+            },
+            {
+              "id": "258950330",
+              "answers": [
+                {
+                  "choice_id": "1826393636"
+                }
+              ]
+            },
+            {
+              "id": "258950320",
+              "answers": [
+                {
+                  "choice_id": "1826393567"
+                }
+              ]
+            },
+            {
+              "id": "258950321",
+              "answers": [
+                {
+                  "choice_id": "1826393570"
+                }
+              ]
+            },
+            {
+              "id": "258950333",
+              "answers": [
+                {
+                  "choice_id": "1826393654"
+                }
+              ]
+            },
+            {
+              "id": "258950322",
+              "answers": [
+                {
+                  "choice_id": "1826393574"
+                }
+              ]
+            },
+            {
+              "id": "258950331",
+              "answers": [
+                {
+                  "choice_id": "1826393642"
+                }
+              ]
+            },
+            {
+              "id": "258950323",
+              "answers": [
+                {
+                  "choice_id": "1826393578"
+                }
+              ]
+            },
+            {
+              "id": "258950329",
+              "answers": [
+                {
+                  "choice_id": "1826393630"
+                }
+              ]
+            },
+            {
+              "id": "258950324",
+              "answers": [
+                {
+                  "choice_id": "1826393582"
+                }
+              ]
+            },
+            {
+              "id": "258950325",
+              "answers": [
+                {
+                  "choice_id": "1826393586"
+                }
+              ]
+            },
+            {
+              "id": "258950326",
+              "answers": [
+                {
+                  "choice_id": "1826393590"
+                }
+              ]
+            },
+            {
+              "id": "258950332",
+              "answers": [
+                {
+                  "choice_id": "1826393648"
+                }
+              ]
+            },
+            {
+              "id": "258950327",
+              "answers": [
+                {
+                  "choice_id": "1826393594"
+                }
+              ]
+            },
+            {
+              "id": "258950334",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Creo que lo más valioso que podríamos aprender es cómo fortalecer la alineación, la claridad de prioridades y la confianza dentro del equipo, de manera que avancemos como uno solo, amplifiquemos nuestro impacto colectivo y aceleremos los resultados. Construir ese enfoque compartido y la confianza mutua nos hará no solo más efectivos en el día a día, sino también un motor de crecimiento más fuerte para la compañía."
+                }
+              ]
+            },
+            {
+              "id": "258950328",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Natalia Motta"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "114940172079",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "216.194.102.28",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "437033367",
+      "survey_id": "419746127",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=mtvdaTFfrUMxCHAD1CnNREEnTgVcXQHXho3jb5uzlJRcJC6711k65U2CPoard7mR",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/wW0lsGAHZC6GYhS15roOxucvOXOtGCIhxmAMafmEaxQ_3D?respondent_id=114940172079",
+      "total_time": 3181,
+      "date_modified": "2025-09-17T04:09:20+00:00",
+      "date_created": "2025-09-17T03:16:18+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/419746127/responses/114940172079",
+      "pages": [
+        {
+          "id": "69200144",
+          "questions": [
+            {
+              "id": "258950313",
+              "answers": [
+                {
+                  "choice_id": "1826393541"
+                }
+              ]
+            },
+            {
+              "id": "258950314",
+              "answers": [
+                {
+                  "choice_id": "1826393544"
+                }
+              ]
+            },
+            {
+              "id": "258950315",
+              "answers": [
+                {
+                  "choice_id": "1826393549"
+                }
+              ]
+            },
+            {
+              "id": "258950316",
+              "answers": [
+                {
+                  "choice_id": "1826393551"
+                }
+              ]
+            },
+            {
+              "id": "258950317",
+              "answers": [
+                {
+                  "choice_id": "1826393555"
+                }
+              ]
+            },
+            {
+              "id": "258950318",
+              "answers": [
+                {
+                  "choice_id": "1826393561"
+                }
+              ]
+            },
+            {
+              "id": "258950319",
+              "answers": [
+                {
+                  "choice_id": "1826393565"
+                }
+              ]
+            },
+            {
+              "id": "258950330",
+              "answers": [
+                {
+                  "choice_id": "1826393639"
+                }
+              ]
+            },
+            {
+              "id": "258950320",
+              "answers": [
+                {
+                  "choice_id": "1826393569"
+                }
+              ]
+            },
+            {
+              "id": "258950321",
+              "answers": [
+                {
+                  "choice_id": "1826393571"
+                }
+              ]
+            },
+            {
+              "id": "258950333",
+              "answers": [
+                {
+                  "choice_id": "1826393655"
+                }
+              ]
+            },
+            {
+              "id": "258950322",
+              "answers": [
+                {
+                  "choice_id": "1826393577"
+                }
+              ]
+            },
+            {
+              "id": "258950331",
+              "answers": [
+                {
+                  "choice_id": "1826393644"
+                }
+              ]
+            },
+            {
+              "id": "258950323",
+              "answers": [
+                {
+                  "choice_id": "1826393581"
+                }
+              ]
+            },
+            {
+              "id": "258950329",
+              "answers": [
+                {
+                  "choice_id": "1826393631"
+                }
+              ]
+            },
+            {
+              "id": "258950324",
+              "answers": [
+                {
+                  "choice_id": "1826393585"
+                }
+              ]
+            },
+            {
+              "id": "258950325",
+              "answers": [
+                {
+                  "choice_id": "1826393589"
+                }
+              ]
+            },
+            {
+              "id": "258950326",
+              "answers": [
+                {
+                  "choice_id": "1826393592"
+                }
+              ]
+            },
+            {
+              "id": "258950332",
+              "answers": [
+                {
+                  "choice_id": "1826393651"
+                }
+              ]
+            },
+            {
+              "id": "258950327",
+              "answers": [
+                {
+                  "choice_id": "1826393596"
+                }
+              ]
+            },
+            {
+              "id": "258950334",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Creo que entre el equipo si tenemos la confianza para buscarnos y decirnos cosas. Lo que se tiene que trabajar es con nuestro líder. Necesitamos que haya una comunicación clara y constructiva, pasar de juicios generales como \"todo está mal\" a retroalimentación puntual y con ejemplos. Usar un lenguaje respetuoso y profesional que motive la mejora en lugar de descalificar. Que se respete la cultura y los valores de Sigma, alinear las formas de trabajar con la cultura, evitar expresiones o actiudes que resten al ambiente de trabajo. Trabajar en la organización y consistencia en la gestión, la humildad, la empatía, respetar los horarios laborales. Trabajar mucho en escuchar con atención, retener lo hablado y dar seguimiento, para que el equipo no pierda tiempo en repeticiones o confusiones. Tener humildad para primero entender la cultura, el negocio, las categorías, los procesos, para poder tener un diagnóstico de donde estamos y planear bien como nos quieren llevar al nivel de marketing que se espera. Un liderazgo que inspira, enseña y forma."
+                }
+              ]
+            },
+            {
+              "id": "258950328",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Laura Bovio"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "114940562878",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "189.153.116.147",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "437033367",
+      "survey_id": "419746127",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=F7fbA0Ir7PqnPf6w3uwp_2FiHVBeDMMySeTyfBi1AkniG31up4OfKzxTx_2B2F7LvOHb",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/wW0lsGAHZC6GYhS15roOxucvOXOtGCIhxmAMafmEaxQ_3D?respondent_id=114940562878",
+      "total_time": 315,
+      "date_modified": "2025-09-17T15:52:57+00:00",
+      "date_created": "2025-09-17T15:47:42+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/419746127/responses/114940562878",
+      "pages": [
+        {
+          "id": "69200144",
+          "questions": [
+            {
+              "id": "258950313",
+              "answers": [
+                {
+                  "choice_id": "1826393540"
+                }
+              ]
+            },
+            {
+              "id": "258950314",
+              "answers": [
+                {
+                  "choice_id": "1826393544"
+                }
+              ]
+            },
+            {
+              "id": "258950315",
+              "answers": [
+                {
+                  "choice_id": "1826393547"
+                }
+              ]
+            },
+            {
+              "id": "258950316",
+              "answers": [
+                {
+                  "choice_id": "1826393552"
+                }
+              ]
+            },
+            {
+              "id": "258950317",
+              "answers": [
+                {
+                  "choice_id": "1826393555"
+                }
+              ]
+            },
+            {
+              "id": "258950318",
+              "answers": [
+                {
+                  "choice_id": "1826393559"
+                }
+              ]
+            },
+            {
+              "id": "258950319",
+              "answers": [
+                {
+                  "choice_id": "1826393564"
+                }
+              ]
+            },
+            {
+              "id": "258950330",
+              "answers": [
+                {
+                  "choice_id": "1826393638"
+                }
+              ]
+            },
+            {
+              "id": "258950320",
+              "answers": [
+                {
+                  "choice_id": "1826393568"
+                }
+              ]
+            },
+            {
+              "id": "258950321",
+              "answers": [
+                {
+                  "choice_id": "1826393571"
+                }
+              ]
+            },
+            {
+              "id": "258950333",
+              "answers": [
+                {
+                  "choice_id": "1826393655"
+                }
+              ]
+            },
+            {
+              "id": "258950322",
+              "answers": [
+                {
+                  "choice_id": "1826393576"
+                }
+              ]
+            },
+            {
+              "id": "258950331",
+              "answers": [
+                {
+                  "choice_id": "1826393644"
+                }
+              ]
+            },
+            {
+              "id": "258950323",
+              "answers": [
+                {
+                  "choice_id": "1826393579"
+                }
+              ]
+            },
+            {
+              "id": "258950329",
+              "answers": [
+                {
+                  "choice_id": "1826393632"
+                }
+              ]
+            },
+            {
+              "id": "258950324",
+              "answers": [
+                {
+                  "choice_id": "1826393583"
+                }
+              ]
+            },
+            {
+              "id": "258950325",
+              "answers": [
+                {
+                  "choice_id": "1826393588"
+                }
+              ]
+            },
+            {
+              "id": "258950326",
+              "answers": [
+                {
+                  "choice_id": "1826393591"
+                }
+              ]
+            },
+            {
+              "id": "258950332",
+              "answers": [
+                {
+                  "choice_id": "1826393650"
+                }
+              ]
+            },
+            {
+              "id": "258950327",
+              "answers": [
+                {
+                  "choice_id": "1826393595"
+                }
+              ]
+            },
+            {
+              "id": "258950334",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Escucha activa, y entendimiento de personalidades, alineacion de expectativas"
+                }
+              ]
+            },
+            {
+              "id": "258950328",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "Antonio Romero"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

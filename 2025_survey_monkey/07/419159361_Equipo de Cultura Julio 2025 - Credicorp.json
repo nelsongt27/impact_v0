@@ -1,0 +1,335 @@
+{
+  "_backup_metadata": {
+    "backed_up_at": "2026-04-27T18:45:18.843216+00:00",
+    "survey_id": "419159361",
+    "title": "Equipo de Cultura Julio 2025 - Credicorp",
+    "nickname": "",
+    "date_created": null,
+    "date_modified": "2025-07-15T17:11:00",
+    "response_count_listing": 1,
+    "response_count_fetched": 1,
+    "summary_href": "https://api.surveymonkey.com/v3/surveys/419159361"
+  },
+  "details": {
+    "title": "Equipo de Cultura Julio 2025 - Credicorp",
+    "nickname": "",
+    "language": "en",
+    "folder_id": "2337750",
+    "category": "",
+    "question_count": 6,
+    "page_count": 1,
+    "response_count": 1,
+    "date_created": "2025-07-14T13:57:00",
+    "date_modified": "2025-07-15T17:11:00",
+    "id": "419159361",
+    "buttons_text": {
+      "next_button": "Next",
+      "prev_button": "Prev",
+      "done_button": "Done",
+      "exit_button": ""
+    },
+    "is_owner": true,
+    "owner": "54118456",
+    "footer": true,
+    "theme_id": "21707798",
+    "template_id": null,
+    "custom_variables": {},
+    "href": "https://api.surveymonkey.com/v3/surveys/419159361",
+    "analyze_url": "https://www.surveymonkey.com/analyze/qQhLkos1CJujxOwV_2F54Y3r_2FHNGJnr5OACIJVesD5l9o_3D",
+    "edit_url": "https://www.surveymonkey.com/create/?sm=qQhLkos1CJujxOwV_2F54Y3r_2FHNGJnr5OACIJVesD5l9o_3D",
+    "collect_url": "https://www.surveymonkey.com/collect/list?sm=qQhLkos1CJujxOwV_2F54Y3r_2FHNGJnr5OACIJVesD5l9o_3D",
+    "summary_url": "https://www.surveymonkey.com/summary/qQhLkos1CJujxOwV_2F54Y3r_2FHNGJnr5OACIJVesD5l9o_3D",
+    "preview": "https://www.surveymonkey.com/r/Preview/?sm=w94tonGZ_2BEyBiluwYgVjAxH1jEjJaZ6Lfdn_2Bg7T2j25ayLL43LjVU7Wmw_2BUNvzsj",
+    "pages": [
+      {
+        "title": "Feedback",
+        "description": "<div><span style=\"color: #000080;\">Muchas gracias por haber participado del taller del día 08 de Julio.</span></div>\n<div><br></div>\n<div><span style=\"color: #000080;\">Esperamos que lo hayan disfrutado tanto como nosotros!</span></div>\n<div><br></div>\n<div><span style=\"color: #000080;\">Por favor, respondan debajo las preguntas con honestidad, evaluando en una escala de 1 - 5, siendo 1 la más baja y 5 la más alta.</span></div>",
+        "position": 1,
+        "question_count": 6,
+        "id": "67803138",
+        "href": "https://api.surveymonkey.com/v3/surveys/419159361/pages/67803138",
+        "questions": [
+          {
+            "id": "253163942",
+            "position": 1,
+            "visible": true,
+            "family": "matrix",
+            "subtype": "rating",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "<span style=\"color: #333399;\">El contenido y la experiencia fueron valiosos para potenciar mi rol dentro del Equipo de Cultura e identificar acciones concretas para generar mayor impacto.</span>"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/419159361/pages/67803138/questions/253163942",
+            "answers": {
+              "rows": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "",
+                  "id": "1788383099"
+                }
+              ],
+              "choices": [
+                {
+                  "position": 1,
+                  "visible": true,
+                  "text": "Muy en desacuerdo",
+                  "id": "1788383100",
+                  "is_na": false,
+                  "weight": 1,
+                  "description": ""
+                },
+                {
+                  "position": 2,
+                  "visible": true,
+                  "text": "En desacuerdo",
+                  "id": "1788383101",
+                  "is_na": false,
+                  "weight": 2,
+                  "description": ""
+                },
+                {
+                  "position": 3,
+                  "visible": true,
+                  "text": "Ni de acuerdo ni en desacuerdo (neutro)",
+                  "id": "1788383102",
+                  "is_na": false,
+                  "weight": 3,
+                  "description": ""
+                },
+                {
+                  "position": 4,
+                  "visible": true,
+                  "text": "De acuerdo",
+                  "id": "1788383103",
+                  "is_na": false,
+                  "weight": 4,
+                  "description": ""
+                },
+                {
+                  "position": 5,
+                  "visible": true,
+                  "text": "Muy de acuerdo",
+                  "id": "1788383104",
+                  "is_na": false,
+                  "weight": 5,
+                  "description": ""
+                }
+              ]
+            },
+            "display_options": {
+              "show_display_number": true,
+              "display_type": "emoji",
+              "display_subtype": "star",
+              "left_label_id": null,
+              "left_label": "",
+              "right_label_id": null,
+              "right_label": "",
+              "middle_label_id": null,
+              "middle_label": "",
+              "custom_options": {
+                "color": "#4a90e2",
+                "option_set": []
+              },
+              "file_upload_labels": {},
+              "max_diff_button_labels": {}
+            }
+          },
+          {
+            "id": "253163952",
+            "position": 2,
+            "visible": true,
+            "family": "presentation",
+            "subtype": "descriptive_text",
+            "layout": null,
+            "sorting": null,
+            "required": null,
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "<span style=\"color: #3366ff;\"><strong>Satisfacción:</strong></span>"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/419159361/pages/67803138/questions/253163952",
+            "display_options": {
+              "show_display_number": false
+            }
+          },
+          {
+            "id": "253163946",
+            "position": 3,
+            "visible": true,
+            "family": "open_ended",
+            "subtype": "single",
+            "layout": null,
+            "sorting": null,
+            "required": {
+              "text": "This question requires an answer.",
+              "type": "all",
+              "amount": "0"
+            },
+            "validation": {
+              "type": "integer",
+              "text": "Please enter a whole number between {0} and {1}.",
+              "max": "5",
+              "min": "0",
+              "sum": null,
+              "sum_text": ""
+            },
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "<span style=\"color: #333399;\">¿Qué tan satisfecho/a estás con el Offsite del Equipo Cultura?</span>"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/419159361/pages/67803138/questions/253163946",
+            "display_options": {
+              "show_display_number": true,
+              "display_type": "slider",
+              "display_subtype": "",
+              "left_label_id": "1788383129",
+              "left_label": "1 - Muy Insatisfecho",
+              "right_label_id": "1788383130",
+              "right_label": "5 - Muy Satisfecho",
+              "middle_label_id": "1788383143",
+              "middle_label": "Ni insatisfecho - Ni Satisfecho (Neutro)",
+              "custom_options": {
+                "starting_position": 0,
+                "step_size": 1,
+                "option_set": [
+                  "adjusted_scale"
+                ]
+              },
+              "file_upload_labels": {},
+              "max_diff_button_labels": {}
+            }
+          },
+          {
+            "id": "253163947",
+            "position": 4,
+            "visible": true,
+            "family": "open_ended",
+            "subtype": "essay",
+            "layout": null,
+            "sorting": null,
+            "required": null,
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "<span style=\"color: #333399;\">¿Qué es lo que más valoraste de la experiencia?</span>"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/419159361/pages/67803138/questions/253163947"
+          },
+          {
+            "id": "253163948",
+            "position": 5,
+            "visible": true,
+            "family": "open_ended",
+            "subtype": "essay",
+            "layout": null,
+            "sorting": null,
+            "required": null,
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "<span style=\"color: #333399;\">¿Qué cambiarías o agregarías para hacerlo más efectivo?</span>"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/419159361/pages/67803138/questions/253163948"
+          },
+          {
+            "id": "253163949",
+            "position": 6,
+            "visible": true,
+            "family": "presentation",
+            "subtype": "descriptive_text",
+            "layout": null,
+            "sorting": null,
+            "required": null,
+            "validation": null,
+            "forced_ranking": false,
+            "headings": [
+              {
+                "heading": "<strong><span style=\"color: #333399;\">Muchas gracias!</span></strong>"
+              }
+            ],
+            "href": "https://api.surveymonkey.com/v3/surveys/419159361/pages/67803138/questions/253163949",
+            "display_options": {
+              "show_display_number": false
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "responses": [
+    {
+      "id": "114899635657",
+      "recipient_id": "",
+      "collection_mode": "default",
+      "response_status": "completed",
+      "custom_value": "",
+      "first_name": "",
+      "last_name": "",
+      "email_address": "",
+      "ip_address": "163.116.229.135",
+      "logic_path": {},
+      "metadata": {
+        "contact": {}
+      },
+      "page_path": [],
+      "collector_id": "436448082",
+      "survey_id": "419159361",
+      "language": "en",
+      "custom_variables": {},
+      "edit_url": "https://www.surveymonkey.com/r/?sm=vVGAVpA57dZYO8nmxS5JnCmronOlSL0e1A_2B2Y83q4lkSoZpIQhFl3YTgdK6JtC6E",
+      "analyze_url": "https://www.surveymonkey.com/analyze/browse/qQhLkos1CJujxOwV_2F54Y3r_2FHNGJnr5OACIJVesD5l9o_3D?respondent_id=114899635657",
+      "total_time": 467,
+      "date_modified": "2025-07-15T17:10:45+00:00",
+      "date_created": "2025-07-15T17:02:58+00:00",
+      "href": "https://api.surveymonkey.com/v3/surveys/419159361/responses/114899635657",
+      "pages": [
+        {
+          "id": "67803138",
+          "questions": [
+            {
+              "id": "253163942",
+              "answers": [
+                {
+                  "choice_id": "1788383104",
+                  "row_id": "1788383099",
+                  "choice_metadata": {
+                    "weight": "5"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "253163946",
+              "answers": [
+                {
+                  "tag_data": [],
+                  "text": "4"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
