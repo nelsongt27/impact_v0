@@ -1,0 +1,72 @@
+@import "./tokens.css";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: var(--ax-font-sans);
+  font-size: var(--ax-text-base);
+  line-height: var(--ax-leading-normal);
+  color: var(--ax-text);
+  background: var(--ax-bg);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Editorial display headings — DM Serif Display, tight tracking, italic accent. */
+.ax-display {
+  font-family: var(--ax-font-display);
+  font-weight: 400;
+  letter-spacing: var(--ax-tracking-tight);
+  color: var(--ax-text-strong);
+  line-height: var(--ax-leading-tight);
+}
+
+.ax-eyebrow {
+  font-family: var(--ax-font-mono);
+  font-size: var(--ax-text-2xs);
+  letter-spacing: var(--ax-tracking-eyebrow);
+  text-transform: uppercase;
+  font-weight: var(--ax-weight-semibold);
+  color: var(--ax-text-subtle);
+}
+
+.ax-mono {
+  font-family: var(--ax-font-mono);
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
+
+/* Webkit scrollbar in the brand palette. */
+*::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+*::-webkit-scrollbar-track {
+  background: transparent;
+}
+*::-webkit-scrollbar-thumb {
+  background: var(--ax-ink-200);
+  border-radius: 5px;
+  border: 2px solid transparent;
+  background-clip: content-box;
+}
+*::-webkit-scrollbar-thumb:hover {
+  background: var(--ax-ink-300);
+  border: 2px solid transparent;
+  background-clip: content-box;
+}

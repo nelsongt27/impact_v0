@@ -1,0 +1,206 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Axialent · Impact Record</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Albert+Sans:wght@300;400;500;600;700&family=DM+Serif+Display:ital@0;1&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="export/tokens.css" />
+<link rel="stylesheet" href="src/app.css" />
+<style>
+  /* Page-specific layout */
+  .ax-shell { display: grid; grid-template-columns: 240px 1fr; min-height: 100vh; }
+  .ax-side {
+    border-right: 1px solid var(--ax-ink-100);
+    padding: 24px 20px;
+    background: var(--ax-bg);
+    display: flex; flex-direction: column; gap: 32px;
+    position: sticky; top: 0; height: 100vh; align-self: start;
+  }
+  .ax-side__brand { display: flex; align-items: center; gap: 10px; }
+  .ax-side__brand-mark { width: 28px; height: 28px; }
+  .ax-side__brand-text {
+    font-family: var(--ax-font-display); font-size: 22px;
+    color: var(--ax-ink-900); letter-spacing: -0.01em;
+  }
+  .ax-side__group-label { font-family: var(--ax-font-mono); font-size: 10px; letter-spacing: 0.16em; text-transform: uppercase; color: var(--ax-text-subtle); margin: 0 8px 8px; }
+  .ax-side__item {
+    display: flex; align-items: center; justify-content: space-between;
+    padding: 9px 12px; border-radius: 6px; cursor: pointer;
+    color: var(--ax-text-muted); font-size: 13.5px;
+    transition: all 120ms var(--ax-ease-standard);
+  }
+  .ax-side__item:hover { color: var(--ax-text); background: var(--ax-ink-50); }
+  .ax-side__item.is-active {
+    color: var(--ax-ink-900); background: transparent;
+    font-weight: 600;
+    position: relative;
+  }
+  .ax-side__item.is-active::before {
+    content: ''; position: absolute; left: -20px; top: 9px; bottom: 9px; width: 2px; background: var(--ax-amber-400);
+  }
+  .ax-side__tag {
+    font-family: var(--ax-font-mono); font-size: 9px; letter-spacing: 0.14em; text-transform: uppercase;
+    color: var(--ax-amber-700); background: var(--ax-amber-100); padding: 2px 6px; border-radius: 2px;
+  }
+
+  .ax-top {
+    height: 64px; display: flex; align-items: center; justify-content: space-between;
+    padding: 0 56px; border-bottom: 1px solid var(--ax-ink-100);
+    position: sticky; top: 0; background: var(--ax-bg); z-index: 5; backdrop-filter: blur(8px);
+  }
+  .ax-crumb { font-family: var(--ax-font-mono); font-size: 11px; letter-spacing: 0.06em; color: var(--ax-text-muted); text-transform: uppercase; }
+  .ax-crumb b { color: var(--ax-ink-900); font-weight: 600; }
+
+  .ax-page { padding: 32px 56px 96px; max-width: 1320px; }
+
+  .ax-foot {
+    border-top: 1px solid var(--ax-ink-100);
+    padding: 24px 56px; margin: 64px -56px 0;
+    font-family: var(--ax-font-mono); font-size: 11px; color: var(--ax-text-subtle);
+    display: flex; justify-content: space-between; gap: 24px; flex-wrap: wrap;
+  }
+</style>
+</head>
+<body>
+<div id="root"></div>
+
+<script src="https://unpkg.com/react@18.3.1/umd/react.development.js" integrity="sha384-hD6/rw4ppMLGNu3tX5cjIb+uRZ7UkRJ6BPkLpg4hAu/6onKUg4lLsHAs9EBPT82L" crossorigin="anonymous"></script>
+<script src="https://unpkg.com/react-dom@18.3.1/umd/react-dom.development.js" integrity="sha384-u6aeetuaXnQ38mYT8rp6sbXaQe3NL9t+IBXmnYxwkUI2Hw4bsp2Wvmx4yRQF1uAm" crossorigin="anonymous"></script>
+<script src="https://unpkg.com/@babel/standalone@7.29.0/babel.min.js" integrity="sha384-m08KidiNqLdpJqLq95G/LEi8Qvjl/xUYll3QILypMoQ65QorJ9Lvtp2RXYGBFj1y" crossorigin="anonymous"></script>
+
+<script type="text/babel" src="src/sparkle.jsx"></script>
+<script type="text/babel" src="src/icons.jsx"></script>
+<script type="text/babel" src="src/data.jsx"></script>
+<script type="text/babel" src="src/charts.jsx"></script>
+<script type="text/babel" src="src/overview.jsx"></script>
+
+<script type="text/babel" data-presets="react">
+(() => {
+const { useState } = React;
+const { Sparkle, SparkleTrio, Icons, OverviewSections } = window;
+const { Hero, KpiStrip, ActivityChart, ClientsAndTypes, QualityCoverage } = OverviewSections;
+
+const NAV = [
+  { label: 'Overview',         id: 'overview' },
+  { label: 'Clients',          id: 'clients' },
+  { label: 'Programs',         id: 'programs' },
+  { label: 'Pre → Post Impact', id: 'prepost', tag: 'Soon' },
+];
+
+const Sidebar = ({ active, onSelect }) => (
+  <aside className="ax-side" data-screen-label="Sidebar">
+    <div className="ax-side__brand">
+      <svg className="ax-side__brand-mark" viewBox="0 0 100 100" aria-hidden="true">
+        <path d="M50 0 C50 28, 72 50, 100 50 C72 50, 50 72, 50 100 C50 72, 28 50, 0 50 C28 50, 50 28, 50 0 Z" fill="var(--ax-ink-800)"/>
+      </svg>
+      <span className="ax-side__brand-text">Axialent</span>
+    </div>
+    <div>
+      <div className="ax-side__group-label">Impact Record</div>
+      <div style={{ display: 'flex', flexDirection: 'column', gap: 2 }}>
+        {NAV.map(n => (
+          <div key={n.id}
+               className={`ax-side__item ${active === n.id ? 'is-active' : ''}`}
+               onClick={() => onSelect(n.id)}>
+            <span>{n.label}</span>
+            {n.tag && <span className="ax-side__tag">{n.tag}</span>}
+          </div>
+        ))}
+      </div>
+    </div>
+    <div style={{ marginTop: 'auto', fontSize: 11, color: 'var(--ax-text-subtle)', fontFamily: 'var(--ax-font-mono)', lineHeight: 1.6 }}>
+      v0.1 · prototype<br />
+      Last sync · 2026-04-28
+    </div>
+  </aside>
+);
+
+const Topbar = ({ active }) => (
+  <header className="ax-top">
+    <div className="ax-crumb">
+      Impact Record · <b>{active === 'overview' ? 'Overview' : active === 'clients' ? 'Clients' : active === 'programs' ? 'Programs' : 'Pre → Post'}</b>
+    </div>
+    <div style={{ display: 'flex', gap: 12, alignItems: 'center' }}>
+      <div className="ax-search" style={{ width: 240 }}>
+        <Icons.Search size={14} />
+        <input placeholder="Search clients, programs…" />
+      </div>
+      <button className="ax-btn ax-btn--secondary ax-btn--sm">
+        <Icons.Calendar size={14} /> 2010 – 2026
+      </button>
+      <button className="ax-btn ax-btn--primary ax-btn--sm">
+        <Icons.Download size={14} /> Export PDF
+      </button>
+    </div>
+  </header>
+);
+
+const ComingSoon = () => (
+  <section style={{ padding: '120px 0', textAlign: 'center' }}>
+    <div style={{ display: 'inline-flex', flexDirection: 'column', alignItems: 'center', gap: 24, maxWidth: 560 }}>
+      <SparkleTrio size={80} color="var(--ax-amber-400)" />
+      <div>
+        <div className="ax-eyebrow">Roadmap</div>
+        <h2 className="ax-display" style={{ fontSize: 44, marginTop: 12, lineHeight: 1.1 }}>
+          Pre → Post <span style={{ fontStyle: 'italic', color: 'var(--ax-ink-400)' }}>impact analysis.</span>
+        </h2>
+      </div>
+      <p style={{ color: 'var(--ax-text-muted)', fontSize: 16, lineHeight: 1.6 }}>
+        Coming soon — delta analysis on the <b style={{ color: 'var(--ax-ink-900)' }}>17 baseline diagnostics</b> and
+        <b style={{ color: 'var(--ax-ink-900)' }}> 23 endlines</b> already in record. We'll show shifts in mindset,
+        team performance, and conscious-business behaviors per program.
+      </p>
+      <div style={{ display: 'flex', gap: 24, marginTop: 8, fontFamily: 'var(--ax-font-mono)', fontSize: 11, color: 'var(--ax-text-subtle)', letterSpacing: '0.06em' }}>
+        <span>17 PRE</span><span>·</span><span>205 POST</span><span>·</span><span>23 MID</span>
+      </div>
+    </div>
+  </section>
+);
+
+const ListPlaceholder = ({ kind }) => (
+  <section style={{ padding: '64px 0', textAlign: 'center', color: 'var(--ax-text-muted)' }}>
+    <div className="ax-eyebrow">Section · {kind}</div>
+    <h2 className="ax-display" style={{ fontSize: 36, marginTop: 12, color: 'var(--ax-ink-900)' }}>{kind} drilldown</h2>
+    <p style={{ marginTop: 8, fontSize: 14 }}>Detailed view ships in v0.2 — pick a row from the {kind.toLowerCase()} list to drill in.</p>
+  </section>
+);
+
+const App = () => {
+  const [active, setActive] = useState('overview');
+  return (
+    <div className="ax-shell" data-screen-label="Axialent Impact Dashboard">
+      <Sidebar active={active} onSelect={setActive} />
+      <main>
+        <Topbar active={active} />
+        <div className="ax-page">
+          {active === 'overview' && (
+            <>
+              <Hero />
+              <KpiStrip />
+              <ActivityChart />
+              <ClientsAndTypes />
+              <QualityCoverage />
+            </>
+          )}
+          {active === 'clients'  && <ListPlaceholder kind="Clients" />}
+          {active === 'programs' && <ListPlaceholder kind="Programs" />}
+          {active === 'prepost'  && <ComingSoon />}
+
+          <div className="ax-foot">
+            <span>Source · surveys_normalized.json · 593 records</span>
+            <span>Axialent · Impact Record · v0.1 prototype · 2026</span>
+          </div>
+        </div>
+      </main>
+    </div>
+  );
+};
+
+ReactDOM.createRoot(document.getElementById('root')).render(<App />);
+})();
+</script>
+</body>
+</html>

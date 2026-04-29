@@ -1,0 +1,25 @@
+# Secrets
+.env
+.env.local
+
+# Raw extraction outputs (private — contain individual survey responses)
+data/forms_index.json
+data/forms/
+data/responses/
+data/state.json
+2025_survey_monkey/
+
+# Normalized data IS tracked (consumed by Next.js at build)
+# data/normalized/ — committed
+
+# Bun / Node / Next
+node_modules/
+bun.lockb
+.next/
+out/
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+*.swp

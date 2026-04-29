@@ -1,0 +1,418 @@
+{
+  "generated_at": "2026-04-29T18:02:49.670Z",
+  "total_surveys": 205,
+  "total_responses": 2623,
+  "by_source": {
+    "typeform": {
+      "surveys": 86,
+      "responses": 504
+    },
+    "surveymonkey": {
+      "surveys": 119,
+      "responses": 2119
+    }
+  },
+  "by_family": {
+    "internal_clients_perception": {
+      "surveys": 3,
+      "responses": 0
+    },
+    "coaching_reflection": {
+      "surveys": 23,
+      "responses": 128
+    },
+    "participant_reflection": {
+      "surveys": 92,
+      "responses": 2172
+    },
+    "facilitator_debrief": {
+      "surveys": 23,
+      "responses": 32
+    },
+    "unknown": {
+      "surveys": 8,
+      "responses": 13
+    },
+    "coaching_process": {
+      "surveys": 16,
+      "responses": 46
+    },
+    "prework": {
+      "surveys": 3,
+      "responses": 25
+    },
+    "team_diagnostic": {
+      "surveys": 10,
+      "responses": 74
+    },
+    "remesh_feedback": {
+      "surveys": 2,
+      "responses": 2
+    },
+    "client_needs": {
+      "surveys": 2,
+      "responses": 0
+    },
+    "impact_roi": {
+      "surveys": 3,
+      "responses": 1
+    },
+    "afns_gym": {
+      "surveys": 13,
+      "responses": 0
+    },
+    "coach_selection": {
+      "surveys": 5,
+      "responses": 27
+    },
+    "pulse_check": {
+      "surveys": 2,
+      "responses": 103
+    }
+  },
+  "by_client": {
+    "BCI": {
+      "surveys": 10,
+      "responses": 8
+    },
+    "Nocnoc": {
+      "surveys": 4,
+      "responses": 2
+    },
+    "Peñafiel": {
+      "surveys": 3,
+      "responses": 12
+    },
+    "Electrolit": {
+      "surveys": 9,
+      "responses": 76
+    },
+    "(unmatched)": {
+      "surveys": 62,
+      "responses": 212
+    },
+    "Mibanco": {
+      "surveys": 2,
+      "responses": 21
+    },
+    "Pomelo": {
+      "surveys": 6,
+      "responses": 12
+    },
+    "Scenic": {
+      "surveys": 3,
+      "responses": 16
+    },
+    "Aleatica": {
+      "surveys": 5,
+      "responses": 34
+    },
+    "AWS": {
+      "surveys": 5,
+      "responses": 10
+    },
+    "Ingram Micro": {
+      "surveys": 6,
+      "responses": 21
+    },
+    "Axialent": {
+      "surveys": 13,
+      "responses": 0
+    },
+    "PartnerRe": {
+      "surveys": 5,
+      "responses": 69
+    },
+    "Straumann": {
+      "surveys": 2,
+      "responses": 3
+    },
+    "Despegar": {
+      "surveys": 11,
+      "responses": 166
+    },
+    "CPM": {
+      "surveys": 1,
+      "responses": 40
+    },
+    "Credicorp": {
+      "surveys": 20,
+      "responses": 870
+    },
+    "P&G": {
+      "surveys": 5,
+      "responses": 29
+    },
+    "Telus": {
+      "surveys": 7,
+      "responses": 759
+    },
+    "Danone": {
+      "surveys": 6,
+      "responses": 23
+    },
+    "CIRION": {
+      "surveys": 9,
+      "responses": 158
+    },
+    "Nemak": {
+      "surveys": 1,
+      "responses": 0
+    },
+    "PCP": {
+      "surveys": 1,
+      "responses": 13
+    },
+    "Root Capital": {
+      "surveys": 1,
+      "responses": 1
+    },
+    "Tecnobit": {
+      "surveys": 1,
+      "responses": 0
+    },
+    "Supervia": {
+      "surveys": 1,
+      "responses": 6
+    },
+    "SIGMA": {
+      "surveys": 3,
+      "responses": 19
+    },
+    "Grupo Posadas": {
+      "surveys": 2,
+      "responses": 43
+    },
+    "Oesía": {
+      "surveys": 1,
+      "responses": 0
+    }
+  },
+  "by_program": {
+    "(unmatched)": {
+      "surveys": 83,
+      "responses": 164
+    },
+    "BCI Innovación & Datos": {
+      "surveys": 4,
+      "responses": 7
+    },
+    "Nocnoc Coaching": {
+      "surveys": 4,
+      "responses": 2
+    },
+    "Peñafiel Workshops": {
+      "surveys": 2,
+      "responses": 1
+    },
+    "Electrolit Workshops": {
+      "surveys": 4,
+      "responses": 23
+    },
+    "Mibanco Workshops": {
+      "surveys": 2,
+      "responses": 21
+    },
+    "Scenic Offsite": {
+      "surveys": 3,
+      "responses": 16
+    },
+    "Aleatica SSO Offsite": {
+      "surveys": 2,
+      "responses": 34
+    },
+    "AWS Business Dev Growth & Engagement": {
+      "surveys": 2,
+      "responses": 5
+    },
+    "AWS Latam Business LT": {
+      "surveys": 3,
+      "responses": 5
+    },
+    "Ingram Micro Sr. Staff": {
+      "surveys": 2,
+      "responses": 12
+    },
+    "Axialent AI Adoption (Partners)": {
+      "surveys": 1,
+      "responses": 0
+    },
+    "PartnerRe Workshops 2026": {
+      "surveys": 2,
+      "responses": 34
+    },
+    "Fintech Product ELT": {
+      "surveys": 1,
+      "responses": 7
+    },
+    "MP Product ELT": {
+      "surveys": 1,
+      "responses": 3
+    },
+    "Straumann Workshops": {
+      "surveys": 2,
+      "responses": 3
+    },
+    "Despegar LT+": {
+      "surveys": 9,
+      "responses": 152
+    },
+    "CPM CBA & AI Coach": {
+      "surveys": 1,
+      "responses": 40
+    },
+    "Leadership Summit": {
+      "surveys": 1,
+      "responses": 0
+    },
+    "PartnerRe Offsite 2026": {
+      "surveys": 1,
+      "responses": 11
+    },
+    "Cultura Credicorp": {
+      "surveys": 13,
+      "responses": 754
+    },
+    "Building AI Driven Cultures": {
+      "surveys": 2,
+      "responses": 34
+    },
+    "Peñafiel Lencioni": {
+      "surveys": 1,
+      "responses": 11
+    },
+    "Electrolit Coaching": {
+      "surveys": 2,
+      "responses": 35
+    },
+    "P&G Fem Care": {
+      "surveys": 2,
+      "responses": 16
+    },
+    "TELUS Development Lab": {
+      "surveys": 2,
+      "responses": 10
+    },
+    "TELUS Innovation Lab": {
+      "surveys": 3,
+      "responses": 19
+    },
+    "Danone TopLine": {
+      "surveys": 3,
+      "responses": 19
+    },
+    "CIRION Conversaciones Desafiantes": {
+      "surveys": 9,
+      "responses": 158
+    },
+    "Telus Beyond": {
+      "surveys": 1,
+      "responses": 730
+    },
+    "Danone Coaching": {
+      "surveys": 3,
+      "responses": 4
+    },
+    "Ingram Micro": {
+      "surveys": 2,
+      "responses": 0
+    },
+    "Safety Program": {
+      "surveys": 3,
+      "responses": 68
+    },
+    "TELUS Coaching": {
+      "surveys": 1,
+      "responses": 0
+    },
+    "Nemak Workshops": {
+      "surveys": 1,
+      "responses": 0
+    },
+    "Comité BAP Pulse": {
+      "surveys": 2,
+      "responses": 103
+    },
+    "PCP Managing Excellence": {
+      "surveys": 1,
+      "responses": 13
+    },
+    "Ingram Micro Multiplicadores": {
+      "surveys": 2,
+      "responses": 9
+    },
+    "Root Capital Coaching": {
+      "surveys": 1,
+      "responses": 1
+    },
+    "Pomelo LT Offsite": {
+      "surveys": 1,
+      "responses": 0
+    },
+    "P&G Baby Care": {
+      "surveys": 3,
+      "responses": 13
+    },
+    "BCI Coaching": {
+      "surveys": 2,
+      "responses": 1
+    },
+    "Pomelo Coaching": {
+      "surveys": 1,
+      "responses": 0
+    },
+    "BCI Workshops": {
+      "surveys": 1,
+      "responses": 0
+    },
+    "Tecnobit Formación Gestores": {
+      "surveys": 1,
+      "responses": 0
+    },
+    "Supervia Workshops": {
+      "surveys": 1,
+      "responses": 6
+    },
+    "SIGMA Marketing Lencioni": {
+      "surveys": 2,
+      "responses": 9
+    },
+    "Grupo Posadas Workshops": {
+      "surveys": 2,
+      "responses": 43
+    },
+    "SIGMA Workshops": {
+      "surveys": 1,
+      "responses": 10
+    },
+    "Oesía Masterclass": {
+      "surveys": 1,
+      "responses": 0
+    },
+    "Aleatica Coaching": {
+      "surveys": 2,
+      "responses": 0
+    },
+    "Aleatica ExCo Coaching": {
+      "surveys": 1,
+      "responses": 0
+    },
+    "Electrolit Lencioni": {
+      "surveys": 1,
+      "responses": 9
+    },
+    "Despegar Team Baseline": {
+      "surveys": 1,
+      "responses": 8
+    }
+  },
+  "flagged": {
+    "templates": 19,
+    "tests": 5,
+    "excluded": 18,
+    "no_responses": 88,
+    "unmatched_client": 38,
+    "unmatched_program": 59,
+    "unmatched_family": 3
+  }
+}

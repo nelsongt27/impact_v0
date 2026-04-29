@@ -1,0 +1,208 @@
+/* ============================================================
+   AXIALENT DESIGN SYSTEM — Design Tokens
+   Generated for the Impact Dashboard
+   ============================================================
+   Brand reference: Axialent Brand Book — Dec 2025
+   Use these custom properties as the single source of truth.
+   ============================================================ */
+
+:root {
+  /* ----------  BRAND COLORS  ---------- */
+  /* Primary */
+  --ax-ink:           #1D2F5E;   /* Primary deep navy   — logotype, headlines */
+  --ax-amber:         #F3B230;   /* Primary amber       — accents, sparkles  */
+
+  /* Secondary */
+  --ax-cyan:          #3CB3D6;
+  --ax-cobalt:        #2275AA;
+
+  /* Ink scale (navy hue, neutralized) */
+  --ax-ink-50:        #F4F5F8;
+  --ax-ink-100:       #E6E9F0;
+  --ax-ink-200:       #C8CEDD;
+  --ax-ink-300:       #99A3BC;
+  --ax-ink-400:       #6B7796;
+  --ax-ink-500:       #475270;
+  --ax-ink-600:       #2F3A57;
+  --ax-ink-700:       #25324F;
+  --ax-ink-800:       #1D2F5E;   /* === ax-ink */
+  --ax-ink-900:       #0F1A38;
+  --ax-ink-950:       #070D20;
+
+  /* Amber scale */
+  --ax-amber-50:      #FEF8E9;
+  --ax-amber-100:     #FCEDC2;
+  --ax-amber-200:     #F9DC8A;
+  --ax-amber-300:     #F6C957;
+  --ax-amber-400:     #F3B230;   /* === ax-amber */
+  --ax-amber-500:     #D9962A;
+  --ax-amber-600:     #B07920;
+  --ax-amber-700:     #855B18;
+
+  /* Warm neutrals (paper) */
+  --ax-paper:         #FBFAF6;
+  --ax-paper-2:       #F5F3EC;
+  --ax-paper-3:       #ECE9DF;
+
+  /* Pure neutrals */
+  --ax-white:         #FFFFFF;
+  --ax-black:         #0A0A0A;
+
+  /* ----------  SEMANTIC COLOR ROLES  ---------- */
+  --ax-bg:            var(--ax-paper);
+  --ax-bg-elev:       var(--ax-white);
+  --ax-bg-sunken:     var(--ax-paper-2);
+  --ax-surface:       var(--ax-white);
+  --ax-surface-2:     var(--ax-ink-50);
+
+  --ax-text:          var(--ax-ink-900);
+  --ax-text-strong:   var(--ax-ink-950);
+  --ax-text-muted:    var(--ax-ink-500);
+  --ax-text-subtle:   var(--ax-ink-400);
+  --ax-text-on-ink:   var(--ax-paper);
+  --ax-text-on-amber: var(--ax-ink-900);
+
+  --ax-border:        var(--ax-ink-100);
+  --ax-border-strong: var(--ax-ink-200);
+  --ax-border-ink:    var(--ax-ink-800);
+
+  --ax-accent:        var(--ax-amber-400);
+  --ax-accent-soft:   var(--ax-amber-100);
+  --ax-focus-ring:    color-mix(in oklab, var(--ax-amber-400) 70%, white);
+
+  /* Status (kept brand-aligned: positive = amber, neutral/negative = ink) */
+  --ax-positive:      var(--ax-amber-400);
+  --ax-positive-soft: var(--ax-amber-50);
+  --ax-negative:      #B23A3A;             /* low-saturation brick, only for hard alerts */
+  --ax-negative-soft: #F8E5E2;
+  --ax-info:          var(--ax-cobalt);
+  --ax-info-soft:     #E3F1F8;
+
+  /* Data-viz palette (aligned with brand; ordered for series) */
+  --ax-data-1:        var(--ax-ink-800);
+  --ax-data-2:        var(--ax-amber-400);
+  --ax-data-3:        var(--ax-cobalt);
+  --ax-data-4:        var(--ax-cyan);
+  --ax-data-5:        var(--ax-ink-400);
+  --ax-data-6:        var(--ax-amber-200);
+
+  /* ----------  TYPOGRAPHY  ---------- */
+  --ax-font-display: "DM Serif Display", "Playfair Display", Georgia, serif;
+  --ax-font-sans:    "Albert Sans", "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  --ax-font-mono:    "JetBrains Mono", "IBM Plex Mono", ui-monospace, SFMono-Regular, Menlo, monospace;
+
+  /* Type scale (rem, 1rem = 16px) */
+  --ax-text-2xs:    0.6875rem;  /* 11 */
+  --ax-text-xs:     0.75rem;    /* 12 */
+  --ax-text-sm:     0.8125rem;  /* 13 */
+  --ax-text-base:   0.9375rem;  /* 15 */
+  --ax-text-md:     1rem;       /* 16 */
+  --ax-text-lg:     1.125rem;   /* 18 */
+  --ax-text-xl:     1.375rem;   /* 22 */
+  --ax-text-2xl:    1.75rem;    /* 28 */
+  --ax-text-3xl:    2.25rem;    /* 36 */
+  --ax-text-4xl:    3rem;       /* 48 */
+  --ax-text-5xl:    4rem;       /* 64 */
+
+  /* Line heights */
+  --ax-leading-tight:  1.1;
+  --ax-leading-snug:   1.25;
+  --ax-leading-normal: 1.5;
+  --ax-leading-loose:  1.7;
+
+  /* Tracking */
+  --ax-tracking-tight: -0.02em;
+  --ax-tracking-normal: 0;
+  --ax-tracking-wide:  0.04em;
+  --ax-tracking-eyebrow: 0.14em;
+
+  /* Weights */
+  --ax-weight-regular: 400;
+  --ax-weight-medium:  500;
+  --ax-weight-semibold:600;
+  --ax-weight-bold:    700;
+
+  /* ----------  SPACING (4-pt grid)  ---------- */
+  --ax-space-0:   0;
+  --ax-space-1:   0.25rem;   /* 4  */
+  --ax-space-2:   0.5rem;    /* 8  */
+  --ax-space-3:   0.75rem;   /* 12 */
+  --ax-space-4:   1rem;      /* 16 */
+  --ax-space-5:   1.5rem;    /* 24 */
+  --ax-space-6:   2rem;      /* 32 */
+  --ax-space-7:   2.5rem;    /* 40 */
+  --ax-space-8:   3rem;      /* 48 */
+  --ax-space-9:   4rem;      /* 64 */
+  --ax-space-10:  5rem;      /* 80 */
+  --ax-space-11:  6rem;      /* 96 */
+
+  /* ----------  RADIUS  ---------- */
+  --ax-radius-xs:  2px;
+  --ax-radius-sm:  4px;
+  --ax-radius-md:  8px;
+  --ax-radius-lg:  12px;
+  --ax-radius-xl:  20px;
+  --ax-radius-2xl: 28px;
+  --ax-radius-pill: 9999px;
+
+  /* ----------  SHADOWS (warm, low-saturation)  ---------- */
+  --ax-shadow-xs: 0 1px 2px rgba(29, 47, 94, 0.04);
+  --ax-shadow-sm: 0 1px 3px rgba(29, 47, 94, 0.06), 0 1px 2px rgba(29, 47, 94, 0.04);
+  --ax-shadow-md: 0 4px 12px rgba(29, 47, 94, 0.06), 0 2px 4px rgba(29, 47, 94, 0.04);
+  --ax-shadow-lg: 0 12px 32px rgba(29, 47, 94, 0.08), 0 4px 8px rgba(29, 47, 94, 0.04);
+  --ax-shadow-xl: 0 24px 64px rgba(29, 47, 94, 0.12);
+  --ax-shadow-inset: inset 0 1px 0 rgba(255,255,255,0.6);
+
+  /* ----------  MOTION  ---------- */
+  --ax-ease-standard: cubic-bezier(0.2, 0.8, 0.2, 1);
+  --ax-ease-emphasized: cubic-bezier(0.16, 1, 0.3, 1);
+  --ax-duration-fast: 120ms;
+  --ax-duration-base: 200ms;
+  --ax-duration-slow: 360ms;
+
+  /* ----------  Z-LAYERS  ---------- */
+  --ax-z-base:    0;
+  --ax-z-raised:  10;
+  --ax-z-overlay: 100;
+  --ax-z-modal:   1000;
+  --ax-z-toast:   2000;
+
+  /* ----------  LAYOUT  ---------- */
+  --ax-content-max: 1440px;
+  --ax-sidebar-w:   272px;
+  --ax-topbar-h:    64px;
+  --ax-density:     1; /* multiplier for paddings; 0.85 compact, 1.15 cozy */
+}
+
+/* ----------  DARK THEME  ---------- */
+[data-theme="dark"] {
+  --ax-bg:            var(--ax-ink-950);
+  --ax-bg-elev:       var(--ax-ink-900);
+  --ax-bg-sunken:     #050a18;
+  --ax-surface:       #14213F;
+  --ax-surface-2:     #192747;
+
+  --ax-text:          #E6E9F0;
+  --ax-text-strong:   #FFFFFF;
+  --ax-text-muted:    #99A3BC;
+  --ax-text-subtle:   #6B7796;
+  --ax-text-on-ink:   #E6E9F0;
+
+  --ax-border:        rgba(230, 233, 240, 0.08);
+  --ax-border-strong: rgba(230, 233, 240, 0.16);
+  --ax-border-ink:    var(--ax-amber-400);
+
+  --ax-accent-soft:   rgba(243, 178, 48, 0.16);
+  --ax-info-soft:     rgba(34, 117, 170, 0.18);
+  --ax-positive-soft: rgba(243, 178, 48, 0.14);
+  --ax-negative-soft: rgba(178, 58, 58, 0.18);
+
+  --ax-shadow-sm: 0 1px 3px rgba(0,0,0,0.4);
+  --ax-shadow-md: 0 4px 12px rgba(0,0,0,0.4);
+  --ax-shadow-lg: 0 12px 32px rgba(0,0,0,0.5);
+}
+
+/* ----------  DENSITY  ---------- */
+[data-density="compact"]   { --ax-density: 0.85; }
+[data-density="cozy"]      { --ax-density: 1; }
+[data-density="comfortable"]{ --ax-density: 1.15; }
