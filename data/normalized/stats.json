@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-04-30T08:02:51.896Z",
-  "total_surveys": 205,
+  "generated_at": "2026-05-01T08:01:10.459Z",
+  "total_surveys": 208,
   "total_responses": 2624,
   "by_source": {
     "typeform": {
-      "surveys": 86,
+      "surveys": 89,
       "responses": 505
     },
     "surveymonkey": {
@@ -13,6 +13,10 @@
     }
   },
   "by_family": {
+    "participant_reflection": {
+      "surveys": 95,
+      "responses": 2172
+    },
     "internal_clients_perception": {
       "surveys": 3,
       "responses": 0
@@ -20,10 +24,6 @@
     "coaching_reflection": {
       "surveys": 23,
       "responses": 129
-    },
-    "participant_reflection": {
-      "surveys": 92,
-      "responses": 2172
     },
     "facilitator_debrief": {
       "surveys": 23,
@@ -71,6 +71,10 @@
     }
   },
   "by_client": {
+    "Despegar": {
+      "surveys": 14,
+      "responses": 166
+    },
     "BCI": {
       "surveys": 10,
       "responses": 8
@@ -126,10 +130,6 @@
     "Straumann": {
       "surveys": 2,
       "responses": 3
-    },
-    "Despegar": {
-      "surveys": 11,
-      "responses": 166
     },
     "CPM": {
       "surveys": 1,
@@ -189,6 +189,10 @@
     }
   },
   "by_program": {
+    "Despegar LT+": {
+      "surveys": 12,
+      "responses": 152
+    },
     "(unmatched)": {
       "surveys": 83,
       "responses": 164
@@ -252,10 +256,6 @@
     "Straumann Workshops": {
       "surveys": 2,
       "responses": 3
-    },
-    "Despegar LT+": {
-      "surveys": 9,
-      "responses": 152
     },
     "CPM CBA & AI Coach": {
       "surveys": 1,
@@ -410,7 +410,7 @@
     "templates": 19,
     "tests": 5,
     "excluded": 18,
-    "no_responses": 87,
+    "no_responses": 90,
     "unmatched_client": 38,
     "unmatched_program": 59,
     "unmatched_family": 3
