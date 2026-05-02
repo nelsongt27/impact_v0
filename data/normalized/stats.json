@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-01T08:01:10.459Z",
+  "generated_at": "2026-05-02T07:19:11.527Z",
   "total_surveys": 208,
-  "total_responses": 2624,
+  "total_responses": 2625,
   "by_source": {
     "typeform": {
       "surveys": 89,
-      "responses": 505
+      "responses": 506
     },
     "surveymonkey": {
       "surveys": 119,
@@ -31,7 +31,7 @@
     },
     "unknown": {
       "surveys": 8,
-      "responses": 13
+      "responses": 14
     },
     "coaching_process": {
       "surveys": 16,
@@ -93,7 +93,7 @@
     },
     "(unmatched)": {
       "surveys": 62,
-      "responses": 212
+      "responses": 213
     },
     "Mibanco": {
       "surveys": 2,
@@ -195,7 +195,7 @@
     },
     "(unmatched)": {
       "surveys": 83,
-      "responses": 164
+      "responses": 165
     },
     "BCI Innovación & Datos": {
       "surveys": 4,
@@ -410,7 +410,7 @@
     "templates": 19,
     "tests": 5,
     "excluded": 18,
-    "no_responses": 90,
+    "no_responses": 89,
     "unmatched_client": 38,
     "unmatched_program": 59,
     "unmatched_family": 3
