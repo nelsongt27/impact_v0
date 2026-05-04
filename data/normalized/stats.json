@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-03T07:46:55.039Z",
+  "generated_at": "2026-05-04T08:16:27.107Z",
   "total_surveys": 208,
-  "total_responses": 2625,
+  "total_responses": 2627,
   "by_source": {
     "typeform": {
       "surveys": 89,
-      "responses": 506
+      "responses": 508
     },
     "surveymonkey": {
       "surveys": 119,
@@ -15,7 +15,7 @@
   "by_family": {
     "participant_reflection": {
       "surveys": 95,
-      "responses": 2172
+      "responses": 2174
     },
     "internal_clients_perception": {
       "surveys": 3,
@@ -93,7 +93,7 @@
     },
     "(unmatched)": {
       "surveys": 62,
-      "responses": 213
+      "responses": 215
     },
     "Mibanco": {
       "surveys": 2,
@@ -195,7 +195,7 @@
     },
     "(unmatched)": {
       "surveys": 83,
-      "responses": 165
+      "responses": 167
     },
     "BCI Innovación & Datos": {
       "surveys": 4,

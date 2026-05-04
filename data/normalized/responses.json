@@ -2379,6 +2379,42 @@
     }
   },
   {
+    "id": "tf:p5NraCNe:70muyprbsgjkdv5crw70muy0mabg1sou",
+    "survey_id": "tf:p5NraCNe",
+    "source": "typeform",
+    "source_response_id": "70muyprbsgjkdv5crw70muy0mabg1sou",
+    "submitted_at": "2026-05-04T00:44:08Z",
+    "total_time_seconds": null,
+    "language": "en",
+    "dimensions": {
+      "relevance": 4,
+      "engagement": 4,
+      "applicability": 4
+    },
+    "open_ended": {
+      "which_topics_or_tools_have_had_the_biggest_impact_on_your_thinking_or_leadership": "inform, discuss and decide meetings\nvictim vs player",
+      "what_would_improve_your_experience_in_future_sessions": "nothing"
+    }
+  },
+  {
+    "id": "tf:p5NraCNe:tljnr8zekq4qptpvytljnr8z9y0dp54c",
+    "survey_id": "tf:p5NraCNe",
+    "source": "typeform",
+    "source_response_id": "tljnr8zekq4qptpvytljnr8z9y0dp54c",
+    "submitted_at": "2026-05-03T19:10:10Z",
+    "total_time_seconds": null,
+    "language": "en",
+    "dimensions": {
+      "relevance": 5,
+      "engagement": 4,
+      "applicability": 3
+    },
+    "open_ended": {
+      "which_topics_or_tools_have_had_the_biggest_impact_on_your_thinking_or_leadership": "Learner and Knower mindset. Be a player.",
+      "what_would_improve_your_experience_in_future_sessions": "nothing"
+    }
+  },
+  {
     "id": "tf:p5NraCNe:ktt2ljf9yo6jigew71ktt2ljf0hsow4e",
     "survey_id": "tf:p5NraCNe",
     "source": "typeform",
