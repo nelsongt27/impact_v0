@@ -360,8 +360,8 @@
       "nps": 8
     },
     "open_ended": {
-      "en_una_frase_cuál_es_la_realización_más_importante_que_te_llevas": "ddddddd",
-      "qué_harás_diferente_en_las_próximas_dos_semanas": "dddd"
+      "en_una_frase_cuál_es_tu_principal_aprendizaje": "ddddddd",
+      "qué_cambio_intentarás_implementar_en_las_próximas_semanas": "dddd"
     }
   },
   {
@@ -9118,6 +9118,25 @@
       "qué_tan_efectiva_fue_la_facilitación_para_guiar_la_conversación": "Excelente",
       "qué_aspecto_de_esta_experiencia_te_resultó_más_valioso": "Xx",
       "qué_mejorarías_para_futuras_conversaciones_grupales_de_este_tipo": "Xx"
+    }
+  },
+  {
+    "id": "tf:RflOZOER:85nmr954ajzvojel3pedzs85nmr7yyj4",
+    "survey_id": "tf:RflOZOER",
+    "source": "typeform",
+    "source_response_id": "85nmr954ajzvojel3pedzs85nmr7yyj4",
+    "submitted_at": "2026-05-04T17:02:23Z",
+    "total_time_seconds": null,
+    "language": "es",
+    "dimensions": {},
+    "open_ended": {
+      "cliente_y_nombre_del_programa": "Electrolit HPT",
+      "coachee": "David Avila",
+      "cuáles_fueron_los_principales_desafíos_sobre_los_que_trabajaron_en_la_sesión": "Gestión de la frustración en el propósito de ser agente de cambio",
+      "en_qué_medida_se_cumplieron_los_objetivos_de_la_sesión": "En gran medida",
+      "cómo_calificarías_el_nivel_de_conexión_y_empatía_con_el_coachee": "Muy alta",
+      "cómo_calificarías_el_nivel_de_compromiso_y_seguimiento_del_coachee": "Muy alto",
+      "cuáles_fueron_las_principales_herramientas_y_conceptos_aplicados_en_la_sesión": "mindset protagonista - exito más allá del exito"
     }
   },
   {

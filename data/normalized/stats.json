@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-04T08:16:27.107Z",
+  "generated_at": "2026-05-05T07:53:44.524Z",
   "total_surveys": 208,
-  "total_responses": 2627,
+  "total_responses": 2628,
   "by_source": {
     "typeform": {
       "surveys": 89,
-      "responses": 508
+      "responses": 509
     },
     "surveymonkey": {
       "surveys": 119,
@@ -35,7 +35,7 @@
     },
     "coaching_process": {
       "surveys": 16,
-      "responses": 46
+      "responses": 47
     },
     "prework": {
       "surveys": 3,
@@ -89,7 +89,7 @@
     },
     "Electrolit": {
       "surveys": 9,
-      "responses": 76
+      "responses": 77
     },
     "(unmatched)": {
       "surveys": 62,
@@ -283,7 +283,7 @@
     },
     "Electrolit Coaching": {
       "surveys": 2,
-      "responses": 35
+      "responses": 36
     },
     "CIRION Conversaciones Desafiantes": {
       "surveys": 9,
