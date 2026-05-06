@@ -349,6 +349,21 @@
     }
   },
   {
+    "id": "tf:TxqN2Zf2:tmdpyr0xexhd77bpjo01tmdpyrb0i6lz",
+    "survey_id": "tf:TxqN2Zf2",
+    "source": "typeform",
+    "source_response_id": "tmdpyr0xexhd77bpjo01tmdpyrb0i6lz",
+    "submitted_at": "2026-05-06T00:41:33Z",
+    "total_time_seconds": null,
+    "language": "es",
+    "dimensions": {
+      "nps": 9
+    },
+    "open_ended": {
+      "en_una_frase_cuál_es_tu_principal_aprendizaje": "dssdf"
+    }
+  },
+  {
     "id": "tf:TxqN2Zf2:j7xy9z80engnqznj0j7zl1wo87oz9tw7",
     "survey_id": "tf:TxqN2Zf2",
     "source": "typeform",
@@ -360,8 +375,7 @@
       "nps": 8
     },
     "open_ended": {
-      "en_una_frase_cuál_es_tu_principal_aprendizaje": "ddddddd",
-      "qué_cambio_intentarás_implementar_en_las_próximas_semanas": "dddd"
+      "en_una_frase_cuál_es_tu_principal_aprendizaje": "ddddddd"
     }
   },
   {

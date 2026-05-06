@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-05T07:53:44.524Z",
-  "total_surveys": 208,
-  "total_responses": 2628,
+  "generated_at": "2026-05-06T08:06:28.301Z",
+  "total_surveys": 212,
+  "total_responses": 2629,
   "by_source": {
     "typeform": {
-      "surveys": 89,
-      "responses": 509
+      "surveys": 93,
+      "responses": 510
     },
     "surveymonkey": {
       "surveys": 119,
@@ -13,8 +13,12 @@
     }
   },
   "by_family": {
+    "facilitator_debrief": {
+      "surveys": 26,
+      "responses": 32
+    },
     "participant_reflection": {
-      "surveys": 95,
+      "surveys": 97,
       "responses": 2174
     },
     "internal_clients_perception": {
@@ -25,13 +29,9 @@
       "surveys": 23,
       "responses": 129
     },
-    "facilitator_debrief": {
-      "surveys": 23,
-      "responses": 32
-    },
     "unknown": {
-      "surveys": 8,
-      "responses": 14
+      "surveys": 7,
+      "responses": 15
     },
     "coaching_process": {
       "surveys": 16,
@@ -71,6 +71,10 @@
     }
   },
   "by_client": {
+    "(unmatched)": {
+      "surveys": 66,
+      "responses": 216
+    },
     "Despegar": {
       "surveys": 14,
       "responses": 166
@@ -90,10 +94,6 @@
     "Electrolit": {
       "surveys": 9,
       "responses": 77
-    },
-    "(unmatched)": {
-      "surveys": 62,
-      "responses": 215
     },
     "Mibanco": {
       "surveys": 2,
@@ -189,13 +189,13 @@
     }
   },
   "by_program": {
+    "(unmatched)": {
+      "surveys": 87,
+      "responses": 168
+    },
     "Despegar LT+": {
       "surveys": 12,
       "responses": 152
-    },
-    "(unmatched)": {
-      "surveys": 83,
-      "responses": 167
     },
     "BCI Innovación & Datos": {
       "surveys": 4,
@@ -408,11 +408,11 @@
   },
   "flagged": {
     "templates": 19,
-    "tests": 5,
-    "excluded": 18,
-    "no_responses": 89,
-    "unmatched_client": 38,
-    "unmatched_program": 59,
+    "tests": 4,
+    "excluded": 17,
+    "no_responses": 93,
+    "unmatched_client": 43,
+    "unmatched_program": 64,
     "unmatched_family": 3
   }
 }

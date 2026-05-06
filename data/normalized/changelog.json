@@ -1,17 +1,34 @@
 {
-  "generated_at": "2026-05-05T07:53:44.523Z",
-  "previous_run_at": "2026-05-04T08:16:27.107Z",
-  "new_forms": [],
-  "updated_forms": [
+  "generated_at": "2026-05-06T08:06:28.301Z",
+  "previous_run_at": "2026-05-05T07:53:44.524Z",
+  "new_forms": [
     {
-      "id": "tf:RflOZOER",
-      "title": "ELECTROLIT Registro Proceso de Coaching",
-      "source": "typeform",
-      "previous_response_count": 34,
-      "current_response_count": 35,
-      "delta": 1
+      "id": "tf:NL7bcX9l",
+      "title": "MEC AI Define Session- Facilitator Debrief Survey (Dan Strode)",
+      "source": "typeform"
+    },
+    {
+      "id": "tf:NUxEFmme",
+      "title": "MEC AI Define Session- Participant Reflection Survey",
+      "source": "typeform"
+    },
+    {
+      "id": "tf:v9fxP3cu",
+      "title": "MEC AI Define Session- Facilitator Debrief Survey (Carlos Agustin)",
+      "source": "typeform"
+    },
+    {
+      "id": "tf:k1Ns4uDb",
+      "title": "Session April 30th Geertruyt - Facilitator Debrief Survey",
+      "source": "typeform"
+    },
+    {
+      "id": "tf:GaSxmErn",
+      "title": "Session April 30th Geertruyt -  Participant Reflection Survey",
+      "source": "typeform"
     }
   ],
+  "updated_forms": [],
   "unmapped_forms": [
     {
       "id": "sm:419174951",
@@ -279,6 +296,33 @@
       ]
     },
     {
+      "id": "tf:v9fxP3cu",
+      "title": "MEC AI Define Session- Facilitator Debrief Survey (Carlos Agustin)",
+      "source": "typeform",
+      "missing": [
+        "client",
+        "program"
+      ]
+    },
+    {
+      "id": "tf:NL7bcX9l",
+      "title": "MEC AI Define Session- Facilitator Debrief Survey (Dan Strode)",
+      "source": "typeform",
+      "missing": [
+        "client",
+        "program"
+      ]
+    },
+    {
+      "id": "tf:NUxEFmme",
+      "title": "MEC AI Define Session- Participant Reflection Survey",
+      "source": "typeform",
+      "missing": [
+        "client",
+        "program"
+      ]
+    },
+    {
       "id": "tf:wW3PKp7p",
       "title": "MP Product ELT - Facilitator Debrief Survey ",
       "source": "typeform",
@@ -452,6 +496,24 @@
     {
       "id": "tf:qAcmB99I",
       "title": "Sesión Final - TEMPLATE - ESPAÑOL Encuesta Reflexión Participante AGO2025",
+      "source": "typeform",
+      "missing": [
+        "client",
+        "program"
+      ]
+    },
+    {
+      "id": "tf:GaSxmErn",
+      "title": "Session April 30th Geertruyt -  Participant Reflection Survey",
+      "source": "typeform",
+      "missing": [
+        "client",
+        "program"
+      ]
+    },
+    {
+      "id": "tf:k1Ns4uDb",
+      "title": "Session April 30th Geertruyt - Facilitator Debrief Survey",
       "source": "typeform",
       "missing": [
         "client",
