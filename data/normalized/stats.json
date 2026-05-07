@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-06T08:06:28.301Z",
-  "total_surveys": 212,
-  "total_responses": 2629,
+  "generated_at": "2026-05-07T08:13:51.835Z",
+  "total_surveys": 213,
+  "total_responses": 2630,
   "by_source": {
     "typeform": {
-      "surveys": 93,
-      "responses": 510
+      "surveys": 94,
+      "responses": 511
     },
     "surveymonkey": {
       "surveys": 119,
@@ -13,6 +13,10 @@
     }
   },
   "by_family": {
+    "unknown": {
+      "surveys": 8,
+      "responses": 15
+    },
     "facilitator_debrief": {
       "surveys": 26,
       "responses": 32
@@ -29,13 +33,9 @@
       "surveys": 23,
       "responses": 129
     },
-    "unknown": {
-      "surveys": 7,
-      "responses": 15
-    },
     "coaching_process": {
       "surveys": 16,
-      "responses": 47
+      "responses": 48
     },
     "prework": {
       "surveys": 3,
@@ -72,7 +72,7 @@
   },
   "by_client": {
     "(unmatched)": {
-      "surveys": 66,
+      "surveys": 67,
       "responses": 216
     },
     "Despegar": {
@@ -93,7 +93,7 @@
     },
     "Electrolit": {
       "surveys": 9,
-      "responses": 77
+      "responses": 78
     },
     "Mibanco": {
       "surveys": 2,
@@ -190,7 +190,7 @@
   },
   "by_program": {
     "(unmatched)": {
-      "surveys": 87,
+      "surveys": 88,
       "responses": 168
     },
     "Despegar LT+": {
@@ -283,7 +283,7 @@
     },
     "Electrolit Coaching": {
       "surveys": 2,
-      "responses": 36
+      "responses": 37
     },
     "CIRION Conversaciones Desafiantes": {
       "surveys": 9,
@@ -407,12 +407,12 @@
     }
   },
   "flagged": {
-    "templates": 19,
+    "templates": 20,
     "tests": 4,
     "excluded": 17,
-    "no_responses": 93,
+    "no_responses": 94,
     "unmatched_client": 43,
     "unmatched_program": 64,
-    "unmatched_family": 3
+    "unmatched_family": 4
   }
 }

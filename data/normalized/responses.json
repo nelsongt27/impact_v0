@@ -9135,6 +9135,25 @@
     }
   },
   {
+    "id": "tf:RflOZOER:901cmpf0qw7wyllynah901cm0udmwjgi",
+    "survey_id": "tf:RflOZOER",
+    "source": "typeform",
+    "source_response_id": "901cmpf0qw7wyllynah901cm0udmwjgi",
+    "submitted_at": "2026-05-06T22:32:23Z",
+    "total_time_seconds": null,
+    "language": "es",
+    "dimensions": {},
+    "open_ended": {
+      "cliente_y_nombre_del_programa": "Electrolit HPT",
+      "coachee": "Roberto Reyes",
+      "cuáles_fueron_los_principales_desafíos_sobre_los_que_trabajaron_en_la_sesión": "cómo retener talento en su area",
+      "en_qué_medida_se_cumplieron_los_objetivos_de_la_sesión": "En gran medida",
+      "cómo_calificarías_el_nivel_de_conexión_y_empatía_con_el_coachee": "Muy alta",
+      "cómo_calificarías_el_nivel_de_compromiso_y_seguimiento_del_coachee": "Muy alto",
+      "cuáles_fueron_las_principales_herramientas_y_conceptos_aplicados_en_la_sesión": "mindset victima protagonista"
+    }
+  },
+  {
     "id": "tf:RflOZOER:85nmr954ajzvojel3pedzs85nmr7yyj4",
     "survey_id": "tf:RflOZOER",
     "source": "typeform",

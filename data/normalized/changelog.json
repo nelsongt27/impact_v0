@@ -1,34 +1,17 @@
 {
-  "generated_at": "2026-05-06T08:06:28.301Z",
-  "previous_run_at": "2026-05-05T07:53:44.524Z",
-  "new_forms": [
+  "generated_at": "2026-05-07T08:13:51.835Z",
+  "previous_run_at": "2026-05-06T08:06:28.301Z",
+  "new_forms": [],
+  "updated_forms": [
     {
-      "id": "tf:NL7bcX9l",
-      "title": "MEC AI Define Session- Facilitator Debrief Survey (Dan Strode)",
-      "source": "typeform"
-    },
-    {
-      "id": "tf:NUxEFmme",
-      "title": "MEC AI Define Session- Participant Reflection Survey",
-      "source": "typeform"
-    },
-    {
-      "id": "tf:v9fxP3cu",
-      "title": "MEC AI Define Session- Facilitator Debrief Survey (Carlos Agustin)",
-      "source": "typeform"
-    },
-    {
-      "id": "tf:k1Ns4uDb",
-      "title": "Session April 30th Geertruyt - Facilitator Debrief Survey",
-      "source": "typeform"
-    },
-    {
-      "id": "tf:GaSxmErn",
-      "title": "Session April 30th Geertruyt -  Participant Reflection Survey",
-      "source": "typeform"
+      "id": "tf:RflOZOER",
+      "title": "ELECTROLIT Registro Proceso de Coaching",
+      "source": "typeform",
+      "previous_response_count": 35,
+      "current_response_count": 36,
+      "delta": 1
     }
   ],
-  "updated_forms": [],
   "unmapped_forms": [
     {
       "id": "sm:419174951",
