@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-07T08:13:51.835Z",
+  "generated_at": "2026-05-08T07:15:16.142Z",
   "total_surveys": 213,
-  "total_responses": 2630,
+  "total_responses": 2643,
   "by_source": {
     "typeform": {
       "surveys": 94,
-      "responses": 511
+      "responses": 524
     },
     "surveymonkey": {
       "surveys": 119,
@@ -14,16 +14,16 @@
   },
   "by_family": {
     "unknown": {
-      "surveys": 8,
-      "responses": 15
+      "surveys": 9,
+      "responses": 16
     },
     "facilitator_debrief": {
-      "surveys": 26,
+      "surveys": 27,
       "responses": 32
     },
     "participant_reflection": {
       "surveys": 97,
-      "responses": 2174
+      "responses": 2185
     },
     "internal_clients_perception": {
       "surveys": 3,
@@ -34,8 +34,8 @@
       "responses": 129
     },
     "coaching_process": {
-      "surveys": 16,
-      "responses": 48
+      "surveys": 14,
+      "responses": 49
     },
     "prework": {
       "surveys": 3,
@@ -73,7 +73,7 @@
   "by_client": {
     "(unmatched)": {
       "surveys": 67,
-      "responses": 216
+      "responses": 228
     },
     "Despegar": {
       "surveys": 14,
@@ -93,7 +93,7 @@
     },
     "Electrolit": {
       "surveys": 9,
-      "responses": 78
+      "responses": 79
     },
     "Mibanco": {
       "surveys": 2,
@@ -191,7 +191,7 @@
   "by_program": {
     "(unmatched)": {
       "surveys": 88,
-      "responses": 168
+      "responses": 180
     },
     "Despegar LT+": {
       "surveys": 12,
@@ -283,7 +283,7 @@
     },
     "Electrolit Coaching": {
       "surveys": 2,
-      "responses": 37
+      "responses": 38
     },
     "CIRION Conversaciones Desafiantes": {
       "surveys": 9,
@@ -410,9 +410,9 @@
     "templates": 20,
     "tests": 4,
     "excluded": 17,
-    "no_responses": 94,
+    "no_responses": 93,
     "unmatched_client": 43,
     "unmatched_program": 64,
-    "unmatched_family": 4
+    "unmatched_family": 5
   }
 }

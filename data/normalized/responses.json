@@ -1,5 +1,222 @@
 [
   {
+    "id": "tf:NUxEFmme:p8bla7boeho8k9y3tt0jkp8bla7bb5js",
+    "survey_id": "tf:NUxEFmme",
+    "source": "typeform",
+    "source_response_id": "p8bla7boeho8k9y3tt0jkp8bla7bb5js",
+    "submitted_at": "2026-05-07T22:49:20Z",
+    "total_time_seconds": null,
+    "language": "en",
+    "dimensions": {
+      "relevance": 5,
+      "engagement": 5,
+      "facilitator_effectiveness": 5,
+      "applicability": 5,
+      "culture_fit": 5
+    },
+    "open_ended": {
+      "which_topics_or_tools_have_had_the_biggest_impact_on_your_thinking_or_leadership": "Developing the strategy for the company, as a Leadership team",
+      "what_would_improve_your_experience_in_future_sessions": "Everything was Great!"
+    }
+  },
+  {
+    "id": "tf:NUxEFmme:jug7e1ja2nfbtlrjug7kqm7fjf7fk65e",
+    "survey_id": "tf:NUxEFmme",
+    "source": "typeform",
+    "source_response_id": "jug7e1ja2nfbtlrjug7kqm7fjf7fk65e",
+    "submitted_at": "2026-05-07T22:48:50Z",
+    "total_time_seconds": null,
+    "language": "en",
+    "dimensions": {
+      "relevance": 5,
+      "engagement": 5,
+      "facilitator_effectiveness": 4,
+      "applicability": 5,
+      "culture_fit": 5
+    },
+    "open_ended": {
+      "which_topics_or_tools_have_had_the_biggest_impact_on_your_thinking_or_leadership": "El ejercicio de involucrar a todo el equipo, participar en los pizarrones, hacer las rotaciones y colectar el feedback de todos.",
+      "what_would_improve_your_experience_in_future_sessions": "Audio (micrófono)"
+    }
+  },
+  {
+    "id": "tf:NUxEFmme:t1658jrl7hkj8f4vt1dx3fpfnkmd4anz",
+    "survey_id": "tf:NUxEFmme",
+    "source": "typeform",
+    "source_response_id": "t1658jrl7hkj8f4vt1dx3fpfnkmd4anz",
+    "submitted_at": "2026-05-07T22:48:24Z",
+    "total_time_seconds": null,
+    "language": "en",
+    "dimensions": {
+      "relevance": 5,
+      "engagement": 4,
+      "facilitator_effectiveness": 4,
+      "applicability": 4,
+      "culture_fit": 5
+    },
+    "open_ended": {
+      "which_topics_or_tools_have_had_the_biggest_impact_on_your_thinking_or_leadership": "The clear vision and actions to follow"
+    }
+  },
+  {
+    "id": "tf:NUxEFmme:exlcgkfhwee79gzu5exlcgzlztqq466m",
+    "survey_id": "tf:NUxEFmme",
+    "source": "typeform",
+    "source_response_id": "exlcgkfhwee79gzu5exlcgzlztqq466m",
+    "submitted_at": "2026-05-07T22:47:40Z",
+    "total_time_seconds": null,
+    "language": "en",
+    "dimensions": {
+      "relevance": 5,
+      "engagement": 5,
+      "facilitator_effectiveness": 5,
+      "applicability": 4,
+      "culture_fit": 5
+    },
+    "open_ended": {
+      "which_topics_or_tools_have_had_the_biggest_impact_on_your_thinking_or_leadership": "Actividades de workshop para ayudar a aterrizar la estrategi IA en la compañía",
+      "what_would_improve_your_experience_in_future_sessions": "NA"
+    }
+  },
+  {
+    "id": "tf:NUxEFmme:zt896082l10xrq5bxazt89dnper48xo5",
+    "survey_id": "tf:NUxEFmme",
+    "source": "typeform",
+    "source_response_id": "zt896082l10xrq5bxazt89dnper48xo5",
+    "submitted_at": "2026-05-07T22:47:28Z",
+    "total_time_seconds": null,
+    "language": "en",
+    "dimensions": {
+      "relevance": 4,
+      "engagement": 4,
+      "facilitator_effectiveness": 5,
+      "applicability": 4,
+      "culture_fit": 4
+    },
+    "open_ended": {
+      "which_topics_or_tools_have_had_the_biggest_impact_on_your_thinking_or_leadership": "The methodology used during the session",
+      "what_would_improve_your_experience_in_future_sessions": "Benchmarking de la industria"
+    }
+  },
+  {
+    "id": "tf:NUxEFmme:t1va8noxpiqkjkyun3t1va8k6nbndcz6",
+    "survey_id": "tf:NUxEFmme",
+    "source": "typeform",
+    "source_response_id": "t1va8noxpiqkjkyun3t1va8k6nbndcz6",
+    "submitted_at": "2026-05-07T22:47:27Z",
+    "total_time_seconds": null,
+    "language": "en",
+    "dimensions": {
+      "relevance": 5,
+      "engagement": 5,
+      "facilitator_effectiveness": 4,
+      "applicability": 4,
+      "culture_fit": 5
+    },
+    "open_ended": {
+      "which_topics_or_tools_have_had_the_biggest_impact_on_your_thinking_or_leadership": "The leadership awareness and participation",
+      "what_would_improve_your_experience_in_future_sessions": "La primera sección de los ejemplos estuvieron muy enfocados a producto, habría que enfocarlos más a procesos"
+    }
+  },
+  {
+    "id": "tf:NUxEFmme:y5bhj3qlngu74u1l5y5bhj3xxjozwbc8",
+    "survey_id": "tf:NUxEFmme",
+    "source": "typeform",
+    "source_response_id": "y5bhj3qlngu74u1l5y5bhj3xxjozwbc8",
+    "submitted_at": "2026-05-07T22:47:06Z",
+    "total_time_seconds": null,
+    "language": "en",
+    "dimensions": {
+      "relevance": 4,
+      "engagement": 5,
+      "facilitator_effectiveness": 4,
+      "applicability": 4,
+      "culture_fit": 4
+    },
+    "open_ended": {
+      "which_topics_or_tools_have_had_the_biggest_impact_on_your_thinking_or_leadership": "Mírele and the Mail themes",
+      "what_would_improve_your_experience_in_future_sessions": "Best prácticas to share"
+    }
+  },
+  {
+    "id": "tf:NUxEFmme:ztnurhgrn2hwcamovfztnu6c907z9jwd",
+    "survey_id": "tf:NUxEFmme",
+    "source": "typeform",
+    "source_response_id": "ztnurhgrn2hwcamovfztnu6c907z9jwd",
+    "submitted_at": "2026-05-07T22:47:01Z",
+    "total_time_seconds": null,
+    "language": "en",
+    "dimensions": {
+      "relevance": 5,
+      "engagement": 5,
+      "facilitator_effectiveness": 5,
+      "applicability": 5,
+      "culture_fit": 4
+    },
+    "open_ended": {
+      "which_topics_or_tools_have_had_the_biggest_impact_on_your_thinking_or_leadership": "Our commitment, the team discussion"
+    }
+  },
+  {
+    "id": "tf:NUxEFmme:h4p8x18cxmdzhgxc8hj86flvdh4hmz4g",
+    "survey_id": "tf:NUxEFmme",
+    "source": "typeform",
+    "source_response_id": "h4p8x18cxmdzhgxc8hj86flvdh4hmz4g",
+    "submitted_at": "2026-05-07T22:46:54Z",
+    "total_time_seconds": null,
+    "language": "en",
+    "dimensions": {
+      "relevance": 2,
+      "engagement": 3,
+      "facilitator_effectiveness": 4,
+      "applicability": 3,
+      "culture_fit": 1
+    },
+    "open_ended": {
+      "which_topics_or_tools_have_had_the_biggest_impact_on_your_thinking_or_leadership": "Workshop across teams",
+      "what_would_improve_your_experience_in_future_sessions": "Better presentations"
+    }
+  },
+  {
+    "id": "tf:NUxEFmme:47lcwmsszqdlppqf847lcw6bivmijhbv",
+    "survey_id": "tf:NUxEFmme",
+    "source": "typeform",
+    "source_response_id": "47lcwmsszqdlppqf847lcw6bivmijhbv",
+    "submitted_at": "2026-05-07T22:46:46Z",
+    "total_time_seconds": null,
+    "language": "en",
+    "dimensions": {
+      "relevance": 5,
+      "engagement": 5,
+      "facilitator_effectiveness": 5,
+      "applicability": 4,
+      "culture_fit": 5
+    },
+    "open_ended": {
+      "which_topics_or_tools_have_had_the_biggest_impact_on_your_thinking_or_leadership": "Working dynamics all of them",
+      "what_would_improve_your_experience_in_future_sessions": "No"
+    }
+  },
+  {
+    "id": "tf:NUxEFmme:0s3ethefdsum8b12x0s3etkmethht8av",
+    "survey_id": "tf:NUxEFmme",
+    "source": "typeform",
+    "source_response_id": "0s3ethefdsum8b12x0s3etkmethht8av",
+    "submitted_at": "2026-05-07T22:46:29Z",
+    "total_time_seconds": null,
+    "language": "en",
+    "dimensions": {
+      "relevance": 4,
+      "engagement": 4,
+      "facilitator_effectiveness": 4,
+      "applicability": 4,
+      "culture_fit": 4
+    },
+    "open_ended": {
+      "which_topics_or_tools_have_had_the_biggest_impact_on_your_thinking_or_leadership": "The canvas strategy on IA"
+    }
+  },
+  {
     "id": "tf:hsAVAO2H:ys4l0v4iyhnsnynkqmys4fbtm284yfvt",
     "survey_id": "tf:hsAVAO2H",
     "source": "typeform",
@@ -346,6 +563,21 @@
       "el_facilitador_fue_eficaz_al_transmitir_el_contenido_y_apoyar_mi_aprendizaje": "Muy de acuerdo",
       "qué_temas_o_herramientas_han_tenido_el_mayor_impacto_en_su_pensamiento_o_lideraz": ".",
       "qué_mejoraría_su_experiencia_en_futuras_sesiones": "Inspiración externa"
+    }
+  },
+  {
+    "id": "tf:TxqN2Zf2:wavi8futoqt0u99dk730pwavi8fuob6e",
+    "survey_id": "tf:TxqN2Zf2",
+    "source": "typeform",
+    "source_response_id": "wavi8futoqt0u99dk730pwavi8fuob6e",
+    "submitted_at": "2026-05-07T15:13:46Z",
+    "total_time_seconds": null,
+    "language": "es",
+    "dimensions": {
+      "nps": 8
+    },
+    "open_ended": {
+      "en_una_frase_cuál_es_tu_principal_aprendizaje": "Mi principal aprendizaje es que muchas veces mi impulso por agregar valor rápidamente puede hacer que pase demasiado rápido a la solución, cuando primero necesito conectar más profundamente con la experiencia de la otra persona."
     }
   },
   {
@@ -9132,6 +9364,25 @@
       "qué_tan_efectiva_fue_la_facilitación_para_guiar_la_conversación": "Excelente",
       "qué_aspecto_de_esta_experiencia_te_resultó_más_valioso": "Xx",
       "qué_mejorarías_para_futuras_conversaciones_grupales_de_este_tipo": "Xx"
+    }
+  },
+  {
+    "id": "tf:RflOZOER:ks57h8jwocjofu6x44hks57h8imcvfte",
+    "survey_id": "tf:RflOZOER",
+    "source": "typeform",
+    "source_response_id": "ks57h8jwocjofu6x44hks57h8imcvfte",
+    "submitted_at": "2026-05-07T18:07:12Z",
+    "total_time_seconds": null,
+    "language": "es",
+    "dimensions": {},
+    "open_ended": {
+      "cliente_y_nombre_del_programa": "Electrolit HPT",
+      "coachee": "Gonzalo Silva",
+      "cuáles_fueron_los_principales_desafíos_sobre_los_que_trabajaron_en_la_sesión": "como cascadear directrices con las que no se está de acuerdo",
+      "en_qué_medida_se_cumplieron_los_objetivos_de_la_sesión": "En gran medida",
+      "cómo_calificarías_el_nivel_de_conexión_y_empatía_con_el_coachee": "Muy alta",
+      "cómo_calificarías_el_nivel_de_compromiso_y_seguimiento_del_coachee": "Muy alto",
+      "cuáles_fueron_las_principales_herramientas_y_conceptos_aplicados_en_la_sesión": "dimensiones del exito sustentable - propósito"
     }
   },
   {
