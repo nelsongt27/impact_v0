@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-08T07:15:16.142Z",
-  "total_surveys": 213,
-  "total_responses": 2643,
+  "generated_at": "2026-05-09T07:31:40.639Z",
+  "total_surveys": 215,
+  "total_responses": 2648,
   "by_source": {
     "typeform": {
-      "surveys": 94,
-      "responses": 524
+      "surveys": 96,
+      "responses": 529
     },
     "surveymonkey": {
       "surveys": 119,
@@ -14,16 +14,16 @@
   },
   "by_family": {
     "unknown": {
-      "surveys": 9,
-      "responses": 16
+      "surveys": 10,
+      "responses": 20
     },
     "facilitator_debrief": {
-      "surveys": 27,
+      "surveys": 28,
       "responses": 32
     },
     "participant_reflection": {
       "surveys": 97,
-      "responses": 2185
+      "responses": 2186
     },
     "internal_clients_perception": {
       "surveys": 3,
@@ -72,12 +72,12 @@
   },
   "by_client": {
     "(unmatched)": {
-      "surveys": 67,
-      "responses": 228
+      "surveys": 69,
+      "responses": 232
     },
     "Despegar": {
       "surveys": 14,
-      "responses": 166
+      "responses": 167
     },
     "BCI": {
       "surveys": 10,
@@ -190,12 +190,12 @@
   },
   "by_program": {
     "(unmatched)": {
-      "surveys": 88,
-      "responses": 180
+      "surveys": 90,
+      "responses": 184
     },
     "Despegar LT+": {
       "surveys": 12,
-      "responses": 152
+      "responses": 153
     },
     "BCI Innovación & Datos": {
       "surveys": 4,
@@ -407,12 +407,12 @@
     }
   },
   "flagged": {
-    "templates": 20,
+    "templates": 21,
     "tests": 4,
     "excluded": 17,
     "no_responses": 93,
-    "unmatched_client": 43,
-    "unmatched_program": 64,
-    "unmatched_family": 5
+    "unmatched_client": 44,
+    "unmatched_program": 65,
+    "unmatched_family": 6
   }
 }

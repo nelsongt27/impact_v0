@@ -1,5 +1,21 @@
 [
   {
+    "id": "tf:f1HOB3Cj:ha4f7yzxm500kcha4f7y9nl0oihfgy8o",
+    "survey_id": "tf:f1HOB3Cj",
+    "source": "typeform",
+    "source_response_id": "ha4f7yzxm500kcha4f7y9nl0oihfgy8o",
+    "submitted_at": "2026-05-08T17:43:15Z",
+    "total_time_seconds": null,
+    "language": "es",
+    "dimensions": {},
+    "open_ended": {
+      "nombre": "Jaja",
+      "apellido": "Jsjs",
+      "correo_electrónico": "nelsongt27@gmail.com",
+      "has_alcanzado_el_mínimo_de_3_raters_para_obtener_tu_reporte_360_deseas_agregar_m": "Sí, agregar otro evaluador"
+    }
+  },
+  {
     "id": "tf:NUxEFmme:p8bla7boeho8k9y3tt0jkp8bla7bb5js",
     "survey_id": "tf:NUxEFmme",
     "source": "typeform",
@@ -214,6 +230,25 @@
     },
     "open_ended": {
       "which_topics_or_tools_have_had_the_biggest_impact_on_your_thinking_or_leadership": "The canvas strategy on IA"
+    }
+  },
+  {
+    "id": "tf:LET6CryX:42281ui7gio0rbsi66o42iyovnk44cdm",
+    "survey_id": "tf:LET6CryX",
+    "source": "typeform",
+    "source_response_id": "42281ui7gio0rbsi66o42iyovnk44cdm",
+    "submitted_at": "2026-05-08T22:33:16Z",
+    "total_time_seconds": null,
+    "language": "en",
+    "dimensions": {},
+    "open_ended": {
+      "esta_sessão_é_relevante_para_meus_desafios_ou_aspirações_atuais_de_liderança": "Completamente de acordo",
+      "a_sessão_foi_motivadora_e_apoiou_meu_aprendizado": "Completamente de acordo",
+      "o_facilitador_foi_eficaz_ao_transmitir_o_conteúdo_e_apoiar_meu_aprendizado": "Completamente de acordo",
+      "sinto_me_confiante_para_aplicar_o_que_aprendi_a_desafios_reais_no_trabalho": "Completamente de acordo",
+      "esta_experiência_é_coerente_com_os_valores_e_a_cultura_que_buscamos_viver_em_nos": "Completamente de acordo",
+      "quais_temas_ou_ferramentas_tiveram_maior_impacto_na_sua_forma_de_pensar_ou_na_su": "As dinamicas",
+      "o_que_poderia_melhorar_sua_experiência_em_futuras_sessões": "Garantir todos presentes"
     }
   },
   {
@@ -563,6 +598,51 @@
       "el_facilitador_fue_eficaz_al_transmitir_el_contenido_y_apoyar_mi_aprendizaje": "Muy de acuerdo",
       "qué_temas_o_herramientas_han_tenido_el_mayor_impacto_en_su_pensamiento_o_lideraz": ".",
       "qué_mejoraría_su_experiencia_en_futuras_sesiones": "Inspiración externa"
+    }
+  },
+  {
+    "id": "tf:TxqN2Zf2:d2rkn9k4uoyzmi80d2rkn9xupzimwt9f",
+    "survey_id": "tf:TxqN2Zf2",
+    "source": "typeform",
+    "source_response_id": "d2rkn9k4uoyzmi80d2rkn9xupzimwt9f",
+    "submitted_at": "2026-05-08T16:06:14Z",
+    "total_time_seconds": null,
+    "language": "es",
+    "dimensions": {
+      "nps": 8
+    },
+    "open_ended": {
+      "en_una_frase_cuál_es_tu_principal_aprendizaje": "Aprendí por qué actúo de determinada manera en conversaciones de venta"
+    }
+  },
+  {
+    "id": "tf:TxqN2Zf2:1s3v8qhudv75kfdgt1s3v8qhlbokabh7",
+    "survey_id": "tf:TxqN2Zf2",
+    "source": "typeform",
+    "source_response_id": "1s3v8qhudv75kfdgt1s3v8qhlbokabh7",
+    "submitted_at": "2026-05-08T15:55:35Z",
+    "total_time_seconds": null,
+    "language": "es",
+    "dimensions": {
+      "nps": 10
+    },
+    "open_ended": {
+      "en_una_frase_cuál_es_tu_principal_aprendizaje": "prueba"
+    }
+  },
+  {
+    "id": "tf:TxqN2Zf2:c72zrabrru84p0qc72zra330s6u1rp5p",
+    "survey_id": "tf:TxqN2Zf2",
+    "source": "typeform",
+    "source_response_id": "c72zrabrru84p0qc72zra330s6u1rp5p",
+    "submitted_at": "2026-05-08T12:38:15Z",
+    "total_time_seconds": null,
+    "language": "es",
+    "dimensions": {
+      "nps": 9
+    },
+    "open_ended": {
+      "en_una_frase_cuál_es_tu_principal_aprendizaje": "Luces y sombras y como surfearlas"
     }
   },
   {
