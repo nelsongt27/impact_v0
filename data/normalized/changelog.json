@@ -1,8 +1,33 @@
 {
-  "generated_at": "2026-05-11T08:57:54.797Z",
-  "previous_run_at": "2026-05-10T07:55:46.615Z",
-  "new_forms": [],
-  "updated_forms": [],
+  "generated_at": "2026-05-12T08:24:27.129Z",
+  "previous_run_at": "2026-05-11T08:57:54.797Z",
+  "new_forms": [
+    {
+      "id": "tf:HiUpWW9h",
+      "title": "Coach Debrief Survey - Kat ",
+      "source": "typeform"
+    },
+    {
+      "id": "tf:nHUaP9It",
+      "title": "Coaching Reflection survey Final Session Coachee - Kat",
+      "source": "typeform"
+    },
+    {
+      "id": "tf:ZDASDjE2",
+      "title": "Coaching Reflection Survey Coachee - Kat",
+      "source": "typeform"
+    }
+  ],
+  "updated_forms": [
+    {
+      "id": "tf:RflOZOER",
+      "title": "ELECTROLIT Registro Proceso de Coaching",
+      "source": "typeform",
+      "previous_response_count": 37,
+      "current_response_count": 38,
+      "delta": 1
+    }
+  ],
   "unmapped_forms": [
     {
       "id": "sm:419174951",
@@ -63,6 +88,16 @@
       ]
     },
     {
+      "id": "tf:HiUpWW9h",
+      "title": "Coach Debrief Survey - Kat ",
+      "source": "typeform",
+      "missing": [
+        "client",
+        "program",
+        "survey_family"
+      ]
+    },
+    {
       "id": "sm:522213732",
       "title": "Coach Satisfaction Survey",
       "source": "surveymonkey",
@@ -102,6 +137,24 @@
       "id": "sm:522796576",
       "title": "Coaching Reflection Survey",
       "source": "surveymonkey",
+      "missing": [
+        "client",
+        "program"
+      ]
+    },
+    {
+      "id": "tf:ZDASDjE2",
+      "title": "Coaching Reflection Survey Coachee - Kat",
+      "source": "typeform",
+      "missing": [
+        "client",
+        "program"
+      ]
+    },
+    {
+      "id": "tf:nHUaP9It",
+      "title": "Coaching Reflection survey Final Session Coachee - Kat",
+      "source": "typeform",
       "missing": [
         "client",
         "program"

@@ -1,5 +1,43 @@
 [
   {
+    "id": "tf:NdLLWqvS:mxkbfht8qgdq85imxkbfjf2cjw7sbd6i",
+    "survey_id": "tf:NdLLWqvS",
+    "source": "typeform",
+    "source_response_id": "mxkbfht8qgdq85imxkbfjf2cjw7sbd6i",
+    "submitted_at": "2026-05-11T16:01:20Z",
+    "total_time_seconds": null,
+    "language": "en",
+    "dimensions": {},
+    "open_ended": {
+      "por_favor_informe_o_nome_do_cliente_e_do_programa": "Ingram Programa de Cultura",
+      "em_que_medida_a_sessão_atingiu_seus_objetivos": "Bastante — Atingiu a maioria dos objetivos",
+      "qual_foi_o_nível_de_conexão_na_sala": "Alto — Houve boa conexão ao longo de grande parte da sessão",
+      "qual_foi_o_nível_de_comprometimento_dos_participantes": "Moderado — Participação e envolvimento aceitáveis",
+      "como_você_avaliaria_sua_efetividade_como_facilitador": "Algo efetivo — Transmiti os conceitos com certa clareza e conduzi o grupo de forma aceitável",
+      "em_que_medida_o_programa_foi_conduzido_sem_intercorrências_em_termos_de_logístic": "Em grande medida — A logística e a coordenação funcionaram bem de modo geral",
+      "o_que_poderia_tornar_este_programa_mais_efetivo_ou_gerar_maior_impacto_em_uma_fu": "Mais tempo para integração entre facilitadores e participantes, o que poderá contribuir para melhor engajamento. No geral, foi bastante interativo."
+    }
+  },
+  {
+    "id": "tf:NdLLWqvS:82qi019av5m9bqe30vl82qi01dgvfnva",
+    "survey_id": "tf:NdLLWqvS",
+    "source": "typeform",
+    "source_response_id": "82qi019av5m9bqe30vl82qi01dgvfnva",
+    "submitted_at": "2026-05-11T12:46:09Z",
+    "total_time_seconds": null,
+    "language": "en",
+    "dimensions": {},
+    "open_ended": {
+      "por_favor_informe_o_nome_do_cliente_e_do_programa": "Ingram",
+      "em_que_medida_a_sessão_atingiu_seus_objetivos": "Bastante — Atingiu a maioria dos objetivos",
+      "qual_foi_o_nível_de_conexão_na_sala": "Muito alto — Houve conexão fluida, empática e constante durante toda a sessão",
+      "qual_foi_o_nível_de_comprometimento_dos_participantes": "Alto — Boa participação, energia e realização das atividades",
+      "como_você_avaliaria_sua_efetividade_como_facilitador": "Bastante efetivo — Fui claro na transmissão do conteúdo e conduzi bem a dinâmica da sala",
+      "em_que_medida_o_programa_foi_conduzido_sem_intercorrências_em_termos_de_logístic": "Em grande medida — A logística e a coordenação funcionaram bem de modo geral",
+      "o_que_poderia_tornar_este_programa_mais_efetivo_ou_gerar_maior_impacto_em_uma_fu": "Conversas mais profundas com a atual CEO"
+    }
+  },
+  {
     "id": "tf:f1HOB3Cj:ha4f7yzxm500kcha4f7y9nl0oihfgy8o",
     "survey_id": "tf:f1HOB3Cj",
     "source": "typeform",
@@ -268,6 +306,150 @@
       "como_calificarías_tu_efectividad_como_facilitador": "Muy efectivo - Entregué los conceptos con claridad y fluidez, y manejé la sala con alto nivel de efectividad",
       "en_qué_medida_el_programa_se_desarrolló_sin_inconvenientes_en_términos_de_logíst": "Completamente - Todo se ejecutó de manera fluida y bien coordinada",
       "qué_haría_que_este_programa_fuera_más_efectivo_o_de_mayor_impacto_en_una_futura_": "Todo excelente"
+    }
+  },
+  {
+    "id": "tf:pOUwCYuh:na6nfgl4540f4bco2o6a7h8na6nfc6dd",
+    "survey_id": "tf:pOUwCYuh",
+    "source": "typeform",
+    "source_response_id": "na6nfgl4540f4bco2o6a7h8na6nfc6dd",
+    "submitted_at": "2026-05-12T08:21:57Z",
+    "total_time_seconds": null,
+    "language": "en",
+    "dimensions": {
+      "nps": 10
+    },
+    "open_ended": {
+      "in_one_sentence_what_is_the_most_important_realization_you_re_taking_away": "I have to work on myself regarding the relationship with the manager",
+      "what_will_you_do_differently_in_the_next_two_weeks": "speak up"
+    }
+  },
+  {
+    "id": "tf:pOUwCYuh:jntr7yesclriqn6gwajntr7y2w07mwdl",
+    "survey_id": "tf:pOUwCYuh",
+    "source": "typeform",
+    "source_response_id": "jntr7yesclriqn6gwajntr7y2w07mwdl",
+    "submitted_at": "2026-05-12T06:28:59Z",
+    "total_time_seconds": null,
+    "language": "en",
+    "dimensions": {
+      "nps": 10
+    },
+    "open_ended": {
+      "in_one_sentence_what_is_the_most_important_realization_you_re_taking_away": "The most important realization I’m taking away is that small, consistent improvements in how I work and communicate can significantly increase my overall impact and value to the team over time.",
+      "what_will_you_do_differently_in_the_next_two_weeks": "In the next two weeks, I will focus on being more proactive by anticipating potential issues earlier, improving the clarity and timeliness of my communication, and taking small steps to improve how efficiently I manage and complete my daily tasks."
+    }
+  },
+  {
+    "id": "tf:pOUwCYuh:7f0iiihrmi30q3ysq7f0iiie115gx7u8",
+    "survey_id": "tf:pOUwCYuh",
+    "source": "typeform",
+    "source_response_id": "7f0iiihrmi30q3ysq7f0iiie115gx7u8",
+    "submitted_at": "2026-05-12T01:02:01Z",
+    "total_time_seconds": null,
+    "language": "en",
+    "dimensions": {
+      "nps": 10
+    },
+    "open_ended": {
+      "in_one_sentence_what_is_the_most_important_realization_you_re_taking_away": "I realized that there are areas that I really need to work on as a Leader and it's doable.",
+      "what_will_you_do_differently_in_the_next_two_weeks": "Work on myself and my micro habits plan and be a matured leader"
+    }
+  },
+  {
+    "id": "tf:pOUwCYuh:bq1e516pyazz7mnqnybq1e516pnjfsky",
+    "survey_id": "tf:pOUwCYuh",
+    "source": "typeform",
+    "source_response_id": "bq1e516pyazz7mnqnybq1e516pnjfsky",
+    "submitted_at": "2026-05-11T19:40:24Z",
+    "total_time_seconds": null,
+    "language": "en",
+    "dimensions": {
+      "nps": 9
+    },
+    "open_ended": {
+      "in_one_sentence_what_is_the_most_important_realization_you_re_taking_away": "How I react to bad news o when things dont come out as planned",
+      "what_will_you_do_differently_in_the_next_two_weeks": "Improve selfcontrol when results done come as planned"
+    }
+  },
+  {
+    "id": "tf:pOUwCYuh:jyyolnew4lmjm7jyyonj3sk8mliuidhu",
+    "survey_id": "tf:pOUwCYuh",
+    "source": "typeform",
+    "source_response_id": "jyyolnew4lmjm7jyyonj3sk8mliuidhu",
+    "submitted_at": "2026-05-11T18:38:52Z",
+    "total_time_seconds": null,
+    "language": "en",
+    "dimensions": {
+      "nps": 8
+    },
+    "open_ended": {
+      "in_one_sentence_what_is_the_most_important_realization_you_re_taking_away": "The need to build micro-habits",
+      "what_will_you_do_differently_in_the_next_two_weeks": "Capture feedback quickly"
+    }
+  },
+  {
+    "id": "tf:pOUwCYuh:zjmo14c09pb496dvvq6nzzjmo1muov41",
+    "survey_id": "tf:pOUwCYuh",
+    "source": "typeform",
+    "source_response_id": "zjmo14c09pb496dvvq6nzzjmo1muov41",
+    "submitted_at": "2026-05-11T18:34:51Z",
+    "total_time_seconds": null,
+    "language": "en",
+    "dimensions": {
+      "nps": 3
+    },
+    "open_ended": {
+      "in_one_sentence_what_is_the_most_important_realization_you_re_taking_away": "Nothing - I could not get a relevant answer",
+      "what_will_you_do_differently_in_the_next_two_weeks": "Just follow the program and then decide"
+    }
+  },
+  {
+    "id": "tf:pOUwCYuh:29g24mfe6srfmhg5u29g24mnsgb5l2sk",
+    "survey_id": "tf:pOUwCYuh",
+    "source": "typeform",
+    "source_response_id": "29g24mfe6srfmhg5u29g24mnsgb5l2sk",
+    "submitted_at": "2026-05-11T18:24:30Z",
+    "total_time_seconds": null,
+    "language": "en",
+    "dimensions": {
+      "nps": 8
+    },
+    "open_ended": {
+      "in_one_sentence_what_is_the_most_important_realization_you_re_taking_away": "That my areas of development are what I thought they were going into this assessment",
+      "what_will_you_do_differently_in_the_next_two_weeks": "Try to be more aware of those areas and push to do better"
+    }
+  },
+  {
+    "id": "tf:pOUwCYuh:9hrthp4r2a1xq4jod9hrm7c3nolpjhis",
+    "survey_id": "tf:pOUwCYuh",
+    "source": "typeform",
+    "source_response_id": "9hrthp4r2a1xq4jod9hrm7c3nolpjhis",
+    "submitted_at": "2026-05-11T17:50:31Z",
+    "total_time_seconds": null,
+    "language": "en",
+    "dimensions": {
+      "nps": 10
+    },
+    "open_ended": {
+      "in_one_sentence_what_is_the_most_important_realization_you_re_taking_away": "That I need to be more assertive and confident in my knowledge and what my experience has taught me.",
+      "what_will_you_do_differently_in_the_next_two_weeks": "Be more assertive and clearly state the objectives to establish credibility among the teams."
+    }
+  },
+  {
+    "id": "tf:pOUwCYuh:dur98dfpxmhlfqdur98yukynuvpk3c0q",
+    "survey_id": "tf:pOUwCYuh",
+    "source": "typeform",
+    "source_response_id": "dur98dfpxmhlfqdur98yukynuvpk3c0q",
+    "submitted_at": "2026-05-11T17:25:26Z",
+    "total_time_seconds": null,
+    "language": "en",
+    "dimensions": {
+      "nps": 9
+    },
+    "open_ended": {
+      "in_one_sentence_what_is_the_most_important_realization_you_re_taking_away": "I need to be more carefull on the obsesive tag that I got to develop",
+      "what_will_you_do_differently_in_the_next_two_weeks": "I will try to show more compassion towards my team."
     }
   },
   {
@@ -2702,6 +2884,24 @@
     },
     "open_ended": {
       "which_topics_or_tools_have_had_the_biggest_impact_on_your_thinking_or_leadership": "Disc + concrete actions"
+    }
+  },
+  {
+    "id": "tf:p5NraCNe:m8v3d80v3h9fd72x9j8im8v34lnxieor",
+    "survey_id": "tf:p5NraCNe",
+    "source": "typeform",
+    "source_response_id": "m8v3d80v3h9fd72x9j8im8v34lnxieor",
+    "submitted_at": "2026-05-12T07:37:12Z",
+    "total_time_seconds": null,
+    "language": "en",
+    "dimensions": {
+      "relevance": 1,
+      "engagement": 1,
+      "applicability": 1
+    },
+    "open_ended": {
+      "which_topics_or_tools_have_had_the_biggest_impact_on_your_thinking_or_leadership": "victim player, knower learner",
+      "what_would_improve_your_experience_in_future_sessions": "culture, confidence"
     }
   },
   {
@@ -9462,6 +9662,25 @@
       "qué_tan_efectiva_fue_la_facilitación_para_guiar_la_conversación": "Excelente",
       "qué_aspecto_de_esta_experiencia_te_resultó_más_valioso": "Xx",
       "qué_mejorarías_para_futuras_conversaciones_grupales_de_este_tipo": "Xx"
+    }
+  },
+  {
+    "id": "tf:RflOZOER:aryjirc6v8dtv5djgfsvk2vkaryjircx",
+    "survey_id": "tf:RflOZOER",
+    "source": "typeform",
+    "source_response_id": "aryjirc6v8dtv5djgfsvk2vkaryjircx",
+    "submitted_at": "2026-05-11T17:27:06Z",
+    "total_time_seconds": null,
+    "language": "es",
+    "dimensions": {},
+    "open_ended": {
+      "cliente_y_nombre_del_programa": "Electrolit HPT",
+      "coachee": "Hamed Medina",
+      "cuáles_fueron_los_principales_desafíos_sobre_los_que_trabajaron_en_la_sesión": "cómo gestionar cuidar los alcances de mi rol vs el de mi par que ahora lidera lo que antes lideré yo",
+      "en_qué_medida_se_cumplieron_los_objetivos_de_la_sesión": "Completamente",
+      "cómo_calificarías_el_nivel_de_conexión_y_empatía_con_el_coachee": "Muy alta",
+      "cómo_calificarías_el_nivel_de_compromiso_y_seguimiento_del_coachee": "Muy alto",
+      "cuáles_fueron_las_principales_herramientas_y_conceptos_aplicados_en_la_sesión": "impacto vs influiencia + diseño conversación acuerdos"
     }
   },
   {

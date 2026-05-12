@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-11T08:57:54.797Z",
-  "total_surveys": 215,
-  "total_responses": 2649,
+  "generated_at": "2026-05-12T08:24:27.130Z",
+  "total_surveys": 219,
+  "total_responses": 2662,
   "by_source": {
     "typeform": {
-      "surveys": 96,
-      "responses": 530
+      "surveys": 100,
+      "responses": 543
     },
     "surveymonkey": {
       "surveys": 119,
@@ -13,29 +13,29 @@
     }
   },
   "by_family": {
-    "unknown": {
-      "surveys": 10,
-      "responses": 20
-    },
     "facilitator_debrief": {
-      "surveys": 28,
-      "responses": 32
+      "surveys": 29,
+      "responses": 34
+    },
+    "unknown": {
+      "surveys": 11,
+      "responses": 29
+    },
+    "coaching_reflection": {
+      "surveys": 25,
+      "responses": 129
     },
     "participant_reflection": {
       "surveys": 97,
-      "responses": 2187
+      "responses": 2188
     },
     "internal_clients_perception": {
       "surveys": 3,
       "responses": 0
     },
-    "coaching_reflection": {
-      "surveys": 23,
-      "responses": 129
-    },
     "coaching_process": {
       "surveys": 14,
-      "responses": 49
+      "responses": 50
     },
     "prework": {
       "surveys": 3,
@@ -72,8 +72,8 @@
   },
   "by_client": {
     "(unmatched)": {
-      "surveys": 69,
-      "responses": 233
+      "surveys": 73,
+      "responses": 245
     },
     "Despegar": {
       "surveys": 14,
@@ -93,7 +93,7 @@
     },
     "Electrolit": {
       "surveys": 9,
-      "responses": 79
+      "responses": 80
     },
     "Mibanco": {
       "surveys": 2,
@@ -190,8 +190,8 @@
   },
   "by_program": {
     "(unmatched)": {
-      "surveys": 90,
-      "responses": 185
+      "surveys": 94,
+      "responses": 197
     },
     "Despegar LT+": {
       "surveys": 12,
@@ -283,7 +283,7 @@
     },
     "Electrolit Coaching": {
       "surveys": 2,
-      "responses": 38
+      "responses": 39
     },
     "CIRION Conversaciones Desafiantes": {
       "surveys": 9,
@@ -407,12 +407,12 @@
     }
   },
   "flagged": {
-    "templates": 21,
+    "templates": 22,
     "tests": 4,
     "excluded": 17,
-    "no_responses": 93,
-    "unmatched_client": 44,
-    "unmatched_program": 65,
-    "unmatched_family": 6
+    "no_responses": 95,
+    "unmatched_client": 47,
+    "unmatched_program": 68,
+    "unmatched_family": 7
   }
 }
