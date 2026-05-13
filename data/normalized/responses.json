@@ -54,6 +54,25 @@
     }
   },
   {
+    "id": "tf:NL7bcX9l:waynh0ic9yh37yqinuualozwaynh9hst",
+    "survey_id": "tf:NL7bcX9l",
+    "source": "typeform",
+    "source_response_id": "waynh0ic9yh37yqinuualozwaynh9hst",
+    "submitted_at": "2026-05-12T22:21:00Z",
+    "total_time_seconds": null,
+    "language": "en",
+    "dimensions": {},
+    "open_ended": {
+      "please_indicate_client_program_name": "GM Mexico - AI",
+      "to_what_extent_did_the_program_achieve_its_goals": "A great deal",
+      "what_was_the_level_of_connection_in_the_room": "Very High",
+      "what_was_participants_level_of_commitment": "Very High",
+      "how_would_you_rate_your_effectiveness": "Effective",
+      "to_what_extent_did_the_program_run_smoothly_in_terms_of_logistics_and_coordinati": "A great deal",
+      "what_would_make_this_workshop_more_effective_and_impactful_next_time": "With 30 people there was one section of two groups, which would be better served with 4 groups. Although this was unknown during design, if we suddenly have over 20 attendees we have to pivot to a 4 group solution."
+    }
+  },
+  {
     "id": "tf:NUxEFmme:p8bla7boeho8k9y3tt0jkp8bla7bb5js",
     "survey_id": "tf:NUxEFmme",
     "source": "typeform",
@@ -271,6 +290,25 @@
     }
   },
   {
+    "id": "tf:v9fxP3cu:dq8bi3fpgjvrygeffxdq8b4w70t1qy17",
+    "survey_id": "tf:v9fxP3cu",
+    "source": "typeform",
+    "source_response_id": "dq8bi3fpgjvrygeffxdq8b4w70t1qy17",
+    "submitted_at": "2026-05-12T17:50:04Z",
+    "total_time_seconds": null,
+    "language": "en",
+    "dimensions": {},
+    "open_ended": {
+      "please_indicate_client_program_name": "General Motors Mx - Leading AI transformation",
+      "to_what_extent_did_the_program_achieve_its_goals": "A great deal",
+      "what_was_the_level_of_connection_in_the_room": "High",
+      "what_was_participants_level_of_commitment": "Very High",
+      "how_would_you_rate_your_effectiveness": "Effective",
+      "to_what_extent_did_the_program_run_smoothly_in_terms_of_logistics_and_coordinati": "A great deal",
+      "what_would_make_this_workshop_more_effective_and_impactful_next_time": "Less participants in the room"
+    }
+  },
+  {
     "id": "tf:LET6CryX:42281ui7gio0rbsi66o42iyovnk44cdm",
     "survey_id": "tf:LET6CryX",
     "source": "typeform",
@@ -306,6 +344,134 @@
       "como_calificarías_tu_efectividad_como_facilitador": "Muy efectivo - Entregué los conceptos con claridad y fluidez, y manejé la sala con alto nivel de efectividad",
       "en_qué_medida_el_programa_se_desarrolló_sin_inconvenientes_en_términos_de_logíst": "Completamente - Todo se ejecutó de manera fluida y bien coordinada",
       "qué_haría_que_este_programa_fuera_más_efectivo_o_de_mayor_impacto_en_una_futura_": "Todo excelente"
+    }
+  },
+  {
+    "id": "tf:pOUwCYuh:ykksgxtgypk6oei5fykksgx1l0kc9rto",
+    "survey_id": "tf:pOUwCYuh",
+    "source": "typeform",
+    "source_response_id": "ykksgxtgypk6oei5fykksgx1l0kc9rto",
+    "submitted_at": "2026-05-13T04:16:21Z",
+    "total_time_seconds": null,
+    "language": "en",
+    "dimensions": {
+      "nps": 7
+    },
+    "open_ended": {
+      "in_one_sentence_what_is_the_most_important_realization_you_re_taking_away": "my aloof tendency potentially affect retention rate in my teams",
+      "what_will_you_do_differently_in_the_next_two_weeks": "research on best practices when it comes to improving aloof traits"
+    }
+  },
+  {
+    "id": "tf:pOUwCYuh:mlhbeaz7q9w2lk79jkjzmlhbe6r8aj0z",
+    "survey_id": "tf:pOUwCYuh",
+    "source": "typeform",
+    "source_response_id": "mlhbeaz7q9w2lk79jkjzmlhbe6r8aj0z",
+    "submitted_at": "2026-05-12T20:54:51Z",
+    "total_time_seconds": null,
+    "language": "en",
+    "dimensions": {
+      "nps": 4
+    },
+    "open_ended": {
+      "in_one_sentence_what_is_the_most_important_realization_you_re_taking_away": "The result was not clear and Axia crashed several times so I was not able to get clear guidance.",
+      "what_will_you_do_differently_in_the_next_two_weeks": "I will focus on the actionable items suggested."
+    }
+  },
+  {
+    "id": "tf:pOUwCYuh:pca9qygle44oo12c45pca9pjyifr35hn",
+    "survey_id": "tf:pOUwCYuh",
+    "source": "typeform",
+    "source_response_id": "pca9qygle44oo12c45pca9pjyifr35hn",
+    "submitted_at": "2026-05-12T16:27:03Z",
+    "total_time_seconds": null,
+    "language": "en",
+    "dimensions": {
+      "nps": 8
+    },
+    "open_ended": {
+      "in_one_sentence_what_is_the_most_important_realization_you_re_taking_away": "I realized that I need to work on my humble approach",
+      "what_will_you_do_differently_in_the_next_two_weeks": "I will start being more conscious when having coaching with my TLs"
+    }
+  },
+  {
+    "id": "tf:pOUwCYuh:wwt5rx9zmk2shqt3e6wkgwwt5ro6fnrg",
+    "survey_id": "tf:pOUwCYuh",
+    "source": "typeform",
+    "source_response_id": "wwt5rx9zmk2shqt3e6wkgwwt5ro6fnrg",
+    "submitted_at": "2026-05-12T15:23:09Z",
+    "total_time_seconds": null,
+    "language": "en",
+    "dimensions": {
+      "nps": 7
+    },
+    "open_ended": {
+      "in_one_sentence_what_is_the_most_important_realization_you_re_taking_away": "being more emotional intelligent",
+      "what_will_you_do_differently_in_the_next_two_weeks": "Work on being more focused on others"
+    }
+  },
+  {
+    "id": "tf:pOUwCYuh:w36d6ae16g266njd643uiw36d6a1e4x2",
+    "survey_id": "tf:pOUwCYuh",
+    "source": "typeform",
+    "source_response_id": "w36d6ae16g266njd643uiw36d6a1e4x2",
+    "submitted_at": "2026-05-12T14:05:19Z",
+    "total_time_seconds": null,
+    "language": "en",
+    "dimensions": {
+      "nps": 8
+    },
+    "open_ended": {
+      "in_one_sentence_what_is_the_most_important_realization_you_re_taking_away": "The problem is not knowing is showing what I see to other people",
+      "what_will_you_do_differently_in_the_next_two_weeks": "focus on specific issues and how I can discuss them with the stakeholders in a more strategic way"
+    }
+  },
+  {
+    "id": "tf:pOUwCYuh:c0kgmmwcapqh7vc0kgynobckho6gcaf8",
+    "survey_id": "tf:pOUwCYuh",
+    "source": "typeform",
+    "source_response_id": "c0kgmmwcapqh7vc0kgynobckho6gcaf8",
+    "submitted_at": "2026-05-12T13:59:11Z",
+    "total_time_seconds": null,
+    "language": "en",
+    "dimensions": {
+      "nps": 10
+    },
+    "open_ended": {
+      "in_one_sentence_what_is_the_most_important_realization_you_re_taking_away": "Be more focus on your goal",
+      "what_will_you_do_differently_in_the_next_two_weeks": "Create a list of what needs to be prioritized"
+    }
+  },
+  {
+    "id": "tf:pOUwCYuh:cz7dtknkhw49hkf0nzunulcz7dtkbm9i",
+    "survey_id": "tf:pOUwCYuh",
+    "source": "typeform",
+    "source_response_id": "cz7dtknkhw49hkf0nzunulcz7dtkbm9i",
+    "submitted_at": "2026-05-12T09:51:21Z",
+    "total_time_seconds": null,
+    "language": "en",
+    "dimensions": {
+      "nps": 10
+    },
+    "open_ended": {
+      "in_one_sentence_what_is_the_most_important_realization_you_re_taking_away": "the information that I will use in my day to day work",
+      "what_will_you_do_differently_in_the_next_two_weeks": "to be more organized"
+    }
+  },
+  {
+    "id": "tf:pOUwCYuh:0cvwgrbhpyewirum0z0cvwyvlsleviht",
+    "survey_id": "tf:pOUwCYuh",
+    "source": "typeform",
+    "source_response_id": "0cvwgrbhpyewirum0z0cvwyvlsleviht",
+    "submitted_at": "2026-05-12T08:24:30Z",
+    "total_time_seconds": null,
+    "language": "en",
+    "dimensions": {
+      "nps": 10
+    },
+    "open_ended": {
+      "in_one_sentence_what_is_the_most_important_realization_you_re_taking_away": "Putting in words  the challenge and having a plan for it.",
+      "what_will_you_do_differently_in_the_next_two_weeks": "keep my plan actions"
     }
   },
   {
@@ -780,6 +946,51 @@
       "el_facilitador_fue_eficaz_al_transmitir_el_contenido_y_apoyar_mi_aprendizaje": "Muy de acuerdo",
       "qué_temas_o_herramientas_han_tenido_el_mayor_impacto_en_su_pensamiento_o_lideraz": ".",
       "qué_mejoraría_su_experiencia_en_futuras_sesiones": "Inspiración externa"
+    }
+  },
+  {
+    "id": "tf:TxqN2Zf2:puxytgowqj60n9oecpux9pvangkmyuze",
+    "survey_id": "tf:TxqN2Zf2",
+    "source": "typeform",
+    "source_response_id": "puxytgowqj60n9oecpux9pvangkmyuze",
+    "submitted_at": "2026-05-13T02:43:06Z",
+    "total_time_seconds": null,
+    "language": "es",
+    "dimensions": {
+      "nps": 9
+    },
+    "open_ended": {
+      "en_una_frase_cuál_es_tu_principal_aprendizaje": "No es necesario tener todo bajo control para un liderazgo efectivo"
+    }
+  },
+  {
+    "id": "tf:TxqN2Zf2:7jbyxk5vc50wj5zdgu7jbyx5chu70l8y",
+    "survey_id": "tf:TxqN2Zf2",
+    "source": "typeform",
+    "source_response_id": "7jbyxk5vc50wj5zdgu7jbyx5chu70l8y",
+    "submitted_at": "2026-05-12T21:10:13Z",
+    "total_time_seconds": null,
+    "language": "es",
+    "dimensions": {
+      "nps": 9
+    },
+    "open_ended": {
+      "en_una_frase_cuál_es_tu_principal_aprendizaje": "Enfoque"
+    }
+  },
+  {
+    "id": "tf:TxqN2Zf2:kqq77tqf7jc9sy3fg1ozkqq77qr7yo61",
+    "survey_id": "tf:TxqN2Zf2",
+    "source": "typeform",
+    "source_response_id": "kqq77tqf7jc9sy3fg1ozkqq77qr7yo61",
+    "submitted_at": "2026-05-12T14:47:01Z",
+    "total_time_seconds": null,
+    "language": "es",
+    "dimensions": {
+      "nps": 7
+    },
+    "open_ended": {
+      "en_una_frase_cuál_es_tu_principal_aprendizaje": "El empoderamiento del equipo es primordial para una buena gestión."
     }
   },
   {
@@ -2884,6 +3095,78 @@
     },
     "open_ended": {
       "which_topics_or_tools_have_had_the_biggest_impact_on_your_thinking_or_leadership": "Disc + concrete actions"
+    }
+  },
+  {
+    "id": "tf:p5NraCNe:ph5xg8mwxgm3ajauccph5xgdmo7tk0x6",
+    "survey_id": "tf:p5NraCNe",
+    "source": "typeform",
+    "source_response_id": "ph5xg8mwxgm3ajauccph5xgdmo7tk0x6",
+    "submitted_at": "2026-05-13T07:22:07Z",
+    "total_time_seconds": null,
+    "language": "en",
+    "dimensions": {
+      "relevance": 5,
+      "engagement": 5,
+      "applicability": 5
+    },
+    "open_ended": {
+      "which_topics_or_tools_have_had_the_biggest_impact_on_your_thinking_or_leadership": "introduction to the emotions and change management",
+      "what_would_improve_your_experience_in_future_sessions": "strategies for managing emotions"
+    }
+  },
+  {
+    "id": "tf:p5NraCNe:rwq95kamcnhl1erwqsuhwqc93yyr53wx",
+    "survey_id": "tf:p5NraCNe",
+    "source": "typeform",
+    "source_response_id": "rwq95kamcnhl1erwqsuhwqc93yyr53wx",
+    "submitted_at": "2026-05-13T06:44:48Z",
+    "total_time_seconds": null,
+    "language": "en",
+    "dimensions": {
+      "relevance": 5,
+      "engagement": 5,
+      "applicability": 5
+    },
+    "open_ended": {
+      "which_topics_or_tools_have_had_the_biggest_impact_on_your_thinking_or_leadership": "check in and check out meeting , learning challenges",
+      "what_would_improve_your_experience_in_future_sessions": "learning challenges, check in and check out  meeting"
+    }
+  },
+  {
+    "id": "tf:p5NraCNe:opz9ytc77plgab33of2t5vopz9yt8p20",
+    "survey_id": "tf:p5NraCNe",
+    "source": "typeform",
+    "source_response_id": "opz9ytc77plgab33of2t5vopz9yt8p20",
+    "submitted_at": "2026-05-12T11:15:44Z",
+    "total_time_seconds": null,
+    "language": "en",
+    "dimensions": {
+      "relevance": 5,
+      "engagement": 5,
+      "applicability": 5
+    },
+    "open_ended": {
+      "which_topics_or_tools_have_had_the_biggest_impact_on_your_thinking_or_leadership": "Effective apology, or Effective complaint",
+      "what_would_improve_your_experience_in_future_sessions": "how to apology from someone in the future"
+    }
+  },
+  {
+    "id": "tf:p5NraCNe:gf73wxvg09ixggf73wxvoytli4sallaw",
+    "survey_id": "tf:p5NraCNe",
+    "source": "typeform",
+    "source_response_id": "gf73wxvg09ixggf73wxvoytli4sallaw",
+    "submitted_at": "2026-05-12T09:13:06Z",
+    "total_time_seconds": null,
+    "language": "en",
+    "dimensions": {
+      "relevance": 5,
+      "engagement": 5,
+      "applicability": 5
+    },
+    "open_ended": {
+      "which_topics_or_tools_have_had_the_biggest_impact_on_your_thinking_or_leadership": "conversation, listening",
+      "what_would_improve_your_experience_in_future_sessions": "conversation, active listening"
     }
   },
   {

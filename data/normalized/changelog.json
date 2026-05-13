@@ -1,30 +1,22 @@
 {
-  "generated_at": "2026-05-12T08:24:27.129Z",
-  "previous_run_at": "2026-05-11T08:57:54.797Z",
-  "new_forms": [
-    {
-      "id": "tf:HiUpWW9h",
-      "title": "Coach Debrief Survey - Kat ",
-      "source": "typeform"
-    },
-    {
-      "id": "tf:nHUaP9It",
-      "title": "Coaching Reflection survey Final Session Coachee - Kat",
-      "source": "typeform"
-    },
-    {
-      "id": "tf:ZDASDjE2",
-      "title": "Coaching Reflection Survey Coachee - Kat",
-      "source": "typeform"
-    }
-  ],
+  "generated_at": "2026-05-13T08:33:35.144Z",
+  "previous_run_at": "2026-05-12T08:24:27.130Z",
+  "new_forms": [],
   "updated_forms": [
     {
-      "id": "tf:RflOZOER",
-      "title": "ELECTROLIT Registro Proceso de Coaching",
+      "id": "tf:NL7bcX9l",
+      "title": "MEC AI Define Session- Facilitator Debrief Survey (Dan Strode)",
       "source": "typeform",
-      "previous_response_count": 37,
-      "current_response_count": 38,
+      "previous_response_count": 0,
+      "current_response_count": 1,
+      "delta": 1
+    },
+    {
+      "id": "tf:v9fxP3cu",
+      "title": "MEC AI Define Session- Facilitator Debrief Survey (Carlos Agustin)",
+      "source": "typeform",
+      "previous_response_count": 0,
+      "current_response_count": 1,
       "delta": 1
     }
   ],
