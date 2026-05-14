@@ -1,5 +1,24 @@
 [
   {
+    "id": "tf:UiYbU9ds:do1oje5buvb80l9wdo1ojrbqrpd54f4j",
+    "survey_id": "tf:UiYbU9ds",
+    "source": "typeform",
+    "source_response_id": "do1oje5buvb80l9wdo1ojrbqrpd54f4j",
+    "submitted_at": "2026-05-13T12:44:37Z",
+    "total_time_seconds": null,
+    "language": "es",
+    "dimensions": {},
+    "open_ended": {
+      "la_sesión_fue_interesante_atractiva_y_apoyó_mi_aprendizaje": "Muy de acuerdo",
+      "el_facilitador_fue_eficaz_al_transmitir_el_contenido_y_apoyar_mi_aprendizaje": "Muy de acuerdo",
+      "siento_confianza_en_mi_capacidad_para_aplicar_lo_aprendido_a_desafíos_reales_de_": "Muy de acuerdo",
+      "qué_temas_o_herramientas_han_tenido_el_mayor_impacto_en_su_pensamiento_o_lideraz": "9",
+      "qué_mejoraría_su_experiencia_en_futuras_sesiones": ",-,",
+      "brindarnos_su_email_profesional": ".vj.j",
+      "seleccionar_3_o_más_de_las_siguientes_opciones_de_fechas_donde_cuenten_con_dispo": "3 de junio de 9h a 11h | 4 de junio de 9h a 11h | 18 de junio de 9h a 12h"
+    }
+  },
+  {
     "id": "tf:NdLLWqvS:mxkbfht8qgdq85imxkbfjf2cjw7sbd6i",
     "survey_id": "tf:NdLLWqvS",
     "source": "typeform",
@@ -344,6 +363,166 @@
       "como_calificarías_tu_efectividad_como_facilitador": "Muy efectivo - Entregué los conceptos con claridad y fluidez, y manejé la sala con alto nivel de efectividad",
       "en_qué_medida_el_programa_se_desarrolló_sin_inconvenientes_en_términos_de_logíst": "Completamente - Todo se ejecutó de manera fluida y bien coordinada",
       "qué_haría_que_este_programa_fuera_más_efectivo_o_de_mayor_impacto_en_una_futura_": "Todo excelente"
+    }
+  },
+  {
+    "id": "tf:pOUwCYuh:7rchpyym8sxayueyh87rchpyub93yaq9",
+    "survey_id": "tf:pOUwCYuh",
+    "source": "typeform",
+    "source_response_id": "7rchpyym8sxayueyh87rchpyub93yaq9",
+    "submitted_at": "2026-05-13T23:16:28Z",
+    "total_time_seconds": null,
+    "language": "en",
+    "dimensions": {
+      "nps": 10
+    },
+    "open_ended": {
+      "in_one_sentence_what_is_the_most_important_realization_you_re_taking_away": "I didn't realize that I had a percentage of obsession",
+      "what_will_you_do_differently_in_the_next_two_weeks": "I will try to let go of some things that are out of my control"
+    }
+  },
+  {
+    "id": "tf:pOUwCYuh:eb5nb7yu0bt29du01eeb5nb74qyv414m",
+    "survey_id": "tf:pOUwCYuh",
+    "source": "typeform",
+    "source_response_id": "eb5nb7yu0bt29du01eeb5nb74qyv414m",
+    "submitted_at": "2026-05-13T19:51:31Z",
+    "total_time_seconds": null,
+    "language": "en",
+    "dimensions": {
+      "nps": 7
+    },
+    "open_ended": {
+      "in_one_sentence_what_is_the_most_important_realization_you_re_taking_away": "Excellence is great but may stale if not in sync with strategy",
+      "what_will_you_do_differently_in_the_next_two_weeks": "Work on suggested points"
+    }
+  },
+  {
+    "id": "tf:pOUwCYuh:keae1iv4asigebsnfpb49soy91wy7ucy",
+    "survey_id": "tf:pOUwCYuh",
+    "source": "typeform",
+    "source_response_id": "keae1iv4asigebsnfpb49soy91wy7ucy",
+    "submitted_at": "2026-05-13T19:40:14Z",
+    "total_time_seconds": null,
+    "language": "en",
+    "dimensions": {
+      "nps": 10
+    },
+    "open_ended": {
+      "in_one_sentence_what_is_the_most_important_realization_you_re_taking_away": "network of conversations",
+      "what_will_you_do_differently_in_the_next_two_weeks": "In the next two weeks, I will stop \"fixing\" operational issues myself and instead focus on clarifying the architecture of commitments by ensuring every meeting and interaction with my team ends with a documented, shared understanding of \"who is doing what, by when, and for what purpose.\""
+    }
+  },
+  {
+    "id": "tf:pOUwCYuh:sc5z8d8bkxkq5wmilyvsc5zs6tnv3z2m",
+    "survey_id": "tf:pOUwCYuh",
+    "source": "typeform",
+    "source_response_id": "sc5z8d8bkxkq5wmilyvsc5zs6tnv3z2m",
+    "submitted_at": "2026-05-13T18:47:09Z",
+    "total_time_seconds": null,
+    "language": "en",
+    "dimensions": {
+      "nps": 10
+    },
+    "open_ended": {
+      "in_one_sentence_what_is_the_most_important_realization_you_re_taking_away": "That I need to confront those uncomfortable decisions and tasks more consistently.",
+      "what_will_you_do_differently_in_the_next_two_weeks": "Confront those uncomfortable items and not avoid them."
+    }
+  },
+  {
+    "id": "tf:pOUwCYuh:c13aa39a3zfa9du3dec13aamxqhfoj0m",
+    "survey_id": "tf:pOUwCYuh",
+    "source": "typeform",
+    "source_response_id": "c13aa39a3zfa9du3dec13aamxqhfoj0m",
+    "submitted_at": "2026-05-13T16:19:40Z",
+    "total_time_seconds": null,
+    "language": "en",
+    "dimensions": {
+      "nps": 7
+    },
+    "open_ended": {
+      "in_one_sentence_what_is_the_most_important_realization_you_re_taking_away": "that I can hoard work",
+      "what_will_you_do_differently_in_the_next_two_weeks": "look at delegation opportunities"
+    }
+  },
+  {
+    "id": "tf:pOUwCYuh:p8dg4cuecnrq7wp2v22p8dg4curl1z8m",
+    "survey_id": "tf:pOUwCYuh",
+    "source": "typeform",
+    "source_response_id": "p8dg4cuecnrq7wp2v22p8dg4curl1z8m",
+    "submitted_at": "2026-05-13T15:31:47Z",
+    "total_time_seconds": null,
+    "language": "en",
+    "dimensions": {
+      "nps": 8
+    },
+    "open_ended": {
+      "in_one_sentence_what_is_the_most_important_realization_you_re_taking_away": "The smaller the bad habit, the harder it is to change easily.",
+      "what_will_you_do_differently_in_the_next_two_weeks": "set aside time to find answers myself first."
+    }
+  },
+  {
+    "id": "tf:pOUwCYuh:chlqjpso2x9e7e88w80flchlqjsh3up9",
+    "survey_id": "tf:pOUwCYuh",
+    "source": "typeform",
+    "source_response_id": "chlqjpso2x9e7e88w80flchlqjsh3up9",
+    "submitted_at": "2026-05-13T15:10:19Z",
+    "total_time_seconds": null,
+    "language": "en",
+    "dimensions": {
+      "nps": 8
+    },
+    "open_ended": {
+      "in_one_sentence_what_is_the_most_important_realization_you_re_taking_away": "That I need to address some of my leadership traits and avoid of thinking what others think of me",
+      "what_will_you_do_differently_in_the_next_two_weeks": "Avoid letting others think of me and focus on what's important which is client and my team"
+    }
+  },
+  {
+    "id": "tf:pOUwCYuh:7y5ug7nm83s7f65v5g7y5ug7o386k98o",
+    "survey_id": "tf:pOUwCYuh",
+    "source": "typeform",
+    "source_response_id": "7y5ug7nm83s7f65v5g7y5ug7o386k98o",
+    "submitted_at": "2026-05-13T13:31:06Z",
+    "total_time_seconds": null,
+    "language": "en",
+    "dimensions": {
+      "nps": 10
+    },
+    "open_ended": {
+      "in_one_sentence_what_is_the_most_important_realization_you_re_taking_away": "Everything is fixable!",
+      "what_will_you_do_differently_in_the_next_two_weeks": "Start practicing, tracking and follow up with my results"
+    }
+  },
+  {
+    "id": "tf:pOUwCYuh:y77s8z6w5hfra0cy77sq89e7tp30a296",
+    "survey_id": "tf:pOUwCYuh",
+    "source": "typeform",
+    "source_response_id": "y77s8z6w5hfra0cy77sq89e7tp30a296",
+    "submitted_at": "2026-05-13T12:41:25Z",
+    "total_time_seconds": null,
+    "language": "en",
+    "dimensions": {
+      "nps": 6
+    },
+    "open_ended": {
+      "in_one_sentence_what_is_the_most_important_realization_you_re_taking_away": "AI is becoming powerfull.",
+      "what_will_you_do_differently_in_the_next_two_weeks": "I am not sure as my area of focus is not all down to me."
+    }
+  },
+  {
+    "id": "tf:pOUwCYuh:irdldinbtq4pxm48hkq5irdldinuwpet",
+    "survey_id": "tf:pOUwCYuh",
+    "source": "typeform",
+    "source_response_id": "irdldinbtq4pxm48hkq5irdldinuwpet",
+    "submitted_at": "2026-05-13T11:27:21Z",
+    "total_time_seconds": null,
+    "language": "en",
+    "dimensions": {
+      "nps": 8
+    },
+    "open_ended": {
+      "in_one_sentence_what_is_the_most_important_realization_you_re_taking_away": "i realize that i'm near with micromanaging my team",
+      "what_will_you_do_differently_in_the_next_two_weeks": "i will start to learn to shift my obsessiveness into strategic"
     }
   },
   {
@@ -946,6 +1125,21 @@
       "el_facilitador_fue_eficaz_al_transmitir_el_contenido_y_apoyar_mi_aprendizaje": "Muy de acuerdo",
       "qué_temas_o_herramientas_han_tenido_el_mayor_impacto_en_su_pensamiento_o_lideraz": ".",
       "qué_mejoraría_su_experiencia_en_futuras_sesiones": "Inspiración externa"
+    }
+  },
+  {
+    "id": "tf:TxqN2Zf2:caz4nczq7bfms8xccaz40zgdlae5icum",
+    "survey_id": "tf:TxqN2Zf2",
+    "source": "typeform",
+    "source_response_id": "caz4nczq7bfms8xccaz40zgdlae5icum",
+    "submitted_at": "2026-05-13T13:07:30Z",
+    "total_time_seconds": null,
+    "language": "es",
+    "dimensions": {
+      "nps": 7
+    },
+    "open_ended": {
+      "en_una_frase_cuál_es_tu_principal_aprendizaje": "Cómo impactan en mí, mi lider y el equipo, vivir entre impulsar el plan corecto y tener una opinión disonante desde arriba."
     }
   },
   {
@@ -3095,6 +3289,42 @@
     },
     "open_ended": {
       "which_topics_or_tools_have_had_the_biggest_impact_on_your_thinking_or_leadership": "Disc + concrete actions"
+    }
+  },
+  {
+    "id": "tf:p5NraCNe:ib5rp0ees5w3zwixvmcficib5rp01r2u",
+    "survey_id": "tf:p5NraCNe",
+    "source": "typeform",
+    "source_response_id": "ib5rp0ees5w3zwixvmcficib5rp01r2u",
+    "submitted_at": "2026-05-14T05:35:00Z",
+    "total_time_seconds": null,
+    "language": "en",
+    "dimensions": {
+      "relevance": 5,
+      "engagement": 5,
+      "applicability": 5
+    },
+    "open_ended": {
+      "which_topics_or_tools_have_had_the_biggest_impact_on_your_thinking_or_leadership": ": I-WE-IT / BE-DO-HAVE",
+      "what_would_improve_your_experience_in_future_sessions": "my victim attitude"
+    }
+  },
+  {
+    "id": "tf:p5NraCNe:v3lo750qpfbjdl9v3lm27casf7ide5o1",
+    "survey_id": "tf:p5NraCNe",
+    "source": "typeform",
+    "source_response_id": "v3lo750qpfbjdl9v3lm27casf7ide5o1",
+    "submitted_at": "2026-05-13T17:13:22Z",
+    "total_time_seconds": null,
+    "language": "en",
+    "dimensions": {
+      "relevance": 5,
+      "engagement": 5,
+      "applicability": 5
+    },
+    "open_ended": {
+      "which_topics_or_tools_have_had_the_biggest_impact_on_your_thinking_or_leadership": "Culture",
+      "what_would_improve_your_experience_in_future_sessions": "NA"
     }
   },
   {
