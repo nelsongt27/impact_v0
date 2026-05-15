@@ -328,6 +328,26 @@
     }
   },
   {
+    "id": "tf:dbsUIOFY:gl7p6kkne7ettjmgl7qeu9nkkg3v58cx",
+    "survey_id": "tf:dbsUIOFY",
+    "source": "typeform",
+    "source_response_id": "gl7p6kkne7ettjmgl7qeu9nkkg3v58cx",
+    "submitted_at": "2026-05-14T20:41:39Z",
+    "total_time_seconds": null,
+    "language": "en",
+    "dimensions": {
+      "relevance": 4,
+      "engagement": 4,
+      "facilitator_effectiveness": 4,
+      "applicability": 5,
+      "culture_fit": 5
+    },
+    "open_ended": {
+      "qué_temas_o_herramientas_han_tenido_mayor_impacto_en_tu_forma_de_pensar_o_en_tu_": "Los roleplaying y trabajos en equipo.",
+      "qué_mejoraría_tu_experiencia_en_las_sesiones_que_faltan": "Más ejemplos del contenido que se trae refiriendo a experiencias de otras compañías o incluso dentro de Despe."
+    }
+  },
+  {
     "id": "tf:LET6CryX:42281ui7gio0rbsi66o42iyovnk44cdm",
     "survey_id": "tf:LET6CryX",
     "source": "typeform",
@@ -363,6 +383,54 @@
       "como_calificarías_tu_efectividad_como_facilitador": "Muy efectivo - Entregué los conceptos con claridad y fluidez, y manejé la sala con alto nivel de efectividad",
       "en_qué_medida_el_programa_se_desarrolló_sin_inconvenientes_en_términos_de_logíst": "Completamente - Todo se ejecutó de manera fluida y bien coordinada",
       "qué_haría_que_este_programa_fuera_más_efectivo_o_de_mayor_impacto_en_una_futura_": "Todo excelente"
+    }
+  },
+  {
+    "id": "tf:pOUwCYuh:adgde471j0xll2e70lamdadgdv4tlr1r",
+    "survey_id": "tf:pOUwCYuh",
+    "source": "typeform",
+    "source_response_id": "adgde471j0xll2e70lamdadgdv4tlr1r",
+    "submitted_at": "2026-05-15T07:27:12Z",
+    "total_time_seconds": null,
+    "language": "en",
+    "dimensions": {
+      "nps": 0
+    },
+    "open_ended": {
+      "in_one_sentence_what_is_the_most_important_realization_you_re_taking_away": "Nothing",
+      "what_will_you_do_differently_in_the_next_two_weeks": "Nothing"
+    }
+  },
+  {
+    "id": "tf:pOUwCYuh:f1kaos3n0f7fcdo9fawff1kyhskh0whw",
+    "survey_id": "tf:pOUwCYuh",
+    "source": "typeform",
+    "source_response_id": "f1kaos3n0f7fcdo9fawff1kyhskh0whw",
+    "submitted_at": "2026-05-14T19:34:48Z",
+    "total_time_seconds": null,
+    "language": "en",
+    "dimensions": {
+      "nps": 8
+    },
+    "open_ended": {
+      "in_one_sentence_what_is_the_most_important_realization_you_re_taking_away": "I need to jump into making decisions and trust that I know best for my team",
+      "what_will_you_do_differently_in_the_next_two_weeks": "Be more conscious about conversations/decisions I want to avoid/delay"
+    }
+  },
+  {
+    "id": "tf:pOUwCYuh:x0njgjqbgwsex9en7asay6x4tqx0njgj",
+    "survey_id": "tf:pOUwCYuh",
+    "source": "typeform",
+    "source_response_id": "x0njgjqbgwsex9en7asay6x4tqx0njgj",
+    "submitted_at": "2026-05-14T19:20:25Z",
+    "total_time_seconds": null,
+    "language": "en",
+    "dimensions": {
+      "nps": 10
+    },
+    "open_ended": {
+      "in_one_sentence_what_is_the_most_important_realization_you_re_taking_away": "increase effectiveness",
+      "what_will_you_do_differently_in_the_next_two_weeks": "become more responsible player"
     }
   },
   {
@@ -1125,6 +1193,36 @@
       "el_facilitador_fue_eficaz_al_transmitir_el_contenido_y_apoyar_mi_aprendizaje": "Muy de acuerdo",
       "qué_temas_o_herramientas_han_tenido_el_mayor_impacto_en_su_pensamiento_o_lideraz": ".",
       "qué_mejoraría_su_experiencia_en_futuras_sesiones": "Inspiración externa"
+    }
+  },
+  {
+    "id": "tf:TxqN2Zf2:jyfepalq2txs35gjyfe3ghr0wvadad78",
+    "survey_id": "tf:TxqN2Zf2",
+    "source": "typeform",
+    "source_response_id": "jyfepalq2txs35gjyfe3ghr0wvadad78",
+    "submitted_at": "2026-05-15T00:01:23Z",
+    "total_time_seconds": null,
+    "language": "es",
+    "dimensions": {
+      "nps": 7
+    },
+    "open_ended": {
+      "en_una_frase_cuál_es_tu_principal_aprendizaje": "El reporte da insights sobre mis tendencias naturales, donde seguir trabajando."
+    }
+  },
+  {
+    "id": "tf:TxqN2Zf2:a1doa1wcfdpqvm2utsi03a1doa1fhpmt",
+    "survey_id": "tf:TxqN2Zf2",
+    "source": "typeform",
+    "source_response_id": "a1doa1wcfdpqvm2utsi03a1doa1fhpmt",
+    "submitted_at": "2026-05-14T13:38:04Z",
+    "total_time_seconds": null,
+    "language": "es",
+    "dimensions": {
+      "nps": 8
+    },
+    "open_ended": {
+      "en_una_frase_cuál_es_tu_principal_aprendizaje": "Estar más consciente en casa y no sólo en el trabajo"
     }
   },
   {
@@ -3289,6 +3387,24 @@
     },
     "open_ended": {
       "which_topics_or_tools_have_had_the_biggest_impact_on_your_thinking_or_leadership": "Disc + concrete actions"
+    }
+  },
+  {
+    "id": "tf:p5NraCNe:zk4bvksmi3d9xq4xzk4bvbp2a8htcrq4",
+    "survey_id": "tf:p5NraCNe",
+    "source": "typeform",
+    "source_response_id": "zk4bvksmi3d9xq4xzk4bvbp2a8htcrq4",
+    "submitted_at": "2026-05-14T11:43:59Z",
+    "total_time_seconds": null,
+    "language": "en",
+    "dimensions": {
+      "relevance": 5,
+      "engagement": 5,
+      "applicability": 5
+    },
+    "open_ended": {
+      "which_topics_or_tools_have_had_the_biggest_impact_on_your_thinking_or_leadership": "all of them",
+      "what_would_improve_your_experience_in_future_sessions": "listening to understand"
     }
   },
   {
