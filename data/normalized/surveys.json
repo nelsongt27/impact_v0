@@ -501,7 +501,7 @@
     "excluded_reason": null,
     "created_at": "2026-04-20T19:34:03.170343Z",
     "updated_at": "2026-04-20T19:54:51.028691Z",
-    "response_count": 35,
+    "response_count": 36,
     "question_count": 6,
     "override_applied": false
   },
@@ -639,7 +639,7 @@
     "excluded_reason": null,
     "created_at": "2026-04-16T23:33:35.626744Z",
     "updated_at": "2026-05-06T01:56:25.985952Z",
-    "response_count": 13,
+    "response_count": 15,
     "question_count": 5,
     "override_applied": false
   },

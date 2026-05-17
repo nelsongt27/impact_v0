@@ -386,6 +386,22 @@
     }
   },
   {
+    "id": "tf:pOUwCYuh:3jptp4viu3a3lydgt33jptp48vt4kg4e",
+    "survey_id": "tf:pOUwCYuh",
+    "source": "typeform",
+    "source_response_id": "3jptp4viu3a3lydgt33jptp48vt4kg4e",
+    "submitted_at": "2026-05-16T15:04:15Z",
+    "total_time_seconds": null,
+    "language": "en",
+    "dimensions": {
+      "nps": 7
+    },
+    "open_ended": {
+      "in_one_sentence_what_is_the_most_important_realization_you_re_taking_away": "I need to think less conventional to be more creative in future",
+      "what_will_you_do_differently_in_the_next_two_weeks": "Still to decide"
+    }
+  },
+  {
     "id": "tf:pOUwCYuh:jc9kqz1as7nbaobpcqmx1jc9kqzh3hcu",
     "survey_id": "tf:pOUwCYuh",
     "source": "typeform",
@@ -1273,6 +1289,36 @@
       "el_facilitador_fue_eficaz_al_transmitir_el_contenido_y_apoyar_mi_aprendizaje": "Muy de acuerdo",
       "qué_temas_o_herramientas_han_tenido_el_mayor_impacto_en_su_pensamiento_o_lideraz": ".",
       "qué_mejoraría_su_experiencia_en_futuras_sesiones": "Inspiración externa"
+    }
+  },
+  {
+    "id": "tf:TxqN2Zf2:r7fnjn0782vq5pr7fsl367ttx7w14qpt",
+    "survey_id": "tf:TxqN2Zf2",
+    "source": "typeform",
+    "source_response_id": "r7fnjn0782vq5pr7fsl367ttx7w14qpt",
+    "submitted_at": "2026-05-16T17:39:45Z",
+    "total_time_seconds": null,
+    "language": "es",
+    "dimensions": {
+      "nps": 10
+    },
+    "open_ended": {
+      "en_una_frase_cuál_es_tu_principal_aprendizaje": "Claridad en mi estilo de liderazgo y sus implicancias."
+    }
+  },
+  {
+    "id": "tf:TxqN2Zf2:f8m03pfal2of8m032siqza8gic9ukcuu",
+    "survey_id": "tf:TxqN2Zf2",
+    "source": "typeform",
+    "source_response_id": "f8m03pfal2of8m032siqza8gic9ukcuu",
+    "submitted_at": "2026-05-16T15:43:45Z",
+    "total_time_seconds": null,
+    "language": "es",
+    "dimensions": {
+      "nps": 8
+    },
+    "open_ended": {
+      "en_una_frase_cuál_es_tu_principal_aprendizaje": "."
     }
   },
   {
