@@ -386,6 +386,166 @@
     }
   },
   {
+    "id": "tf:pOUwCYuh:2aezhqov2zmdqu9i22aezg0u2xf4cfzl",
+    "survey_id": "tf:pOUwCYuh",
+    "source": "typeform",
+    "source_response_id": "2aezhqov2zmdqu9i22aezg0u2xf4cfzl",
+    "submitted_at": "2026-05-18T09:32:35Z",
+    "total_time_seconds": null,
+    "language": "en",
+    "dimensions": {
+      "nps": 10
+    },
+    "open_ended": {
+      "in_one_sentence_what_is_the_most_important_realization_you_re_taking_away": "The structured plan to reach my goals",
+      "what_will_you_do_differently_in_the_next_two_weeks": "I will follow the action plan"
+    }
+  },
+  {
+    "id": "tf:pOUwCYuh:9yunq3x0590blt9w9yuna02fdqfaqc31",
+    "survey_id": "tf:pOUwCYuh",
+    "source": "typeform",
+    "source_response_id": "9yunq3x0590blt9w9yuna02fdqfaqc31",
+    "submitted_at": "2026-05-18T09:18:54Z",
+    "total_time_seconds": null,
+    "language": "en",
+    "dimensions": {
+      "nps": 10
+    },
+    "open_ended": {
+      "in_one_sentence_what_is_the_most_important_realization_you_re_taking_away": "The fact that even the smallest piece of doubt and ambiguity must be talked through in detail and enough context for all parties involved to understand. Otherwise you risk ending up being misaligned and expectations not being met, leading to poor results and dissatisfaction.",
+      "what_will_you_do_differently_in_the_next_two_weeks": "Implement the micro-habit that Axia helped create."
+    }
+  },
+  {
+    "id": "tf:pOUwCYuh:mcn969ja7y9lg3czi03mcn96metxhl56",
+    "survey_id": "tf:pOUwCYuh",
+    "source": "typeform",
+    "source_response_id": "mcn969ja7y9lg3czi03mcn96metxhl56",
+    "submitted_at": "2026-05-18T08:40:54Z",
+    "total_time_seconds": null,
+    "language": "en",
+    "dimensions": {
+      "nps": 10
+    },
+    "open_ended": {
+      "in_one_sentence_what_is_the_most_important_realization_you_re_taking_away": "The most important realization I’m taking away is that when I don’t clearly and confidently voice my L&D expertise, I unintentionally reduce my influence and the quality of learning outcomes, even when I do have valuable insights to contribute.",
+      "what_will_you_do_differently_in_the_next_two_weeks": "In the next two weeks, I will make a conscious effort to clearly state at least one explicit L&D quality or risk perspective in every relevant decision-making discussion, even when it feels uncomfortable or goes against group momentum."
+    }
+  },
+  {
+    "id": "tf:pOUwCYuh:muy03cfjbeptrut9vmuy0a6uzoep0cnt",
+    "survey_id": "tf:pOUwCYuh",
+    "source": "typeform",
+    "source_response_id": "muy03cfjbeptrut9vmuy0a6uzoep0cnt",
+    "submitted_at": "2026-05-18T06:44:53Z",
+    "total_time_seconds": null,
+    "language": "en",
+    "dimensions": {
+      "nps": 10
+    },
+    "open_ended": {
+      "in_one_sentence_what_is_the_most_important_realization_you_re_taking_away": "Need to focus on improving myself even when I am thinking that I am doing everything very well.",
+      "what_will_you_do_differently_in_the_next_two_weeks": "I will find what exactly what are the things that I am lacking of, and work on them."
+    }
+  },
+  {
+    "id": "tf:pOUwCYuh:4jm23afwpulb2av1ko9z4jm23afgwlsf",
+    "survey_id": "tf:pOUwCYuh",
+    "source": "typeform",
+    "source_response_id": "4jm23afwpulb2av1ko9z4jm23afgwlsf",
+    "submitted_at": "2026-05-18T05:13:09Z",
+    "total_time_seconds": null,
+    "language": "en",
+    "dimensions": {
+      "nps": 8
+    },
+    "open_ended": {
+      "in_one_sentence_what_is_the_most_important_realization_you_re_taking_away": "That sometimes I feel powerless to exert\ninfluence. Maybe because my role is new but this is something I need to work on",
+      "what_will_you_do_differently_in_the_next_two_weeks": "New more mindful and assessmy true role and scope so I can empower myself"
+    }
+  },
+  {
+    "id": "tf:pOUwCYuh:k7jb4wa4ppsaz6ik7jb4d4mgjl3yfh9n",
+    "survey_id": "tf:pOUwCYuh",
+    "source": "typeform",
+    "source_response_id": "k7jb4wa4ppsaz6ik7jb4d4mgjl3yfh9n",
+    "submitted_at": "2026-05-18T02:53:07Z",
+    "total_time_seconds": null,
+    "language": "en",
+    "dimensions": {
+      "nps": 10
+    },
+    "open_ended": {
+      "in_one_sentence_what_is_the_most_important_realization_you_re_taking_away": "That I have a good way of dealing with my customers and am continuing to develop this.",
+      "what_will_you_do_differently_in_the_next_two_weeks": "Pay more attention to exactly what I do instead of just doing it."
+    }
+  },
+  {
+    "id": "tf:pOUwCYuh:tvp536p7ir59xhh20qlx5tvp53kn27k8",
+    "survey_id": "tf:pOUwCYuh",
+    "source": "typeform",
+    "source_response_id": "tvp536p7ir59xhh20qlx5tvp53kn27k8",
+    "submitted_at": "2026-05-18T02:50:29Z",
+    "total_time_seconds": null,
+    "language": "en",
+    "dimensions": {
+      "nps": 10
+    },
+    "open_ended": {
+      "in_one_sentence_what_is_the_most_important_realization_you_re_taking_away": "The thing that has always helped me to strive and last this long in the company and be succesful is due to the partnership I've had with all the people I work and I would repeat the same experiences because of the fullfilment that creates",
+      "what_will_you_do_differently_in_the_next_two_weeks": "Be more aware of the impact I have on the personal relations with my direct reports to engage in a better way with them"
+    }
+  },
+  {
+    "id": "tf:pOUwCYuh:yqdtt9xveamzo1yqdtt1vvgn0vkjfkbp",
+    "survey_id": "tf:pOUwCYuh",
+    "source": "typeform",
+    "source_response_id": "yqdtt9xveamzo1yqdtt1vvgn0vkjfkbp",
+    "submitted_at": "2026-05-18T00:04:03Z",
+    "total_time_seconds": null,
+    "language": "en",
+    "dimensions": {
+      "nps": 8
+    },
+    "open_ended": {
+      "in_one_sentence_what_is_the_most_important_realization_you_re_taking_away": "To work becoming an inspirational leader, through internal commitment and enthusiasm towards a common vision and drive for delivering results.",
+      "what_will_you_do_differently_in_the_next_two_weeks": "Collaboratively work on supported vision with my support departments."
+    }
+  },
+  {
+    "id": "tf:pOUwCYuh:7plly61zwo210917pllygiy345pa2u4z",
+    "survey_id": "tf:pOUwCYuh",
+    "source": "typeform",
+    "source_response_id": "7plly61zwo210917pllygiy345pa2u4z",
+    "submitted_at": "2026-05-17T20:14:01Z",
+    "total_time_seconds": null,
+    "language": "en",
+    "dimensions": {
+      "nps": 6
+    },
+    "open_ended": {
+      "in_one_sentence_what_is_the_most_important_realization_you_re_taking_away": "I need to be less defensive and listen more, before expressing what I think should be done.",
+      "what_will_you_do_differently_in_the_next_two_weeks": "I will listen."
+    }
+  },
+  {
+    "id": "tf:pOUwCYuh:w74grjmpy28gxk0xbow74grmx5r4uqzx",
+    "survey_id": "tf:pOUwCYuh",
+    "source": "typeform",
+    "source_response_id": "w74grjmpy28gxk0xbow74grmx5r4uqzx",
+    "submitted_at": "2026-05-17T11:07:13Z",
+    "total_time_seconds": null,
+    "language": "en",
+    "dimensions": {
+      "nps": 8
+    },
+    "open_ended": {
+      "in_one_sentence_what_is_the_most_important_realization_you_re_taking_away": "That i am on the good path",
+      "what_will_you_do_differently_in_the_next_two_weeks": "Beside blowing some steam to not be obessive all good"
+    }
+  },
+  {
     "id": "tf:pOUwCYuh:3jptp4viu3a3lydgt33jptp48vt4kg4e",
     "survey_id": "tf:pOUwCYuh",
     "source": "typeform",
@@ -3528,6 +3688,24 @@
     },
     "open_ended": {
       "which_topics_or_tools_have_had_the_biggest_impact_on_your_thinking_or_leadership": "Disc + concrete actions"
+    }
+  },
+  {
+    "id": "tf:p5NraCNe:jly15i392usvfm71m65rxjly15i399on",
+    "survey_id": "tf:p5NraCNe",
+    "source": "typeform",
+    "source_response_id": "jly15i392usvfm71m65rxjly15i399on",
+    "submitted_at": "2026-05-17T10:44:22Z",
+    "total_time_seconds": null,
+    "language": "en",
+    "dimensions": {
+      "relevance": 4,
+      "engagement": 4,
+      "applicability": 4
+    },
+    "open_ended": {
+      "which_topics_or_tools_have_had_the_biggest_impact_on_your_thinking_or_leadership": "to be a learner instead of a knower",
+      "what_would_improve_your_experience_in_future_sessions": "more conversation videos, they stick easily and encourage relating and aelf-reflection faster than reading just a text"
     }
   },
   {
