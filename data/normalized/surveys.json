@@ -501,7 +501,7 @@
     "excluded_reason": null,
     "created_at": "2026-04-20T19:34:03.170343Z",
     "updated_at": "2026-04-20T19:54:51.028691Z",
-    "response_count": 46,
+    "response_count": 61,
     "question_count": 6,
     "override_applied": false
   },
@@ -639,7 +639,7 @@
     "excluded_reason": null,
     "created_at": "2026-04-16T23:33:35.626744Z",
     "updated_at": "2026-05-06T01:56:25.985952Z",
-    "response_count": 15,
+    "response_count": 17,
     "question_count": 5,
     "override_applied": false
   },
@@ -1237,7 +1237,7 @@
     "excluded_reason": null,
     "created_at": "2026-03-09T15:42:45.377125Z",
     "updated_at": "2026-04-29T15:19:25.113341Z",
-    "response_count": 40,
+    "response_count": 42,
     "question_count": 7,
     "override_applied": false
   },

@@ -386,6 +386,246 @@
     }
   },
   {
+    "id": "tf:pOUwCYuh:6oub0yn6o6vy2s1k9i6oub0gj9ey6ojc",
+    "survey_id": "tf:pOUwCYuh",
+    "source": "typeform",
+    "source_response_id": "6oub0yn6o6vy2s1k9i6oub0gj9ey6ojc",
+    "submitted_at": "2026-05-19T06:55:23Z",
+    "total_time_seconds": null,
+    "language": "en",
+    "dimensions": {
+      "nps": 6
+    },
+    "open_ended": {
+      "in_one_sentence_what_is_the_most_important_realization_you_re_taking_away": "leverage the advanced tools to help myself to grow",
+      "what_will_you_do_differently_in_the_next_two_weeks": "use differance approach to enagage my customers."
+    }
+  },
+  {
+    "id": "tf:pOUwCYuh:vgb0sdtw0ehyrmluallvgbdqlw71ljwy",
+    "survey_id": "tf:pOUwCYuh",
+    "source": "typeform",
+    "source_response_id": "vgb0sdtw0ehyrmluallvgbdqlw71ljwy",
+    "submitted_at": "2026-05-19T06:38:07Z",
+    "total_time_seconds": null,
+    "language": "en",
+    "dimensions": {
+      "nps": 9
+    },
+    "open_ended": {
+      "in_one_sentence_what_is_the_most_important_realization_you_re_taking_away": "Stop, reflect on what I'm doing and always ask questions for better understading.",
+      "what_will_you_do_differently_in_the_next_two_weeks": "the \"Understanding Pause\". During meet-ups with my manager, I won't just say yes, but will stop, think and ask clarifying questions."
+    }
+  },
+  {
+    "id": "tf:pOUwCYuh:8hbrdnafxalmsjerg0mt8hbrdnafluwu",
+    "survey_id": "tf:pOUwCYuh",
+    "source": "typeform",
+    "source_response_id": "8hbrdnafxalmsjerg0mt8hbrdnafluwu",
+    "submitted_at": "2026-05-18T20:42:47Z",
+    "total_time_seconds": null,
+    "language": "en",
+    "dimensions": {
+      "nps": 10
+    },
+    "open_ended": {
+      "in_one_sentence_what_is_the_most_important_realization_you_re_taking_away": "I will take time to go thoroughly over the results and analysis from the assessment",
+      "what_will_you_do_differently_in_the_next_two_weeks": "I will focus over the comments in the analysis and will work on the areas for improvement in order to make myself a better leader and person"
+    }
+  },
+  {
+    "id": "tf:pOUwCYuh:2r7hoeufceaa162r7hidrazh90eqx6m8",
+    "survey_id": "tf:pOUwCYuh",
+    "source": "typeform",
+    "source_response_id": "2r7hoeufceaa162r7hidrazh90eqx6m8",
+    "submitted_at": "2026-05-18T19:27:51Z",
+    "total_time_seconds": null,
+    "language": "en",
+    "dimensions": {
+      "nps": 10
+    },
+    "open_ended": {
+      "in_one_sentence_what_is_the_most_important_realization_you_re_taking_away": "How focusing on one development area can take me to the goal, it makes it feel easier and clearer.",
+      "what_will_you_do_differently_in_the_next_two_weeks": "I will prepare for meetings with insights so I can provide my input from experience."
+    }
+  },
+  {
+    "id": "tf:pOUwCYuh:6qv5ky1oii7e4n16qv52ix4y10d7z4nr",
+    "survey_id": "tf:pOUwCYuh",
+    "source": "typeform",
+    "source_response_id": "6qv5ky1oii7e4n16qv52ix4y10d7z4nr",
+    "submitted_at": "2026-05-18T19:04:19Z",
+    "total_time_seconds": null,
+    "language": "en",
+    "dimensions": {
+      "nps": 9
+    },
+    "open_ended": {
+      "in_one_sentence_what_is_the_most_important_realization_you_re_taking_away": "I’ve realized that strong leadership comes from making clear, data-informed decisions while empowering the team and taking accountability for outcomes.",
+      "what_will_you_do_differently_in_the_next_two_weeks": "Over the next two weeks, I will focus on making more proactive, data-driven decisions and clearly communicating priorities while empowering my team to take ownership."
+    }
+  },
+  {
+    "id": "tf:pOUwCYuh:pptxpkuzkhzdoptipptxpkj6rp8eeq2c",
+    "survey_id": "tf:pOUwCYuh",
+    "source": "typeform",
+    "source_response_id": "pptxpkuzkhzdoptipptxpkj6rp8eeq2c",
+    "submitted_at": "2026-05-18T18:33:58Z",
+    "total_time_seconds": null,
+    "language": "en",
+    "dimensions": {
+      "nps": 0
+    },
+    "open_ended": {
+      "in_one_sentence_what_is_the_most_important_realization_you_re_taking_away": "I already know this stuff.",
+      "what_will_you_do_differently_in_the_next_two_weeks": "Take notes."
+    }
+  },
+  {
+    "id": "tf:pOUwCYuh:c4lm6up9vxverrrf6bc4l3rv16cefzhe",
+    "survey_id": "tf:pOUwCYuh",
+    "source": "typeform",
+    "source_response_id": "c4lm6up9vxverrrf6bc4l3rv16cefzhe",
+    "submitted_at": "2026-05-18T17:39:45Z",
+    "total_time_seconds": null,
+    "language": "en",
+    "dimensions": {
+      "nps": 10
+    },
+    "open_ended": {
+      "in_one_sentence_what_is_the_most_important_realization_you_re_taking_away": "Cause and effect of my areas for improvement and ideas on how to improve them",
+      "what_will_you_do_differently_in_the_next_two_weeks": "Instead of just listening, I will be move collaborative"
+    }
+  },
+  {
+    "id": "tf:pOUwCYuh:1alynh2u2q3xfbvrabmr1alybxif7k3l",
+    "survey_id": "tf:pOUwCYuh",
+    "source": "typeform",
+    "source_response_id": "1alynh2u2q3xfbvrabmr1alybxif7k3l",
+    "submitted_at": "2026-05-18T15:51:48Z",
+    "total_time_seconds": null,
+    "language": "en",
+    "dimensions": {
+      "nps": 4
+    },
+    "open_ended": {
+      "in_one_sentence_what_is_the_most_important_realization_you_re_taking_away": "AI can be an accelerator, and it can also hold me back",
+      "what_will_you_do_differently_in_the_next_two_weeks": "check in on my microhabits - interrupt patterns of thought"
+    }
+  },
+  {
+    "id": "tf:pOUwCYuh:ilchisxapbcw3sjlrn1yilch9rrdbgmw",
+    "survey_id": "tf:pOUwCYuh",
+    "source": "typeform",
+    "source_response_id": "ilchisxapbcw3sjlrn1yilch9rrdbgmw",
+    "submitted_at": "2026-05-18T15:38:35Z",
+    "total_time_seconds": null,
+    "language": "en",
+    "dimensions": {
+      "nps": 10
+    },
+    "open_ended": {
+      "in_one_sentence_what_is_the_most_important_realization_you_re_taking_away": "The currently followed approach is not perfect way to be a Leader .",
+      "what_will_you_do_differently_in_the_next_two_weeks": "will create the path to develop the area of being defensive and submissive"
+    }
+  },
+  {
+    "id": "tf:pOUwCYuh:bjibnj78pc237sfndn8sbjibmebarm6x",
+    "survey_id": "tf:pOUwCYuh",
+    "source": "typeform",
+    "source_response_id": "bjibnj78pc237sfndn8sbjibmebarm6x",
+    "submitted_at": "2026-05-18T15:05:55Z",
+    "total_time_seconds": null,
+    "language": "en",
+    "dimensions": {
+      "nps": 8
+    },
+    "open_ended": {
+      "in_one_sentence_what_is_the_most_important_realization_you_re_taking_away": "Need to work upon my submissive behaviour.",
+      "what_will_you_do_differently_in_the_next_two_weeks": "Will be more assertive in my approach."
+    }
+  },
+  {
+    "id": "tf:pOUwCYuh:stshxx5eaqlozgno3z9stshgeb498hmm",
+    "survey_id": "tf:pOUwCYuh",
+    "source": "typeform",
+    "source_response_id": "stshxx5eaqlozgno3z9stshgeb498hmm",
+    "submitted_at": "2026-05-18T14:00:15Z",
+    "total_time_seconds": null,
+    "language": "en",
+    "dimensions": {
+      "nps": 10
+    },
+    "open_ended": {
+      "in_one_sentence_what_is_the_most_important_realization_you_re_taking_away": "-",
+      "what_will_you_do_differently_in_the_next_two_weeks": "I will follow the plan we have created"
+    }
+  },
+  {
+    "id": "tf:pOUwCYuh:wose42qul094z5gnyzs58wose42jzcq2",
+    "survey_id": "tf:pOUwCYuh",
+    "source": "typeform",
+    "source_response_id": "wose42qul094z5gnyzs58wose42jzcq2",
+    "submitted_at": "2026-05-18T13:01:09Z",
+    "total_time_seconds": null,
+    "language": "en",
+    "dimensions": {
+      "nps": 10
+    },
+    "open_ended": {
+      "in_one_sentence_what_is_the_most_important_realization_you_re_taking_away": "I am already a strong leader. The path forward isn't about fixing weaknesses—it's about tempering my strengths so they don't become liabilities.",
+      "what_will_you_do_differently_in_the_next_two_weeks": "Track one week: Notice when you feel the urge to compete vs. collaborate. Name \"good enough\" explicitly in one project. Publicly celebrate a team win (not my individual contribution)"
+    }
+  },
+  {
+    "id": "tf:pOUwCYuh:qqpeu37pbc94rifkzun6qqpeu3gnzhfd",
+    "survey_id": "tf:pOUwCYuh",
+    "source": "typeform",
+    "source_response_id": "qqpeu37pbc94rifkzun6qqpeu3gnzhfd",
+    "submitted_at": "2026-05-18T12:23:41Z",
+    "total_time_seconds": null,
+    "language": "en",
+    "dimensions": {
+      "nps": 10
+    },
+    "open_ended": {
+      "in_one_sentence_what_is_the_most_important_realization_you_re_taking_away": "I have my strengths which I can use a foundation and some areas for improvement identified",
+      "what_will_you_do_differently_in_the_next_two_weeks": "I have created a daily habits to tackle the shortcomings"
+    }
+  },
+  {
+    "id": "tf:pOUwCYuh:tb1owf1121a1i3tb1pkio4aw8atltpki",
+    "survey_id": "tf:pOUwCYuh",
+    "source": "typeform",
+    "source_response_id": "tb1owf1121a1i3tb1pkio4aw8atltpki",
+    "submitted_at": "2026-05-18T11:30:11Z",
+    "total_time_seconds": null,
+    "language": "en",
+    "dimensions": {
+      "nps": 3
+    },
+    "open_ended": {
+      "in_one_sentence_what_is_the_most_important_realization_you_re_taking_away": "Pursue one's own interests with greater self-confidence.",
+      "what_will_you_do_differently_in_the_next_two_weeks": "The plan is still taking shape."
+    }
+  },
+  {
+    "id": "tf:pOUwCYuh:funuht0wq64soqffunufsxg7jiqvfr5g",
+    "survey_id": "tf:pOUwCYuh",
+    "source": "typeform",
+    "source_response_id": "funuht0wq64soqffunufsxg7jiqvfr5g",
+    "submitted_at": "2026-05-18T10:07:07Z",
+    "total_time_seconds": null,
+    "language": "en",
+    "dimensions": {
+      "nps": 10
+    },
+    "open_ended": {
+      "in_one_sentence_what_is_the_most_important_realization_you_re_taking_away": "opportunities to focus that I didn't realize before",
+      "what_will_you_do_differently_in_the_next_two_weeks": "Change based on the suggestions"
+    }
+  },
+  {
     "id": "tf:pOUwCYuh:2aezhqov2zmdqu9i22aezg0u2xf4cfzl",
     "survey_id": "tf:pOUwCYuh",
     "source": "typeform",
@@ -1449,6 +1689,36 @@
       "el_facilitador_fue_eficaz_al_transmitir_el_contenido_y_apoyar_mi_aprendizaje": "Muy de acuerdo",
       "qué_temas_o_herramientas_han_tenido_el_mayor_impacto_en_su_pensamiento_o_lideraz": ".",
       "qué_mejoraría_su_experiencia_en_futuras_sesiones": "Inspiración externa"
+    }
+  },
+  {
+    "id": "tf:TxqN2Zf2:2alqsfj8e85cx9ct2z0cysu2alqsfanx",
+    "survey_id": "tf:TxqN2Zf2",
+    "source": "typeform",
+    "source_response_id": "2alqsfj8e85cx9ct2z0cysu2alqsfanx",
+    "submitted_at": "2026-05-19T00:10:49Z",
+    "total_time_seconds": null,
+    "language": "es",
+    "dimensions": {
+      "nps": 6
+    },
+    "open_ended": {
+      "en_una_frase_cuál_es_tu_principal_aprendizaje": "Accountability vs Control."
+    }
+  },
+  {
+    "id": "tf:TxqN2Zf2:avj80l55667f5eypbgu7ojavj8drlqv4",
+    "survey_id": "tf:TxqN2Zf2",
+    "source": "typeform",
+    "source_response_id": "avj80l55667f5eypbgu7ojavj8drlqv4",
+    "submitted_at": "2026-05-18T18:48:28Z",
+    "total_time_seconds": null,
+    "language": "es",
+    "dimensions": {
+      "nps": 4
+    },
+    "open_ended": {
+      "en_una_frase_cuál_es_tu_principal_aprendizaje": "Adaptarse al nuevo mondo corporativo con mas IA y sus riesgos (además de continuar responsable de ciberseguridad para todo el grupo)"
     }
   },
   {
@@ -3688,6 +3958,42 @@
     },
     "open_ended": {
       "which_topics_or_tools_have_had_the_biggest_impact_on_your_thinking_or_leadership": "Disc + concrete actions"
+    }
+  },
+  {
+    "id": "tf:p5NraCNe:10zs7a1s21u6sng94910zs7423uhbt2t",
+    "survey_id": "tf:p5NraCNe",
+    "source": "typeform",
+    "source_response_id": "10zs7a1s21u6sng94910zs7423uhbt2t",
+    "submitted_at": "2026-05-19T08:11:23Z",
+    "total_time_seconds": null,
+    "language": "en",
+    "dimensions": {
+      "relevance": 4,
+      "engagement": 4,
+      "applicability": 4
+    },
+    "open_ended": {
+      "which_topics_or_tools_have_had_the_biggest_impact_on_your_thinking_or_leadership": "Learner mindset",
+      "what_would_improve_your_experience_in_future_sessions": "Improve listening"
+    }
+  },
+  {
+    "id": "tf:p5NraCNe:leljphix5l3nwd2k1leljp1r5s88o491",
+    "survey_id": "tf:p5NraCNe",
+    "source": "typeform",
+    "source_response_id": "leljphix5l3nwd2k1leljp1r5s88o491",
+    "submitted_at": "2026-05-19T07:34:28Z",
+    "total_time_seconds": null,
+    "language": "en",
+    "dimensions": {
+      "relevance": 4,
+      "engagement": 4,
+      "applicability": 4
+    },
+    "open_ended": {
+      "which_topics_or_tools_have_had_the_biggest_impact_on_your_thinking_or_leadership": "communication",
+      "what_would_improve_your_experience_in_future_sessions": "listening"
     }
   },
   {
