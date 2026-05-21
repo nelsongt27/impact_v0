@@ -1,5 +1,297 @@
 [
   {
+    "id": "tf:UiYbU9ds:milchj205hvbi72fmilch33leg46xfl9",
+    "survey_id": "tf:UiYbU9ds",
+    "source": "typeform",
+    "source_response_id": "milchj205hvbi72fmilch33leg46xfl9",
+    "submitted_at": "2026-05-20T21:59:31Z",
+    "total_time_seconds": null,
+    "language": "es",
+    "dimensions": {},
+    "open_ended": {
+      "identificar_qué_necesito_aprender_y_desafiar_de_mi_estilo_de_liderazgo_para_ser_": "Muy de acuerdo",
+      "adquirir_herramientas_que_me_ayuden_a_ser_role_model_de_los_principios_culturale": "Muy de acuerdo",
+      "la_sesión_fue_interesante_atractiva_y_apoyó_mi_aprendizaje": "Muy de acuerdo",
+      "el_facilitador_fue_eficaz_al_transmitir_el_contenido_y_apoyar_mi_aprendizaje": "Muy de acuerdo",
+      "siento_confianza_en_mi_capacidad_para_aplicar_lo_aprendido_a_desafíos_reales_de_": "Muy de acuerdo",
+      "qué_temas_o_herramientas_han_tenido_el_mayor_impacto_en_su_pensamiento_o_lideraz": "Dimensiones de comportamiento y mapa de polaridad.",
+      "qué_mejoraría_su_experiencia_en_futuras_sesiones": "Mas foco al prework como adelanto/repaso previo y minimizar esa parte en la sesion y aprovechar mas la parte practica y bajar un poco el tiempo de las sesiones.",
+      "completaste_tu_conscious_leadership_assessment": "Solo el Self-assessment"
+    }
+  },
+  {
+    "id": "tf:UiYbU9ds:2rvpjqwavnac1coy2rvpjqc8jx3htw69",
+    "survey_id": "tf:UiYbU9ds",
+    "source": "typeform",
+    "source_response_id": "2rvpjqwavnac1coy2rvpjqc8jx3htw69",
+    "submitted_at": "2026-05-20T21:56:22Z",
+    "total_time_seconds": null,
+    "language": "es",
+    "dimensions": {
+      "engagement": 3,
+      "facilitator_effectiveness": 3,
+      "applicability": 4
+    },
+    "open_ended": {
+      "qué_temas_o_herramientas_han_tenido_el_mayor_impacto_en_su_pensamiento_o_lideraz": "La encuesta",
+      "qué_mejoraría_su_experiencia_en_futuras_sesiones": "Tiempos",
+      "completaste_tu_conscious_leadership_assessment": "Sí, completo (assessment + debrief con Axia AI Coach)"
+    }
+  },
+  {
+    "id": "tf:UiYbU9ds:aesscrza4qgaes6q0lpddn0d31dcst06",
+    "survey_id": "tf:UiYbU9ds",
+    "source": "typeform",
+    "source_response_id": "aesscrza4qgaes6q0lpddn0d31dcst06",
+    "submitted_at": "2026-05-20T21:55:21Z",
+    "total_time_seconds": null,
+    "language": "es",
+    "dimensions": {},
+    "open_ended": {
+      "identificar_qué_necesito_aprender_y_desafiar_de_mi_estilo_de_liderazgo_para_ser_": "Muy de acuerdo",
+      "adquirir_herramientas_que_me_ayuden_a_ser_role_model_de_los_principios_culturale": "Muy de acuerdo",
+      "la_sesión_fue_interesante_atractiva_y_apoyó_mi_aprendizaje": "Muy de acuerdo",
+      "el_facilitador_fue_eficaz_al_transmitir_el_contenido_y_apoyar_mi_aprendizaje": "Muy de acuerdo",
+      "siento_confianza_en_mi_capacidad_para_aplicar_lo_aprendido_a_desafíos_reales_de_": "Muy de acuerdo",
+      "qué_temas_o_herramientas_han_tenido_el_mayor_impacto_en_su_pensamiento_o_lideraz": "El assestment y las dinámicas permiten experimentar",
+      "qué_mejoraría_su_experiencia_en_futuras_sesiones": "Todo ok",
+      "completaste_tu_conscious_leadership_assessment": "Sí, completo (assessment + debrief con Axia AI Coach)"
+    }
+  },
+  {
+    "id": "tf:UiYbU9ds:ay74k3ubhmec8tke3bbay72ebndz1crh",
+    "survey_id": "tf:UiYbU9ds",
+    "source": "typeform",
+    "source_response_id": "ay74k3ubhmec8tke3bbay72ebndz1crh",
+    "submitted_at": "2026-05-20T21:55:03Z",
+    "total_time_seconds": null,
+    "language": "es",
+    "dimensions": {
+      "engagement": 4
+    },
+    "open_ended": {
+      "el_facilitador_fue_eficaz_al_transmitir_el_contenido_y_apoyar_mi_aprendizaje": "Muy de acuerdo",
+      "siento_confianza_en_mi_capacidad_para_aplicar_lo_aprendido_a_desafíos_reales_de_": "Muy de acuerdo",
+      "qué_temas_o_herramientas_han_tenido_el_mayor_impacto_en_su_pensamiento_o_lideraz": "Mapa de Polaridad y SMALL",
+      "qué_mejoraría_su_experiencia_en_futuras_sesiones": "hacer mas largo para tener mas tiempo y calidad",
+      "completaste_tu_conscious_leadership_assessment": "Sí, completo (assessment + debrief con Axia AI Coach)"
+    }
+  },
+  {
+    "id": "tf:UiYbU9ds:q1njxm4oobcc3qiitglsrq1njx2jxqwz",
+    "survey_id": "tf:UiYbU9ds",
+    "source": "typeform",
+    "source_response_id": "q1njxm4oobcc3qiitglsrq1njx2jxqwz",
+    "submitted_at": "2026-05-20T21:55:02Z",
+    "total_time_seconds": null,
+    "language": "es",
+    "dimensions": {
+      "engagement": 3,
+      "facilitator_effectiveness": 4,
+      "applicability": 3
+    },
+    "open_ended": {
+      "qué_temas_o_herramientas_han_tenido_el_mayor_impacto_en_su_pensamiento_o_lideraz": "Leadership assessment",
+      "qué_mejoraría_su_experiencia_en_futuras_sesiones": "El roleplaying de los polos no fue muy util",
+      "completaste_tu_conscious_leadership_assessment": "Sí, completo (assessment + debrief con Axia AI Coach)",
+      "la_conversación_con_axia_mi_ai_coach_me_ayudó_a_contextualizar_y_entender_con_má": "Muy de acuerdo"
+    }
+  },
+  {
+    "id": "tf:UiYbU9ds:abldznoiangm9nsc9abldznrzychp2fq",
+    "survey_id": "tf:UiYbU9ds",
+    "source": "typeform",
+    "source_response_id": "abldznoiangm9nsc9abldznrzychp2fq",
+    "submitted_at": "2026-05-20T21:55:01Z",
+    "total_time_seconds": null,
+    "language": "es",
+    "dimensions": {
+      "applicability": 4
+    },
+    "open_ended": {
+      "identificar_qué_necesito_aprender_y_desafiar_de_mi_estilo_de_liderazgo_para_ser_": "Muy de acuerdo",
+      "la_sesión_fue_interesante_atractiva_y_apoyó_mi_aprendizaje": "Muy de acuerdo",
+      "el_facilitador_fue_eficaz_al_transmitir_el_contenido_y_apoyar_mi_aprendizaje": "Muy de acuerdo",
+      "qué_temas_o_herramientas_han_tenido_el_mayor_impacto_en_su_pensamiento_o_lideraz": "POLARIDADES",
+      "qué_mejoraría_su_experiencia_en_futuras_sesiones": "lidiar con las polaridades “personales” ante el rol e las realidades de las demandas",
+      "completaste_tu_conscious_leadership_assessment": "No lo terminé/ comencé"
+    }
+  },
+  {
+    "id": "tf:UiYbU9ds:qg1jm7lbs1rzrpsnmqg1jm3eag71mrm1",
+    "survey_id": "tf:UiYbU9ds",
+    "source": "typeform",
+    "source_response_id": "qg1jm7lbs1rzrpsnmqg1jm3eag71mrm1",
+    "submitted_at": "2026-05-20T21:54:50Z",
+    "total_time_seconds": null,
+    "language": "es",
+    "dimensions": {},
+    "open_ended": {
+      "identificar_qué_necesito_aprender_y_desafiar_de_mi_estilo_de_liderazgo_para_ser_": "Muy de acuerdo",
+      "adquirir_herramientas_que_me_ayuden_a_ser_role_model_de_los_principios_culturale": "Muy de acuerdo",
+      "la_sesión_fue_interesante_atractiva_y_apoyó_mi_aprendizaje": "Muy de acuerdo",
+      "el_facilitador_fue_eficaz_al_transmitir_el_contenido_y_apoyar_mi_aprendizaje": "Muy de acuerdo",
+      "siento_confianza_en_mi_capacidad_para_aplicar_lo_aprendido_a_desafíos_reales_de_": "Muy de acuerdo",
+      "qué_temas_o_herramientas_han_tenido_el_mayor_impacto_en_su_pensamiento_o_lideraz": "El taller 1 y este (3)",
+      "qué_mejoraría_su_experiencia_en_futuras_sesiones": "Un poco más de tiempo en discusiones",
+      "completaste_tu_conscious_leadership_assessment": "Sí, completo (assessment + debrief con Axia AI Coach)"
+    }
+  },
+  {
+    "id": "tf:UiYbU9ds:fzgaqtf5w9zuql4iffzga9eqizx3bta9",
+    "survey_id": "tf:UiYbU9ds",
+    "source": "typeform",
+    "source_response_id": "fzgaqtf5w9zuql4iffzga9eqizx3bta9",
+    "submitted_at": "2026-05-20T21:54:48Z",
+    "total_time_seconds": null,
+    "language": "es",
+    "dimensions": {
+      "applicability": 3
+    },
+    "open_ended": {
+      "la_sesión_fue_interesante_atractiva_y_apoyó_mi_aprendizaje": "Muy de acuerdo",
+      "el_facilitador_fue_eficaz_al_transmitir_el_contenido_y_apoyar_mi_aprendizaje": "Muy de acuerdo",
+      "qué_temas_o_herramientas_han_tenido_el_mayor_impacto_en_su_pensamiento_o_lideraz": "Mapa de polaridad",
+      "qué_mejoraría_su_experiencia_en_futuras_sesiones": "La sesión fue muy interesante y útil",
+      "completaste_tu_conscious_leadership_assessment": "Solo el Self-assessment"
+    }
+  },
+  {
+    "id": "tf:UiYbU9ds:x7w20967056kma78zvml5x7w2o920gms",
+    "survey_id": "tf:UiYbU9ds",
+    "source": "typeform",
+    "source_response_id": "x7w20967056kma78zvml5x7w2o920gms",
+    "submitted_at": "2026-05-20T21:54:40Z",
+    "total_time_seconds": null,
+    "language": "es",
+    "dimensions": {},
+    "open_ended": {
+      "identificar_qué_necesito_aprender_y_desafiar_de_mi_estilo_de_liderazgo_para_ser_": "Muy de acuerdo",
+      "adquirir_herramientas_que_me_ayuden_a_ser_role_model_de_los_principios_culturale": "Muy de acuerdo",
+      "la_sesión_fue_interesante_atractiva_y_apoyó_mi_aprendizaje": "Muy de acuerdo",
+      "el_facilitador_fue_eficaz_al_transmitir_el_contenido_y_apoyar_mi_aprendizaje": "Muy de acuerdo",
+      "siento_confianza_en_mi_capacidad_para_aplicar_lo_aprendido_a_desafíos_reales_de_": "Muy de acuerdo",
+      "qué_temas_o_herramientas_han_tenido_el_mayor_impacto_en_su_pensamiento_o_lideraz": "Verdades profundas \nVíctima y protagonista",
+      "qué_mejoraría_su_experiencia_en_futuras_sesiones": "Avisar si hay o no estacionamiento \nPero es logístico \nLo demás súper bien"
+    }
+  },
+  {
+    "id": "tf:UiYbU9ds:o9z53kgujpgmt6k3vhbho9z53kgunpak",
+    "survey_id": "tf:UiYbU9ds",
+    "source": "typeform",
+    "source_response_id": "o9z53kgujpgmt6k3vhbho9z53kgunpak",
+    "submitted_at": "2026-05-20T21:54:27Z",
+    "total_time_seconds": null,
+    "language": "es",
+    "dimensions": {
+      "engagement": 4,
+      "facilitator_effectiveness": 4
+    },
+    "open_ended": {
+      "identificar_qué_necesito_aprender_y_desafiar_de_mi_estilo_de_liderazgo_para_ser_": "Muy de acuerdo",
+      "adquirir_herramientas_que_me_ayuden_a_ser_role_model_de_los_principios_culturale": "Muy de acuerdo",
+      "siento_confianza_en_mi_capacidad_para_aplicar_lo_aprendido_a_desafíos_reales_de_": "Muy de acuerdo",
+      "qué_temas_o_herramientas_han_tenido_el_mayor_impacto_en_su_pensamiento_o_lideraz": "Manejo de polaridades y la escucha activa",
+      "qué_mejoraría_su_experiencia_en_futuras_sesiones": "Traer casos reales predeterminados",
+      "completaste_tu_conscious_leadership_assessment": "Sí, completo (assessment + debrief con Axia AI Coach)"
+    }
+  },
+  {
+    "id": "tf:UiYbU9ds:6fj1wup53xzy1w86fj1wupnugz00f91b",
+    "survey_id": "tf:UiYbU9ds",
+    "source": "typeform",
+    "source_response_id": "6fj1wup53xzy1w86fj1wupnugz00f91b",
+    "submitted_at": "2026-05-20T21:54:16Z",
+    "total_time_seconds": null,
+    "language": "es",
+    "dimensions": {},
+    "open_ended": {
+      "adquirir_herramientas_que_me_ayuden_a_ser_role_model_de_los_principios_culturale": "Muy de acuerdo",
+      "la_sesión_fue_interesante_atractiva_y_apoyó_mi_aprendizaje": "Muy de acuerdo",
+      "el_facilitador_fue_eficaz_al_transmitir_el_contenido_y_apoyar_mi_aprendizaje": "Muy de acuerdo",
+      "siento_confianza_en_mi_capacidad_para_aplicar_lo_aprendido_a_desafíos_reales_de_": "Muy de acuerdo",
+      "qué_temas_o_herramientas_han_tenido_el_mayor_impacto_en_su_pensamiento_o_lideraz": "Entender que las polaridades tienen siempre un bien común en una organización",
+      "completaste_tu_conscious_leadership_assessment": "Solo el Self-assessment"
+    }
+  },
+  {
+    "id": "tf:UiYbU9ds:5u8f1fth8arilmrhf5u8f1fgn6t2xi4i",
+    "survey_id": "tf:UiYbU9ds",
+    "source": "typeform",
+    "source_response_id": "5u8f1fth8arilmrhf5u8f1fgn6t2xi4i",
+    "submitted_at": "2026-05-20T21:54:00Z",
+    "total_time_seconds": null,
+    "language": "es",
+    "dimensions": {},
+    "open_ended": {
+      "identificar_qué_necesito_aprender_y_desafiar_de_mi_estilo_de_liderazgo_para_ser_": "Muy de acuerdo",
+      "adquirir_herramientas_que_me_ayuden_a_ser_role_model_de_los_principios_culturale": "Muy de acuerdo",
+      "la_sesión_fue_interesante_atractiva_y_apoyó_mi_aprendizaje": "Muy de acuerdo",
+      "el_facilitador_fue_eficaz_al_transmitir_el_contenido_y_apoyar_mi_aprendizaje": "Muy de acuerdo",
+      "siento_confianza_en_mi_capacidad_para_aplicar_lo_aprendido_a_desafíos_reales_de_": "Muy de acuerdo",
+      "qué_temas_o_herramientas_han_tenido_el_mayor_impacto_en_su_pensamiento_o_lideraz": "La discusión y el rol play de polaridad",
+      "qué_mejoraría_su_experiencia_en_futuras_sesiones": "Todo ok",
+      "completaste_tu_conscious_leadership_assessment": "Solo el Self-assessment"
+    }
+  },
+  {
+    "id": "tf:UiYbU9ds:9unroamfie6pikzuo9unro03kcfxfrsy",
+    "survey_id": "tf:UiYbU9ds",
+    "source": "typeform",
+    "source_response_id": "9unroamfie6pikzuo9unro03kcfxfrsy",
+    "submitted_at": "2026-05-20T21:53:55Z",
+    "total_time_seconds": null,
+    "language": "es",
+    "dimensions": {
+      "engagement": 4,
+      "facilitator_effectiveness": 3,
+      "applicability": 4
+    },
+    "open_ended": {
+      "identificar_qué_necesito_aprender_y_desafiar_de_mi_estilo_de_liderazgo_para_ser_": "Muy de acuerdo",
+      "qué_temas_o_herramientas_han_tenido_el_mayor_impacto_en_su_pensamiento_o_lideraz": "Auto evaluación y manejo de polaridad",
+      "qué_mejoraría_su_experiencia_en_futuras_sesiones": "Todo bien",
+      "completaste_tu_conscious_leadership_assessment": "Sí, completo (assessment + debrief con Axia AI Coach)"
+    }
+  },
+  {
+    "id": "tf:UiYbU9ds:9irzvikuy56mo34hi379irzvizn6yo3i",
+    "survey_id": "tf:UiYbU9ds",
+    "source": "typeform",
+    "source_response_id": "9irzvikuy56mo34hi379irzvizn6yo3i",
+    "submitted_at": "2026-05-20T21:53:45Z",
+    "total_time_seconds": null,
+    "language": "es",
+    "dimensions": {},
+    "open_ended": {
+      "identificar_qué_necesito_aprender_y_desafiar_de_mi_estilo_de_liderazgo_para_ser_": "Muy de acuerdo",
+      "adquirir_herramientas_que_me_ayuden_a_ser_role_model_de_los_principios_culturale": "Muy de acuerdo",
+      "la_sesión_fue_interesante_atractiva_y_apoyó_mi_aprendizaje": "Muy de acuerdo",
+      "el_facilitador_fue_eficaz_al_transmitir_el_contenido_y_apoyar_mi_aprendizaje": "Muy de acuerdo",
+      "siento_confianza_en_mi_capacidad_para_aplicar_lo_aprendido_a_desafíos_reales_de_": "Muy de acuerdo",
+      "qué_temas_o_herramientas_han_tenido_el_mayor_impacto_en_su_pensamiento_o_lideraz": "El assessment y la polaridad",
+      "qué_mejoraría_su_experiencia_en_futuras_sesiones": "Todo estuvo perfecto"
+    }
+  },
+  {
+    "id": "tf:UiYbU9ds:vo9kr6qaehhr772hg92m8vo9kr6qyvjs",
+    "survey_id": "tf:UiYbU9ds",
+    "source": "typeform",
+    "source_response_id": "vo9kr6qaehhr772hg92m8vo9kr6qyvjs",
+    "submitted_at": "2026-05-20T13:24:44Z",
+    "total_time_seconds": null,
+    "language": "es",
+    "dimensions": {
+      "engagement": 4,
+      "facilitator_effectiveness": 4,
+      "applicability": 4
+    },
+    "open_ended": {
+      "qué_temas_o_herramientas_han_tenido_el_mayor_impacto_en_su_pensamiento_o_lideraz": "dd",
+      "qué_mejoraría_su_experiencia_en_futuras_sesiones": "dd"
+    }
+  },
+  {
     "id": "tf:UiYbU9ds:do1oje5buvb80l9wdo1ojrbqrpd54f4j",
     "survey_id": "tf:UiYbU9ds",
     "source": "typeform",
@@ -13,9 +305,7 @@
       "el_facilitador_fue_eficaz_al_transmitir_el_contenido_y_apoyar_mi_aprendizaje": "Muy de acuerdo",
       "siento_confianza_en_mi_capacidad_para_aplicar_lo_aprendido_a_desafíos_reales_de_": "Muy de acuerdo",
       "qué_temas_o_herramientas_han_tenido_el_mayor_impacto_en_su_pensamiento_o_lideraz": "9",
-      "qué_mejoraría_su_experiencia_en_futuras_sesiones": ",-,",
-      "brindarnos_su_email_profesional": ".vj.j",
-      "seleccionar_3_o_más_de_las_siguientes_opciones_de_fechas_donde_cuenten_con_dispo": "3 de junio de 9h a 11h | 4 de junio de 9h a 11h | 18 de junio de 9h a 12h"
+      "qué_mejoraría_su_experiencia_en_futuras_sesiones": ",-,"
     }
   },
   {
@@ -57,6 +347,22 @@
     }
   },
   {
+    "id": "tf:f1HOB3Cj:rqfjyqo7w118owojorrqfjyqhiuih0rp",
+    "survey_id": "tf:f1HOB3Cj",
+    "source": "typeform",
+    "source_response_id": "rqfjyqo7w118owojorrqfjyqhiuih0rp",
+    "submitted_at": "2026-05-21T00:22:06Z",
+    "total_time_seconds": null,
+    "language": "es",
+    "dimensions": {},
+    "open_ended": {
+      "nombre": "jhkhhhjkh",
+      "apellido": "jhjkhjjk",
+      "correo_electrónico": "jhjkhhjiui@axialent.com",
+      "has_alcanzado_el_mínimo_de_5_raters_para_obtener_tu_reporte_360_deseas_agregar_m": "Sí, agregar otro evaluador"
+    }
+  },
+  {
     "id": "tf:f1HOB3Cj:ha4f7yzxm500kcha4f7y9nl0oihfgy8o",
     "survey_id": "tf:f1HOB3Cj",
     "source": "typeform",
@@ -69,7 +375,7 @@
       "nombre": "Jaja",
       "apellido": "Jsjs",
       "correo_electrónico": "nelsongt27@gmail.com",
-      "has_alcanzado_el_mínimo_de_3_raters_para_obtener_tu_reporte_360_deseas_agregar_m": "Sí, agregar otro evaluador"
+      "has_alcanzado_el_mínimo_de_5_raters_para_obtener_tu_reporte_360_deseas_agregar_m": "Sí, agregar otro evaluador"
     }
   },
   {
@@ -328,6 +634,46 @@
     }
   },
   {
+    "id": "tf:GaSxmErn:9nc96xyg18jl0250pgn0yoj1q9nc96xy",
+    "survey_id": "tf:GaSxmErn",
+    "source": "typeform",
+    "source_response_id": "9nc96xyg18jl0250pgn0yoj1q9nc96xy",
+    "submitted_at": "2026-05-20T13:38:20Z",
+    "total_time_seconds": null,
+    "language": "en",
+    "dimensions": {
+      "relevance": 4,
+      "engagement": 4,
+      "facilitator_effectiveness": 4,
+      "applicability": 3,
+      "culture_fit": 4
+    },
+    "open_ended": {
+      "which_topics_or_tools_have_had_the_biggest_impact_on_your_thinking_or_leadership": "AI tools",
+      "what_would_improve_your_experience_in_future_sessions": "Nothing, the engagement was there and people appreciated the content and exercices"
+    }
+  },
+  {
+    "id": "tf:GaSxmErn:1f3jw8rc7ikf6l1f3g2qz41k9gp11smc",
+    "survey_id": "tf:GaSxmErn",
+    "source": "typeform",
+    "source_response_id": "1f3jw8rc7ikf6l1f3g2qz41k9gp11smc",
+    "submitted_at": "2026-05-20T13:35:46Z",
+    "total_time_seconds": null,
+    "language": "en",
+    "dimensions": {
+      "relevance": 5,
+      "engagement": 5,
+      "facilitator_effectiveness": 5,
+      "applicability": 5,
+      "culture_fit": 5
+    },
+    "open_ended": {
+      "which_topics_or_tools_have_had_the_biggest_impact_on_your_thinking_or_leadership": "Effective Meetings",
+      "what_would_improve_your_experience_in_future_sessions": "na"
+    }
+  },
+  {
     "id": "tf:dbsUIOFY:gl7p6kkne7ettjmgl7qeu9nkkg3v58cx",
     "survey_id": "tf:dbsUIOFY",
     "source": "typeform",
@@ -440,6 +786,262 @@
       "como_calificarías_tu_efectividad_como_facilitador": "Muy efectivo - Entregué los conceptos con claridad y fluidez, y manejé la sala con alto nivel de efectividad",
       "en_qué_medida_el_programa_se_desarrolló_sin_inconvenientes_en_términos_de_logíst": "Completamente - Todo se ejecutó de manera fluida y bien coordinada",
       "qué_haría_que_este_programa_fuera_más_efectivo_o_de_mayor_impacto_en_una_futura_": "Todo excelente"
+    }
+  },
+  {
+    "id": "tf:pOUwCYuh:v5heq26tntt6v5heb59ht25ta2n84ptm",
+    "survey_id": "tf:pOUwCYuh",
+    "source": "typeform",
+    "source_response_id": "v5heq26tntt6v5heb59ht25ta2n84ptm",
+    "submitted_at": "2026-05-20T20:38:42Z",
+    "total_time_seconds": null,
+    "language": "en",
+    "dimensions": {
+      "nps": 9
+    },
+    "open_ended": {
+      "in_one_sentence_what_is_the_most_important_realization_you_re_taking_away": "More time to be spent on the team rather than consuming so much time in my tasks",
+      "what_will_you_do_differently_in_the_next_two_weeks": "prioritize the team over regular tasks ensuring everything gets completed"
+    }
+  },
+  {
+    "id": "tf:pOUwCYuh:1zwcbdyrp5octgl161zwcyi2tkwra6x6",
+    "survey_id": "tf:pOUwCYuh",
+    "source": "typeform",
+    "source_response_id": "1zwcbdyrp5octgl161zwcyi2tkwra6x6",
+    "submitted_at": "2026-05-20T18:35:37Z",
+    "total_time_seconds": null,
+    "language": "en",
+    "dimensions": {
+      "nps": 10
+    },
+    "open_ended": {
+      "in_one_sentence_what_is_the_most_important_realization_you_re_taking_away": "My good things can strengthen the weak ones",
+      "what_will_you_do_differently_in_the_next_two_weeks": "Be more conciuos on my weak spots and when I am falling into \"the fear of...\""
+    }
+  },
+  {
+    "id": "tf:pOUwCYuh:jvs34gixbg7ijp6378iijvs34e6mqbcp",
+    "survey_id": "tf:pOUwCYuh",
+    "source": "typeform",
+    "source_response_id": "jvs34gixbg7ijp6378iijvs34e6mqbcp",
+    "submitted_at": "2026-05-20T15:58:04Z",
+    "total_time_seconds": null,
+    "language": "en",
+    "dimensions": {
+      "nps": 7
+    },
+    "open_ended": {
+      "in_one_sentence_what_is_the_most_important_realization_you_re_taking_away": "Search for balance",
+      "what_will_you_do_differently_in_the_next_two_weeks": "Have more spaces to analyze, review and create!"
+    }
+  },
+  {
+    "id": "tf:pOUwCYuh:bvh7zdm1ap27ksrypkbvh7j6535ilmex",
+    "survey_id": "tf:pOUwCYuh",
+    "source": "typeform",
+    "source_response_id": "bvh7zdm1ap27ksrypkbvh7j6535ilmex",
+    "submitted_at": "2026-05-20T15:48:50Z",
+    "total_time_seconds": null,
+    "language": "en",
+    "dimensions": {
+      "nps": 8
+    },
+    "open_ended": {
+      "in_one_sentence_what_is_the_most_important_realization_you_re_taking_away": "Consolidating the team efforts and knowledge",
+      "what_will_you_do_differently_in_the_next_two_weeks": "I'll keep the same leadership"
+    }
+  },
+  {
+    "id": "tf:pOUwCYuh:gal8gzshviccmpoqi3vqgal8gzszsn67",
+    "survey_id": "tf:pOUwCYuh",
+    "source": "typeform",
+    "source_response_id": "gal8gzshviccmpoqi3vqgal8gzszsn67",
+    "submitted_at": "2026-05-20T13:45:49Z",
+    "total_time_seconds": null,
+    "language": "en",
+    "dimensions": {
+      "nps": 10
+    },
+    "open_ended": {
+      "in_one_sentence_what_is_the_most_important_realization_you_re_taking_away": "NA",
+      "what_will_you_do_differently_in_the_next_two_weeks": "I will revisit the things I focus on"
+    }
+  },
+  {
+    "id": "tf:pOUwCYuh:qp4j177of7isiiup6hqp4j17b5fbuo70",
+    "survey_id": "tf:pOUwCYuh",
+    "source": "typeform",
+    "source_response_id": "qp4j177of7isiiup6hqp4j17b5fbuo70",
+    "submitted_at": "2026-05-20T13:29:13Z",
+    "total_time_seconds": null,
+    "language": "en",
+    "dimensions": {
+      "nps": 10
+    },
+    "open_ended": {
+      "in_one_sentence_what_is_the_most_important_realization_you_re_taking_away": "Pride.",
+      "what_will_you_do_differently_in_the_next_two_weeks": "To be an effective in my communication and persuasion skills."
+    }
+  },
+  {
+    "id": "tf:pOUwCYuh:ygh6mqnv8w2kcotygh6mjfq8wiuv7hnc",
+    "survey_id": "tf:pOUwCYuh",
+    "source": "typeform",
+    "source_response_id": "ygh6mqnv8w2kcotygh6mjfq8wiuv7hnc",
+    "submitted_at": "2026-05-20T13:06:58Z",
+    "total_time_seconds": null,
+    "language": "en",
+    "dimensions": {
+      "nps": 8
+    },
+    "open_ended": {
+      "in_one_sentence_what_is_the_most_important_realization_you_re_taking_away": "The most important realization is that our habitual patterns of thought and behavior—formed to protect us—become invisible to us precisely because we see *through* them rather than at them, and making them conscious is the essential first step to transforming them from constraints into choices.",
+      "what_will_you_do_differently_in_the_next_two_weeks": "I commit to practicing the \"architect not firefighter\" frame more consciously—specifically, when my team brings me operational problems, I will ask clarifying questions first before jumping to solutions, resisting the Controller's urge to take over and instead asking \"what's your thinking on this?\" to stretch my team's autonomy. I'll also schedule one explicit conversation with each regional leader (Ximena and Rachel) where I share a recent decision I made poorly and what I learned, modeling vulnerability over the Knower's need to appear infallible—because if I want them to take Player responsibility, they need to see me doing it first."
+    }
+  },
+  {
+    "id": "tf:pOUwCYuh:im9z6z5czul4pia4im9dxx4vqgbnxn8s",
+    "survey_id": "tf:pOUwCYuh",
+    "source": "typeform",
+    "source_response_id": "im9z6z5czul4pia4im9dxx4vqgbnxn8s",
+    "submitted_at": "2026-05-20T13:04:28Z",
+    "total_time_seconds": null,
+    "language": "en",
+    "dimensions": {
+      "nps": 5
+    },
+    "open_ended": {
+      "in_one_sentence_what_is_the_most_important_realization_you_re_taking_away": "It's interesting to see how this particular exercise is categorizing my strengths and potential growth opportunities.",
+      "what_will_you_do_differently_in_the_next_two_weeks": "Aim to have the structured conversations outlined in the first exercise."
+    }
+  },
+  {
+    "id": "tf:pOUwCYuh:27zpmvqyq8mp328m2127zpmbbqqo3don",
+    "survey_id": "tf:pOUwCYuh",
+    "source": "typeform",
+    "source_response_id": "27zpmvqyq8mp328m2127zpmbbqqo3don",
+    "submitted_at": "2026-05-20T12:53:13Z",
+    "total_time_seconds": null,
+    "language": "en",
+    "dimensions": {
+      "nps": 10
+    },
+    "open_ended": {
+      "in_one_sentence_what_is_the_most_important_realization_you_re_taking_away": "I need to work on me being a \"Pleaser\".",
+      "what_will_you_do_differently_in_the_next_two_weeks": "Try to be more vocal and proactive in calling out things."
+    }
+  },
+  {
+    "id": "tf:pOUwCYuh:927xlzqbwfn8wqq927xlscdmu1xt7r9d",
+    "survey_id": "tf:pOUwCYuh",
+    "source": "typeform",
+    "source_response_id": "927xlzqbwfn8wqq927xlscdmu1xt7r9d",
+    "submitted_at": "2026-05-20T12:51:29Z",
+    "total_time_seconds": null,
+    "language": "en",
+    "dimensions": {
+      "nps": 7
+    },
+    "open_ended": {
+      "in_one_sentence_what_is_the_most_important_realization_you_re_taking_away": "Understand and acknowledge what and where you need to improve and act on it",
+      "what_will_you_do_differently_in_the_next_two_weeks": "Action"
+    }
+  },
+  {
+    "id": "tf:pOUwCYuh:pebofg2ttzenlgdf70tpebofms6t0ota",
+    "survey_id": "tf:pOUwCYuh",
+    "source": "typeform",
+    "source_response_id": "pebofg2ttzenlgdf70tpebofms6t0ota",
+    "submitted_at": "2026-05-20T12:32:56Z",
+    "total_time_seconds": null,
+    "language": "en",
+    "dimensions": {
+      "nps": 9
+    },
+    "open_ended": {
+      "in_one_sentence_what_is_the_most_important_realization_you_re_taking_away": "Awareness of your unconsious tendencies will enable you to make active efforts to be a better leader and a better person overall.",
+      "what_will_you_do_differently_in_the_next_two_weeks": "I will be more mindful of my responses and reactions to stimuli and will adjust accordingly to become a better leader for my team."
+    }
+  },
+  {
+    "id": "tf:pOUwCYuh:22n8v6kxydab8xcz22n7yoxuv56bbj7k",
+    "survey_id": "tf:pOUwCYuh",
+    "source": "typeform",
+    "source_response_id": "22n8v6kxydab8xcz22n7yoxuv56bbj7k",
+    "submitted_at": "2026-05-20T12:32:29Z",
+    "total_time_seconds": null,
+    "language": "en",
+    "dimensions": {
+      "nps": 10
+    },
+    "open_ended": {
+      "in_one_sentence_what_is_the_most_important_realization_you_re_taking_away": "I see the assessment model in spectrums across different axis and realize that my responses as leader are also colored by whom I am engaged with and the context of the relationship dynamics.  That said, extremes in any direction does not lend to effective leadership as it does not lend itself to flexibility",
+      "what_will_you_do_differently_in_the_next_two_weeks": "I will work on consciously changing my mindset towards re-enforcing a player mindset"
+    }
+  },
+  {
+    "id": "tf:pOUwCYuh:975kxmnajswkl8krfw975kxm8p2zfbsn",
+    "survey_id": "tf:pOUwCYuh",
+    "source": "typeform",
+    "source_response_id": "975kxmnajswkl8krfw975kxm8p2zfbsn",
+    "submitted_at": "2026-05-20T12:30:24Z",
+    "total_time_seconds": null,
+    "language": "en",
+    "dimensions": {
+      "nps": 8
+    },
+    "open_ended": {
+      "in_one_sentence_what_is_the_most_important_realization_you_re_taking_away": "the new information i learned about pleaser tendencies",
+      "what_will_you_do_differently_in_the_next_two_weeks": "will try to monitor myslef to see how I repsond in certain situations"
+    }
+  },
+  {
+    "id": "tf:pOUwCYuh:hc4xzd9jwwgohc4kl0d7t7qmkctu1xvp",
+    "survey_id": "tf:pOUwCYuh",
+    "source": "typeform",
+    "source_response_id": "hc4xzd9jwwgohc4kl0d7t7qmkctu1xvp",
+    "submitted_at": "2026-05-20T12:15:17Z",
+    "total_time_seconds": null,
+    "language": "en",
+    "dimensions": {
+      "nps": 9
+    },
+    "open_ended": {
+      "in_one_sentence_what_is_the_most_important_realization_you_re_taking_away": "Worrying about things beyond my control can only have a negative outcome.",
+      "what_will_you_do_differently_in_the_next_two_weeks": "Try to be conscious about what I'm worried about and how much of it is in my control, and take action on whatever I can directly influence."
+    }
+  },
+  {
+    "id": "tf:pOUwCYuh:7ettkjqoa0u8cyjzvu7ettkjznj8s0xn",
+    "survey_id": "tf:pOUwCYuh",
+    "source": "typeform",
+    "source_response_id": "7ettkjqoa0u8cyjzvu7ettkjznj8s0xn",
+    "submitted_at": "2026-05-20T11:12:04Z",
+    "total_time_seconds": null,
+    "language": "en",
+    "dimensions": {
+      "nps": 9
+    },
+    "open_ended": {
+      "in_one_sentence_what_is_the_most_important_realization_you_re_taking_away": "I recognise my strengths but also my issues and look forward to work on them",
+      "what_will_you_do_differently_in_the_next_two_weeks": "I will be more mindful and conscious of my reactions and the way I handle work"
+    }
+  },
+  {
+    "id": "tf:pOUwCYuh:0w95s6aml6t17tyi512d0w95s6amamip",
+    "survey_id": "tf:pOUwCYuh",
+    "source": "typeform",
+    "source_response_id": "0w95s6aml6t17tyi512d0w95s6amamip",
+    "submitted_at": "2026-05-20T09:33:07Z",
+    "total_time_seconds": null,
+    "language": "en",
+    "dimensions": {
+      "nps": 9
+    },
+    "open_ended": {
+      "in_one_sentence_what_is_the_most_important_realization_you_re_taking_away": "It is a lot helpful to have Axialent around.",
+      "what_will_you_do_differently_in_the_next_two_weeks": "Work on my weakness and be more conscious about the things that need to be developed/improved."
     }
   },
   {
@@ -2146,6 +2748,96 @@
       "el_facilitador_fue_eficaz_al_transmitir_el_contenido_y_apoyar_mi_aprendizaje": "Muy de acuerdo",
       "qué_temas_o_herramientas_han_tenido_el_mayor_impacto_en_su_pensamiento_o_lideraz": ".",
       "qué_mejoraría_su_experiencia_en_futuras_sesiones": "Inspiración externa"
+    }
+  },
+  {
+    "id": "tf:TxqN2Zf2:ys0e8mmbz1cvr3itpjrys0pugiw6u9ov",
+    "survey_id": "tf:TxqN2Zf2",
+    "source": "typeform",
+    "source_response_id": "ys0e8mmbz1cvr3itpjrys0pugiw6u9ov",
+    "submitted_at": "2026-05-20T20:46:43Z",
+    "total_time_seconds": null,
+    "language": "es",
+    "dimensions": {
+      "nps": 8
+    },
+    "open_ended": {
+      "en_una_frase_cuál_es_tu_principal_aprendizaje": "."
+    }
+  },
+  {
+    "id": "tf:TxqN2Zf2:babxjzm9ckebzq8y580yf4rjuagazq8d",
+    "survey_id": "tf:TxqN2Zf2",
+    "source": "typeform",
+    "source_response_id": "babxjzm9ckebzq8y580yf4rjuagazq8d",
+    "submitted_at": "2026-05-20T17:59:46Z",
+    "total_time_seconds": null,
+    "language": "es",
+    "dimensions": {
+      "nps": 10
+    },
+    "open_ended": {
+      "en_una_frase_cuál_es_tu_principal_aprendizaje": "A diferencia de ejercicios similares realizados anteriormente, donde el entregable era un assessment, en esta ocasión tenemos la oportunidad de asegurar una comprensión más profunda de los resultados y desarrollar un plan de trabajo que genere valor. Depende de nosotros dedicar el tiempo necesario y elaborar un plan de manera consciente."
+    }
+  },
+  {
+    "id": "tf:TxqN2Zf2:9fzinggj5evoi0v0p59fzing1yvkh2vu",
+    "survey_id": "tf:TxqN2Zf2",
+    "source": "typeform",
+    "source_response_id": "9fzinggj5evoi0v0p59fzing1yvkh2vu",
+    "submitted_at": "2026-05-20T15:29:55Z",
+    "total_time_seconds": null,
+    "language": "es",
+    "dimensions": {
+      "nps": 9
+    },
+    "open_ended": {
+      "en_una_frase_cuál_es_tu_principal_aprendizaje": "Tener empatía con los demás"
+    }
+  },
+  {
+    "id": "tf:TxqN2Zf2:i5sgsngj6k79thjxw6i5sgsngjn77yo4",
+    "survey_id": "tf:TxqN2Zf2",
+    "source": "typeform",
+    "source_response_id": "i5sgsngj6k79thjxw6i5sgsngjn77yo4",
+    "submitted_at": "2026-05-20T13:28:23Z",
+    "total_time_seconds": null,
+    "language": "es",
+    "dimensions": {
+      "nps": 10
+    },
+    "open_ended": {
+      "en_una_frase_cuál_es_tu_principal_aprendizaje": "Reconocer aspectos inconcientes y superarlos para mejorar como lider"
+    }
+  },
+  {
+    "id": "tf:TxqN2Zf2:3rivpa3tjb6ekqnff3rivpa3nongz2px",
+    "survey_id": "tf:TxqN2Zf2",
+    "source": "typeform",
+    "source_response_id": "3rivpa3tjb6ekqnff3rivpa3nongz2px",
+    "submitted_at": "2026-05-20T12:44:40Z",
+    "total_time_seconds": null,
+    "language": "es",
+    "dimensions": {
+      "nps": 8
+    },
+    "open_ended": {
+      "en_una_frase_cuál_es_tu_principal_aprendizaje": "Mayor introspección y conocimiento de estilo de liderazgo"
+    }
+  },
+  {
+    "id": "tf:TxqN2Zf2:mmftau5645taxe7j29e4mmftaukaehm6",
+    "survey_id": "tf:TxqN2Zf2",
+    "source": "typeform",
+    "source_response_id": "mmftau5645taxe7j29e4mmftaukaehm6",
+    "submitted_at": "2026-05-20T11:54:04Z",
+    "total_time_seconds": null,
+    "language": "es",
+    "dimensions": {
+      "nps": 8
+    },
+    "open_ended": {
+      "en_una_frase_cuál_es_tu_principal_aprendizaje": "Identifiqué la coherencia de mi liderazgo en el trabajo y con mi familia y amigos con valores"
     }
   },
   {
@@ -4460,6 +5152,24 @@
     },
     "open_ended": {
       "which_topics_or_tools_have_had_the_biggest_impact_on_your_thinking_or_leadership": "Disc + concrete actions"
+    }
+  },
+  {
+    "id": "tf:p5NraCNe:u3oolxf7r3ay0i4mu3oolx0r5z96zlkx",
+    "survey_id": "tf:p5NraCNe",
+    "source": "typeform",
+    "source_response_id": "u3oolxf7r3ay0i4mu3oolx0r5z96zlkx",
+    "submitted_at": "2026-05-20T12:20:59Z",
+    "total_time_seconds": null,
+    "language": "en",
+    "dimensions": {
+      "relevance": 5,
+      "engagement": 5,
+      "applicability": 5
+    },
+    "open_ended": {
+      "which_topics_or_tools_have_had_the_biggest_impact_on_your_thinking_or_leadership": "Culture",
+      "what_would_improve_your_experience_in_future_sessions": "how culture is important in leadership"
     }
   },
   {
